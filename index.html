@@ -6354,6 +6354,7 @@ function rowHTML(e){
   const s=score(e), col=scoreColor(s), seg=e.inteligencia?.segmento||"—";
   const porte=e.inteligencia?.porte_estimado||"—";
   const sel=state.sel.has(e.id)?"sel":"";
+  const past=encerrado(e);
   const multi=e._ini.toDateString()!==e._fim.toDateString();
   const rg=multi?`<div class="rg">até ${e._fim.getDate()}/${e._fim.getMonth()+1}</div>`:"";
   return `<tr class="${sel}${past?" ev-past":""}" data-id="${e.id}">
