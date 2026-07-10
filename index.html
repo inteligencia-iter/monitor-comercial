@@ -44,6 +44,18 @@
   .kpi .v{font-family:"Barlow";font-size:27px;font-weight:700;line-height:1;font-variant-numeric:tabular-nums}
   .kpi .l{font-size:11px;color:#C6E3E6;margin-top:5px;text-transform:uppercase;letter-spacing:.05em;font-weight:600}
   .kpi.hot .v{color:#FFD9CE}
+  .kpi.click{cursor:pointer;transition:box-shadow .15s}
+  .kpi.click:hover{box-shadow:0 0 0 2px rgba(255,255,255,.35)}
+  .past-bar{opacity:.35}
+  .ev-past td{opacity:.5}
+  .badge-enc{background:#93A7AD;color:#fff;font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;padding:2px 6px;border-radius:5px}
+  .agrow.past{opacity:.45}
+  .toggle-past{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:var(--ink-soft);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px;cursor:pointer;user-select:none}
+  .toggle-past input{display:none}
+  .toggle-past .sw{width:32px;height:18px;border-radius:10px;background:#D3DEDE;position:relative;transition:background .15s}
+  .toggle-past .sw::after{content:"";position:absolute;top:2px;left:2px;width:14px;height:14px;border-radius:50%;background:#fff;transition:transform .15s;box-shadow:0 1px 2px rgba(0,0,0,.2)}
+  .toggle-past input:checked + .sw{background:var(--sea)}
+  .toggle-past input:checked + .sw::after{transform:translateX(14px)}
 
   /* ---------- toolbar ---------- */
   .toolbar{max-width:1240px;margin:18px auto 0;padding:0 22px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
@@ -287,6 +299,7 @@
     <button data-s="80">≥80</button>
   </div>
   <label class="toggle leads-only"><input type="checkbox" id="fContato"><span class="sw"></span>Só com contato</label>
+  <label class="toggle-past" id="togglePast" style="display:none"><input type="checkbox" id="fPast"><span class="sw"></span>Mostrar encerrados</label>
   <div class="grow"></div>
   <button class="btn btn-primary leads-only" id="btnCsv">↓ Exportar CSV</button>
 </div>
@@ -6156,13 +6169,15 @@ const MES_NOME=["janeiro","fevereiro","março","abril","maio","junho","julho","a
 
 const state={
   all:[], leads:[], view:"calendario",
-  q:"", seg:"", porte:"", minScore:0, soContato:false,
+  q:"", seg:"", porte:"", minScore:0, soContato:false, showPast:false, soNovo:false,
   sort:{key:"score",dir:-1},
   sel:new Set(),
   cal:{y:null,m:null},
   catOff:new Set(),
   calSeg:"",
 };
+const HOJE=(()=>{const d=new Date();d.setHours(0,0,0,0);return d})();
+function encerrado(e){const f=new Date(e._fim);f.setHours(0,0,0,0);return f<HOJE;}
 
 // área = primeira parte do segmento ("Saúde / Cardiologia" -> "Saúde")
 function areaOf(seg){return seg? String(seg).split(" / ")[0].trim() : ""}
@@ -6248,6 +6263,8 @@ function montarSegmentos(){
 function filtrados(){
   const q=state.q.toLowerCase();
   let r=state.leads.filter(e=>{
+    if(!state.showPast && encerrado(e)) return false;
+    if(state.soNovo && !ehNovo(e)) return false;
     if(state.seg && areaOf(e.inteligencia?.segmento)!==state.seg) return false;
     if(state.porte && e.inteligencia?.porte_estimado!==state.porte) return false;
     if(score(e)<state.minScore) return false;
@@ -6281,7 +6298,9 @@ function renderKpis(){
     <div class="kpi"><div class="v num">${L.length}</div><div class="l">Leads corporativos</div></div>
     <div class="kpi"><div class="v num" style="color:#9FE9C6">${com}</div><div class="l">Com contato</div></div>
     <div class="kpi hot"><div class="v num">${alta}</div><div class="l">Alta relevância (≥80)</div></div>
-    <div class="kpi"><div class="v num">${novos}</div><div class="l">Novos leads</div></div>`;
+    <div class="kpi click" id="kpiNovos" title="Ver novos leads"><div class="v num">${novos}</div><div class="l">Novos leads — clique para ver</div></div>`;
+  const kn=document.getElementById("kpiNovos");
+  if(kn) kn.onclick=()=>{state.view="leads";state.soNovo=true;syncControls();render();};
 }
 
 // ---------- render principal ----------
@@ -6292,6 +6311,8 @@ function render(){
   // controles por view
   document.getElementById("toolbar").hidden = (state.view==="calendario");
   document.querySelectorAll(".leads-only").forEach(el=>el.style.display = state.view==="leads"?"":"none");
+  const tp=document.getElementById("togglePast");
+  if(tp) tp.style.display=(state.view==="leads"||state.view==="agenda")?"":"none";
 
   const main=document.getElementById("main");
   if(state.view==="calendario"){ renderCalendar(main); return; }
@@ -6334,10 +6355,10 @@ function rowHTML(e){
   const sel=state.sel.has(e.id)?"sel":"";
   const multi=e._ini.toDateString()!==e._fim.toDateString();
   const rg=multi?`<div class="rg">até ${e._fim.getDate()}/${e._fim.getMonth()+1}</div>`:"";
-  return `<tr class="${sel}" data-id="${e.id}">
+  return `<tr class="${sel}${past?" ev-past":""}" data-id="${e.id}">
     <td class="col-chk"><input type="checkbox" class="rowchk" data-id="${e.id}" ${sel?"checked":""}></td>
     <td><div class="score"><span class="n" style="color:${col}">${s}</span><span class="meter"><i style="width:${s}%;background:${col}"></i></span></div></td>
-    <td><div class="ev-title">${esc(e.titulo)}</div><div class="ev-sub">${ehNovo(e)?'<span class="badge-new">novo</span>':""}<span>${esc(e.local||"Local a confirmar")}</span></div></td>
+    <td><div class="ev-title">${esc(e.titulo)}</div><div class="ev-sub">${ehNovo(e)?'<span class="badge-new">novo</span>':""}${encerrado(e)?'<span class="badge-enc">encerrado</span>':""}<span>${esc(e.local||"Local a confirmar")}</span></div></td>
     <td><span class="seg"><span class="dot" style="background:${col}"></span>${esc(seg)}</span></td>
     <td><span class="when"><span class="d">${e._ini.getDate()} ${MES_ABREV[e._ini.getMonth()]}</span></span></td>
     <td>${contactCellHTML(e)}</td>
@@ -6374,12 +6395,13 @@ function wireTable(rows){
   document.querySelectorAll("tbody tr").forEach(tr=>tr.onclick=()=>abrir(+tr.dataset.id));
   wireClear();
 }
-function wireClear(){const c=document.getElementById("clearF");if(c)c.onclick=()=>{state.q="";state.seg="";state.porte="";state.minScore=0;state.soContato=false;syncControls();render()}}
+function wireClear(){const c=document.getElementById("clearF");if(c)c.onclick=()=>{state.q="";state.seg="";state.porte="";state.minScore=0;state.soContato=false;state.soNovo=false;syncControls();render()}}
 
 // ---------- agenda ----------
 function renderAgenda(main){
   const q=state.q.toLowerCase();
   let evs=state.all.filter(e=>{
+    if(!state.showPast && encerrado(e)) return false;
     if(q){const hay=(e.titulo+" "+(e.inteligencia?.segmento||"")).toLowerCase();if(!hay.includes(q))return false}
     if(state.seg && areaOf(e.inteligencia?.segmento)!==state.seg) return false;
     return true;
@@ -6394,7 +6416,7 @@ function renderAgenda(main){
     groups[k].forEach(e=>{
       const s=score(e),col=e.categoria==="corporativos"?scoreColor(s):"var(--slate)";
       const multi=e._ini.toDateString()!==e._fim.toDateString();
-      html+=`<div class="agrow" data-id="${e.id}" style="border-left-color:${col}">
+      html+=`<div class="agrow${encerrado(e)?" past":""}" data-id="${e.id}" style="border-left-color:${col}">
         <div class="date"><div class="dd">${e._ini.getDate()}</div><div class="mm">${MES_ABREV[e._ini.getMonth()]}</div>${multi?`<div class="rg">até ${e._fim.getDate()}/${e._fim.getMonth()+1}</div>`:""}</div>
         <div><div class="ev-title">${esc(e.titulo)}${ehNovo(e)?' <span class="badge-new">novo</span>':""}</div>
         <div class="ev-sub"><span>${esc(e.categoria)}</span>${e.inteligencia?.segmento?`· <span>${esc(e.inteligencia.segmento)}</span>`:""}</div></div>
@@ -6496,7 +6518,7 @@ function buildWeeks(y,m){
       const col=CAT_COLOR[e.categoria]||CAT_COLOR.outros;
       const left=startIdx/7*100, width=(endIdx-startIdx+1)/7*100;
       const contL=e._ini<weekStart?" cont-l":"", contR=e._fim>weekEnd?" cont-r":"";
-      bars+=`<div class="bar${contL}${contR}" data-id="${e.id}" style="left:calc(${left}% + 4px);width:calc(${width}% - 8px);top:${TOP+lane*(BARH+GAP)}px;background:${col}" title="${escAttr(e.titulo)}">${esc(e.titulo)}</div>`;
+      bars+=`<div class="bar${contL}${contR}${encerrado(e)?" past-bar":""}" data-id="${e.id}" style="left:calc(${left}% + 4px);width:calc(${width}% - 8px);top:${TOP+lane*(BARH+GAP)}px;background:${col}" title="${escAttr(e.titulo)}">${esc(e.titulo)}</div>`;
     });
     // "+N mais" por dia
     Object.keys(overflow).forEach(c=>{
@@ -6652,6 +6674,7 @@ function syncControls(){
   document.getElementById("fSeg").value=state.seg;
   document.getElementById("fPorte").value=state.porte;
   document.getElementById("fContato").checked=state.soContato;
+  const fp=document.getElementById("fPast"); if(fp) fp.checked=state.showPast;
   document.querySelectorAll("#fScore button").forEach(b=>b.classList.toggle("on",+b.dataset.s===state.minScore));
 }
 function bind(){
@@ -6664,6 +6687,8 @@ function bind(){
   document.querySelectorAll("#nav button").forEach(b=>b.onclick=()=>{state.view=b.dataset.v;fecharPop();render()});
   document.getElementById("overlay").onclick=fechar;
   document.addEventListener("keydown",e=>{if(e.key==="Escape")fechar()});
+  const fpa=document.getElementById("fPast");
+  if(fpa) fpa.onchange=ev=>{state.showPast=ev.target.checked;syncControls();render()};
 }
 
 // ---------- util ----------
