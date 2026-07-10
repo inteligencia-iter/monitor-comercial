@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-09T22:10:09-03:00",
+  "gerado_em": "2026-07-10T11:57:33-03:00",
   "modo": "deterministico (custo zero)",
   "total": 180,
   "eventos": [
@@ -92,7 +92,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -133,7 +133,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -332,17 +332,17 @@
       "local_coletado": true
     },
     {
-      "id": 495290,
-      "titulo": "As Brabas Run 2026",
-      "slug": "as-brabas-run-2026",
+      "id": 495291,
+      "titulo": "Circuito Correndo Pelo Rio 2026 – Fundão",
+      "slug": "circuito-correndo-pelo-rio-2026-fundao",
       "data_inicio": "2026-07-19 09:00:00",
       "data_fim": "2026-07-19 09:00:00",
-      "descricao": "Participe da As Brabas Run, uma corrida exclusiva para mulheres! Data: 19 de julho de 2026 Distância: 7,5km Local: Parque Das Figueiras, Avenida Borges de Medeiros, 1426.",
+      "descricao": "O Circuito Correndo pelo Rio é uma série de corridas urbanas voltadas para: Incentivo à prática esportiva, ocupação esportiva de diferentes regiões da cidade, integração entre corredores amadores e assessorias. A etapa fundão /utiliza o ambiente da ilha do Fundão utiliza o ambiente da ilha do Fundão/UFRJ , oferecendo percurso mais plano e rápido. 19/07/2026",
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/as-brabas-run-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/as-brabas-run-86459",
-      "local": "Parque das Figueiras - Lagoa",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-correndo-pelo-rio-2026-fundao/",
+      "site_oficial": "https://www.ticketsports.com.br/e/circuito-correndo-pelo-rio-2026-fundao-86309",
+      "local": "Cidade Universitária - Fundão",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -357,17 +357,17 @@
       "local_coletado": true
     },
     {
-      "id": 495291,
-      "titulo": "Circuito Correndo Pelo Rio 2026 – Fundão",
-      "slug": "circuito-correndo-pelo-rio-2026-fundao",
+      "id": 495290,
+      "titulo": "As Brabas Run 2026",
+      "slug": "as-brabas-run-2026",
       "data_inicio": "2026-07-19 09:00:00",
       "data_fim": "2026-07-19 09:00:00",
-      "descricao": "O Circuito Correndo pelo Rio é uma série de corridas urbanas voltadas para: Incentivo à prática esportiva, ocupação esportiva de diferentes regiões da cidade, integração entre corredores amadores e assessorias. A etapa fundão /utiliza o ambiente da ilha do Fundão utiliza o ambiente da ilha do Fundão/UFRJ , oferecendo percurso mais plano e rápido. 19/07/2026",
+      "descricao": "Participe da As Brabas Run, uma corrida exclusiva para mulheres! Data: 19 de julho de 2026 Distância: 7,5km Local: Parque Das Figueiras, Avenida Borges de Medeiros, 1426.",
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-correndo-pelo-rio-2026-fundao/",
-      "site_oficial": "https://www.ticketsports.com.br/e/circuito-correndo-pelo-rio-2026-fundao-86309",
-      "local": "Cidade Universitária - Fundão",
+      "url_visitrio": "https://visitrio.com.br/evento/as-brabas-run-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/as-brabas-run-86459",
+      "local": "Parque das Figueiras - Lagoa",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -996,42 +996,6 @@
       "local_coletado": true
     },
     {
-      "id": 494363,
-      "titulo": "Rio Móveis 2026",
-      "slug": "rio-moveis-2026",
-      "data_inicio": "2026-08-06 09:00:00",
-      "data_fim": "2026-08-08 09:00:00",
-      "descricao": "Em 2026, estaremos de volta ao Rio. O cenário muda, mas o propósito continua o mesmo: conectar, inspirar e movimentar o mercado mobiliário brasileiro. Em 2026, a Rio Móveis chega ao RioCentro, no coração da Cidade Maravilhosa — com mais estrutura, mais inovação e ainda mais oportunidades para quem vive o mobiliário, os negócios e o futuro do setor.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/rio-moveis-2026/",
-      "site_oficial": "https://www.riomoveis.com/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "riomoveis"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Desenvolvimento / Negócios",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 3 dias.",
-        "publico_alvo": "líderes, gestores e times comerciais",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 50,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 494362,
       "titulo": "IX Congresso Internacional CBMA de Arbitragem 2026",
       "slug": "ix-congresso-internacional-cbma-de-arbitragem-2026",
@@ -1062,6 +1026,42 @@
         ],
         "angulo_comercial": "Evento de jurídico de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
         "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 494363,
+      "titulo": "Rio Móveis 2026",
+      "slug": "rio-moveis-2026",
+      "data_inicio": "2026-08-06 09:00:00",
+      "data_fim": "2026-08-08 09:00:00",
+      "descricao": "Em 2026, estaremos de volta ao Rio. O cenário muda, mas o propósito continua o mesmo: conectar, inspirar e movimentar o mercado mobiliário brasileiro. Em 2026, a Rio Móveis chega ao RioCentro, no coração da Cidade Maravilhosa — com mais estrutura, mais inovação e ainda mais oportunidades para quem vive o mobiliário, os negócios e o futuro do setor.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-moveis-2026/",
+      "site_oficial": "https://www.riomoveis.com/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "riomoveis"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Desenvolvimento / Negócios",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 3 dias.",
+        "publico_alvo": "líderes, gestores e times comerciais",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 50,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -3451,44 +3451,6 @@
       "local_coletado": true
     },
     {
-      "id": 494335,
-      "titulo": "20th World Congress on Menopause – WCM 2026",
-      "slug": "20th-world-congress-on-menopause-wcm-2026",
-      "data_inicio": "2026-09-30 09:00:00",
-      "data_fim": "2026-10-03 09:00:00",
-      "descricao": "20th World Congress on Menopause 2026 – Rio de Janeiro. Prepare-se para o evento global mais importante sobre menopausa! O 20th World Congress on Menopause acontecerá de 29 de setembro a 3 de outubro de 2026, no Rio de Janeiro, Brasil. Este é o ponto de encontro para profissionais e empresas do setor de saúde e bem-estar, com uma agenda repleta de discussões sobre os avanços científicos, tratamentos inovadores e melhores práticas no cuidado à saúde da mulher.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/20th-world-congress-on-menopause-wcm-2026/",
-      "site_oficial": "https://www.imsrio2026.com/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "imsrio2026"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "WCM"
-        ],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 494336,
       "titulo": "Congresso Latinoamericano de Satélites – 25 anos",
       "slug": "congresso-latinoamericano-de-satelites-25-anos",
@@ -3525,6 +3487,44 @@
         "empresas_citadas": [],
         "angulo_comercial": "Evento de finanças de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
         "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 494335,
+      "titulo": "20th World Congress on Menopause – WCM 2026",
+      "slug": "20th-world-congress-on-menopause-wcm-2026",
+      "data_inicio": "2026-09-30 09:00:00",
+      "data_fim": "2026-10-03 09:00:00",
+      "descricao": "20th World Congress on Menopause 2026 – Rio de Janeiro. Prepare-se para o evento global mais importante sobre menopausa! O 20th World Congress on Menopause acontecerá de 29 de setembro a 3 de outubro de 2026, no Rio de Janeiro, Brasil. Este é o ponto de encontro para profissionais e empresas do setor de saúde e bem-estar, com uma agenda repleta de discussões sobre os avanços científicos, tratamentos inovadores e melhores práticas no cuidado à saúde da mulher.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/20th-world-congress-on-menopause-wcm-2026/",
+      "site_oficial": "https://www.imsrio2026.com/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "imsrio2026"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "WCM"
+        ],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
