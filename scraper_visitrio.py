@@ -26,7 +26,8 @@ import sys
 import re
 import json
 import html
-from datetime import datetime, date
+from datetime import datetime, date, timezone
+from zoneinfo import ZoneInfo
 
 from curl_cffi import requests as creq
 
@@ -336,7 +337,7 @@ def main():
     fora_feed = sum(1 for e in eventos if e.get("no_feed"))
 
     saida = {
-        "gerado_em": datetime.now().isoformat(timespec="seconds"),
+        "gerado_em": datetime.now(ZoneInfo("America/Sao_Paulo")).isoformat(timespec="seconds"),
         "total": len(eventos),
         "eventos": eventos,
     }

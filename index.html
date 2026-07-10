@@ -298,7 +298,7 @@
 <div class="toast" id="toast"></div>
 
 <script id="seed" type="application/json">{
-  "gerado_em": "2026-07-09T18:28:00",
+  "gerado_em": "2026-07-09T22:10:09-03:00",
   "modo": "deterministico (custo zero)",
   "total": 180,
   "eventos": [
@@ -6218,7 +6218,7 @@ async function carregar(){
   })).filter(e=>!isNaN(e._ini) && !e.no_feed);
   state.leads=state.all.filter(e=>e.categoria==="corporativos");
 
-  const dt=data.gerado_em?new Date(data.gerado_em).toLocaleString("pt-BR",{dateStyle:"short",timeStyle:"short"}):"—";
+  const dt=data.gerado_em?new Date(data.gerado_em).toLocaleString("pt-BR",{dateStyle:"short",timeStyle:"short",timeZone:"America/Sao_Paulo"}):"—";
   document.getElementById("updated").textContent="Atualizado em "+dt+" · "+state.leads.length+" leads corporativos";
   // mês inicial do calendário = primeiro mês com eventos
   const ord=[...state.all].sort((a,b)=>a._ini-b._ini);

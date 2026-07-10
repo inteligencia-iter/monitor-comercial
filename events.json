@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-10T01:07:39",
+  "gerado_em": "2026-07-09T22:10:09-03:00",
   "modo": "deterministico (custo zero)",
   "total": 180,
   "eventos": [
@@ -92,7 +92,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
-      "novo": false,
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -133,7 +133,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
-      "novo": false,
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3451,6 +3451,44 @@
       "local_coletado": true
     },
     {
+      "id": 494335,
+      "titulo": "20th World Congress on Menopause – WCM 2026",
+      "slug": "20th-world-congress-on-menopause-wcm-2026",
+      "data_inicio": "2026-09-30 09:00:00",
+      "data_fim": "2026-10-03 09:00:00",
+      "descricao": "20th World Congress on Menopause 2026 – Rio de Janeiro. Prepare-se para o evento global mais importante sobre menopausa! O 20th World Congress on Menopause acontecerá de 29 de setembro a 3 de outubro de 2026, no Rio de Janeiro, Brasil. Este é o ponto de encontro para profissionais e empresas do setor de saúde e bem-estar, com uma agenda repleta de discussões sobre os avanços científicos, tratamentos inovadores e melhores práticas no cuidado à saúde da mulher.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/20th-world-congress-on-menopause-wcm-2026/",
+      "site_oficial": "https://www.imsrio2026.com/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "imsrio2026"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "WCM"
+        ],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494336,
       "titulo": "Congresso Latinoamericano de Satélites – 25 anos",
       "slug": "congresso-latinoamericano-de-satelites-25-anos",
@@ -3487,44 +3525,6 @@
         "empresas_citadas": [],
         "angulo_comercial": "Evento de finanças de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
         "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494335,
-      "titulo": "20th World Congress on Menopause – WCM 2026",
-      "slug": "20th-world-congress-on-menopause-wcm-2026",
-      "data_inicio": "2026-09-30 09:00:00",
-      "data_fim": "2026-10-03 09:00:00",
-      "descricao": "20th World Congress on Menopause 2026 – Rio de Janeiro. Prepare-se para o evento global mais importante sobre menopausa! O 20th World Congress on Menopause acontecerá de 29 de setembro a 3 de outubro de 2026, no Rio de Janeiro, Brasil. Este é o ponto de encontro para profissionais e empresas do setor de saúde e bem-estar, com uma agenda repleta de discussões sobre os avanços científicos, tratamentos inovadores e melhores práticas no cuidado à saúde da mulher.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/20th-world-congress-on-menopause-wcm-2026/",
-      "site_oficial": "https://www.imsrio2026.com/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "imsrio2026"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "WCM"
-        ],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -4674,17 +4674,17 @@
       "local_coletado": true
     },
     {
-      "id": 495270,
-      "titulo": "Hoka Speed Run 2026 – Rio de Janeiro",
-      "slug": "hoka-speed-run-2026-rio-de-janeiro",
+      "id": 495269,
+      "titulo": "Smurfs Run Rio de Janeiro 2026",
+      "slug": "smurfs-run-rio-de-janeiro-2026",
       "data_inicio": "2026-11-08 09:00:00",
       "data_fim": "2026-11-08 09:00:00",
-      "descricao": "A HOKA Speed Run é uma corrida de rua premium organizada pela Beta Sports e patrocinada pela HOKA, marca global especializada em running performance. O evento é focado rápidos e estrutura voltada para corredores amadores avançados e atletas de elite. A etapa carioca integra o circuito nacional da prova e contará com distâncias de 7,5 km, 15km e 30km, utilizando o eixo plano do Aterro do Flamengo.",
+      "descricao": "Prepare sua camiseta azul e venha correr com os Smurfs! A Smurfs Run 2026 está chegando para transformar Rio de Janeiro (RJ) em um verdadeiro vilarejo mágico! Um evento esportivo único e totalmente temático para crianças, adultos e até pets! 📅 08 de novembro de 2026 | 📍Parque Olimpico – Barra da Tijuca | ⏰ Inicio as 6h",
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/hoka-speed-run-2026-rio-de-janeiro/",
-      "site_oficial": "https://www.ticketsports.com.br/e/hoka-speed-run-2026-rio-de-janeiro-85376",
-      "local": "AXIA Marina da Glória",
+      "url_visitrio": "https://visitrio.com.br/evento/smurfs-run-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/smurfs-run-rio-de-janeiro-86362",
+      "local": "Parque Olímpico",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -4699,17 +4699,17 @@
       "local_coletado": true
     },
     {
-      "id": 495269,
-      "titulo": "Smurfs Run Rio de Janeiro 2026",
-      "slug": "smurfs-run-rio-de-janeiro-2026",
+      "id": 495270,
+      "titulo": "Hoka Speed Run 2026 – Rio de Janeiro",
+      "slug": "hoka-speed-run-2026-rio-de-janeiro",
       "data_inicio": "2026-11-08 09:00:00",
       "data_fim": "2026-11-08 09:00:00",
-      "descricao": "Prepare sua camiseta azul e venha correr com os Smurfs! A Smurfs Run 2026 está chegando para transformar Rio de Janeiro (RJ) em um verdadeiro vilarejo mágico! Um evento esportivo único e totalmente temático para crianças, adultos e até pets! 📅 08 de novembro de 2026 | 📍Parque Olimpico – Barra da Tijuca | ⏰ Inicio as 6h",
+      "descricao": "A HOKA Speed Run é uma corrida de rua premium organizada pela Beta Sports e patrocinada pela HOKA, marca global especializada em running performance. O evento é focado rápidos e estrutura voltada para corredores amadores avançados e atletas de elite. A etapa carioca integra o circuito nacional da prova e contará com distâncias de 7,5 km, 15km e 30km, utilizando o eixo plano do Aterro do Flamengo.",
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/smurfs-run-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/smurfs-run-rio-de-janeiro-86362",
-      "local": "Parque Olímpico",
+      "url_visitrio": "https://visitrio.com.br/evento/hoka-speed-run-2026-rio-de-janeiro/",
+      "site_oficial": "https://www.ticketsports.com.br/e/hoka-speed-run-2026-rio-de-janeiro-85376",
+      "local": "AXIA Marina da Glória",
       "contato": {
         "emails": [],
         "telefones": [],

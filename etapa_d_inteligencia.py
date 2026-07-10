@@ -32,7 +32,8 @@ Uso:
 import re
 import sys
 import json
-from datetime import datetime, date
+from datetime import datetime, date, timezone
+from zoneinfo import ZoneInfo
 
 ENTRADA = "events_enriquecido.json"
 SAIDA = "events_inteligencia.json"
@@ -331,7 +332,7 @@ def main():
         e["inteligencia"] = gerar_inteligencia(e)
 
     saida = {
-        "gerado_em": datetime.now().isoformat(timespec="seconds"),
+        "gerado_em": datetime.now(ZoneInfo("America/Sao_Paulo")).isoformat(timespec="seconds"),
         "modo": "deterministico (custo zero)",
         "total": len(eventos),
         "eventos": eventos,
