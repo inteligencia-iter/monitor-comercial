@@ -32,9 +32,12 @@
   .num{font-family:"Barlow",sans-serif;font-variant-numeric:tabular-nums}
 
   /* ---------- header ---------- */
-  header{background:#1f2150;color:#fff;padding:22px 0 20px}
+  header{background:#1e6eb7;color:#fff;padding:22px 0 20px}
   .wrap{max-width:1240px;margin:0 auto;padding:0 22px}
-  .brand{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+  .brand{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+  .brand-logo{width:36px;height:36px;border-radius:8px;background:#fff;display:flex;align-items:center;justify-content:center;flex-shrink:0;box-shadow:0 1px 4px rgba(0,0,0,.18)}
+  .brand-logo img{width:26px;height:26px;object-fit:contain}
+  .brand-text{display:flex;flex-direction:column;gap:3px}
   .brand h1{font-family:"Barlow";font-size:21px;font-weight:700;letter-spacing:-.01em}
   .brand .tag{font-size:12.5px;color:#BEE0E3;font-weight:500}
   .updated{font-size:11.5px;color:#9FC9CD;margin-top:5px}
@@ -215,7 +218,7 @@
   .overlay.open{opacity:1;pointer-events:auto}
   .drawer{position:fixed;top:0;right:0;height:100%;width:460px;max-width:100%;background:var(--card);z-index:61;transform:translateX(100%);transition:transform .26s cubic-bezier(.4,0,.1,1);overflow-y:auto;box-shadow:var(--shadow-lg)}
   .drawer.open{transform:none}
-  .dhead{background:#1f2150;color:#fff;padding:22px 24px 20px;position:sticky;top:0}
+  .dhead{background:#1e6eb7;color:#fff;padding:22px 24px 20px;position:sticky;top:0}
   .dhead .close{position:absolute;top:16px;right:18px;background:rgba(255,255,255,.16);border:none;color:#fff;width:30px;height:30px;border-radius:8px;cursor:pointer;font-size:15px}
   .dhead .cat{font-size:10.5px;text-transform:uppercase;letter-spacing:.08em;color:#A9D4D8;font-weight:600}
   .dhead h2{font-family:"Barlow";font-size:19px;font-weight:700;margin-top:6px;line-height:1.28}
@@ -269,9 +272,14 @@
 <header>
   <div class="wrap">
     <div class="brand">
-      <h1>Monitor de Eventos - Visit Rio</h1>
+      <div class="brand-logo">
+        <img src="https://iter.com.br/favicon.ico" alt="ITER" onerror="this.style.display='none'">
+      </div>
+      <div class="brand-text">
+        <h1>Monitor de Eventos - Visit Rio</h1>
+        <div class="updated" id="updated">Carregando…</div>
+      </div>
     </div>
-    <div class="updated" id="updated">Carregando…</div>
     <div class="kpis" id="kpis"></div>
   </div>
 </header>
@@ -6312,6 +6320,9 @@ function render(){
   // controles por view
   document.getElementById("toolbar").hidden = (state.view==="calendario");
   document.querySelectorAll(".leads-only").forEach(el=>el.style.display = state.view==="leads"?"":"none");
+  // oculta busca e dropdown de segmento no calendário (estão na toolbar mas não são leads-only)
+  const calHide=["q","fSeg"];
+  calHide.forEach(id=>{const el=document.getElementById(id);if(el){const wrap=el.closest(".search")||el;wrap.style.display=state.view==="calendario"?"none":"";}});
   const tp=document.getElementById("togglePast");
   if(tp) tp.style.display=(state.view==="leads"||state.view==="agenda")?"":"none";
 
