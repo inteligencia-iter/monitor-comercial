@@ -65,17 +65,12 @@ jobs:
       - name: Etapa D — inteligência comercial (custo zero)
         run: python etapa_d_inteligencia.py
 
-      - name: Preparar events.json para o site
+      - name: Preparar e validar events.json para o site
         run: |
-          # Encadeamento dos arquivos:
-          #   scraper_visitrio.py       -> events_ab.json          (merge)
-          #   etapa_c_enriquecimento.py -> events_enriquecido.json
-          #   etapa_d_inteligencia.py   -> events_inteligencia.json (arquivo final)
-          # O frontend consome events.json, então copiamos o final para lá.
-          # Como o merge já incorporou o events.json antigo, sobrescrever é seguro.
           cp events_inteligencia.json events.json
-          echo "Eventos no arquivo final:"
-          python -c "import json; d=json.load(open('events.json')); print('total:', d['total'], '| novos:', sum(1 for e in d['eventos'] if e.get('novo')))"
+          # Valida JSON e dados mínimos antes de commitar.
+          # Se falhar, o pipeline para e o events.json anterior fica intacto.
+          python validar_eventos.py
 
       - name: Commit e push do events.json atualizado
         run: |
