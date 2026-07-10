@@ -6381,11 +6381,13 @@ function contactCellHTML(e){
 function copyIco(){return '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg>'}
 
 function wireTable(rows){
-  document.querySelectorAll("th.sortable").forEach(th=>th.onclick=()=>{
-    const k=th.dataset.sort;
-    if(state.sort.key===k) state.sort.dir*=-1;
-    else state.sort={key:k,dir:(k==="title"||k==="seg")?1:-1};
-    render();
+  document.querySelectorAll("th.sortable").forEach(function(th){
+    th.addEventListener("click", function(){
+      const k=this.dataset.sort;
+      if(state.sort.key===k) state.sort.dir*=-1;
+      else state.sort={key:k,dir:(k==="title"||k==="seg")?1:-1};
+      render();
+    });
   });
   const selAll=document.getElementById("selAll");
   if(selAll) selAll.onclick=(ev)=>{ev.stopPropagation();rows.forEach(e=>ev.target.checked?state.sel.add(e.id):state.sel.delete(e.id));render()};
@@ -6576,9 +6578,9 @@ function wireCalendar(){
   document.getElementById("mPrev").onclick=()=>go(-1);
   document.getElementById("mNext").onclick=()=>go(1);
   document.getElementById("mToday").onclick=()=>{const t=new Date();state.cal={y:t.getFullYear(),m:t.getMonth()};render()};
-  document.querySelectorAll(".legend .lg").forEach(l=>l.onclick=()=>{const c=l.dataset.cat;state.catOff.has(c)?state.catOff.delete(c):state.catOff.add(c);render()});
+  document.querySelectorAll(".legend .lg").forEach(function(l){l.addEventListener("click",function(){const c=this.dataset.cat;state.catOff.has(c)?state.catOff.delete(c):state.catOff.add(c);render()});});
   const cs=document.getElementById("calSeg"); if(cs) cs.onchange=(ev)=>{state.calSeg=ev.target.value;render()};
-  document.querySelectorAll(".calendar .bar").forEach(b=>b.onclick=(ev)=>{ev.stopPropagation();abrir(+b.dataset.id)});
+  document.querySelectorAll(".calendar .bar").forEach(function(b){b.addEventListener("click",function(ev){ev.stopPropagation();abrir(+this.dataset.id)});});
   document.querySelectorAll(".calendar .more").forEach(mm=>mm.onclick=(ev)=>{ev.stopPropagation();dayPopover(mm.dataset.date,ev)});
   document.querySelectorAll(".toplead").forEach(t=>t.onclick=()=>abrir(+t.dataset.id));
 }
@@ -6683,9 +6685,17 @@ function bind(){
   document.getElementById("fSeg").onchange=ev=>{state.seg=ev.target.value;render()};
   document.getElementById("fPorte").onchange=ev=>{state.porte=ev.target.value;render()};
   document.getElementById("fContato").onchange=ev=>{state.soContato=ev.target.checked;render()};
-  document.querySelectorAll("#fScore button").forEach(b=>b.onclick=()=>{state.minScore=+b.dataset.s;syncControls();render()});
+  document.querySelectorAll("#fScore button").forEach(function(b){b.addEventListener("click",function(){state.minScore=+this.dataset.s;syncControls();render()});});
   document.getElementById("btnCsv").onclick=exportCsv;
-  document.querySelectorAll("#nav button").forEach(b=>b.onclick=function(){state.view=this.dataset.v;fecharPop();render();});
+  // Botões de navegação: usar addEventListener (não onclick) para
+  // garantir que o handler é ligado UMA ÚNICA VEZ e nunca sobrescrito.
+  document.querySelectorAll("#nav button").forEach(function(b){
+    b.addEventListener("click", function(){
+      state.view=this.dataset.v;
+      fecharPop();
+      render();
+    });
+  });
   document.getElementById("overlay").onclick=fechar;
   document.addEventListener("keydown",e=>{if(e.key==="Escape")fechar()});
   const fpa=document.getElementById("fPast");
