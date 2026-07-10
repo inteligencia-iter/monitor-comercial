@@ -1,0 +1,5 @@
+# Dependência única do pipeline de coleta.
+# curl_cffi imita o fingerprint TLS de um navegador real (Chrome), o que é
+# necessário para passar pelo Cloudflare Bot Protection do Visit Rio.
+# A biblioteca 'requests' padrão NÃO funciona — é bloqueada pelo fingerprint TLS.
+curl_cffi>=0.7.0
