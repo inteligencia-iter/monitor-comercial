@@ -289,18 +289,28 @@ def mesclar(feed, banco, hoje):
         ev["primeiro_visto"] = antigo.get("primeiro_visto", hoje.isoformat())
         ev["novo"] = False
         ev["no_feed"] = False
-        # preserva o LOCAL (venue) coletado pela Etapa B2 — a API não devolve venue,
-        # então o valor real mora no banco e precisa sobreviver ao merge diário.
+
+        # LOCAL (Etapa B2) — a API nunca devolve venue; preserva o que está no banco.
         if antigo.get("local_coletado"):
             ev["local"] = antigo.get("local")
             ev["local_coletado"] = True
+
+        # CONTATO e INTELIGÊNCIA
         corp_antes = antigo.get("categoria") == "corporativos"
         corp_agora = ev["categoria"] == "corporativos"
-        if corp_agora and corp_antes:
-            # preserva o trabalho de enriquecimento e inteligência
-            ev["contato"] = antigo.get("contato") or _skeleton_contato()
+        contato_antigo = antigo.get("contato") or {}
+        travado = bool(contato_antigo.get("travado"))
+
+        if travado:
+            # Resgatado manualmente: preserva SEMPRE, independente de categoria.
+            ev["contato"] = contato_antigo
             ev["inteligencia"] = antigo.get("inteligencia")
-        # se categoria mudou, mantém o esqueleto limpo já criado no feed
+        elif corp_agora and corp_antes:
+            # Mesma categoria corporativa: preserva enriquecimento existente.
+            ev["contato"] = contato_antigo or _skeleton_contato()
+            ev["inteligencia"] = antigo.get("inteligencia")
+        # Categoria mudou e não é travado: mantém esqueleto limpo do feed.
+
         saida.append(ev)
 
     # eventos do banco que não vieram mais no feed
