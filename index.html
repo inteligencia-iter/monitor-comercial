@@ -6684,7 +6684,7 @@ function bind(){
   document.getElementById("fContato").onchange=ev=>{state.soContato=ev.target.checked;render()};
   document.querySelectorAll("#fScore button").forEach(b=>b.onclick=()=>{state.minScore=+b.dataset.s;syncControls();render()});
   document.getElementById("btnCsv").onclick=exportCsv;
-  document.querySelectorAll("#nav button").forEach(b=>b.onclick=()=>{state.view=b.dataset.v;fecharPop();render()});
+  document.querySelectorAll("#nav button").forEach(b=>b.onclick=function(){state.view=this.dataset.v;fecharPop();render();});
   document.getElementById("overlay").onclick=fechar;
   document.addEventListener("keydown",e=>{if(e.key==="Escape")fechar()});
   const fpa=document.getElementById("fPast");
