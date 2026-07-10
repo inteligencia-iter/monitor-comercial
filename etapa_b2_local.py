@@ -21,7 +21,7 @@ import html as ihtml
 from curl_cffi import requests as creq
 
 BANCO = os.environ.get("BANCO_FILE", "events.json")  # no pipeline: events_ab.json
-TIMEOUT = 20
+TIMEOUT = 40
 PAUSA = 3.0          # janela do Cloudflare exige espacamento maior
 SALVA_A_CADA = 10    # checkpoint p/ ser resumível
 
@@ -32,7 +32,7 @@ NORMALIZAR = {"múltiplo": "Vários locais", "multiplo": "Vários locais",
 def extrair_local(url):
     """Retorna o nome do venue (str) ou None."""
     raw = None
-    for tent in range(2):
+    for tent in range(3):
         try:
             r = creq.get(url, impersonate="chrome", timeout=TIMEOUT)
             if r.status_code == 200:

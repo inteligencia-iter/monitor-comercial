@@ -23,6 +23,7 @@ Uso:
 """
 
 import sys
+import time
 import re
 import json
 import html
@@ -37,7 +38,9 @@ from curl_cffi import requests as creq
 BASE = "https://visitrio.com.br/wp-json/tribe/events/v1/events"
 PER_PAGE = 50               # máximo aceito com folga pela API
 IMPERSONATE = "chrome"      # fingerprint TLS de navegador real (passa no Cloudflare)
-TIMEOUT = 30
+TIMEOUT = 45               # segundos por requisição
+MAX_TENT = 4               # tentativas por página antes de desistir
+BACKOFF  = [0, 5, 15, 30] # pausa (s) antes de cada tentativa
 SAIDA = "events_ab.json"
 
 # --- Modo incremental (stateful) --------------------------------------------
@@ -173,7 +176,21 @@ def coletar(limite=None):
     print(f"[A] Coletando eventos a partir de {hoje} ...")
     while True:
         url = f"{BASE}?per_page={PER_PAGE}&page={page}&start_date={hoje}"
-        r = creq.get(url, impersonate=IMPERSONATE, timeout=TIMEOUT)
+        # Retry com backoff — o Visit Rio às vezes tem picos de latência
+        r = None
+        ultimo_erro = None
+        for tent in range(MAX_TENT):
+            if BACKOFF[tent]:
+                print(f"    tentativa {tent+1}/{MAX_TENT} — aguardando {BACKOFF[tent]}s...")
+                time.sleep(BACKOFF[tent])
+            try:
+                r = creq.get(url, impersonate=IMPERSONATE, timeout=TIMEOUT)
+                break  # sucesso
+            except Exception as exc:
+                ultimo_erro = exc
+                print(f"    tentativa {tent+1}/{MAX_TENT} falhou: {exc}")
+        if r is None:
+            raise RuntimeError(f"Todas as {MAX_TENT} tentativas falharam para {url}") from ultimo_erro
         if r.status_code != 200:
             # A API responde 400 quando a página passa do total — fim natural.
             if r.status_code == 400 and page > 1:
