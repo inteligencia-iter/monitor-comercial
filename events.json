@@ -1,58 +1,8 @@
 {
-  "gerado_em": "2026-07-10T11:57:33-03:00",
+  "gerado_em": "2026-07-13T14:22:42-03:00",
   "modo": "deterministico (custo zero)",
   "total": 180,
   "eventos": [
-    {
-      "id": 495146,
-      "titulo": "Asics Golden Run – Etapa RJ 2026",
-      "slug": "asics-golden-run-etapa-rj-2026",
-      "data_inicio": "2026-07-12 09:00:00",
-      "data_fim": "2026-07-12 09:00:00",
-      "descricao": "A ASICS Golden Run 2026 é o percurso ideal para quem busca se desafiar e atingir novos limites. Para quem busca velocidade e ir além. Mas, mais do que cruzar a linha de chegada, essa corrida é um espaço para você buscar o seu melhor – nas conexões, na saúde mental e física, no seu tempo. CONHEÇA OS PERCURSOS A ASICS te convida a manter o ritmo, aproveitar o caminho e buscar o seu melhor, seja para superar um desafio pessoal ou simplesmente viver a corrida do começo ao fim. Fiquem atentos aos locais de largada: Percurso 10K. Bosque do Flamengo, ao lado da Marina da Glória Percurso 21K. Leblon, posto 12 (Av. Delfim Moreira, 1045)",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/asics-golden-run-etapa-rj-2026/",
-      "site_oficial": "https://page.ticketsports.com.br/asicsgoldenrun2026etaparj/",
-      "local": "Vários locais",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495294,
-      "titulo": "Corrida Aniversário do Musal 2026",
-      "slug": "corrida-aniversario-do-musal-2026",
-      "data_inicio": "2026-07-12 09:00:00",
-      "data_fim": "2026-07-12 09:00:00",
-      "descricao": "✈️🎉 CORRIDA ANIVERSÁRIO DO MUSAL 🎉✈️ Prepare-se para viver uma experiência única onde esporte, história e emoção se encontram! Venha celebrar mais um ano do MUSAL em um evento inesquecível. No cenário icônico do Campo dos Afonsos, você vai correr rodeado por aeronaves históricas e sentir de perto a grandiosidade da aviação brasileira. 🏃‍♂️ Percursos para todos os níveis: • 5K Corrida • 3K Caminhada ⏰ Largada: 7h30 📍 Local: Campo dos Afonsos 🚗 Estacionamento gratuito no local Além da prova, todos os participantes recebem um kit exclusivo com camisa oficial, medalha temática e brindes especiais. Mais do que uma corrida, é um convite para embarcar na história, superar limites e fazer parte de um momento único! ✨ MUSAL – Embarque na História! ✨",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-aniversario-do-musal-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-aniversario-do-musal-86585",
-      "local": "Museu Aeroespacial - MUSAL",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 495145,
       "titulo": "25th SAET Conference on Current Trends in Economics",
@@ -332,17 +282,17 @@
       "local_coletado": true
     },
     {
-      "id": 495291,
-      "titulo": "Circuito Correndo Pelo Rio 2026 – Fundão",
-      "slug": "circuito-correndo-pelo-rio-2026-fundao",
+      "id": 495290,
+      "titulo": "As Brabas Run 2026",
+      "slug": "as-brabas-run-2026",
       "data_inicio": "2026-07-19 09:00:00",
       "data_fim": "2026-07-19 09:00:00",
-      "descricao": "O Circuito Correndo pelo Rio é uma série de corridas urbanas voltadas para: Incentivo à prática esportiva, ocupação esportiva de diferentes regiões da cidade, integração entre corredores amadores e assessorias. A etapa fundão /utiliza o ambiente da ilha do Fundão utiliza o ambiente da ilha do Fundão/UFRJ , oferecendo percurso mais plano e rápido. 19/07/2026",
+      "descricao": "Participe da As Brabas Run, uma corrida exclusiva para mulheres! Data: 19 de julho de 2026 Distância: 7,5km Local: Parque Das Figueiras, Avenida Borges de Medeiros, 1426.",
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-correndo-pelo-rio-2026-fundao/",
-      "site_oficial": "https://www.ticketsports.com.br/e/circuito-correndo-pelo-rio-2026-fundao-86309",
-      "local": "Cidade Universitária - Fundão",
+      "url_visitrio": "https://visitrio.com.br/evento/as-brabas-run-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/as-brabas-run-86459",
+      "local": "Parque das Figueiras - Lagoa",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -357,17 +307,17 @@
       "local_coletado": true
     },
     {
-      "id": 495290,
-      "titulo": "As Brabas Run 2026",
-      "slug": "as-brabas-run-2026",
+      "id": 495291,
+      "titulo": "Circuito Correndo Pelo Rio 2026 – Fundão",
+      "slug": "circuito-correndo-pelo-rio-2026-fundao",
       "data_inicio": "2026-07-19 09:00:00",
       "data_fim": "2026-07-19 09:00:00",
-      "descricao": "Participe da As Brabas Run, uma corrida exclusiva para mulheres! Data: 19 de julho de 2026 Distância: 7,5km Local: Parque Das Figueiras, Avenida Borges de Medeiros, 1426.",
+      "descricao": "O Circuito Correndo pelo Rio é uma série de corridas urbanas voltadas para: Incentivo à prática esportiva, ocupação esportiva de diferentes regiões da cidade, integração entre corredores amadores e assessorias. A etapa fundão /utiliza o ambiente da ilha do Fundão utiliza o ambiente da ilha do Fundão/UFRJ , oferecendo percurso mais plano e rápido. 19/07/2026",
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/as-brabas-run-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/as-brabas-run-86459",
-      "local": "Parque das Figueiras - Lagoa",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-correndo-pelo-rio-2026-fundao/",
+      "site_oficial": "https://www.ticketsports.com.br/e/circuito-correndo-pelo-rio-2026-fundao-86309",
+      "local": "Cidade Universitária - Fundão",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -3533,6 +3483,31 @@
       "local_coletado": true
     },
     {
+      "id": 494334,
+      "titulo": "28th Festival do Rio",
+      "slug": "28th-festival-do-rio",
+      "data_inicio": "2026-10-01 09:00:00",
+      "data_fim": "2026-10-11 09:00:00",
+      "descricao": "O Festival do Rio – 2026 já tem a data para o maior Festival de Cinema da América Latina: 01 a 11 de Outubro. Tá longe? Nada… Passa rapidinho… Enquanto não chega, estamos viajando pelos grandes festivais pelo mundo assistindo muitos filmes, para trazer para o Brasil, e em primeira mão no Rio de Janeiro, o que há de melhor da cinematografia mundial . Nossa maratona começa hoje no Festival de Berlim. Depois vem Cannes, BAFICI, Cartagena, Locarno, Veneza, Toronto, entre outros. Em 2025 exibimos 389 filmes de 74 países em 1.025 sessões. Muitas surpresas para 2026!",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/28th-festival-do-rio/",
+      "site_oficial": "https://www.festivaldorio.com.br/",
+      "local": "Pier Mauá",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494333,
       "titulo": "13º Congresso de Geriatria e Gerontologia do Estado do Rio de Janeiro 2026",
       "slug": "13o-congresso-de-geriatria-e-gerontologia-do-estado-do-rio-de-janeiro-2026",
@@ -3578,31 +3553,6 @@
       "local_coletado": true
     },
     {
-      "id": 494334,
-      "titulo": "28th Festival do Rio",
-      "slug": "28th-festival-do-rio",
-      "data_inicio": "2026-10-01 09:00:00",
-      "data_fim": "2026-10-11 09:00:00",
-      "descricao": "O Festival do Rio – 2026 já tem a data para o maior Festival de Cinema da América Latina: 01 a 11 de Outubro. Tá longe? Nada… Passa rapidinho… Enquanto não chega, estamos viajando pelos grandes festivais pelo mundo assistindo muitos filmes, para trazer para o Brasil, e em primeira mão no Rio de Janeiro, o que há de melhor da cinematografia mundial . Nossa maratona começa hoje no Festival de Berlim. Depois vem Cannes, BAFICI, Cartagena, Locarno, Veneza, Toronto, entre outros. Em 2025 exibimos 389 filmes de 74 países em 1.025 sessões. Muitas surpresas para 2026!",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/28th-festival-do-rio/",
-      "site_oficial": "https://www.festivaldorio.com.br/",
-      "local": "Pier Mauá",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 495730,
       "titulo": "Morar Mais Rio 2026",
       "slug": "morar-mais-rio-2026",
@@ -3631,6 +3581,44 @@
         "empresas_citadas": [],
         "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
         "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 494332,
+      "titulo": "Febrava Rio 2026",
+      "slug": "febrava-rio-2026",
+      "data_inicio": "2026-10-06 09:00:00",
+      "data_fim": "2026-10-08 09:00:00",
+      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
+      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "+55 11 3060-4717"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "febrava"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -3673,44 +3661,6 @@
         ],
         "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
         "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494332,
-      "titulo": "Febrava Rio 2026",
-      "slug": "febrava-rio-2026",
-      "data_inicio": "2026-10-06 09:00:00",
-      "data_fim": "2026-10-08 09:00:00",
-      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
-      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "+55 11 3060-4717"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "febrava"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -5847,6 +5797,56 @@
       "primeiro_visto": "2026-07-08",
       "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 495146,
+      "titulo": "Asics Golden Run – Etapa RJ 2026",
+      "slug": "asics-golden-run-etapa-rj-2026",
+      "data_inicio": "2026-07-12 09:00:00",
+      "data_fim": "2026-07-12 09:00:00",
+      "descricao": "A ASICS Golden Run 2026 é o percurso ideal para quem busca se desafiar e atingir novos limites. Para quem busca velocidade e ir além. Mas, mais do que cruzar a linha de chegada, essa corrida é um espaço para você buscar o seu melhor – nas conexões, na saúde mental e física, no seu tempo. CONHEÇA OS PERCURSOS A ASICS te convida a manter o ritmo, aproveitar o caminho e buscar o seu melhor, seja para superar um desafio pessoal ou simplesmente viver a corrida do começo ao fim. Fiquem atentos aos locais de largada: Percurso 10K. Bosque do Flamengo, ao lado da Marina da Glória Percurso 21K. Leblon, posto 12 (Av. Delfim Moreira, 1045)",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/asics-golden-run-etapa-rj-2026/",
+      "site_oficial": "https://page.ticketsports.com.br/asicsgoldenrun2026etaparj/",
+      "local": "Vários locais",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495294,
+      "titulo": "Corrida Aniversário do Musal 2026",
+      "slug": "corrida-aniversario-do-musal-2026",
+      "data_inicio": "2026-07-12 09:00:00",
+      "data_fim": "2026-07-12 09:00:00",
+      "descricao": "✈️🎉 CORRIDA ANIVERSÁRIO DO MUSAL 🎉✈️ Prepare-se para viver uma experiência única onde esporte, história e emoção se encontram! Venha celebrar mais um ano do MUSAL em um evento inesquecível. No cenário icônico do Campo dos Afonsos, você vai correr rodeado por aeronaves históricas e sentir de perto a grandiosidade da aviação brasileira. 🏃‍♂️ Percursos para todos os níveis: • 5K Corrida • 3K Caminhada ⏰ Largada: 7h30 📍 Local: Campo dos Afonsos 🚗 Estacionamento gratuito no local Além da prova, todos os participantes recebem um kit exclusivo com camisa oficial, medalha temática e brindes especiais. Mais do que uma corrida, é um convite para embarcar na história, superar limites e fazer parte de um momento único! ✨ MUSAL – Embarque na História! ✨",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-aniversario-do-musal-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-aniversario-do-musal-86585",
+      "local": "Museu Aeroespacial - MUSAL",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     }
   ]
