@@ -308,7 +308,6 @@
     <button data-s="80">≥80</button>
   </div>
   <label class="toggle leads-only"><input type="checkbox" id="fContato"><span class="sw"></span>Só com contato</label>
-  <label class="toggle-past" id="togglePast" style="display:none"><input type="checkbox" id="fPast"><span class="sw"></span>Mostrar encerrados</label>
   <div class="grow"></div>
   <button class="btn btn-primary leads-only" id="btnCsv">↓ Exportar CSV</button>
 </div>
@@ -6178,7 +6177,7 @@ const MES_NOME=["janeiro","fevereiro","março","abril","maio","junho","julho","a
 
 const state={
   all:[], leads:[], view:"calendario",
-  q:"", seg:"", porte:"", minScore:0, soContato:false, showPast:false, soNovo:false,
+  q:"", seg:"", porte:"", minScore:0, soContato:false, soNovo:false,
   sort:{key:"score",dir:-1},
   sel:new Set(),
   cal:{y:null,m:null},
@@ -6272,7 +6271,6 @@ function montarSegmentos(){
 function filtrados(){
   const q=state.q.toLowerCase();
   let r=state.leads.filter(e=>{
-    if(!state.showPast && encerrado(e)) return false;
     if(state.soNovo && !ehNovo(e)) return false;
     if(state.seg && areaOf(e.inteligencia?.segmento)!==state.seg) return false;
     if(state.porte && e.inteligencia?.porte_estimado!==state.porte) return false;
@@ -6323,8 +6321,7 @@ function render(){
   // oculta busca e dropdown de segmento no calendário (estão na toolbar mas não são leads-only)
   const calHide=["q","fSeg"];
   calHide.forEach(id=>{const el=document.getElementById(id);if(el){const wrap=el.closest(".search")||el;wrap.style.display=state.view==="calendario"?"none":"";}});
-  const tp=document.getElementById("togglePast");
-  if(tp) tp.style.display=(state.view==="leads"||state.view==="agenda")?"":"none";
+
 
   const main=document.getElementById("main");
   if(state.view==="calendario"){ renderCalendar(main); return; }
@@ -6416,7 +6413,6 @@ function wireClear(){const c=document.getElementById("clearF");if(c)c.onclick=()
 function renderAgenda(main){
   const q=state.q.toLowerCase();
   let evs=state.all.filter(e=>{
-    if(!state.showPast && encerrado(e)) return false;
     if(q){const hay=(e.titulo+" "+(e.inteligencia?.segmento||"")).toLowerCase();if(!hay.includes(q))return false}
     if(state.seg && areaOf(e.inteligencia?.segmento)!==state.seg) return false;
     return true;
@@ -6689,7 +6685,6 @@ function syncControls(){
   document.getElementById("fSeg").value=state.seg;
   document.getElementById("fPorte").value=state.porte;
   document.getElementById("fContato").checked=state.soContato;
-  const fp=document.getElementById("fPast"); if(fp) fp.checked=state.showPast;
   document.querySelectorAll("#fScore button").forEach(b=>b.classList.toggle("on",+b.dataset.s===state.minScore));
 }
 function bind(){
@@ -6710,8 +6705,6 @@ function bind(){
   });
   document.getElementById("overlay").onclick=fechar;
   document.addEventListener("keydown",e=>{if(e.key==="Escape")fechar()});
-  const fpa=document.getElementById("fPast");
-  if(fpa) fpa.onchange=ev=>{state.showPast=ev.target.checked;syncControls();render()};
 }
 
 // ---------- util ----------
