@@ -6238,7 +6238,7 @@ async function carregar(){
     ...e,
     _ini:new Date((e.data_inicio||"").replace(" ","T")),
     _fim:new Date((e.data_fim||e.data_inicio||"").replace(" ","T")),
-  })).filter(e=>!isNaN(e._ini) && !e.no_feed);
+  })).filter(e=>!isNaN(e._ini)); // no_feed mantidos no histórico — ficam esmaecidos
   state.leads=state.all.filter(e=>e.categoria==="corporativos");
 
   const dt=data.gerado_em?new Date(data.gerado_em).toLocaleString("pt-BR",{dateStyle:"short",timeStyle:"short",timeZone:"America/Sao_Paulo"}):"—";
