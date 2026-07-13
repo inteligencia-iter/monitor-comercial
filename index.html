@@ -60,6 +60,12 @@
   .toggle-past .sw::after{content:"";position:absolute;top:2px;left:2px;width:14px;height:14px;border-radius:50%;background:#fff;transition:transform .15s;box-shadow:0 1px 2px rgba(0,0,0,.2)}
   .toggle-past input:checked + .sw{background:var(--sea)}
   .toggle-past input:checked + .sw::after{transform:translateX(14px)}
+  .toggle-past{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:var(--ink-soft);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px;cursor:pointer;user-select:none}
+  .toggle-past input{display:none}
+  .toggle-past .sw{width:32px;height:18px;border-radius:10px;background:#D3DEDE;position:relative;transition:background .15s}
+  .toggle-past .sw::after{content:"";position:absolute;top:2px;left:2px;width:14px;height:14px;border-radius:50%;background:#fff;transition:transform .15s;box-shadow:0 1px 2px rgba(0,0,0,.2)}
+  .toggle-past input:checked + .sw{background:var(--sea)}
+  .toggle-past input:checked + .sw::after{transform:translateX(14px)}
 
   /* ---------- toolbar ---------- */
   .toolbar{max-width:1240px;margin:18px auto 0;padding:0 22px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
@@ -308,6 +314,7 @@
     <button data-s="80">≥80</button>
   </div>
   <label class="toggle leads-only"><input type="checkbox" id="fContato"><span class="sw"></span>Só com contato</label>
+  <label class="toggle-past" id="togglePast" style="display:none"><input type="checkbox" id="fPast"><span class="sw"></span>Ocultar encerrados</label>
   <div class="grow"></div>
   <button class="btn btn-primary leads-only" id="btnCsv">↓ Exportar CSV</button>
 </div>
@@ -6177,7 +6184,7 @@ const MES_NOME=["janeiro","fevereiro","março","abril","maio","junho","julho","a
 
 const state={
   all:[], leads:[], view:"calendario",
-  q:"", seg:"", porte:"", minScore:0, soContato:false, soNovo:false,
+  q:"", seg:"", porte:"", minScore:0, soContato:false, hidePast:false, soNovo:false,
   sort:{key:"score",dir:-1},
   sel:new Set(),
   cal:{y:null,m:null},
@@ -6271,6 +6278,7 @@ function montarSegmentos(){
 function filtrados(){
   const q=state.q.toLowerCase();
   let r=state.leads.filter(e=>{
+    if(state.hidePast && encerrado(e)) return false;
     if(state.soNovo && !ehNovo(e)) return false;
     if(state.seg && areaOf(e.inteligencia?.segmento)!==state.seg) return false;
     if(state.porte && e.inteligencia?.porte_estimado!==state.porte) return false;
@@ -6318,6 +6326,8 @@ function render(){
   // controles por view
   document.getElementById("toolbar").hidden = (state.view==="calendario");
   document.querySelectorAll(".leads-only").forEach(el=>el.style.display = state.view==="leads"?"":"none");
+  const tp=document.getElementById("togglePast");
+  if(tp) tp.style.display=(state.view==="leads"||state.view==="agenda")?"":"none";
   // oculta busca e dropdown de segmento no calendário (estão na toolbar mas não são leads-only)
   const calHide=["q","fSeg"];
   calHide.forEach(id=>{const el=document.getElementById(id);if(el){const wrap=el.closest(".search")||el;wrap.style.display=state.view==="calendario"?"none":"";}});
@@ -6407,12 +6417,13 @@ function wireTable(rows){
   document.querySelectorAll("tbody tr").forEach(tr=>tr.onclick=()=>abrir(+tr.dataset.id));
   wireClear();
 }
-function wireClear(){const c=document.getElementById("clearF");if(c)c.onclick=()=>{state.q="";state.seg="";state.porte="";state.minScore=0;state.soContato=false;state.soNovo=false;syncControls();render()}}
+function wireClear(){const c=document.getElementById("clearF");if(c)c.onclick=()=>{state.q="";state.seg="";state.porte="";state.minScore=0;state.soContato=false;state.hidePast=false;state.soNovo=false;syncControls();render()}}
 
 // ---------- agenda ----------
 function renderAgenda(main){
   const q=state.q.toLowerCase();
   let evs=state.all.filter(e=>{
+    if(state.hidePast && encerrado(e)) return false;
     if(q){const hay=(e.titulo+" "+(e.inteligencia?.segmento||"")).toLowerCase();if(!hay.includes(q))return false}
     if(state.seg && areaOf(e.inteligencia?.segmento)!==state.seg) return false;
     return true;
@@ -6685,6 +6696,7 @@ function syncControls(){
   document.getElementById("fSeg").value=state.seg;
   document.getElementById("fPorte").value=state.porte;
   document.getElementById("fContato").checked=state.soContato;
+  const fp=document.getElementById("fPast"); if(fp) fp.checked=state.hidePast;
   document.querySelectorAll("#fScore button").forEach(b=>b.classList.toggle("on",+b.dataset.s===state.minScore));
 }
 function bind(){
@@ -6705,6 +6717,8 @@ function bind(){
   });
   document.getElementById("overlay").onclick=fechar;
   document.addEventListener("keydown",e=>{if(e.key==="Escape")fechar()});
+  const fpa=document.getElementById("fPast");
+  if(fpa) fpa.addEventListener("change",function(){state.hidePast=this.checked;syncControls();render();});
 }
 
 // ---------- util ----------
