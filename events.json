@@ -1,336 +1,8 @@
 {
-  "gerado_em": "2026-07-13T17:50:23-03:00",
+  "gerado_em": "2026-07-20T08:52:58-03:00",
   "modo": "deterministico (custo zero)",
   "total": 180,
   "eventos": [
-    {
-      "id": 495145,
-      "titulo": "25th SAET Conference on Current Trends in Economics",
-      "slug": "25th-saet-conference-on-current-trends-in-economics",
-      "data_inicio": "2026-07-13 09:00:00",
-      "data_fim": "2026-07-17 09:00:00",
-      "descricao": "A 25ª Conferência Anual da SAET será realizada de 13 a 17 de julho de 2026, com uma celebração especial no dia 18 de julho em homenagem ao 80º aniversário de Aloisio Araujo. A conferência acontecerá no Instituto de Matemática Pura e Aplicada, IMPA, no Rio de Janeiro, RJ, Brasil. A conferência reúne pesquisadores e acadêmicos de economia para discutir tendências contemporâneas em teoria econômica, macroeconomia, microeconomia, econometria, mercados financeiros, desenvolvimento econômico.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/25th-saet-conference-on-current-trends-in-economics/",
-      "site_oficial": "https://impa.br/evento/saet-conference-on-current-trends-in-economics/",
-      "local": "Instituto de Matemática Pura e Aplicada - IMPA",
-      "contato": {
-        "emails": [
-          "eventos@impa.br",
-          "faleconosco@impa.br"
-        ],
-        "telefones": [
-          "(21) 2529-5000"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "impa"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento longo, 5 dias.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [
-          "SAET"
-        ],
-        "angulo_comercial": "Evento de finanças de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494376,
-      "titulo": "CPA 2026 – Critical Perspectives on Accounting Conference: Toward New Accountings in Troubled Times",
-      "slug": "cpa-2026-critical-perspectives-on-accounting-conference-toward-new-accountings-in-troubled-times",
-      "data_inicio": "2026-07-14 09:00:00",
-      "data_fim": "2026-07-16 09:00:00",
-      "descricao": "The Critical Perspectives on Accounting Conference brings together accounting faculty, doctoral students, and researchers from other disciplines interested in critical accounting research. The Conference, held every three years, offers a collaborative and supportive atmosphere. It aims to build and consolidate the network of active supporters of critical accounting scholarship. It also seeks to encourage critical reflexivity on the development of accounting prescriptions and the practice of accounting in a world facing many challenges. Notably, the Conference aims to generate substantive conversations on how accounting might be improved to construct a better and fairer world, aiming focus on socio-political and environmental transformations.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/cpa-2026-critical-perspectives-on-accounting-conference-toward-new-accountings-in-troubled-times/",
-      "site_oficial": "https://cpa-conference.com/",
-      "local": "Vários locais",
-      "contato": {
-        "emails": [
-          "cpa2026@facc.ufrj.br",
-          "raquel@skl.tur.br"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "cpa-conference"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [
-          "CPA"
-        ],
-        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494374,
-      "titulo": "Wicked A História Não Contada das Bruxas de OZ",
-      "slug": "wicked-a-historia-nao-contada-das-bruxas-de-oz",
-      "data_inicio": "2026-07-15 09:00:00",
-      "data_fim": "2026-08-09 09:00:00",
-      "descricao": "Wicked A História Não Contada das Bruxas de OZ chega ao Rio de Janeiro em 15 de julho de 2026 para uma curta temporada na Cidade das Artes Bibi Ferreira, na Barra da Tijuca. O anúncio foi feito no dia 21 de dezembro, na última sessão da temporada de Wicked no Teatro Renault, em São Paulo.",
-      "categoria": "culturais",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/wicked-a-historia-nao-contada-das-bruxas-de-oz/",
-      "site_oficial": "https://www.wickedbrasil.com/?utm_source=chatgpt.com",
-      "local": "Cidade das Artes Bibi Ferreira",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494375,
-      "titulo": "Convenção Internacional da ADHONEP 2026",
-      "slug": "convencao-internacional-da-adhonep-2026",
-      "data_inicio": "2026-07-15 09:00:00",
-      "data_fim": "2026-07-18 09:00:00",
-      "descricao": "A nossa Convenção é a nossa grande festa, onde anualmente reunimos os adhonepianos de todas as partes do mundo para estreitar os laços e desenvolver novos relacionamentos",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/convencao-internacional-da-adhonep-2026/",
-      "site_oficial": "https://adhonep.com/pt/convencao/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "(21) 3613-9700",
-          "(21) 93500-2400",
-          "(21) 96464-5161",
-          "(21)2109-0560",
-          "+55 (21) 2109-0560",
-          "+55 (21) 2109-0567",
-          "+55 (21) 2109-0569",
-          "+55 (21) 2109-0577",
-          "+55 (21) 2109-0581",
-          "+55 (21) 97190-0883",
-          "0800.301.8000"
-        ],
-        "whatsapp": [
-          "552121090560",
-          "552136139700",
-          "5521935002400",
-          "5521964645161"
-        ],
-        "produtoras_inferidas": [
-          "adhonep"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [
-          "ADHONEP"
-        ],
-        "angulo_comercial": "Evento de corporativo de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494810,
-      "titulo": "Ultimate Tennis Showdown 2026",
-      "slug": "ultimate-tennis-showdown-2026",
-      "data_inicio": "2026-07-16 09:00:00",
-      "data_fim": "2026-07-18 09:00:00",
-      "descricao": "Para a alegria dos fanáticos torcedores brasileiros, o Rio de Janeiro ganhará um novo torneio de tênis em 2026. Trata-se do Ultimate Tennis Showdown (UTS), competição que revolucionou o esporte e que realizará a primeira etapa de sua história na América do Sul. A confirmação oficial da competição aconteceu em fevereiro, durante um encontro entre a equipe do Governo do Estado do Rio de Janeiro e o fundador do UTS, o francês Patrick Mouratoglou. O lendário treinador da modalidade, que já teve sob sua batuta nomes como a americana Serena Williams, o dinamarquês Holger Rune e o búlgaro Grigor Dimitrov, visitou o Rio de Janeiro para alinhar com a equipe local os últimos detalhes da competição, que conta com o apoio do Governo do Estado por meio da Lei de Incentivo ao Esporte, e que será realizada nos dias 16, 17 e 18 de julho no Ginásio do Maracanãzinho.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/ultimate-tennis-showdown-2026/",
-      "site_oficial": "https://www.ticketmaster.com.br/event/uts-rio-2026-br",
-      "local": "Estádio do Maracanãzinho",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494809,
-      "titulo": "Alma Festival 2026",
-      "slug": "alma-festival-2026",
-      "data_inicio": "2026-07-18 09:00:00",
-      "data_fim": "2026-07-18 09:00:00",
-      "descricao": "O Alma Festival 2026 é um festival de música urbana focado principalmente em rap, trap e cultura jovem. Combinando elementos de música, games, esportes e arte. Dia 18 de Julho no RioCentro.",
-      "categoria": "culturais",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/alma-festival-2026/",
-      "site_oficial": "https://www.instagram.com/almafestivalbr/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494373,
-      "titulo": "27th International Conference on Science and Technology of Synthetic Electronic Materials",
-      "slug": "27th-international-conference-on-science-and-technology-of-synthetic-electronic-materials",
-      "data_inicio": "2026-07-19 09:00:00",
-      "data_fim": "2026-07-24 09:00:00",
-      "descricao": "ICSM 2026 – O Maior Evento Global sobre Materiais Eletrônicos Sintéticos! De 19 a 24 de julho de 2026, no Windsor Convention & Expo Center, Rio de Janeiro, o ICSM 2026 reunirá os principais especialistas e empresas do setor para discutir inovação, pesquisa e negócios em materiais eletrônicos sintéticos. Destaques do evento: Tendências e Inovações: Avanços em eletrônica e fotônica orgânica. Networking Estratégico: Conexões com líderes do setor e cientistas renomados. Exposição e Parcerias: Oportunidades de negócios e expansão de mercado. Palestras e Workshops: Debates sobre tecnologia, desafios e aplicações. Garanta sua presença!",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/27th-international-conference-on-science-and-technology-of-synthetic-electronic-materials/",
-      "site_oficial": "https://www.icsm2026.com/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "aline@sbpmat.org.br",
-          "icsm2026rio@gmail.com"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "icsm2026"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495144,
-      "titulo": "Circuito Banco do Brasil 2026",
-      "slug": "circuito-banco-do-brasil-2026",
-      "data_inicio": "2026-07-19 09:00:00",
-      "data_fim": "2026-07-19 09:00:00",
-      "descricao": "O Circuito BB de Corrida de rua 2026 tem percursos de 1K, 5k e 10k, incluindo atividades para toda família, e até para os pets. Esporte e bem-estar em uma estrutura completa de rua. Escolha sua distância, junte a família e façam parte dessa experiência. Dia 19/07 no Posto 2 de Copacabana.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-banco-do-brasil-2026/",
-      "site_oficial": "https://www.runningland.com.br/circuito-banco-do-brasil-2026-rj",
-      "local": "Praia de Copacabana",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495290,
-      "titulo": "As Brabas Run 2026",
-      "slug": "as-brabas-run-2026",
-      "data_inicio": "2026-07-19 09:00:00",
-      "data_fim": "2026-07-19 09:00:00",
-      "descricao": "Participe da As Brabas Run, uma corrida exclusiva para mulheres! Data: 19 de julho de 2026 Distância: 7,5km Local: Parque Das Figueiras, Avenida Borges de Medeiros, 1426.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/as-brabas-run-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/as-brabas-run-86459",
-      "local": "Parque das Figueiras - Lagoa",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495291,
-      "titulo": "Circuito Correndo Pelo Rio 2026 – Fundão",
-      "slug": "circuito-correndo-pelo-rio-2026-fundao",
-      "data_inicio": "2026-07-19 09:00:00",
-      "data_fim": "2026-07-19 09:00:00",
-      "descricao": "O Circuito Correndo pelo Rio é uma série de corridas urbanas voltadas para: Incentivo à prática esportiva, ocupação esportiva de diferentes regiões da cidade, integração entre corredores amadores e assessorias. A etapa fundão /utiliza o ambiente da ilha do Fundão utiliza o ambiente da ilha do Fundão/UFRJ , oferecendo percurso mais plano e rápido. 19/07/2026",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-correndo-pelo-rio-2026-fundao/",
-      "site_oficial": "https://www.ticketsports.com.br/e/circuito-correndo-pelo-rio-2026-fundao-86309",
-      "local": "Cidade Universitária - Fundão",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 494372,
       "titulo": "Expo Ser Vip 2026",
@@ -3589,44 +3261,6 @@
       "local_coletado": true
     },
     {
-      "id": 494332,
-      "titulo": "Febrava Rio 2026",
-      "slug": "febrava-rio-2026",
-      "data_inicio": "2026-10-06 09:00:00",
-      "data_fim": "2026-10-08 09:00:00",
-      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
-      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "+55 11 3060-4717"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "febrava"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 494331,
       "titulo": "FEICON Rio",
       "slug": "feicon-rio",
@@ -3661,6 +3295,44 @@
         ],
         "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
         "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 494332,
+      "titulo": "Febrava Rio 2026",
+      "slug": "febrava-rio-2026",
+      "data_inicio": "2026-10-06 09:00:00",
+      "data_fim": "2026-10-08 09:00:00",
+      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
+      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "+55 11 3060-4717"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "febrava"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -5797,6 +5469,334 @@
       "primeiro_visto": "2026-07-08",
       "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 495145,
+      "titulo": "25th SAET Conference on Current Trends in Economics",
+      "slug": "25th-saet-conference-on-current-trends-in-economics",
+      "data_inicio": "2026-07-13 09:00:00",
+      "data_fim": "2026-07-17 09:00:00",
+      "descricao": "A 25ª Conferência Anual da SAET será realizada de 13 a 17 de julho de 2026, com uma celebração especial no dia 18 de julho em homenagem ao 80º aniversário de Aloisio Araujo. A conferência acontecerá no Instituto de Matemática Pura e Aplicada, IMPA, no Rio de Janeiro, RJ, Brasil. A conferência reúne pesquisadores e acadêmicos de economia para discutir tendências contemporâneas em teoria econômica, macroeconomia, microeconomia, econometria, mercados financeiros, desenvolvimento econômico.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/25th-saet-conference-on-current-trends-in-economics/",
+      "site_oficial": "https://impa.br/evento/saet-conference-on-current-trends-in-economics/",
+      "local": "Instituto de Matemática Pura e Aplicada - IMPA",
+      "contato": {
+        "emails": [
+          "eventos@impa.br",
+          "faleconosco@impa.br"
+        ],
+        "telefones": [
+          "(21) 2529-5000"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "impa"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento longo, 5 dias.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [
+          "SAET"
+        ],
+        "angulo_comercial": "Evento de finanças de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494376,
+      "titulo": "CPA 2026 – Critical Perspectives on Accounting Conference: Toward New Accountings in Troubled Times",
+      "slug": "cpa-2026-critical-perspectives-on-accounting-conference-toward-new-accountings-in-troubled-times",
+      "data_inicio": "2026-07-14 09:00:00",
+      "data_fim": "2026-07-16 09:00:00",
+      "descricao": "The Critical Perspectives on Accounting Conference brings together accounting faculty, doctoral students, and researchers from other disciplines interested in critical accounting research. The Conference, held every three years, offers a collaborative and supportive atmosphere. It aims to build and consolidate the network of active supporters of critical accounting scholarship. It also seeks to encourage critical reflexivity on the development of accounting prescriptions and the practice of accounting in a world facing many challenges. Notably, the Conference aims to generate substantive conversations on how accounting might be improved to construct a better and fairer world, aiming focus on socio-political and environmental transformations.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/cpa-2026-critical-perspectives-on-accounting-conference-toward-new-accountings-in-troubled-times/",
+      "site_oficial": "https://cpa-conference.com/",
+      "local": "Vários locais",
+      "contato": {
+        "emails": [
+          "cpa2026@facc.ufrj.br",
+          "raquel@skl.tur.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "cpa-conference"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [
+          "CPA"
+        ],
+        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494374,
+      "titulo": "Wicked A História Não Contada das Bruxas de OZ",
+      "slug": "wicked-a-historia-nao-contada-das-bruxas-de-oz",
+      "data_inicio": "2026-07-15 09:00:00",
+      "data_fim": "2026-08-09 09:00:00",
+      "descricao": "Wicked A História Não Contada das Bruxas de OZ chega ao Rio de Janeiro em 15 de julho de 2026 para uma curta temporada na Cidade das Artes Bibi Ferreira, na Barra da Tijuca. O anúncio foi feito no dia 21 de dezembro, na última sessão da temporada de Wicked no Teatro Renault, em São Paulo.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/wicked-a-historia-nao-contada-das-bruxas-de-oz/",
+      "site_oficial": "https://www.wickedbrasil.com/?utm_source=chatgpt.com",
+      "local": "Cidade das Artes Bibi Ferreira",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494375,
+      "titulo": "Convenção Internacional da ADHONEP 2026",
+      "slug": "convencao-internacional-da-adhonep-2026",
+      "data_inicio": "2026-07-15 09:00:00",
+      "data_fim": "2026-07-18 09:00:00",
+      "descricao": "A nossa Convenção é a nossa grande festa, onde anualmente reunimos os adhonepianos de todas as partes do mundo para estreitar os laços e desenvolver novos relacionamentos",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/convencao-internacional-da-adhonep-2026/",
+      "site_oficial": "https://adhonep.com/pt/convencao/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "(21) 3613-9700",
+          "(21) 93500-2400",
+          "(21) 96464-5161",
+          "(21)2109-0560",
+          "+55 (21) 2109-0560",
+          "+55 (21) 2109-0567",
+          "+55 (21) 2109-0569",
+          "+55 (21) 2109-0577",
+          "+55 (21) 2109-0581",
+          "+55 (21) 97190-0883",
+          "0800.301.8000"
+        ],
+        "whatsapp": [
+          "552121090560",
+          "552136139700",
+          "5521935002400",
+          "5521964645161"
+        ],
+        "produtoras_inferidas": [
+          "adhonep"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [
+          "ADHONEP"
+        ],
+        "angulo_comercial": "Evento de corporativo de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494810,
+      "titulo": "Ultimate Tennis Showdown 2026",
+      "slug": "ultimate-tennis-showdown-2026",
+      "data_inicio": "2026-07-16 09:00:00",
+      "data_fim": "2026-07-18 09:00:00",
+      "descricao": "Para a alegria dos fanáticos torcedores brasileiros, o Rio de Janeiro ganhará um novo torneio de tênis em 2026. Trata-se do Ultimate Tennis Showdown (UTS), competição que revolucionou o esporte e que realizará a primeira etapa de sua história na América do Sul. A confirmação oficial da competição aconteceu em fevereiro, durante um encontro entre a equipe do Governo do Estado do Rio de Janeiro e o fundador do UTS, o francês Patrick Mouratoglou. O lendário treinador da modalidade, que já teve sob sua batuta nomes como a americana Serena Williams, o dinamarquês Holger Rune e o búlgaro Grigor Dimitrov, visitou o Rio de Janeiro para alinhar com a equipe local os últimos detalhes da competição, que conta com o apoio do Governo do Estado por meio da Lei de Incentivo ao Esporte, e que será realizada nos dias 16, 17 e 18 de julho no Ginásio do Maracanãzinho.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/ultimate-tennis-showdown-2026/",
+      "site_oficial": "https://www.ticketmaster.com.br/event/uts-rio-2026-br",
+      "local": "Estádio do Maracanãzinho",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494809,
+      "titulo": "Alma Festival 2026",
+      "slug": "alma-festival-2026",
+      "data_inicio": "2026-07-18 09:00:00",
+      "data_fim": "2026-07-18 09:00:00",
+      "descricao": "O Alma Festival 2026 é um festival de música urbana focado principalmente em rap, trap e cultura jovem. Combinando elementos de música, games, esportes e arte. Dia 18 de Julho no RioCentro.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/alma-festival-2026/",
+      "site_oficial": "https://www.instagram.com/almafestivalbr/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494373,
+      "titulo": "27th International Conference on Science and Technology of Synthetic Electronic Materials",
+      "slug": "27th-international-conference-on-science-and-technology-of-synthetic-electronic-materials",
+      "data_inicio": "2026-07-19 09:00:00",
+      "data_fim": "2026-07-24 09:00:00",
+      "descricao": "ICSM 2026 – O Maior Evento Global sobre Materiais Eletrônicos Sintéticos! De 19 a 24 de julho de 2026, no Windsor Convention & Expo Center, Rio de Janeiro, o ICSM 2026 reunirá os principais especialistas e empresas do setor para discutir inovação, pesquisa e negócios em materiais eletrônicos sintéticos. Destaques do evento: Tendências e Inovações: Avanços em eletrônica e fotônica orgânica. Networking Estratégico: Conexões com líderes do setor e cientistas renomados. Exposição e Parcerias: Oportunidades de negócios e expansão de mercado. Palestras e Workshops: Debates sobre tecnologia, desafios e aplicações. Garanta sua presença!",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/27th-international-conference-on-science-and-technology-of-synthetic-electronic-materials/",
+      "site_oficial": "https://www.icsm2026.com/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "aline@sbpmat.org.br",
+          "icsm2026rio@gmail.com"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "icsm2026"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495144,
+      "titulo": "Circuito Banco do Brasil 2026",
+      "slug": "circuito-banco-do-brasil-2026",
+      "data_inicio": "2026-07-19 09:00:00",
+      "data_fim": "2026-07-19 09:00:00",
+      "descricao": "O Circuito BB de Corrida de rua 2026 tem percursos de 1K, 5k e 10k, incluindo atividades para toda família, e até para os pets. Esporte e bem-estar em uma estrutura completa de rua. Escolha sua distância, junte a família e façam parte dessa experiência. Dia 19/07 no Posto 2 de Copacabana.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-banco-do-brasil-2026/",
+      "site_oficial": "https://www.runningland.com.br/circuito-banco-do-brasil-2026-rj",
+      "local": "Praia de Copacabana",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495290,
+      "titulo": "As Brabas Run 2026",
+      "slug": "as-brabas-run-2026",
+      "data_inicio": "2026-07-19 09:00:00",
+      "data_fim": "2026-07-19 09:00:00",
+      "descricao": "Participe da As Brabas Run, uma corrida exclusiva para mulheres! Data: 19 de julho de 2026 Distância: 7,5km Local: Parque Das Figueiras, Avenida Borges de Medeiros, 1426.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/as-brabas-run-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/as-brabas-run-86459",
+      "local": "Parque das Figueiras - Lagoa",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495291,
+      "titulo": "Circuito Correndo Pelo Rio 2026 – Fundão",
+      "slug": "circuito-correndo-pelo-rio-2026-fundao",
+      "data_inicio": "2026-07-19 09:00:00",
+      "data_fim": "2026-07-19 09:00:00",
+      "descricao": "O Circuito Correndo pelo Rio é uma série de corridas urbanas voltadas para: Incentivo à prática esportiva, ocupação esportiva de diferentes regiões da cidade, integração entre corredores amadores e assessorias. A etapa fundão /utiliza o ambiente da ilha do Fundão utiliza o ambiente da ilha do Fundão/UFRJ , oferecendo percurso mais plano e rápido. 19/07/2026",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-correndo-pelo-rio-2026-fundao/",
+      "site_oficial": "https://www.ticketsports.com.br/e/circuito-correndo-pelo-rio-2026-fundao-86309",
+      "local": "Cidade Universitária - Fundão",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     },
     {
