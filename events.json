@@ -1,433 +1,8 @@
 {
-  "gerado_em": "2026-07-27T09:40:45-03:00",
+  "gerado_em": "2026-08-03T09:50:42-03:00",
   "modo": "deterministico (custo zero)",
-  "total": 200,
+  "total": 208,
   "eventos": [
-    {
-      "id": 495284,
-      "titulo": "Escola Sino-brasileira de probabilidade",
-      "slug": "escola-sino-brasileira-de-probabilidade",
-      "data_inicio": "2026-07-27 09:00:00",
-      "data_fim": "2026-08-01 09:00:00",
-      "descricao": "Com o objetivo de fortalecer os laços acadêmicos entre o Brasil e a China na área de Probabilidade, o IMPA sediará, em julho de 2026, a Primeira Escola Sino-Brasileira de Probabilidade. O evento contará com três minicursos ministrados por jovens pesquisadores chineses de destaque, além de palestras apresentadas por probabilistas brasileiros. A escola será realizada na semana anterior à tradicional Escola Brasileira de Probabilidade, que acontecerá na primeira semana de agosto no CBPF, também no Rio de Janeiro. Essa organização foi planejada de modo a facilitar a participação de estudantes e pesquisadores brasileiros em ambos os eventos, promovendo maior integração científica e ampliando as oportunidades de intercâmbio acadêmico.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/escola-sino-brasileira-de-probabilidade/",
-      "site_oficial": "https://impa.br/evento/escola-sino-brasileira-de-probabilidade/",
-      "local": "Instituto de Matemática Pura e Aplicada - IMPA",
-      "contato": {
-        "emails": [
-          "eventos@impa.br",
-          "faleconosco@impa.br"
-        ],
-        "telefones": [
-          "(21) 2529-5000"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "impa"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento longo, 6 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de ciência de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494368,
-      "titulo": "Beach Pro Tour – Elite 16 | 2026",
-      "slug": "beach-pro-tour-elite-16-2026",
-      "data_inicio": "2026-07-29 09:00:00",
-      "data_fim": "2026-08-02 09:00:00",
-      "descricao": "O Rio de Janeiro sediará a etapa de encerramento do nível Elite entre 29 de julho e 2 de agosto de 2026. O evento marcará o retorno do Circuito Mundial ao Brasil após as três etapas iniciais da temporada.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/beach-pro-tour-elite-16-2026/",
-      "site_oficial": "https://br.volleyballworld.com/beachvolleyball/competitions/beach-pro-tour/2026/elite16/rio-de-janeiro-bra/",
-      "local": "Praia de Copacabana",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496040,
-      "titulo": "Green Soul 2026 | Um encontro sobre futuros possíveis",
-      "slug": "green-soul-2026-um-encontro-sobre-futuros-possiveis",
-      "data_inicio": "2026-07-29 09:00:00",
-      "data_fim": "2026-07-29 09:00:00",
-      "descricao": "O futuro já começou — e ele pode ser aprendido com quem há séculos desenvolve formas de viver em equilíbrio com a natureza. O Green Soul 2026 é um encontro que reúne diferentes vozes, saberes e experiências para refletir sobre caminhos concretos para a regeneração ambiental, social e econômica. Mais do que um evento sobre sustentabilidade, é uma plataforma de impacto socioambiental que conecta cultura, educação, inovação e ancestralidade para ampliar a consciência coletiva e impulsionar soluções capazes de transformar territórios, organizações e pessoas. Vivemos um momento em que as crises climática, social e econômica exigem muito mais do que novas tecnologias: exigem novas formas de organização da vida. Ou talvez antigas formas que nunca deixaram de existir. Ao longo do encontro, lideranças indígenas, quilombolas e representantes de comunidades tradicionais mostram que as formas de viver pós-capitalistas já são uma realidade em seus territórios. Eles não vêm falar sobre o passado, mas compartilhar experiências que funcionam no presente e oferecem verdadeiros “spoilers” sobre como a humanidade poderá sobreviver no futuro por meio do manejo ecológico, da inteligência coletiva, da organização comunitária e da relação de reciprocidade com a natureza. Casa Savana 29/07/2026.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/green-soul-2026-um-encontro-sobre-futuros-possiveis/",
-      "site_oficial": "https://www.sympla.com.br/evento/green-soul-2026-um-encontro-sobre-futuros-possiveis/3490179?referrer=www.google.com&referrer=www.google.com",
-      "local": "Casa Savana",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Energia / Óleo e Gás",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de energia de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-27",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496041,
-      "titulo": "Circuito Varejo Rio 2026",
-      "slug": "circuito-varejo-rio-2026",
-      "data_inicio": "2026-07-29 09:00:00",
-      "data_fim": "2026-07-29 09:00:00",
-      "descricao": "O Circuito Varejo Rio 2026 é um evento promovido pelo Sebrae Rio voltado para empresários, gestores e profissionais do varejo interessados em aprimorar estratégias de vendas, gestão, posicionamento de marca e experiência do cliente. Com o tema “Conexões que Movimentam o Varejo”, o encontro reúne palestras, painéis, mentorias, oficinas práticas e oportunidades de networking para apresentar tendências de consumo, inovação, transformação digital e ferramentas aplicáveis ao comércio. A proposta é oferecer conteúdo prático para micro e pequenas empresas, estimulando competitividade e crescimento sustentável.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-varejo-rio-2026/",
-      "site_oficial": "https://sites.rj.sebrae.com.br/inscricao/evento-circuito-varejo-rio?utm_source=meta&utm_medium=ads&utm_campaign=CIRCUITO_VAREJO_2026_14_A_28-07&utm_id=evento&utm_term=convers%C3%A3o",
-      "local": "Sebrae Rio",
-      "contato": {
-        "emails": [
-          "contatoandrefigueiredo@gmail.com",
-          "falesebraerio@rj.sebrae.com.br",
-          "rj-ouvidoria@rj.sebrae.com.br"
-        ],
-        "telefones": [
-          "(21) 96576-7825"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "sites"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Desenvolvimento / Negócios",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "líderes, gestores e times comerciais",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de negócios de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-27",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496034,
-      "titulo": "XI Congresso Internacional de Artroplastia",
-      "slug": "xi-congresso-internacional-de-artroplastia",
-      "data_inicio": "2026-07-30 09:00:00",
-      "data_fim": "2026-08-01 09:00:00",
-      "descricao": "O XI Congresso Internacional de Artroplastia é um dos principais eventos científicos brasileiros dedicados à cirurgia de substituição articular. Em sua 11ª edição, reunirá especialistas nacionais e internacionais para discutir os avanços mais recentes em artroplastias de joelho, quadril, ombro, tornozelo e pé. A programação combina conferências, mesas-redondas, debates clínicos, apresentação de casos, demonstrações de novas tecnologias e atividades práticas voltadas ao aperfeiçoamento profissional. Realizado de 30/07/2026 à 01/08/2026 no Windsor Barra.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xi-congresso-internacional-de-artroplastia/",
-      "site_oficial": "https://sbotrj.org.br/artroplastia2026/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "comunicacao@sbotrj.com.br",
-          "eventos@somosus.com.br"
-        ],
-        "telefones": [
-          "(11) 91754-4576",
-          "(21) 2543-3844",
-          "(21) 97001-7768",
-          "+55 (21) 2543-3844",
-          "+55 (21) 97001-7768"
-        ],
-        "whatsapp": [
-          "5511917544576",
-          "5521917544576"
-        ],
-        "produtoras_inferidas": [
-          "sbotrj"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Ortopedia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-27",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494367,
-      "titulo": "Conferência Faz Chover 2026",
-      "slug": "conferencia-faz-chover-2026",
-      "data_inicio": "2026-08-01 09:00:00",
-      "data_fim": "2026-08-01 09:00:00",
-      "descricao": "A Conferência Faz Chover 2026 já tem data marcada e você já pode se preparar pra esse encontro que vai mexer com suas estruturas. Dia 1º de agosto, no Rio de Janeiro, vamos viver juntos experiências que vão marcar as nossas vidas. Dia 1º de agosto, no Rio de Janeiro, vamos viver juntos experiências que vão marcar as nossas vidas",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/conferencia-faz-chover-2026/",
-      "site_oficial": "https://www.instagram.com/p/DUZGIIPkpk7/",
-      "local": "Qualistage",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 30,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496031,
-      "titulo": "Família em Movimento – Rio de Janeiro – 2026",
-      "slug": "familia-em-movimento-rio-de-janeiro-2026",
-      "data_inicio": "2026-08-01 09:00:00",
-      "data_fim": "2026-08-01 09:00:00",
-      "descricao": "Prepare-se para a Família em Movimento! Sucesso em edições anteriores, o circuito mantém o formato dinâmico que a garotada adora, reunindo corrida de obstáculos, corrida tradicional, skate e bike. Um ambiente seguro, vibrante e estruturado para a nova geração se movimentar com muita energia. Garanta já a participação! Dia 1 de Agosto no Parque dos Patins.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/familia-em-movimento-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.runningland.com.br/familia-em-movimento-rio-de-janeiro-2026",
-      "local": "Parque dos Patins",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-27",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496033,
-      "titulo": "Brasil Kids Run – Botafogo Praia Shopping",
-      "slug": "brasil-kids-run-botafogo-praia-shopping",
-      "data_inicio": "2026-08-01 09:00:00",
-      "data_fim": "2026-08-01 09:00:00",
-      "descricao": "A Brasil Kids Run foi criada para proporcionar às crianças uma experiência inesquecível através do esporte, incentivando desde cedo hábitos saudáveis, superação, alegria e interação social em um ambiente seguro, leve e cheio de energia positiva. 50 metros – crianças de 2 a 4 anos 100 metros – crianças de 5 a 7 anos 200 metros – crianças de 8 a 10 anos 300 metros – crianças de 11 a 14 anos",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/brasil-kids-run-botafogo-praia-shopping/",
-      "site_oficial": "https://corrida360.com.br/corrida/brasil-kids-run-botafogo-praia-shopping-2026",
-      "local": "Botafogo Praia Shopping",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-27",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494365,
-      "titulo": "18th International Heat Transfer Conference – IHTC 18",
-      "slug": "18th-international-heat-transfer-conference-ihtc-18",
-      "data_inicio": "2026-08-02 09:00:00",
-      "data_fim": "2026-08-07 09:00:00",
-      "descricao": "A International Heat Transfer Conference (IHTC) é o evento mais importante mundialmente para pesquisadores e profissionais que trabalham com transferência de calor, bem como com ciências e engenharia térmica. Organizada a cada quatro anos desde 1966, a IHTC é informalmente conhecida como Olimpíadas da Transferência de Calor. A IHTC já foi realizada em 19 cidades de 11 países ao redor do mundo. A 18ª edição da IHTC acontecerá no Rio de Janeiro, Brasil. A IHTC-18 é organizada sob os auspícios da Sociedade Brasileira de Engenharia Mecânica e Ciências – ABCM e da Assembleia da Conferência Internacional de Transferência de Calor – AIHTC. A ABCM é a Organização Nacional Representativa Brasileira na AIHTC. Seguindo a tradição da IHTC, a IHTC-18 consistirá em Palestras Plenárias e Palestras-Chave apresentadas por especialistas internacionalmente reconhecidos, painéis de discussão e apresentação de mais de 600 trabalhos de pesquisa originais. O objetivo da IHTC-18 é fornecer um fórum para a troca de ideias, métodos e resultados sobre tópicos fundamentais e aplicados, envolvendo transferência de calor e ciências e engenharia térmica em geral.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/18th-international-heat-transfer-conference-ihtc-18/",
-      "site_oficial": "https://ihtc18.org/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "contact@ihtc18.org"
-        ],
-        "telefones": [
-          "(21) 98985-6292"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "ihtc18"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 6 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "IHTC"
-        ],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494366,
-      "titulo": "Desafio da Ponte 2026",
-      "slug": "desafio-da-ponte-2026",
-      "data_inicio": "2026-08-02 09:00:00",
-      "data_fim": "2026-08-02 09:00:00",
-      "descricao": "Com um percurso de 23 km, a Corrida da Ponte Rio-Niterói promete ser um desafio e tanto para os participantes, que terão a oportunidade de cruzar os 13 km da maior ponte do hemisfério sul, com vistas espetaculares da Baía de Guanabara e do Cristo Redentor. PARA MAIS INFORMAÇÕES ACESSE A PÁGINA DA CORRIDA DA PONTE NO SITE DO VISIT RIO",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/desafio-da-ponte-2026/",
-      "site_oficial": "https://godream.com.br/evento/desafio-da-ponte-2026-4714257",
-      "local": "Ponte Rio Niterói",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495142,
-      "titulo": "Circuito RJ 2026 – 2ª Etapa",
-      "slug": "circuito-rj-2026-2a-etapa",
-      "data_inicio": "2026-08-02 09:00:00",
-      "data_fim": "2026-08-02 09:00:00",
-      "descricao": "A 2ª ETAPA DO CIRCUITO RJ 2026 será realizada no dia 02/08/2026 no Aterro do Flamengo, Altura do Monumento aos Pracinhas, com largada a partir das 7:00h. DISTÂNCIAS: CAMINHADA 3K CORRIDA 5K e 10K",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-rj-2026-2a-etapa/",
-      "site_oficial": "https://www.desafioenergiapetrobras.com.br/rio-de-janeiro/corrida-de-rua",
-      "local": "Aterro do Flamengo",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495283,
-      "titulo": "Circuito RJ 2026 – Etapa 2 – Forró",
-      "slug": "circuito-rj-2026-etapa-2-forro",
-      "data_inicio": "2026-08-02 09:00:00",
-      "data_fim": "2026-08-02 09:00:00",
-      "descricao": "A 2ª ETAPA DO CIRCUITO RJ 2026 será realizada no dia 02/08/2026 no Aterro do Flamengo, Altura do Monumento aos Pracinhas, com largada a partir das 7:00h. DISTÂNCIAS: CAMINHADA 3K CORRIDA 5K e 10K",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-rj-2026-etapa-2-forro/",
-      "site_oficial": "https://www.ticketsports.com.br/e/circuito-rj-2026-2a-etapa-86390",
-      "local": "Aterro do Flamengo",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496029,
-      "titulo": "Divas no Altar 2026",
-      "slug": "divas-no-altar-2026",
-      "data_inicio": "2026-08-02 09:00:00",
-      "data_fim": "2026-08-02 09:00:00",
-      "descricao": "Data: 02 de agosto de 2026 15h às 20h Local: Xian Rio O Divas no Altar é uma feira premium voltada ao mercado de casamentos e celebrações, reunindo: Vestidos de noiva, cerimonialistas ,fotografia ,buffet,decoração,beleza e novas experiências para noivos.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/divas-no-altar-2026/",
-      "site_oficial": "https://www.instagram.com/p/DYsNjIwujbb/",
-      "local": "Xian Rio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Beleza",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de estética e distribuidores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de beleza de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-27",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 495775,
       "titulo": "Rio Innovation Week 2026",
@@ -466,7 +41,7 @@
     },
     {
       "id": 495776,
-      "titulo": "Grande Prêmio Otelo do Cinema Brasileiro 2026",
+      "titulo": "Prêmio Grande Otelo do Cinema Brasileiro 2026",
       "slug": "grande-premio-otelo-do-cinema-brasileiro-2026",
       "data_inicio": "2026-08-04 09:00:00",
       "data_fim": "2026-08-04 09:00:00",
@@ -485,7 +60,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -532,7 +107,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -594,11 +169,8 @@
         "emails": [],
         "telefones": [],
         "whatsapp": [],
-        "produtoras_inferidas": [
-          "Febracis Coaching"
-        ],
-        "status": "bloqueado",
-        "fonte": "manual"
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
       },
       "inteligencia": {
         "segmento": "Corporativo / Geral",
@@ -705,17 +277,12 @@
       "local": "Windsor Oceânico",
       "contato": {
         "emails": [],
-        "telefones": [
-          "(99) 9999-9999",
-          "(99) 99999-9999"
-        ],
-        "whatsapp": [
-          "5511939069796"
-        ],
+        "telefones": [],
+        "whatsapp": [],
         "produtoras_inferidas": [
           "congressocardiologiador"
         ],
-        "status": "coletado"
+        "status": "bloqueado"
       },
       "inteligencia": {
         "segmento": "Saúde / Cardiologia",
@@ -929,7 +496,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -954,7 +521,6 @@
           "+55 21 98121-6929"
         ],
         "whatsapp": [
-          "5521981216929",
           "5521997035043"
         ],
         "produtoras_inferidas": [],
@@ -1139,6 +705,31 @@
       "local_coletado": true
     },
     {
+      "id": 496120,
+      "titulo": "IEEE IES Student and Young Professional (SYP) Congress 2026",
+      "slug": "ieee-ies-student-and-young-professional-syp-congress-2026",
+      "data_inicio": "2026-08-13 09:00:00",
+      "data_fim": "2026-08-15 09:00:00",
+      "descricao": "Congresso internacional voltado a estudantes, jovens profissionais, pesquisadores e representantes da indústria. A programação reúne palestras, workshops, painéis, sessões de networking e atividades sobre inteligência artificial, cibersegurança, ética, eletrônica industrial e desenvolvimento profissional. Dia 13-15 de Agosto no Othon Palace Copacabana Rio.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/ieee-ies-student-and-young-professional-syp-congress-2026/",
+      "site_oficial": "https://syp-congress.ieee-ies.org/",
+      "local": "Othon Palace Copacabana Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-08-03",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494807,
       "titulo": "Encontro Nutris da Casa 2026",
       "slug": "encontro-nutris-da-casa-2026",
@@ -1307,15 +898,13 @@
       "site_oficial": "https://2026congresso.abpi.org.br/inscricoes/",
       "local": "Sheraton Grand Rio Hotel & Resort",
       "contato": {
-        "emails": [
-          "abpi@abpi.org.br"
-        ],
+        "emails": [],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "2026congresso"
         ],
-        "status": "coletado"
+        "status": "erro"
       },
       "inteligencia": {
         "segmento": "Finanças / Geral",
@@ -1446,6 +1035,86 @@
       },
       "primeiro_visto": "2026-07-08",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496119,
+      "titulo": "Telco Transformation LATAM 2026",
+      "slug": "telco-transformation-latam-2026-2",
+      "data_inicio": "2026-08-19 09:00:00",
+      "data_fim": "2026-08-20 09:00:00",
+      "descricao": "O Telco Transformation LATAM 2026 é um dos principais encontros latino-americanos voltados ao setor de telecomunicações e transformação digital. O congresso reúne executivos de operadoras, reguladores, fornecedores de tecnologia, empresas de infraestrutura, especialistas em segurança cibernética e líderes da indústria para debater os desafios e oportunidades da evolução das redes de telecomunicações na América Latina. A edição de 2026 abordará temas como expansão do 5G, preparação para redes de próxima geração, inteligência artificial aplicada às operações de telecomunicações, Open RAN, automação de redes, computação em nuvem, Internet das Coisas (IoT), Big Data, gestão de riscos e cibersegurança.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/telco-transformation-latam-2026-2/",
+      "site_oficial": "https://www.conecta-latam.com/event-details/telco26",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "info@conectaevents.com"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "conecta-latam"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [
+          "LATAM"
+        ],
+        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496118,
+      "titulo": "Telco Transformation LATAM 2026",
+      "slug": "telco-transformation-latam-2026",
+      "data_inicio": "2026-08-19 09:00:00",
+      "data_fim": "2026-08-20 09:00:00",
+      "descricao": "O Telco Transformation LATAM 2026 é um dos principais encontros latino-americanos voltados ao setor de telecomunicações e transformação digital. O congresso reúne executivos de operadoras, reguladores, fornecedores de tecnologia, empresas de infraestrutura, especialistas em segurança cibernética e líderes da indústria para debater os desafios e oportunidades da evolução das redes de telecomunicações na América Latina. A edição de 2026 abordará temas como expansão do 5G, preparação para redes de próxima geração, inteligência artificial aplicada às operações de telecomunicações, Open RAN, automação de redes, computação em nuvem, Internet das Coisas (IoT), Big Data, gestão de riscos e cibersegurança.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/telco-transformation-latam-2026/",
+      "site_oficial": "https://www.conecta-latam.com/event-details/telco26",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "info@conectaevents.com"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "conecta-latam"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [
+          "LATAM"
+        ],
+        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1702,6 +1371,40 @@
       "local_coletado": true
     },
     {
+      "id": 496116,
+      "titulo": "4º Salão Rio de Interiores",
+      "slug": "4o-salao-rio-de-interiores",
+      "data_inicio": "2026-08-25 09:00:00",
+      "data_fim": "2026-08-27 09:00:00",
+      "descricao": "Feira e encontro profissional de arquitetura e design de interiores, reunindo arquitetos, urbanistas, designers, empresas, fornecedores e entidades setoriais. A programação combina exposição de produtos e soluções, palestras, debates, networking e apresentações sobre sustentabilidade, bem-estar e regeneração dos espaços.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/4o-salao-rio-de-interiores/",
+      "site_oficial": "https://www.instagram.com/salaoriodeinteriores/",
+      "local": "IAB - Instituto de Arquitetos do Brasil - SP",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de tecnologia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494352,
       "titulo": "37º Congresso Brasileiro de Endocrinologia e Metabologia 2026",
       "slug": "37o-congresso-brasileiro-de-endocrinologia-e-metabologia-2026",
@@ -1852,6 +1555,86 @@
       "local_coletado": true
     },
     {
+      "id": 496114,
+      "titulo": "Virada da Empreendedora – Rio de Janeiro",
+      "slug": "virada-da-empreendedora-rio-de-janeiro",
+      "data_inicio": "2026-08-27 09:00:00",
+      "data_fim": "2026-08-28 09:00:00",
+      "descricao": "Virada da Empreendedora 2026 A Virada da Empreendedora nasce para mulheres reais, com desafios reais, que não querem mais empreender apenas por necessidade, mas para aquelas que querem ter sucesso. É uma imersão da Rede Mulher Empreendedora (RME) para mulheres prontas para começar com direção ou crescer com método, transformando esforço em resultado. Sua virada de chave começa aqui. Temos um encontro marcado no Rio de Janeiro, nos dias 27 e 28 de Agosto.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/virada-da-empreendedora-rio-de-janeiro/",
+      "site_oficial": "https://viradadaempreendedora.net.br/rio-de-janeiro/",
+      "local": "Fiap Botafogo",
+      "contato": {
+        "emails": [
+          "contato@rme.net.br"
+        ],
+        "telefones": [
+          "+55 112619-9190"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "viradadaempreendedora"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Desenvolvimento / Negócios",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "líderes, gestores e times comerciais",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496115,
+      "titulo": "Virada da Empreendedora – Rio de Janeiro",
+      "slug": "virada-da-empreendedora-rio-de-janeiro-2",
+      "data_inicio": "2026-08-27 09:00:00",
+      "data_fim": "2026-08-28 09:00:00",
+      "descricao": "Virada da Empreendedora 2026 A Virada da Empreendedora nasce para mulheres reais, com desafios reais, que não querem mais empreender apenas por necessidade, mas para aquelas que querem ter sucesso. É uma imersão da Rede Mulher Empreendedora (RME) para mulheres prontas para começar com direção ou crescer com método, transformando esforço em resultado. Sua virada de chave começa aqui. Temos um encontro marcado no Rio de Janeiro, nos dias 27 e 28 de Agosto.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/virada-da-empreendedora-rio-de-janeiro-2/",
+      "site_oficial": "https://viradadaempreendedora.net.br/rio-de-janeiro/",
+      "local": "Fiap Botafogo",
+      "contato": {
+        "emails": [
+          "contato@rme.net.br"
+        ],
+        "telefones": [
+          "+55 112619-9190"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "viradadaempreendedora"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Desenvolvimento / Negócios",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "líderes, gestores e times comerciais",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494349,
       "titulo": "Congresso Carioca de Estudantes de Medicina 2026",
       "slug": "congresso-carioca-de-estudantes-de-medicina-2026",
@@ -1864,21 +1647,13 @@
       "site_oficial": "https://medassina.com.br/ccmed2026/",
       "local": "Barra Shopping - Multiplan",
       "contato": {
-        "emails": [
-          "adm@medassina.com.br",
-          "privacidade@eventogyn.com.br"
-        ],
-        "telefones": [
-          "(62) 98190-1910",
-          "+55 (62) 98190-1910"
-        ],
-        "whatsapp": [
-          "5562981901910"
-        ],
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
         "produtoras_inferidas": [
           "medassina"
         ],
-        "status": "coletado"
+        "status": "erro"
       },
       "inteligencia": {
         "segmento": "Saúde / Geral",
@@ -2166,7 +1941,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2244,6 +2019,31 @@
         "relevancia_b2b": 60,
         "_fonte": "heuristica"
       },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 494804,
+      "titulo": "Campeonato Sul-Americano de Vôlei 2026",
+      "slug": "campeonato-sul-americano-de-volei-2026",
+      "data_inicio": "2026-09-08 09:00:00",
+      "data_fim": "2026-09-20 09:00:00",
+      "descricao": "Alô, Rio de Janeiro! O caminho olímpico da seleção brasileira vai mais uma vez passar pelo Rio de Janeiro! Valendo vaga em Los Angeles 2028, o Campeonato Sul-Americano vai ser no Maracanãzinho! De 08 a 13 de setembro será a disputa feminina, e de 15 a 20 acontece o torneio masculino! No Ginásio Maracanazinho.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/campeonato-sul-americano-de-volei-2026/",
+      "site_oficial": "https://www.instagram.com/p/DWHEkSKiInQ/",
+      "local": "Estádio do Maracanãzinho",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
       "primeiro_visto": "2026-07-08",
       "novo": false,
       "no_feed": false,
@@ -2396,15 +2196,13 @@
       "site_oficial": "https://clpv2026.com.br/",
       "local": "Universidade Estadual do Rio de Janeiro - UERJ",
       "contato": {
-        "emails": [
-          "eventos@somosus.com.br"
-        ],
+        "emails": [],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "clpv2026"
         ],
-        "status": "coletado"
+        "status": "erro"
       },
       "inteligencia": {
         "segmento": "Ciência / Acadêmico",
@@ -2483,7 +2281,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2499,31 +2297,6 @@
       "url_visitrio": "https://visitrio.com.br/evento/integrated-water-management-pathways-for-sustainable-and-environmentally-responsible-oilfield-operations/",
       "site_oficial": "https://www.spe-events.org/workshop/integrated-water-management",
       "local": "JW Marriott Rio de Janeiro",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494804,
-      "titulo": "Campeonato Sul-Americano de Vôlei 2026",
-      "slug": "campeonato-sul-americano-de-volei-2026",
-      "data_inicio": "2026-09-15 09:00:00",
-      "data_fim": "2026-09-27 09:00:00",
-      "descricao": "Alô, Rio de Janeiro! O caminho olímpico da seleção brasileira vai mais uma vez passar pelo Rio de Janeiro! Valendo vaga em Los Angeles 2028, o Campeonato Sul-Americano vai ser no Maracanãzinho! De 15 a 20 de setembro será a disputa feminina, e de 22 a 27 acontece o torneio masculino! E não para por aí!! A Cidade Maravilhosa também vai receber as etapas do vôlei de praia agitando a Praia de Copacabana! De 22 a 26 de julho tem Circuito Brasileiro! Na sequência, de 29 de julho a 2 de agosto, as melhores duplas do mundo disputam a etapa Elite do Circuito Mundial!",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/campeonato-sul-americano-de-volei-2026/",
-      "site_oficial": "https://www.instagram.com/p/DWHEkSKiInQ/",
-      "local": "Estádio do Maracanãzinho",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -2898,7 +2671,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2912,14 +2685,18 @@
       "categoria": "corporativos",
       "categoria_fonte": "heuristica",
       "url_visitrio": "https://visitrio.com.br/evento/rog-e-2026/",
-      "site_oficial": "https://www.instagram.com/roge.energy/",
+      "site_oficial": "https://roge.energy/",
       "local": "Riocentro Convention & Events Center",
       "contato": {
         "emails": [],
         "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
+        "whatsapp": [
+          "552121129040"
+        ],
+        "produtoras_inferidas": [
+          "roge"
+        ],
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Energia / Óleo e Gás",
@@ -3335,44 +3112,6 @@
       "local_coletado": true
     },
     {
-      "id": 494332,
-      "titulo": "Febrava Rio 2026",
-      "slug": "febrava-rio-2026",
-      "data_inicio": "2026-10-06 09:00:00",
-      "data_fim": "2026-10-08 09:00:00",
-      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
-      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "+55 11 3060-4717"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "febrava"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 494331,
       "titulo": "FEICON Rio",
       "slug": "feicon-rio",
@@ -3415,6 +3154,44 @@
       "local_coletado": true
     },
     {
+      "id": 494332,
+      "titulo": "Febrava Rio 2026",
+      "slug": "febrava-rio-2026",
+      "data_inicio": "2026-10-06 09:00:00",
+      "data_fim": "2026-10-08 09:00:00",
+      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
+      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "+55 11 3060-4717"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "febrava"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494330,
       "titulo": "XXXII Congresso Brasileiro de Neurologia – CBN 2026",
       "slug": "xxxii-congresso-brasileiro-de-neurologia-cbn-2026",
@@ -3431,11 +3208,9 @@
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
-          "CCM Group",
-          "Academia Brasileira de Neurologia"
+          "congressoabneuro2026"
         ],
-        "status": "bloqueado",
-        "fonte": "manual"
+        "status": "bloqueado"
       },
       "inteligencia": {
         "segmento": "Saúde / Neurologia",
@@ -3640,7 +3415,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3803,7 +3578,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3839,7 +3614,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4014,6 +3789,88 @@
       "local_coletado": true
     },
     {
+      "id": 496112,
+      "titulo": "Festival Futuros Possíveis 2026",
+      "slug": "festival-futuros-possiveis-2026-2",
+      "data_inicio": "2026-10-22 09:00:00",
+      "data_fim": "2026-10-23 09:00:00",
+      "descricao": "Festival de tendências, inovação e estudos de futuros que reúne palestras, painéis, oficinas, experiências, instalações artísticas, música e networking. A edição de 2026 discutirá como a inteligência artificial está transformando negócios, sociedade, trabalho, cultura e vida cotidiana. Dia 22 e 23 de outubro na Casa Firjan.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026-2/",
+      "site_oficial": "https://casafirjan.com.br/",
+      "local": "Casa Firjan",
+      "contato": {
+        "emails": [
+          "dpo@firjan.com.br",
+          "imprensa@firjan.com.br"
+        ],
+        "telefones": [
+          "(21) 97256-3572"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "casafirjan"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496111,
+      "titulo": "Festival Futuros Possíveis 2026",
+      "slug": "festival-futuros-possiveis-2026",
+      "data_inicio": "2026-10-22 09:00:00",
+      "data_fim": "2026-10-23 09:00:00",
+      "descricao": "Festival de tendências, inovação e estudos de futuros que reúne palestras, painéis, oficinas, experiências, instalações artísticas, música e networking. A edição de 2026 discutirá como a inteligência artificial está transformando negócios, sociedade, trabalho, cultura e vida cotidiana. Dia 22 e 23 de outubro na Casa Firjan.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026/",
+      "site_oficial": "https://casafirjan.com.br/",
+      "local": "Casa Firjan",
+      "contato": {
+        "emails": [
+          "dpo@firjan.com.br",
+          "imprensa@firjan.com.br"
+        ],
+        "telefones": [
+          "(21) 97256-3572"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "casafirjan"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 495724,
       "titulo": "The World Experience – World Cheerleading Championship 2026",
       "slug": "the-world-experience-world-cheerleading-championship-2026",
@@ -4170,10 +4027,9 @@
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
-          "CCM Group"
+          "itsrio2026"
         ],
-        "status": "bloqueado",
-        "fonte": "manual"
+        "status": "bloqueado"
       },
       "inteligencia": {
         "segmento": "Saúde / Dermatologia",
@@ -4275,31 +4131,6 @@
       "local_coletado": true
     },
     {
-      "id": 495953,
-      "titulo": "Corrida das Poderosas 2026 – 3ª Etapa",
-      "slug": "corrida-das-poderosas-2026-3a-etapa",
-      "data_inicio": "2026-11-01 09:00:00",
-      "data_fim": "2026-11-01 09:00:00",
-      "descricao": "A 3ª Etapa do Circuito Poderosas 2026, Circuito das Flores, será realizada no dia 01/11/2026 no Aterro do Flamengo, altura do Monumento aos Pracinhas, para as distâncias de 10km e 5Km para Corrida e 3Km para Caminhada. Dia 01/11 no aterro do Flamengo.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-das-poderosas-2026-3a-etapa/",
-      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA%2520DAS%2520PODEROSAS%25202026%2520-%25203%25C2%25AA%2520ETAPA-86402?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnD5h1GSaV-3BtKTo2tFFWUr0",
-      "local": "Aterro do Flamengo",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-27",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 495954,
       "titulo": "Corrida Das Poderosas 2026 – 3ª Etapa",
       "slug": "corrida-das-poderosas-2026-3a-etapa-2",
@@ -4320,7 +4151,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4420,10 +4251,9 @@
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
-          "ABF - Associacao Brasileira de Franchising"
+          "expofranchisingabf"
         ],
-        "status": "bloqueado",
-        "fonte": "manual"
+        "status": "erro"
       },
       "inteligencia": {
         "segmento": "Desenvolvimento / Negócios",
@@ -4539,7 +4369,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4577,7 +4407,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4917,7 +4747,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-07-27",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -5183,15 +5013,13 @@
       "site_oficial": "https://friperj.rio/ii-seerj/",
       "local": "CEFET/RJ",
       "contato": {
-        "emails": [
-          "friperj@friperj.rio"
-        ],
+        "emails": [],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "friperj"
         ],
-        "status": "coletado"
+        "status": "erro"
       },
       "inteligencia": {
         "segmento": "Ciência / Acadêmico",
@@ -5200,7 +5028,7 @@
         "publico_alvo": "pesquisadores e academia",
         "empresas_citadas": [],
         "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 50,
+        "relevancia_b2b": 40,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -5644,10 +5472,9 @@
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
-          "CIALACIBU"
+          "congresocialacibu"
         ],
-        "status": "bloqueado",
-        "fonte": "manual"
+        "status": "erro"
       },
       "inteligencia": {
         "segmento": "Saúde / Ortopedia",
@@ -5683,10 +5510,9 @@
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
-          "UNESCO-IOC / Ocean Decade"
+          "oceandecade"
         ],
-        "status": "bloqueado",
-        "fonte": "manual"
+        "status": "bloqueado"
       },
       "inteligencia": {
         "segmento": "Ciência / Acadêmico",
@@ -5780,6 +5606,456 @@
       "primeiro_visto": "2026-07-08",
       "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 495284,
+      "titulo": "Escola Sino-brasileira de probabilidade",
+      "slug": "escola-sino-brasileira-de-probabilidade",
+      "data_inicio": "2026-07-27 09:00:00",
+      "data_fim": "2026-08-01 09:00:00",
+      "descricao": "Com o objetivo de fortalecer os laços acadêmicos entre o Brasil e a China na área de Probabilidade, o IMPA sediará, em julho de 2026, a Primeira Escola Sino-Brasileira de Probabilidade. O evento contará com três minicursos ministrados por jovens pesquisadores chineses de destaque, além de palestras apresentadas por probabilistas brasileiros. A escola será realizada na semana anterior à tradicional Escola Brasileira de Probabilidade, que acontecerá na primeira semana de agosto no CBPF, também no Rio de Janeiro. Essa organização foi planejada de modo a facilitar a participação de estudantes e pesquisadores brasileiros em ambos os eventos, promovendo maior integração científica e ampliando as oportunidades de intercâmbio acadêmico.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/escola-sino-brasileira-de-probabilidade/",
+      "site_oficial": "https://impa.br/evento/escola-sino-brasileira-de-probabilidade/",
+      "local": "Instituto de Matemática Pura e Aplicada - IMPA",
+      "contato": {
+        "emails": [
+          "eventos@impa.br",
+          "faleconosco@impa.br"
+        ],
+        "telefones": [
+          "(21) 2529-5000"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "impa"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento longo, 6 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494368,
+      "titulo": "Beach Pro Tour – Elite 16 | 2026",
+      "slug": "beach-pro-tour-elite-16-2026",
+      "data_inicio": "2026-07-29 09:00:00",
+      "data_fim": "2026-08-02 09:00:00",
+      "descricao": "O Rio de Janeiro sediará a etapa de encerramento do nível Elite entre 29 de julho e 2 de agosto de 2026. O evento marcará o retorno do Circuito Mundial ao Brasil após as três etapas iniciais da temporada.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/beach-pro-tour-elite-16-2026/",
+      "site_oficial": "https://br.volleyballworld.com/beachvolleyball/competitions/beach-pro-tour/2026/elite16/rio-de-janeiro-bra/",
+      "local": "Praia de Copacabana",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496040,
+      "titulo": "Green Soul 2026 | Um encontro sobre futuros possíveis",
+      "slug": "green-soul-2026-um-encontro-sobre-futuros-possiveis",
+      "data_inicio": "2026-07-29 09:00:00",
+      "data_fim": "2026-07-29 09:00:00",
+      "descricao": "O futuro já começou — e ele pode ser aprendido com quem há séculos desenvolve formas de viver em equilíbrio com a natureza. O Green Soul 2026 é um encontro que reúne diferentes vozes, saberes e experiências para refletir sobre caminhos concretos para a regeneração ambiental, social e econômica. Mais do que um evento sobre sustentabilidade, é uma plataforma de impacto socioambiental que conecta cultura, educação, inovação e ancestralidade para ampliar a consciência coletiva e impulsionar soluções capazes de transformar territórios, organizações e pessoas. Vivemos um momento em que as crises climática, social e econômica exigem muito mais do que novas tecnologias: exigem novas formas de organização da vida. Ou talvez antigas formas que nunca deixaram de existir. Ao longo do encontro, lideranças indígenas, quilombolas e representantes de comunidades tradicionais mostram que as formas de viver pós-capitalistas já são uma realidade em seus territórios. Eles não vêm falar sobre o passado, mas compartilhar experiências que funcionam no presente e oferecem verdadeiros “spoilers” sobre como a humanidade poderá sobreviver no futuro por meio do manejo ecológico, da inteligência coletiva, da organização comunitária e da relação de reciprocidade com a natureza. Casa Savana 29/07/2026.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/green-soul-2026-um-encontro-sobre-futuros-possiveis/",
+      "site_oficial": "https://www.sympla.com.br/evento/green-soul-2026-um-encontro-sobre-futuros-possiveis/3490179?referrer=www.google.com&referrer=www.google.com",
+      "local": "Casa Savana",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Energia / Óleo e Gás",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de energia de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496041,
+      "titulo": "Circuito Varejo Rio 2026",
+      "slug": "circuito-varejo-rio-2026",
+      "data_inicio": "2026-07-29 09:00:00",
+      "data_fim": "2026-07-29 09:00:00",
+      "descricao": "O Circuito Varejo Rio 2026 é um evento promovido pelo Sebrae Rio voltado para empresários, gestores e profissionais do varejo interessados em aprimorar estratégias de vendas, gestão, posicionamento de marca e experiência do cliente. Com o tema “Conexões que Movimentam o Varejo”, o encontro reúne palestras, painéis, mentorias, oficinas práticas e oportunidades de networking para apresentar tendências de consumo, inovação, transformação digital e ferramentas aplicáveis ao comércio. A proposta é oferecer conteúdo prático para micro e pequenas empresas, estimulando competitividade e crescimento sustentável.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-varejo-rio-2026/",
+      "site_oficial": "https://sites.rj.sebrae.com.br/inscricao/evento-circuito-varejo-rio?utm_source=meta&utm_medium=ads&utm_campaign=CIRCUITO_VAREJO_2026_14_A_28-07&utm_id=evento&utm_term=convers%C3%A3o",
+      "local": "Sebrae Rio",
+      "contato": {
+        "emails": [
+          "contatoandrefigueiredo@gmail.com",
+          "falesebraerio@rj.sebrae.com.br",
+          "rj-ouvidoria@rj.sebrae.com.br"
+        ],
+        "telefones": [
+          "(21) 96576-7825"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "sites"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Desenvolvimento / Negócios",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "líderes, gestores e times comerciais",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de negócios de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496034,
+      "titulo": "XI Congresso Internacional de Artroplastia",
+      "slug": "xi-congresso-internacional-de-artroplastia",
+      "data_inicio": "2026-07-30 09:00:00",
+      "data_fim": "2026-08-01 09:00:00",
+      "descricao": "O XI Congresso Internacional de Artroplastia é um dos principais eventos científicos brasileiros dedicados à cirurgia de substituição articular. Em sua 11ª edição, reunirá especialistas nacionais e internacionais para discutir os avanços mais recentes em artroplastias de joelho, quadril, ombro, tornozelo e pé. A programação combina conferências, mesas-redondas, debates clínicos, apresentação de casos, demonstrações de novas tecnologias e atividades práticas voltadas ao aperfeiçoamento profissional. Realizado de 30/07/2026 à 01/08/2026 no Windsor Barra.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xi-congresso-internacional-de-artroplastia/",
+      "site_oficial": "https://sbotrj.org.br/artroplastia2026/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "comunicacao@sbotrj.com.br",
+          "eventos@somosus.com.br"
+        ],
+        "telefones": [
+          "(11) 91754-4576",
+          "(21) 2543-3844",
+          "(21) 97001-7768",
+          "+55 (21) 2543-3844",
+          "+55 (21) 97001-7768"
+        ],
+        "whatsapp": [
+          "5511917544576",
+          "5521917544576"
+        ],
+        "produtoras_inferidas": [
+          "sbotrj"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Ortopedia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494367,
+      "titulo": "Conferência Faz Chover 2026",
+      "slug": "conferencia-faz-chover-2026",
+      "data_inicio": "2026-08-01 09:00:00",
+      "data_fim": "2026-08-01 09:00:00",
+      "descricao": "A Conferência Faz Chover 2026 já tem data marcada e você já pode se preparar pra esse encontro que vai mexer com suas estruturas. Dia 1º de agosto, no Rio de Janeiro, vamos viver juntos experiências que vão marcar as nossas vidas. Dia 1º de agosto, no Rio de Janeiro, vamos viver juntos experiências que vão marcar as nossas vidas",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/conferencia-faz-chover-2026/",
+      "site_oficial": "https://www.instagram.com/p/DUZGIIPkpk7/",
+      "local": "Qualistage",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 30,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496031,
+      "titulo": "Família em Movimento – Rio de Janeiro – 2026",
+      "slug": "familia-em-movimento-rio-de-janeiro-2026",
+      "data_inicio": "2026-08-01 09:00:00",
+      "data_fim": "2026-08-01 09:00:00",
+      "descricao": "Prepare-se para a Família em Movimento! Sucesso em edições anteriores, o circuito mantém o formato dinâmico que a garotada adora, reunindo corrida de obstáculos, corrida tradicional, skate e bike. Um ambiente seguro, vibrante e estruturado para a nova geração se movimentar com muita energia. Garanta já a participação! Dia 1 de Agosto no Parque dos Patins.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/familia-em-movimento-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.runningland.com.br/familia-em-movimento-rio-de-janeiro-2026",
+      "local": "Parque dos Patins",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496033,
+      "titulo": "Brasil Kids Run – Botafogo Praia Shopping",
+      "slug": "brasil-kids-run-botafogo-praia-shopping",
+      "data_inicio": "2026-08-01 09:00:00",
+      "data_fim": "2026-08-01 09:00:00",
+      "descricao": "A Brasil Kids Run foi criada para proporcionar às crianças uma experiência inesquecível através do esporte, incentivando desde cedo hábitos saudáveis, superação, alegria e interação social em um ambiente seguro, leve e cheio de energia positiva. 50 metros – crianças de 2 a 4 anos 100 metros – crianças de 5 a 7 anos 200 metros – crianças de 8 a 10 anos 300 metros – crianças de 11 a 14 anos",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/brasil-kids-run-botafogo-praia-shopping/",
+      "site_oficial": "https://corrida360.com.br/corrida/brasil-kids-run-botafogo-praia-shopping-2026",
+      "local": "Botafogo Praia Shopping",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494365,
+      "titulo": "18th International Heat Transfer Conference – IHTC 18",
+      "slug": "18th-international-heat-transfer-conference-ihtc-18",
+      "data_inicio": "2026-08-02 09:00:00",
+      "data_fim": "2026-08-07 09:00:00",
+      "descricao": "A International Heat Transfer Conference (IHTC) é o evento mais importante mundialmente para pesquisadores e profissionais que trabalham com transferência de calor, bem como com ciências e engenharia térmica. Organizada a cada quatro anos desde 1966, a IHTC é informalmente conhecida como Olimpíadas da Transferência de Calor. A IHTC já foi realizada em 19 cidades de 11 países ao redor do mundo. A 18ª edição da IHTC acontecerá no Rio de Janeiro, Brasil. A IHTC-18 é organizada sob os auspícios da Sociedade Brasileira de Engenharia Mecânica e Ciências – ABCM e da Assembleia da Conferência Internacional de Transferência de Calor – AIHTC. A ABCM é a Organização Nacional Representativa Brasileira na AIHTC. Seguindo a tradição da IHTC, a IHTC-18 consistirá em Palestras Plenárias e Palestras-Chave apresentadas por especialistas internacionalmente reconhecidos, painéis de discussão e apresentação de mais de 600 trabalhos de pesquisa originais. O objetivo da IHTC-18 é fornecer um fórum para a troca de ideias, métodos e resultados sobre tópicos fundamentais e aplicados, envolvendo transferência de calor e ciências e engenharia térmica em geral.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/18th-international-heat-transfer-conference-ihtc-18/",
+      "site_oficial": "https://ihtc18.org/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "contact@ihtc18.org"
+        ],
+        "telefones": [
+          "(21) 98985-6292"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "ihtc18"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 6 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "IHTC"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494366,
+      "titulo": "Desafio da Ponte 2026",
+      "slug": "desafio-da-ponte-2026",
+      "data_inicio": "2026-08-02 09:00:00",
+      "data_fim": "2026-08-02 09:00:00",
+      "descricao": "Com um percurso de 23 km, a Corrida da Ponte Rio-Niterói promete ser um desafio e tanto para os participantes, que terão a oportunidade de cruzar os 13 km da maior ponte do hemisfério sul, com vistas espetaculares da Baía de Guanabara e do Cristo Redentor. PARA MAIS INFORMAÇÕES ACESSE A PÁGINA DA CORRIDA DA PONTE NO SITE DO VISIT RIO",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/desafio-da-ponte-2026/",
+      "site_oficial": "https://godream.com.br/evento/desafio-da-ponte-2026-4714257",
+      "local": "Ponte Rio Niterói",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495142,
+      "titulo": "Circuito RJ 2026 – 2ª Etapa",
+      "slug": "circuito-rj-2026-2a-etapa",
+      "data_inicio": "2026-08-02 09:00:00",
+      "data_fim": "2026-08-02 09:00:00",
+      "descricao": "A 2ª ETAPA DO CIRCUITO RJ 2026 será realizada no dia 02/08/2026 no Aterro do Flamengo, Altura do Monumento aos Pracinhas, com largada a partir das 7:00h. DISTÂNCIAS: CAMINHADA 3K CORRIDA 5K e 10K",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-rj-2026-2a-etapa/",
+      "site_oficial": "https://www.desafioenergiapetrobras.com.br/rio-de-janeiro/corrida-de-rua",
+      "local": "Aterro do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495283,
+      "titulo": "Circuito RJ 2026 – Etapa 2 – Forró",
+      "slug": "circuito-rj-2026-etapa-2-forro",
+      "data_inicio": "2026-08-02 09:00:00",
+      "data_fim": "2026-08-02 09:00:00",
+      "descricao": "A 2ª ETAPA DO CIRCUITO RJ 2026 será realizada no dia 02/08/2026 no Aterro do Flamengo, Altura do Monumento aos Pracinhas, com largada a partir das 7:00h. DISTÂNCIAS: CAMINHADA 3K CORRIDA 5K e 10K",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-rj-2026-etapa-2-forro/",
+      "site_oficial": "https://www.ticketsports.com.br/e/circuito-rj-2026-2a-etapa-86390",
+      "local": "Aterro do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496029,
+      "titulo": "Divas no Altar 2026",
+      "slug": "divas-no-altar-2026",
+      "data_inicio": "2026-08-02 09:00:00",
+      "data_fim": "2026-08-02 09:00:00",
+      "descricao": "Data: 02 de agosto de 2026 15h às 20h Local: Xian Rio O Divas no Altar é uma feira premium voltada ao mercado de casamentos e celebrações, reunindo: Vestidos de noiva, cerimonialistas ,fotografia ,buffet,decoração,beleza e novas experiências para noivos.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/divas-no-altar-2026/",
+      "site_oficial": "https://www.instagram.com/p/DYsNjIwujbb/",
+      "local": "Xian Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Beleza",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de estética e distribuidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de beleza de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495953,
+      "titulo": "Corrida das Poderosas 2026 – 3ª Etapa",
+      "slug": "corrida-das-poderosas-2026-3a-etapa",
+      "data_inicio": "2026-11-01 09:00:00",
+      "data_fim": "2026-11-01 09:00:00",
+      "descricao": "A 3ª Etapa do Circuito Poderosas 2026, Circuito das Flores, será realizada no dia 01/11/2026 no Aterro do Flamengo, altura do Monumento aos Pracinhas, para as distâncias de 10km e 5Km para Corrida e 3Km para Caminhada. Dia 01/11 no aterro do Flamengo.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-das-poderosas-2026-3a-etapa/",
+      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA%2520DAS%2520PODEROSAS%25202026%2520-%25203%25C2%25AA%2520ETAPA-86402?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnD5h1GSaV-3BtKTo2tFFWUr0",
+      "local": "Aterro do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     },
     {
@@ -5933,8 +6209,6 @@
       "local": "Riocentro Convention & Events Center",
       "contato": {
         "emails": [
-          "accommodation@aids2026.org",
-          "info@aids2026.org",
           "privacy@iasociety.org",
           "u003eprivacy@iasociety.org"
         ],
