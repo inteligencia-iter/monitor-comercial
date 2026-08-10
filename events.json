@@ -1,505 +1,8 @@
 {
-  "gerado_em": "2026-08-03T09:50:42-03:00",
+  "gerado_em": "2026-08-10T07:26:01-03:00",
   "modo": "deterministico (custo zero)",
   "total": 208,
   "eventos": [
-    {
-      "id": 495775,
-      "titulo": "Rio Innovation Week 2026",
-      "slug": "rio-innovation-week-2026",
-      "data_inicio": "2026-08-04 09:00:00",
-      "data_fim": "2026-08-07 09:00:00",
-      "descricao": "O #RIW26 já tem data marcada para impulsionar você e o seu negócio. Prepare-se para o maior encontro global de tecnologia e inovação. 📌 Save The Date 📆 4 a 7 de agosto de 2026 📍 Píer Mauá – Rio",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/rio-innovation-week-2026/",
-      "site_oficial": "http://www.rioinnovationweek.com.br/",
-      "local": "Pier Mauá",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "rioinnovationweek"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495776,
-      "titulo": "Prêmio Grande Otelo do Cinema Brasileiro 2026",
-      "slug": "grande-premio-otelo-do-cinema-brasileiro-2026",
-      "data_inicio": "2026-08-04 09:00:00",
-      "data_fim": "2026-08-04 09:00:00",
-      "descricao": "O Prêmio Grande Otelo é considerado a principal premiação do audiovisual brasileiro, reconhecendo os melhores filmes, séries, diretores, atores, roteiristas e profissionais da indústria cinematográfica nacional. A edição de 2026 marca os 25 anos da premiação promovida pela Academia Brasileira de Cinema",
-      "categoria": "culturais",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/grande-premio-otelo-do-cinema-brasileiro-2026/",
-      "site_oficial": "https://pgo.academiabrasileiradecinema.com.br/",
-      "local": "Theatro Municipal do Rio de Janeiro",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-27",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496026,
-      "titulo": "RPA e AI TECH + AI WORLD SHOW RJ 2026",
-      "slug": "rpa-e-ai-tech-ai-world-show-rj-2026",
-      "data_inicio": "2026-08-04 09:00:00",
-      "data_fim": "2026-08-06 09:00:00",
-      "descricao": "TRÊS DIAS PARA DOMINAR O FUTURO DA TECNOLOGIA NOS NEGÓCIOS Três dias. Dois grandes eventos. Uma única inscrição. 04 a 06 de agosto de 2026 | Rio de Janeiro | Hotel Prodigy Santos Dumont Participe de uma experiência única que conecta, de forma prática e estratégica, os dois pilares mais importantes da transformação digital: Automação Inteligente + Inteligência Artificial aplicada aos negócios Em um formato inovador, você participa de dois grandes eventos complementares, com apenas uma inscrição, ampliando seu conhecimento, sua visão de mercado e suas oportunidades profissionais. – Três dias intensivos de conteúdo – Dois eventos com propostas complementares – Especialistas e empresas líderes de mercado – Acesso à feira de soluções tecnológicas – Networking com quem está liderando a transformação Uma jornada completa para quem quer sair do discurso e entrar na prática. Modalidades de Participação Congressista: ideal para quem deseja aprofundar conhecimentos, acompanhar conteúdos exclusivos, participar das palestras e ampliar o networking com especialistas e líderes do mercado. Visitante: ideal para quem deseja conhecer as soluções, tecnologias e empresas presentes na área de exposição, explorando tendências, oportunidades de negócios e conexões estratégicas.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/rpa-e-ai-tech-ai-world-show-rj-2026/",
-      "site_oficial": "https://iimainfo.com.br/rpa-rio/",
-      "local": "Prodigy Santos Dumont",
-      "contato": {
-        "emails": [
-          "contato@iima.com.br",
-          "contato@iimainfo.com.br"
-        ],
-        "telefones": [
-          "(11) 3392-4111"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "iimainfo"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Tecnologia / Inovação",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [
-          "RPA",
-          "AI",
-          "TECH",
-          "WORLD",
-          "SHOW"
-        ],
-        "angulo_comercial": "Evento de tecnologia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-27",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494364,
-      "titulo": "Cat In Rio 2026",
-      "slug": "cat-in-rio-2026",
-      "data_inicio": "2026-08-05 09:00:00",
-      "data_fim": "2026-08-07 09:00:00",
-      "descricao": "O Congresso de Medicina Felina – CAT IN RIO – já está consolidado na medicina felina brasileira e é um evento esperado por todos. Realizado anualmente, sempre durante o mês de agosto, já está em sua sétima edição presencial e é um marco em termos de inovação, organização e qualidade técnica. Em um curto espaço de tempo, grandes nomes da medicina felina discutirão, de maneira técnica e atualizada, temas presentes no dia a dia da rotina da clínica de felinos, Tema Central Gastroenterologia e Endocrinologia. A coordenação científica do evento segue com o Professor Alexandre Daniel, que preparou uma grade do mais alto nível, com palestrantes nacionais e internacionais. ​ O evento contará ainda com uma grande exposição de produtos e serviços da área, que poderá ser visitada pelos congressistas durante todo o evento. ​",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/cat-in-rio-2026/",
-      "site_oficial": "https://www.inrio.vet.br/cat-in-rio-world-2026",
-      "local": "Riale Brisa Barra Hotel",
-      "contato": {
-        "emails": [
-          "hospitalidade@inrio.vet.br",
-          "inriotrabalhos@gmail.com",
-          "reservas.bb@rialehoteis.com.br"
-        ],
-        "telefones": [
-          "08008429926"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "inrio"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Endocrinologia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495774,
-      "titulo": "Método CIS (Coaching Integral Sistêmico) 2026",
-      "slug": "metodo-cis-coaching-integral-sistemico-2026",
-      "data_inicio": "2026-08-05 09:00:00",
-      "data_fim": "2026-08-07 09:00:00",
-      "descricao": "VIVA NO SEU MÁXIMO POTENCIAL Domine e desbloqueie, em apenas 3 dias, a principal habilidade dos empresários, atletas e pessoas de Maior Sucesso no Mundo: INTELIGÊNCIA EMOCIONAL. De 5 a 7 de AGOSTO de 2026. PRESENCIAL no RIOCENTRO – Rio de Janeiro. O maior e melhor treinamento de Inteligência Emocional do mundo.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/metodo-cis-coaching-integral-sistemico-2026/",
-      "site_oficial": "https://lb.febracis.com/pre-venda-cis-rj-go?utm_source=MKT_GOOGLE_ADS&utm_medium=GOOGLE_FUNDO_SEARCH&utm_campaign=MCIS_251_LEAD_LP_PRE_VENDA&utm_content=INSTITUCIONAL_FEBRACIS_MCIS&utm_source=google_search&utm_medium=ads_gg&utm_campaign=F01_CP09_SEARCH_CA",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 3 dias.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [
-          "CIS"
-        ],
-        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494362,
-      "titulo": "IX Congresso Internacional CBMA de Arbitragem 2026",
-      "slug": "ix-congresso-internacional-cbma-de-arbitragem-2026",
-      "data_inicio": "2026-08-06 09:00:00",
-      "data_fim": "2026-08-07 09:00:00",
-      "descricao": "O CBMA (Centro Brasileiro de Mediação e Arbitragem) realiza anualmente este congresso, que é um dos eventos B2B (MICE) mais importantes do Brasil na área jurídica.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/ix-congresso-internacional-cbma-de-arbitragem-2026/",
-      "site_oficial": "https://cbma.com.br/congresso-internacional-cbma-de-arbitragem/",
-      "local": "Museu do Amanhã",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "cbma"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Jurídico",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 2 dias.",
-        "publico_alvo": "advogados, magistrados e departamentos jurídicos",
-        "empresas_citadas": [
-          "CBMA"
-        ],
-        "angulo_comercial": "Evento de jurídico de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494363,
-      "titulo": "Rio Móveis 2026",
-      "slug": "rio-moveis-2026",
-      "data_inicio": "2026-08-06 09:00:00",
-      "data_fim": "2026-08-08 09:00:00",
-      "descricao": "Em 2026, estaremos de volta ao Rio. O cenário muda, mas o propósito continua o mesmo: conectar, inspirar e movimentar o mercado mobiliário brasileiro. Em 2026, a Rio Móveis chega ao RioCentro, no coração da Cidade Maravilhosa — com mais estrutura, mais inovação e ainda mais oportunidades para quem vive o mobiliário, os negócios e o futuro do setor.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/rio-moveis-2026/",
-      "site_oficial": "https://www.riomoveis.com/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "riomoveis"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Desenvolvimento / Negócios",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 3 dias.",
-        "publico_alvo": "líderes, gestores e times comerciais",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 50,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495773,
-      "titulo": "Congresso Internacional de Cardiologia da Rede D’Or – 2026",
-      "slug": "congresso-internacional-de-cardiologia-da-rede-dor-2026",
-      "data_inicio": "2026-08-06 09:00:00",
-      "data_fim": "2026-08-08 09:00:00",
-      "descricao": "O Congresso Internacional de Cardiologia da Rede D’Or reunirá, durante três dias, especialistas nacionais e internacionais para discutir os avanços mais recentes da cardiologia moderna. A programação foi estruturada de forma multidisciplinar, abordando temas como cardiologia clínica, insuficiência cardíaca, intervenção estrutural, cardio-oncologia, cardiologia pediátrica, emergências cardiovasculares, terapia intensiva cardiovascular e o uso de inteligência artificial aplicada à prática médica. O evento também contará com workshops, atividades práticas, sessões hands-on, apresentação de casos clínicos e debates voltados à tomada de decisão baseada em evidências.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/congresso-internacional-de-cardiologia-da-rede-dor-2026/",
-      "site_oficial": "https://www.congressocardiologiador.com/",
-      "local": "Windsor Oceânico",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "congressocardiologiador"
-        ],
-        "status": "bloqueado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Cardiologia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494915,
-      "titulo": "Congresso Nacional de Asma e Alergia Respiratória 2026",
-      "slug": "congresso-nacional-de-asma-e-alergia-respiratoria-2026",
-      "data_inicio": "2026-08-07 09:00:00",
-      "data_fim": "2026-08-08 09:00:00",
-      "descricao": "O CONASMAR 2026 é um congresso médico especializado em asma, alergia respiratória e imunologia, reunindo profissionais de saúde para atualização científica e prática clínica. Será realizado nos dias 07 e 08 de Agosto no Prodigy Santos Dumont.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/congresso-nacional-de-asma-e-alergia-respiratoria-2026/",
-      "site_oficial": "https://fellini.group/evento/congresso/conasmar-congresso-nacional-de-asma-e-alergia-respiratoria",
-      "local": "Prodigy Santos Dumont",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "(21) 99489-1818"
-        ],
-        "whatsapp": [
-          "5511945211713",
-          "5521994891818",
-          "555191963701"
-        ],
-        "produtoras_inferidas": [
-          "fellini"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Pneumologia",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 2 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495141,
-      "titulo": "Festival Doce Maravilha 2026",
-      "slug": "festival-doce-maravilha-2026",
-      "data_inicio": "2026-08-07 09:00:00",
-      "data_fim": "2026-08-09 09:00:00",
-      "descricao": "O Doce Maravilha é um festival dedicado exclusivamente à música brasileira, com proposta de criar encontros inéditos entre artistas de diferentes gerações e estilos.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/festival-doce-maravilha-2026/",
-      "site_oficial": "https://www.instagram.com/umadocemaravilha/",
-      "local": "Jockey Club Brasileiro",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 3 dias.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495771,
-      "titulo": "Eclipse Night Run – Lua Minguante",
-      "slug": "eclipse-night-run-lua-minguante",
-      "data_inicio": "2026-08-08 09:00:00",
-      "data_fim": "2026-08-08 09:00:00",
-      "descricao": "📅 Data: 08/08/2026 (sábado) 🕗 Horários de largada: 20h00 (5K Corrida) | 20h05 (5K Caminhada) 📍 Local: Posto 12 – Recreio dos Bandeirantes – RJ 🏟️ Arena/Programação: • 18h00 – Concentração / Abertura da Arena e Guarda-volumes • 19h45 – Aquecimento • 20h00 – Largada 5K Corrida • 20h05 – Largada 5K Caminhada • 21h00 – Início da premiação • 22h00 – Encerramento",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/eclipse-night-run-lua-minguante/",
-      "site_oficial": "https://www.ticketsports.com.br/e/eclipse-night-run-lua-minguante-87114",
-      "local": "Posto 12 - Recreio dos Bandeirantes",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495772,
-      "titulo": "Corrida Dia dos Pais 2026",
-      "slug": "corrida-dia-dos-pais-2026",
-      "data_inicio": "2026-08-08 09:00:00",
-      "data_fim": "2026-08-08 09:00:00",
-      "descricao": "📅 Data: 08/08/2026 📍 Local: Colônia — Museu Bispo do Rosário 🧭 Endereço: Estrada Rodrigues Caldas, 3400 — Curicica ⏰ Horários: • 🟢 Largada Corrida/Caminhada: 08:00 • 🟣 Largada Kids: 09:00 ⚠️ Observação: evento sem chip de cronometragem.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-dia-dos-pais-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-dia-dos-pais-86398",
-      "local": "Museu Bispo do Rosario",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494361,
-      "titulo": "IRONMAN 70.3 – 2026",
-      "slug": "ironman-70-3-2026",
-      "data_inicio": "2026-08-09 09:00:00",
-      "data_fim": "2026-08-09 09:00:00",
-      "descricao": "O IRONMAN 70.3 é uma prova de triathlon que compreende as distancias de 1,9 km de natação, 90,1 km de ciclismo e 21,1km de corrida. A etapa no Rio de Janeiro é parte de um circuito mundial com mais de 100 provas pelo mundo, em todos os continetes.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/ironman-70-3-2026/",
-      "site_oficial": "https://unlimitedsports.com.br/",
-      "local": "AXIA Marina da Glória",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495140,
-      "titulo": "Rio Maravilha – Etapa Inverno 2026",
-      "slug": "rio-maravilha-etapa-inverno-2026",
-      "data_inicio": "2026-08-09 09:00:00",
-      "data_fim": "2026-08-09 09:00:00",
-      "descricao": "O Circuito Rio Maravilha – Etapa Inverno é uma corrida de caráter sazional que acontece no Posto 12 do Recreio no dia 09/08.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/rio-maravilha-etapa-inverno-2026/",
-      "site_oficial": "https://esportecorrida.com.br/v3/evento.php?evt=2408",
-      "local": "Posto 12 - Recreio dos Bandeirantes",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496017,
-      "titulo": "SLS Rio Takeover 2026",
-      "slug": "sls-rio-takeover-2026",
-      "data_inicio": "2026-08-09 09:00:00",
-      "data_fim": "2026-08-09 09:00:00",
-      "descricao": "A Street League Skateboarding, principal liga internacional de skate street, retorna ao Brasil em 2026 com o SLS Takeover. No dia 9 de agosto, a capital fluminense será palco de uma das etapas do SLS Championship Tour, reunindo grandes nomes do skate no Ginásio do Maracanãzinho. Depois de receber o SLS Super Crown em 2022, o Rio volta ao calendário da liga, agora no formato Spot Takeover. Mais do que uma etapa, o evento chega para ocupar mais um local icônico do cenário nacional, transformando o Maracanãzinho em um ponto de encontro da cultura do skate, com grandes nomes da modalidade e uma comunidade apaixonada pelo street em uma experiência que vai além da disputa. Além das disputas dentro da pista, o SLS Rio Takeover apresentado pelo Banco do Brasil, contará com área de alimentação, loja oficial da SLS e ativações para o público ao longo do evento, evento, sujeitas à disponibilidade, capacidade e regras de participação definidas pela organização e pelos patrocinadores. A participação dos atletas está sujeita às condições esportivas, médicas, disciplinares e operacionais da competição.A operação da praça de alimentação será realizada por fornecedores independentes.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/sls-rio-takeover-2026/",
-      "site_oficial": "https://www.ticketmaster.com.br/event/sls-rio-takeover-apresentado-pelo-banco-do-brasil--rio-de-janeiro?gad_source=1&gad_campaignid=24018627253&gbraid=0AAAAAo5U8ViAuoGqGG3j5T_uqj489OdRX&gclid=CjwKCAjwvNfSBhBiEiwAyaGMCReCBdbh6pCQQC_oBi6PILJayDex74nGcYVTdbu",
-      "local": "Estádio do Maracanãzinho",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-27",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 494360,
       "titulo": "Wedding Plus Congress 2026",
@@ -725,7 +228,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-08-03",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -898,13 +401,15 @@
       "site_oficial": "https://2026congresso.abpi.org.br/inscricoes/",
       "local": "Sheraton Grand Rio Hotel & Resort",
       "contato": {
-        "emails": [],
+        "emails": [
+          "abpi@abpi.org.br"
+        ],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "2026congresso"
         ],
-        "status": "erro"
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Finanças / Geral",
@@ -1074,7 +579,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-08-03",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1114,7 +619,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-08-03",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1400,7 +905,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-08-03",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1555,46 +1060,6 @@
       "local_coletado": true
     },
     {
-      "id": 496114,
-      "titulo": "Virada da Empreendedora – Rio de Janeiro",
-      "slug": "virada-da-empreendedora-rio-de-janeiro",
-      "data_inicio": "2026-08-27 09:00:00",
-      "data_fim": "2026-08-28 09:00:00",
-      "descricao": "Virada da Empreendedora 2026 A Virada da Empreendedora nasce para mulheres reais, com desafios reais, que não querem mais empreender apenas por necessidade, mas para aquelas que querem ter sucesso. É uma imersão da Rede Mulher Empreendedora (RME) para mulheres prontas para começar com direção ou crescer com método, transformando esforço em resultado. Sua virada de chave começa aqui. Temos um encontro marcado no Rio de Janeiro, nos dias 27 e 28 de Agosto.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/virada-da-empreendedora-rio-de-janeiro/",
-      "site_oficial": "https://viradadaempreendedora.net.br/rio-de-janeiro/",
-      "local": "Fiap Botafogo",
-      "contato": {
-        "emails": [
-          "contato@rme.net.br"
-        ],
-        "telefones": [
-          "+55 112619-9190"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "viradadaempreendedora"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Desenvolvimento / Negócios",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 2 dias.",
-        "publico_alvo": "líderes, gestores e times comerciais",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-08-03",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 496115,
       "titulo": "Virada da Empreendedora – Rio de Janeiro",
       "slug": "virada-da-empreendedora-rio-de-janeiro-2",
@@ -1630,7 +1095,47 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-08-03",
-      "novo": true,
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496114,
+      "titulo": "Virada da Empreendedora – Rio de Janeiro",
+      "slug": "virada-da-empreendedora-rio-de-janeiro",
+      "data_inicio": "2026-08-27 09:00:00",
+      "data_fim": "2026-08-28 09:00:00",
+      "descricao": "Virada da Empreendedora 2026 A Virada da Empreendedora nasce para mulheres reais, com desafios reais, que não querem mais empreender apenas por necessidade, mas para aquelas que querem ter sucesso. É uma imersão da Rede Mulher Empreendedora (RME) para mulheres prontas para começar com direção ou crescer com método, transformando esforço em resultado. Sua virada de chave começa aqui. Temos um encontro marcado no Rio de Janeiro, nos dias 27 e 28 de Agosto.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/virada-da-empreendedora-rio-de-janeiro/",
+      "site_oficial": "https://viradadaempreendedora.net.br/rio-de-janeiro/",
+      "local": "Fiap Botafogo",
+      "contato": {
+        "emails": [
+          "contato@rme.net.br"
+        ],
+        "telefones": [
+          "+55 112619-9190"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "viradadaempreendedora"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Desenvolvimento / Negócios",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "líderes, gestores e times comerciais",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1653,7 +1158,7 @@
         "produtoras_inferidas": [
           "medassina"
         ],
-        "status": "erro"
+        "status": "bloqueado"
       },
       "inteligencia": {
         "segmento": "Saúde / Geral",
@@ -2196,13 +1701,15 @@
       "site_oficial": "https://clpv2026.com.br/",
       "local": "Universidade Estadual do Rio de Janeiro - UERJ",
       "contato": {
-        "emails": [],
+        "emails": [
+          "eventos@somosus.com.br"
+        ],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "clpv2026"
         ],
-        "status": "erro"
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Ciência / Acadêmico",
@@ -3112,6 +2619,44 @@
       "local_coletado": true
     },
     {
+      "id": 494332,
+      "titulo": "Febrava Rio 2026",
+      "slug": "febrava-rio-2026",
+      "data_inicio": "2026-10-06 09:00:00",
+      "data_fim": "2026-10-08 09:00:00",
+      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
+      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "+55 11 3060-4717"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "febrava"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494331,
       "titulo": "FEICON Rio",
       "slug": "feicon-rio",
@@ -3146,44 +2691,6 @@
         ],
         "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
         "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494332,
-      "titulo": "Febrava Rio 2026",
-      "slug": "febrava-rio-2026",
-      "data_inicio": "2026-10-06 09:00:00",
-      "data_fim": "2026-10-08 09:00:00",
-      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
-      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "+55 11 3060-4717"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "febrava"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -3825,7 +3332,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-08-03",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3866,7 +3373,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-08-03",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -5013,13 +4520,15 @@
       "site_oficial": "https://friperj.rio/ii-seerj/",
       "local": "CEFET/RJ",
       "contato": {
-        "emails": [],
+        "emails": [
+          "friperj@friperj.rio"
+        ],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "friperj"
         ],
-        "status": "erro"
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Ciência / Acadêmico",
@@ -5028,7 +4537,7 @@
         "publico_alvo": "pesquisadores e academia",
         "empresas_citadas": [],
         "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 40,
+        "relevancia_b2b": 50,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -5606,6 +5115,503 @@
       "primeiro_visto": "2026-07-08",
       "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 495775,
+      "titulo": "Rio Innovation Week 2026",
+      "slug": "rio-innovation-week-2026",
+      "data_inicio": "2026-08-04 09:00:00",
+      "data_fim": "2026-08-07 09:00:00",
+      "descricao": "O #RIW26 já tem data marcada para impulsionar você e o seu negócio. Prepare-se para o maior encontro global de tecnologia e inovação. 📌 Save The Date 📆 4 a 7 de agosto de 2026 📍 Píer Mauá – Rio",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-innovation-week-2026/",
+      "site_oficial": "http://www.rioinnovationweek.com.br/",
+      "local": "Pier Mauá",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "rioinnovationweek"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495776,
+      "titulo": "Prêmio Grande Otelo do Cinema Brasileiro 2026",
+      "slug": "grande-premio-otelo-do-cinema-brasileiro-2026",
+      "data_inicio": "2026-08-04 09:00:00",
+      "data_fim": "2026-08-04 09:00:00",
+      "descricao": "O Prêmio Grande Otelo é considerado a principal premiação do audiovisual brasileiro, reconhecendo os melhores filmes, séries, diretores, atores, roteiristas e profissionais da indústria cinematográfica nacional. A edição de 2026 marca os 25 anos da premiação promovida pela Academia Brasileira de Cinema",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/grande-premio-otelo-do-cinema-brasileiro-2026/",
+      "site_oficial": "https://pgo.academiabrasileiradecinema.com.br/",
+      "local": "Theatro Municipal do Rio de Janeiro",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496026,
+      "titulo": "RPA e AI TECH + AI WORLD SHOW RJ 2026",
+      "slug": "rpa-e-ai-tech-ai-world-show-rj-2026",
+      "data_inicio": "2026-08-04 09:00:00",
+      "data_fim": "2026-08-06 09:00:00",
+      "descricao": "TRÊS DIAS PARA DOMINAR O FUTURO DA TECNOLOGIA NOS NEGÓCIOS Três dias. Dois grandes eventos. Uma única inscrição. 04 a 06 de agosto de 2026 | Rio de Janeiro | Hotel Prodigy Santos Dumont Participe de uma experiência única que conecta, de forma prática e estratégica, os dois pilares mais importantes da transformação digital: Automação Inteligente + Inteligência Artificial aplicada aos negócios Em um formato inovador, você participa de dois grandes eventos complementares, com apenas uma inscrição, ampliando seu conhecimento, sua visão de mercado e suas oportunidades profissionais. – Três dias intensivos de conteúdo – Dois eventos com propostas complementares – Especialistas e empresas líderes de mercado – Acesso à feira de soluções tecnológicas – Networking com quem está liderando a transformação Uma jornada completa para quem quer sair do discurso e entrar na prática. Modalidades de Participação Congressista: ideal para quem deseja aprofundar conhecimentos, acompanhar conteúdos exclusivos, participar das palestras e ampliar o networking com especialistas e líderes do mercado. Visitante: ideal para quem deseja conhecer as soluções, tecnologias e empresas presentes na área de exposição, explorando tendências, oportunidades de negócios e conexões estratégicas.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/rpa-e-ai-tech-ai-world-show-rj-2026/",
+      "site_oficial": "https://iimainfo.com.br/rpa-rio/",
+      "local": "Prodigy Santos Dumont",
+      "contato": {
+        "emails": [
+          "contato@iima.com.br",
+          "contato@iimainfo.com.br"
+        ],
+        "telefones": [
+          "(11) 3392-4111"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "iimainfo"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [
+          "RPA",
+          "AI",
+          "TECH",
+          "WORLD",
+          "SHOW"
+        ],
+        "angulo_comercial": "Evento de tecnologia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494364,
+      "titulo": "Cat In Rio 2026",
+      "slug": "cat-in-rio-2026",
+      "data_inicio": "2026-08-05 09:00:00",
+      "data_fim": "2026-08-07 09:00:00",
+      "descricao": "O Congresso de Medicina Felina – CAT IN RIO – já está consolidado na medicina felina brasileira e é um evento esperado por todos. Realizado anualmente, sempre durante o mês de agosto, já está em sua sétima edição presencial e é um marco em termos de inovação, organização e qualidade técnica. Em um curto espaço de tempo, grandes nomes da medicina felina discutirão, de maneira técnica e atualizada, temas presentes no dia a dia da rotina da clínica de felinos, Tema Central Gastroenterologia e Endocrinologia. A coordenação científica do evento segue com o Professor Alexandre Daniel, que preparou uma grade do mais alto nível, com palestrantes nacionais e internacionais. ​ O evento contará ainda com uma grande exposição de produtos e serviços da área, que poderá ser visitada pelos congressistas durante todo o evento. ​",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/cat-in-rio-2026/",
+      "site_oficial": "https://www.inrio.vet.br/cat-in-rio-world-2026",
+      "local": "Riale Brisa Barra Hotel",
+      "contato": {
+        "emails": [
+          "hospitalidade@inrio.vet.br",
+          "inriotrabalhos@gmail.com",
+          "reservas.bb@rialehoteis.com.br"
+        ],
+        "telefones": [
+          "08008429926"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "inrio"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Endocrinologia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495774,
+      "titulo": "Método CIS (Coaching Integral Sistêmico) 2026",
+      "slug": "metodo-cis-coaching-integral-sistemico-2026",
+      "data_inicio": "2026-08-05 09:00:00",
+      "data_fim": "2026-08-07 09:00:00",
+      "descricao": "VIVA NO SEU MÁXIMO POTENCIAL Domine e desbloqueie, em apenas 3 dias, a principal habilidade dos empresários, atletas e pessoas de Maior Sucesso no Mundo: INTELIGÊNCIA EMOCIONAL. De 5 a 7 de AGOSTO de 2026. PRESENCIAL no RIOCENTRO – Rio de Janeiro. O maior e melhor treinamento de Inteligência Emocional do mundo.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/metodo-cis-coaching-integral-sistemico-2026/",
+      "site_oficial": "https://lb.febracis.com/pre-venda-cis-rj-go?utm_source=MKT_GOOGLE_ADS&utm_medium=GOOGLE_FUNDO_SEARCH&utm_campaign=MCIS_251_LEAD_LP_PRE_VENDA&utm_content=INSTITUCIONAL_FEBRACIS_MCIS&utm_source=google_search&utm_medium=ads_gg&utm_campaign=F01_CP09_SEARCH_CA",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 3 dias.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [
+          "CIS"
+        ],
+        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494362,
+      "titulo": "IX Congresso Internacional CBMA de Arbitragem 2026",
+      "slug": "ix-congresso-internacional-cbma-de-arbitragem-2026",
+      "data_inicio": "2026-08-06 09:00:00",
+      "data_fim": "2026-08-07 09:00:00",
+      "descricao": "O CBMA (Centro Brasileiro de Mediação e Arbitragem) realiza anualmente este congresso, que é um dos eventos B2B (MICE) mais importantes do Brasil na área jurídica.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/ix-congresso-internacional-cbma-de-arbitragem-2026/",
+      "site_oficial": "https://cbma.com.br/congresso-internacional-cbma-de-arbitragem/",
+      "local": "Museu do Amanhã",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "cbma"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Jurídico",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "advogados, magistrados e departamentos jurídicos",
+        "empresas_citadas": [
+          "CBMA"
+        ],
+        "angulo_comercial": "Evento de jurídico de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494363,
+      "titulo": "Rio Móveis 2026",
+      "slug": "rio-moveis-2026",
+      "data_inicio": "2026-08-06 09:00:00",
+      "data_fim": "2026-08-08 09:00:00",
+      "descricao": "Em 2026, estaremos de volta ao Rio. O cenário muda, mas o propósito continua o mesmo: conectar, inspirar e movimentar o mercado mobiliário brasileiro. Em 2026, a Rio Móveis chega ao RioCentro, no coração da Cidade Maravilhosa — com mais estrutura, mais inovação e ainda mais oportunidades para quem vive o mobiliário, os negócios e o futuro do setor.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-moveis-2026/",
+      "site_oficial": "https://www.riomoveis.com/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "riomoveis"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Desenvolvimento / Negócios",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 3 dias.",
+        "publico_alvo": "líderes, gestores e times comerciais",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 50,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495773,
+      "titulo": "Congresso Internacional de Cardiologia da Rede D’Or – 2026",
+      "slug": "congresso-internacional-de-cardiologia-da-rede-dor-2026",
+      "data_inicio": "2026-08-06 09:00:00",
+      "data_fim": "2026-08-08 09:00:00",
+      "descricao": "O Congresso Internacional de Cardiologia da Rede D’Or reunirá, durante três dias, especialistas nacionais e internacionais para discutir os avanços mais recentes da cardiologia moderna. A programação foi estruturada de forma multidisciplinar, abordando temas como cardiologia clínica, insuficiência cardíaca, intervenção estrutural, cardio-oncologia, cardiologia pediátrica, emergências cardiovasculares, terapia intensiva cardiovascular e o uso de inteligência artificial aplicada à prática médica. O evento também contará com workshops, atividades práticas, sessões hands-on, apresentação de casos clínicos e debates voltados à tomada de decisão baseada em evidências.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/congresso-internacional-de-cardiologia-da-rede-dor-2026/",
+      "site_oficial": "https://www.congressocardiologiador.com/",
+      "local": "Windsor Oceânico",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "congressocardiologiador"
+        ],
+        "status": "bloqueado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Cardiologia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494915,
+      "titulo": "Congresso Nacional de Asma e Alergia Respiratória 2026",
+      "slug": "congresso-nacional-de-asma-e-alergia-respiratoria-2026",
+      "data_inicio": "2026-08-07 09:00:00",
+      "data_fim": "2026-08-08 09:00:00",
+      "descricao": "O CONASMAR 2026 é um congresso médico especializado em asma, alergia respiratória e imunologia, reunindo profissionais de saúde para atualização científica e prática clínica. Será realizado nos dias 07 e 08 de Agosto no Prodigy Santos Dumont.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/congresso-nacional-de-asma-e-alergia-respiratoria-2026/",
+      "site_oficial": "https://fellini.group/evento/congresso/conasmar-congresso-nacional-de-asma-e-alergia-respiratoria",
+      "local": "Prodigy Santos Dumont",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "(21) 99489-1818"
+        ],
+        "whatsapp": [
+          "5511945211713",
+          "5521994891818",
+          "555191963701"
+        ],
+        "produtoras_inferidas": [
+          "fellini"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Pneumologia",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495141,
+      "titulo": "Festival Doce Maravilha 2026",
+      "slug": "festival-doce-maravilha-2026",
+      "data_inicio": "2026-08-07 09:00:00",
+      "data_fim": "2026-08-09 09:00:00",
+      "descricao": "O Doce Maravilha é um festival dedicado exclusivamente à música brasileira, com proposta de criar encontros inéditos entre artistas de diferentes gerações e estilos.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/festival-doce-maravilha-2026/",
+      "site_oficial": "https://www.instagram.com/umadocemaravilha/",
+      "local": "Jockey Club Brasileiro",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 3 dias.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495771,
+      "titulo": "Eclipse Night Run – Lua Minguante",
+      "slug": "eclipse-night-run-lua-minguante",
+      "data_inicio": "2026-08-08 09:00:00",
+      "data_fim": "2026-08-08 09:00:00",
+      "descricao": "📅 Data: 08/08/2026 (sábado) 🕗 Horários de largada: 20h00 (5K Corrida) | 20h05 (5K Caminhada) 📍 Local: Posto 12 – Recreio dos Bandeirantes – RJ 🏟️ Arena/Programação: • 18h00 – Concentração / Abertura da Arena e Guarda-volumes • 19h45 – Aquecimento • 20h00 – Largada 5K Corrida • 20h05 – Largada 5K Caminhada • 21h00 – Início da premiação • 22h00 – Encerramento",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/eclipse-night-run-lua-minguante/",
+      "site_oficial": "https://www.ticketsports.com.br/e/eclipse-night-run-lua-minguante-87114",
+      "local": "Posto 12 - Recreio dos Bandeirantes",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495772,
+      "titulo": "Corrida Dia dos Pais 2026",
+      "slug": "corrida-dia-dos-pais-2026",
+      "data_inicio": "2026-08-08 09:00:00",
+      "data_fim": "2026-08-08 09:00:00",
+      "descricao": "📅 Data: 08/08/2026 📍 Local: Colônia — Museu Bispo do Rosário 🧭 Endereço: Estrada Rodrigues Caldas, 3400 — Curicica ⏰ Horários: • 🟢 Largada Corrida/Caminhada: 08:00 • 🟣 Largada Kids: 09:00 ⚠️ Observação: evento sem chip de cronometragem.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-dia-dos-pais-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-dia-dos-pais-86398",
+      "local": "Museu Bispo do Rosario",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494361,
+      "titulo": "IRONMAN 70.3 – 2026",
+      "slug": "ironman-70-3-2026",
+      "data_inicio": "2026-08-09 09:00:00",
+      "data_fim": "2026-08-09 09:00:00",
+      "descricao": "O IRONMAN 70.3 é uma prova de triathlon que compreende as distancias de 1,9 km de natação, 90,1 km de ciclismo e 21,1km de corrida. A etapa no Rio de Janeiro é parte de um circuito mundial com mais de 100 provas pelo mundo, em todos os continetes.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/ironman-70-3-2026/",
+      "site_oficial": "https://unlimitedsports.com.br/",
+      "local": "AXIA Marina da Glória",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495140,
+      "titulo": "Rio Maravilha – Etapa Inverno 2026",
+      "slug": "rio-maravilha-etapa-inverno-2026",
+      "data_inicio": "2026-08-09 09:00:00",
+      "data_fim": "2026-08-09 09:00:00",
+      "descricao": "O Circuito Rio Maravilha – Etapa Inverno é uma corrida de caráter sazional que acontece no Posto 12 do Recreio no dia 09/08.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-maravilha-etapa-inverno-2026/",
+      "site_oficial": "https://esportecorrida.com.br/v3/evento.php?evt=2408",
+      "local": "Posto 12 - Recreio dos Bandeirantes",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496017,
+      "titulo": "SLS Rio Takeover 2026",
+      "slug": "sls-rio-takeover-2026",
+      "data_inicio": "2026-08-09 09:00:00",
+      "data_fim": "2026-08-09 09:00:00",
+      "descricao": "A Street League Skateboarding, principal liga internacional de skate street, retorna ao Brasil em 2026 com o SLS Takeover. No dia 9 de agosto, a capital fluminense será palco de uma das etapas do SLS Championship Tour, reunindo grandes nomes do skate no Ginásio do Maracanãzinho. Depois de receber o SLS Super Crown em 2022, o Rio volta ao calendário da liga, agora no formato Spot Takeover. Mais do que uma etapa, o evento chega para ocupar mais um local icônico do cenário nacional, transformando o Maracanãzinho em um ponto de encontro da cultura do skate, com grandes nomes da modalidade e uma comunidade apaixonada pelo street em uma experiência que vai além da disputa. Além das disputas dentro da pista, o SLS Rio Takeover apresentado pelo Banco do Brasil, contará com área de alimentação, loja oficial da SLS e ativações para o público ao longo do evento, evento, sujeitas à disponibilidade, capacidade e regras de participação definidas pela organização e pelos patrocinadores. A participação dos atletas está sujeita às condições esportivas, médicas, disciplinares e operacionais da competição.A operação da praça de alimentação será realizada por fornecedores independentes.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/sls-rio-takeover-2026/",
+      "site_oficial": "https://www.ticketmaster.com.br/event/sls-rio-takeover-apresentado-pelo-banco-do-brasil--rio-de-janeiro?gad_source=1&gad_campaignid=24018627253&gbraid=0AAAAAo5U8ViAuoGqGG3j5T_uqj489OdRX&gclid=CjwKCAjwvNfSBhBiEiwAyaGMCReCBdbh6pCQQC_oBi6PILJayDex74nGcYVTdbu",
+      "local": "Estádio do Maracanãzinho",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     },
     {
