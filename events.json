@@ -1,433 +1,8 @@
 {
-  "gerado_em": "2026-08-10T07:26:01-03:00",
+  "gerado_em": "2026-08-17T06:51:57-03:00",
   "modo": "deterministico (custo zero)",
-  "total": 208,
+  "total": 204,
   "eventos": [
-    {
-      "id": 494360,
-      "titulo": "Wedding Plus Congress 2026",
-      "slug": "wedding-plus-congress-2026",
-      "data_inicio": "2026-08-10 09:00:00",
-      "data_fim": "2026-08-12 09:00:00",
-      "descricao": "Wedding Plus Congress é um evento internacional que reune profissionais renomados do mercado de casamentos de todo o mundo. Realizado no Rio de Janeiro, Brasil, e conta com palestras de nomes consagrados, além de oficinas práticas em diversas áreas do setor, como wedding planners, fotógrafos, decoradores e cake designers. Além dos especialistas do mercado de casamentos, o congresso contará com a presença de autoridades renomadas em assuntos como marketing, vendas, jurídica e administrativa/financeira. Essa diversidade de conhecimentos e experiências proporcionará um ambiente de aprendizado e troca de informações enriquecedoras.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/wedding-plus-congress-2026/",
-      "site_oficial": "https://wp.inesquecivelcasamento.com.br/#sobre",
-      "local": "Fairmont Rio de Janeiro Copacabana",
-      "contato": {
-        "emails": [
-          "eventos@ace.com.br"
-        ],
-        "telefones": [
-          "(21) 3578-6242",
-          "+55 21 98121-6929"
-        ],
-        "whatsapp": [
-          "5521997035043"
-        ],
-        "produtoras_inferidas": [],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494359,
-      "titulo": "XXXVI Congresso Brasileiro de Neurocirurgia 2026",
-      "slug": "xxxvi-congresso-brasileiro-de-neurocirurgia-2026",
-      "data_inicio": "2026-08-11 09:00:00",
-      "data_fim": "2026-08-15 09:00:00",
-      "descricao": "O XXXVI Congresso Brasileiro de Neurocirurgia é o principal congresso nacional da especialidade no Brasil, reunindo neurocirurgiões, médicos residentes, pesquisadores, professores e profissionais da saúde para atualização científica, discussão de casos clínicos, avanços tecnológicos e educação médica continuada em neurocirurgia.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xxxvi-congresso-brasileiro-de-neurocirurgia-2026/",
-      "site_oficial": "https://cbn2026.com.br/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "dayse.freitas@ccmgroup.com.br"
-        ],
-        "telefones": [
-          "+55 11 94550-4863"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "CCM Group"
-        ],
-        "status": "coletado",
-        "fonte": "manual",
-        "travado": true
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Neurologia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 5 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 90,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495139,
-      "titulo": "IX Congresso Internacional de Direito Tributário do Rio de Janeiro",
-      "slug": "ix-congresso-internacional-de-direito-tributario-do-rio-de-janeiro",
-      "data_inicio": "2026-08-12 09:00:00",
-      "data_fim": "2026-08-14 09:00:00",
-      "descricao": "A Associação Brasileira de Direito Financeiro (ABDF) realizará o IX Congresso Internacional de Direito Tributário do Rio de Janeiro, de 12 a 14 de agosto de 2026, tendo como tema “Reforma Tributária em Movimento: Primeiros Desafios da Implementação”. O congresso reunirá especialistas nacionais e internacionais para promover debates qualificados sobre os impactos iniciais e os desafios práticos decorrentes da implementação do novo modelo tributário brasileiro.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/ix-congresso-internacional-de-direito-tributario-do-rio-de-janeiro/",
-      "site_oficial": "https://congresso2026.abdf.com.br/#sobre",
-      "local": "Sheraton Grand Rio Hotel & Resort",
-      "contato": {
-        "emails": [
-          "congressoabdf.patrocinio@abdf.com.br",
-          "congressoabdf@abdf.com.br"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "ABDF"
-        ],
-        "status": "coletado",
-        "fonte": "manual",
-        "travado": true
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495770,
-      "titulo": "Blockchain Rio 2026",
-      "slug": "blockchain-rio-2026",
-      "data_inicio": "2026-08-12 09:00:00",
-      "data_fim": "2026-08-13 09:00:00",
-      "descricao": "📍 ExpoRio – Cidade Nova, Rio de Janeiro 12 e 13 de agosto de 2026 · 10h às 19h O principal encontro institucional da América Latina sobre blockchain, tokenização e infraestrutura financeira digital Onde tecnologia, regulação e mercado convergem para definir a próxima camada da infraestrutura econômica global. O Blockchain.RIO 2026 consolidou-se como o principal ambiente de convergência entre líderes institucionais, formuladores de políticas públicas, instituições financeiras, investidores, empresas de tecnologia e especialistas que estão construindo a nova arquitetura financeira baseada em blockchain, ativos digitais e tokenização. Mais do que um evento, é um espaço estratégico para compreender como novas infraestruturas digitais estão redesenhando pagamentos, mercados de capitais, identidade digital, crédito, ativos tokenizados e liquidação financeira.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/blockchain-rio-2026/",
-      "site_oficial": "https://blockchainrio.com.br/pt/#tickets",
-      "local": "ExpoRio Cidade Nova",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "blockchainrio"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Tecnologia / Inovação",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de tecnologia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494357,
-      "titulo": "15º Congresso Brasileiro de Atuária",
-      "slug": "15o-congresso-brasileiro-de-atuaria",
-      "data_inicio": "2026-08-13 09:00:00",
-      "data_fim": "2026-08-14 09:00:00",
-      "descricao": "O 15º Congresso Brasileiro de Atuária (15º CBA) é o principal encontro anual da comunidade atuarial do Brasil, organizado pelo Instituto Brasileiro de Atuária (IBA). O congresso reúne atuários profissionais, pesquisadores, gestores, especialistas em risco, dados e inteligência e tomadores de decisão do mercado financeiro, previdenciário, segurador e consultivo, com foco em tendências, inovação, uso de dados e papel estratégico do atuário na sociedade brasileira.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/15o-congresso-brasileiro-de-atuaria/",
-      "site_oficial": "https://atuarios.org.br/?",
-      "local": "Windsor Barra Hotel & Congressos",
-      "contato": {
-        "emails": [
-          "contato@atuarios.org.br",
-          "iba@atuarios.org.br",
-          "secretaria@atuarios.org.br"
-        ],
-        "telefones": [
-          "(21) 2531-2865",
-          "+55-21-2531-2865",
-          "+552125312865"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "atuarios"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 2 dias.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de finanças de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496120,
-      "titulo": "IEEE IES Student and Young Professional (SYP) Congress 2026",
-      "slug": "ieee-ies-student-and-young-professional-syp-congress-2026",
-      "data_inicio": "2026-08-13 09:00:00",
-      "data_fim": "2026-08-15 09:00:00",
-      "descricao": "Congresso internacional voltado a estudantes, jovens profissionais, pesquisadores e representantes da indústria. A programação reúne palestras, workshops, painéis, sessões de networking e atividades sobre inteligência artificial, cibersegurança, ética, eletrônica industrial e desenvolvimento profissional. Dia 13-15 de Agosto no Othon Palace Copacabana Rio.",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/ieee-ies-student-and-young-professional-syp-congress-2026/",
-      "site_oficial": "https://syp-congress.ieee-ies.org/",
-      "local": "Othon Palace Copacabana Rio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-08-03",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494807,
-      "titulo": "Encontro Nutris da Casa 2026",
-      "slug": "encontro-nutris-da-casa-2026",
-      "data_inicio": "2026-08-15 09:00:00",
-      "data_fim": "2026-08-15 09:00:00",
-      "descricao": "O Encontro Nutris da Casa 2026 é um evento voltado para profiszionais de nutrição, com foco em atualização científica, prática clínica e networking",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/encontro-nutris-da-casa-2026/",
-      "site_oficial": "https://www.instagram.com/p/DXKPnNdDpRw/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495767,
-      "titulo": "PotterCon RJ 2026",
-      "slug": "pottercon-rj-2026",
-      "data_inicio": "2026-08-15 09:00:00",
-      "data_fim": "2026-08-15 09:00:00",
-      "descricao": "✨ Prepare sua varinha, vista seu uniforme de Hogwarts e embarque em uma experiência mágica inesquecível! A PotterCon RJ chega ao Rio de Janeiro reunindo fãs do universo de Harry Potter para um dia repleto de magia, diversão e experiências imersivas. ⚡🪄 O evento promete encantar bruxos e trouxas de todas as idades com atrações temáticas, concursos de cosplay, cenários instagramáveis, apresentações, lojinhas geek, atividades interativas e muito mais. Uma oportunidade única para viver de perto toda a emoção do mundo mágico mais amado do cinema e da literatura. Se você sempre sonhou em receber sua carta de Hogwarts, esta é a chance perfeita para reunir os amigos, celebrar sua casa favorita e mergulhar em um universo cheio de fantasia e nostalgia. 📍Rua Conde de Bonfim, nº 451 – Tijuca, Rio de Janeiro – RJ.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/pottercon-rj-2026/",
-      "site_oficial": "https://www.idealproducoes.com.br/potterconrj",
-      "local": "Tijuca Tênis Clube",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "idealproducoes"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 30,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495768,
-      "titulo": "Congresso de Autismo do Rio de Janeiro 2026",
-      "slug": "congresso-de-autismo-do-rio-de-janeiro-2026",
-      "data_inicio": "2026-08-15 09:00:00",
-      "data_fim": "2026-08-15 09:00:00",
-      "descricao": "Depois de reunir mais de 1.200 participantes em 2025, estamos preparados para fazer história novamente e, como sempre, reunindo grandes nomes do autismo. No dia 15 de agosto de 2026, vamos ter como palestrantes os maiores especialistas em autismo e comportamento aplicado do Brasil, como Fábio Coelho, Lucelmo Lacerda e Aída Brito, além de contar com outros renomados especialistas em autismo, de diferentes áreas.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/congresso-de-autismo-do-rio-de-janeiro-2026/",
-      "site_oficial": "https://lp.congressodeautismorj.com.br/pre-venda-promocional?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnOSRKiYoPwOG111Yw2mRUtMZqp-roqWiSBU1d3rpGoIxrj0FWbrY2ZlAJ24I_aem_9H1xkK84U",
-      "local": "Riale Brisa Barra Hotel",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [
-          "5521971582981"
-        ],
-        "produtoras_inferidas": [],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 1 dias.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 50,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494356,
-      "titulo": "28ª Meia Maratona Int’l do Rio – Rio Half Marathon",
-      "slug": "28a-meia-maratona-intl-do-rio-rio-half-marathon",
-      "data_inicio": "2026-08-16 09:00:00",
-      "data_fim": "2026-08-16 09:00:00",
-      "descricao": "A Meia Maratona Internacional do Rio de Janeiro é um dos eventos esportivos de rua mais prestigiados do Brasil. O evento atrai dezenas de milhares de participantes e se destaca por seu percurso cênico, que percorre a orla da cidade, passando pelos principais cartões-postais como Copacabana e o Pão de Açúcar. O evento oferece distâncias para todos os níveis de corredores: a desafiadora Meia Maratona (21K), a Corrida 10K e a Corrida e Caminhada 5K. A largada dos 21K ocorre no Leblon/Praia de São Conrado, e a chegada de todas as provas é no famoso Aterro do Flamengo. O evento é uma celebração do esporte e do turismo, com a entrega de kits e a Expo Atleta sendo realizadas na Marina da Glória.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/28a-meia-maratona-intl-do-rio-rio-half-marathon/",
-      "site_oficial": "https://www.yescom.com.br/meiadorio/2026/index.asp",
-      "local": "OUTROS",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495278,
-      "titulo": "Circuito Allrunning 3º Etapa Recreio dos bandeirantes",
-      "slug": "circuito-allrunning-3o-etapa-recreio-dos-bandeirantes",
-      "data_inicio": "2026-08-16 09:00:00",
-      "data_fim": "2026-08-16 09:00:00",
-      "descricao": "Vem aí a 3ª etapa do Circuito All Running É a sua chance de fazer parte de mais um desafio inesquecível! 🏃‍♂️💥 📍 Recreio dos Bandeirantes – Posto 12 📅 16 de agosto ⏰ Largada às 7h00 Escolha o seu ritmo e venha viver essa experiência: 🏃‍♂️ 5K Corrida 🚶‍♀️ 3K Caminhada Prepare-se para um evento com estrutura completa, kit exclusivo e aquela energia que só o All Running tem! ⚡🎽 🎯 Garanta já sua vaga e venha superar seus limites com a gente! 👉 Inscreva-se agora e não fique de fora!",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-allrunning-3o-etapa-recreio-dos-bandeirantes/",
-      "site_oficial": "https://www.ticketsports.com.br/e/circuito-allrunning-3o-etapa-recreio-dos-bandeirantes-86596",
-      "local": "Posto 12 - Recreio dos Bandeirantes",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495765,
-      "titulo": "46º Congreso Internacional de la ABPI – Encontro Global de Inovação e Propriedade Intelectual",
-      "slug": "46o-congreso-internacional-de-la-abpi-encontro-global-de-inovacao-e-propriedade-intelectual",
-      "data_inicio": "2026-08-16 09:00:00",
-      "data_fim": "2026-08-18 09:00:00",
-      "descricao": "O 46º Congresso Internacional da ABPI, reformulado em 2026 como Encontro Global de Inovação e Propriedade Intelectual, reúne especialistas, executivos, autoridades públicas, empresas, startups, escritórios de advocacia, pesquisadores e representantes do ecossistema de inovação para discutir os desafios e oportunidades da propriedade intelectual na economia do conhecimento. O evento aborda temas relacionados à inteligência artificial, novas tecnologias, empreendedorismo, proteção de ativos intangíveis, inovação corporativa, transferência de tecnologia, concorrência, direitos digitais e estratégias de negócios baseadas em propriedade intelectual. A programação inclui palestras, arenas temáticas, networking executivo, exposição de empresas e ambientes dedicados à geração de negócios e conexões institucionais.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/46o-congreso-internacional-de-la-abpi-encontro-global-de-inovacao-e-propriedade-intelectual/",
-      "site_oficial": "https://2026congresso.abpi.org.br/inscricoes/",
-      "local": "Sheraton Grand Rio Hotel & Resort",
-      "contato": {
-        "emails": [
-          "abpi@abpi.org.br"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "2026congresso"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [
-          "ABPI"
-        ],
-        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 495763,
       "titulo": "ENCOMEX 2026 RJ",
@@ -2431,44 +2006,6 @@
       "local_coletado": true
     },
     {
-      "id": 494335,
-      "titulo": "20th World Congress on Menopause – WCM 2026",
-      "slug": "20th-world-congress-on-menopause-wcm-2026",
-      "data_inicio": "2026-09-30 09:00:00",
-      "data_fim": "2026-10-03 09:00:00",
-      "descricao": "20th World Congress on Menopause 2026 – Rio de Janeiro. Prepare-se para o evento global mais importante sobre menopausa! O 20th World Congress on Menopause acontecerá de 29 de setembro a 3 de outubro de 2026, no Rio de Janeiro, Brasil. Este é o ponto de encontro para profissionais e empresas do setor de saúde e bem-estar, com uma agenda repleta de discussões sobre os avanços científicos, tratamentos inovadores e melhores práticas no cuidado à saúde da mulher.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/20th-world-congress-on-menopause-wcm-2026/",
-      "site_oficial": "https://www.imsrio2026.com/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "imsrio2026"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "WCM"
-        ],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 494336,
       "titulo": "Congresso Latinoamericano de Satélites – 25 anos",
       "slug": "congresso-latinoamericano-de-satelites-25-anos",
@@ -2505,6 +2042,44 @@
         "empresas_citadas": [],
         "angulo_comercial": "Evento de finanças de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
         "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 494335,
+      "titulo": "20th World Congress on Menopause – WCM 2026",
+      "slug": "20th-world-congress-on-menopause-wcm-2026",
+      "data_inicio": "2026-09-30 09:00:00",
+      "data_fim": "2026-10-03 09:00:00",
+      "descricao": "20th World Congress on Menopause 2026 – Rio de Janeiro. Prepare-se para o evento global mais importante sobre menopausa! O 20th World Congress on Menopause acontecerá de 29 de setembro a 3 de outubro de 2026, no Rio de Janeiro, Brasil. Este é o ponto de encontro para profissionais e empresas do setor de saúde e bem-estar, com uma agenda repleta de discussões sobre os avanços científicos, tratamentos inovadores e melhores práticas no cuidado à saúde da mulher.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/20th-world-congress-on-menopause-wcm-2026/",
+      "site_oficial": "https://www.imsrio2026.com/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "imsrio2026"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "WCM"
+        ],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -2619,44 +2194,6 @@
       "local_coletado": true
     },
     {
-      "id": 494332,
-      "titulo": "Febrava Rio 2026",
-      "slug": "febrava-rio-2026",
-      "data_inicio": "2026-10-06 09:00:00",
-      "data_fim": "2026-10-08 09:00:00",
-      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
-      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "+55 11 3060-4717"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "febrava"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 494331,
       "titulo": "FEICON Rio",
       "slug": "feicon-rio",
@@ -2691,6 +2228,44 @@
         ],
         "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
         "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 494332,
+      "titulo": "Febrava Rio 2026",
+      "slug": "febrava-rio-2026",
+      "data_inicio": "2026-10-06 09:00:00",
+      "data_fim": "2026-10-08 09:00:00",
+      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
+      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "+55 11 3060-4717"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "febrava"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -5118,6 +4693,431 @@
       "local_coletado": true
     },
     {
+      "id": 494360,
+      "titulo": "Wedding Plus Congress 2026",
+      "slug": "wedding-plus-congress-2026",
+      "data_inicio": "2026-08-10 09:00:00",
+      "data_fim": "2026-08-12 09:00:00",
+      "descricao": "Wedding Plus Congress é um evento internacional que reune profissionais renomados do mercado de casamentos de todo o mundo. Realizado no Rio de Janeiro, Brasil, e conta com palestras de nomes consagrados, além de oficinas práticas em diversas áreas do setor, como wedding planners, fotógrafos, decoradores e cake designers. Além dos especialistas do mercado de casamentos, o congresso contará com a presença de autoridades renomadas em assuntos como marketing, vendas, jurídica e administrativa/financeira. Essa diversidade de conhecimentos e experiências proporcionará um ambiente de aprendizado e troca de informações enriquecedoras.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/wedding-plus-congress-2026/",
+      "site_oficial": "https://wp.inesquecivelcasamento.com.br/#sobre",
+      "local": "Fairmont Rio de Janeiro Copacabana",
+      "contato": {
+        "emails": [
+          "eventos@ace.com.br"
+        ],
+        "telefones": [
+          "(21) 3578-6242",
+          "+55 21 98121-6929"
+        ],
+        "whatsapp": [
+          "5521997035043"
+        ],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494359,
+      "titulo": "XXXVI Congresso Brasileiro de Neurocirurgia 2026",
+      "slug": "xxxvi-congresso-brasileiro-de-neurocirurgia-2026",
+      "data_inicio": "2026-08-11 09:00:00",
+      "data_fim": "2026-08-15 09:00:00",
+      "descricao": "O XXXVI Congresso Brasileiro de Neurocirurgia é o principal congresso nacional da especialidade no Brasil, reunindo neurocirurgiões, médicos residentes, pesquisadores, professores e profissionais da saúde para atualização científica, discussão de casos clínicos, avanços tecnológicos e educação médica continuada em neurocirurgia.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xxxvi-congresso-brasileiro-de-neurocirurgia-2026/",
+      "site_oficial": "https://cbn2026.com.br/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "dayse.freitas@ccmgroup.com.br"
+        ],
+        "telefones": [
+          "+55 11 94550-4863"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "CCM Group"
+        ],
+        "status": "coletado",
+        "fonte": "manual",
+        "travado": true
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Neurologia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 5 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 90,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495139,
+      "titulo": "IX Congresso Internacional de Direito Tributário do Rio de Janeiro",
+      "slug": "ix-congresso-internacional-de-direito-tributario-do-rio-de-janeiro",
+      "data_inicio": "2026-08-12 09:00:00",
+      "data_fim": "2026-08-14 09:00:00",
+      "descricao": "A Associação Brasileira de Direito Financeiro (ABDF) realizará o IX Congresso Internacional de Direito Tributário do Rio de Janeiro, de 12 a 14 de agosto de 2026, tendo como tema “Reforma Tributária em Movimento: Primeiros Desafios da Implementação”. O congresso reunirá especialistas nacionais e internacionais para promover debates qualificados sobre os impactos iniciais e os desafios práticos decorrentes da implementação do novo modelo tributário brasileiro.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/ix-congresso-internacional-de-direito-tributario-do-rio-de-janeiro/",
+      "site_oficial": "https://congresso2026.abdf.com.br/#sobre",
+      "local": "Sheraton Grand Rio Hotel & Resort",
+      "contato": {
+        "emails": [
+          "congressoabdf.patrocinio@abdf.com.br",
+          "congressoabdf@abdf.com.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "ABDF"
+        ],
+        "status": "coletado",
+        "fonte": "manual",
+        "travado": true
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495770,
+      "titulo": "Blockchain Rio 2026",
+      "slug": "blockchain-rio-2026",
+      "data_inicio": "2026-08-12 09:00:00",
+      "data_fim": "2026-08-13 09:00:00",
+      "descricao": "📍 ExpoRio – Cidade Nova, Rio de Janeiro 12 e 13 de agosto de 2026 · 10h às 19h O principal encontro institucional da América Latina sobre blockchain, tokenização e infraestrutura financeira digital Onde tecnologia, regulação e mercado convergem para definir a próxima camada da infraestrutura econômica global. O Blockchain.RIO 2026 consolidou-se como o principal ambiente de convergência entre líderes institucionais, formuladores de políticas públicas, instituições financeiras, investidores, empresas de tecnologia e especialistas que estão construindo a nova arquitetura financeira baseada em blockchain, ativos digitais e tokenização. Mais do que um evento, é um espaço estratégico para compreender como novas infraestruturas digitais estão redesenhando pagamentos, mercados de capitais, identidade digital, crédito, ativos tokenizados e liquidação financeira.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/blockchain-rio-2026/",
+      "site_oficial": "https://blockchainrio.com.br/pt/#tickets",
+      "local": "ExpoRio Cidade Nova",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "blockchainrio"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de tecnologia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494357,
+      "titulo": "15º Congresso Brasileiro de Atuária",
+      "slug": "15o-congresso-brasileiro-de-atuaria",
+      "data_inicio": "2026-08-13 09:00:00",
+      "data_fim": "2026-08-14 09:00:00",
+      "descricao": "O 15º Congresso Brasileiro de Atuária (15º CBA) é o principal encontro anual da comunidade atuarial do Brasil, organizado pelo Instituto Brasileiro de Atuária (IBA). O congresso reúne atuários profissionais, pesquisadores, gestores, especialistas em risco, dados e inteligência e tomadores de decisão do mercado financeiro, previdenciário, segurador e consultivo, com foco em tendências, inovação, uso de dados e papel estratégico do atuário na sociedade brasileira.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/15o-congresso-brasileiro-de-atuaria/",
+      "site_oficial": "https://atuarios.org.br/?",
+      "local": "Windsor Barra Hotel & Congressos",
+      "contato": {
+        "emails": [
+          "contato@atuarios.org.br",
+          "iba@atuarios.org.br",
+          "secretaria@atuarios.org.br"
+        ],
+        "telefones": [
+          "(21) 2531-2865",
+          "+55-21-2531-2865",
+          "+552125312865"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "atuarios"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de finanças de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496120,
+      "titulo": "IEEE IES Student and Young Professional (SYP) Congress 2026",
+      "slug": "ieee-ies-student-and-young-professional-syp-congress-2026",
+      "data_inicio": "2026-08-13 09:00:00",
+      "data_fim": "2026-08-15 09:00:00",
+      "descricao": "Congresso internacional voltado a estudantes, jovens profissionais, pesquisadores e representantes da indústria. A programação reúne palestras, workshops, painéis, sessões de networking e atividades sobre inteligência artificial, cibersegurança, ética, eletrônica industrial e desenvolvimento profissional. Dia 13-15 de Agosto no Othon Palace Copacabana Rio.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/ieee-ies-student-and-young-professional-syp-congress-2026/",
+      "site_oficial": "https://syp-congress.ieee-ies.org/",
+      "local": "Othon Palace Copacabana Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-08-03",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494807,
+      "titulo": "Encontro Nutris da Casa 2026",
+      "slug": "encontro-nutris-da-casa-2026",
+      "data_inicio": "2026-08-15 09:00:00",
+      "data_fim": "2026-08-15 09:00:00",
+      "descricao": "O Encontro Nutris da Casa 2026 é um evento voltado para profiszionais de nutrição, com foco em atualização científica, prática clínica e networking",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/encontro-nutris-da-casa-2026/",
+      "site_oficial": "https://www.instagram.com/p/DXKPnNdDpRw/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495767,
+      "titulo": "PotterCon RJ 2026",
+      "slug": "pottercon-rj-2026",
+      "data_inicio": "2026-08-15 09:00:00",
+      "data_fim": "2026-08-15 09:00:00",
+      "descricao": "✨ Prepare sua varinha, vista seu uniforme de Hogwarts e embarque em uma experiência mágica inesquecível! A PotterCon RJ chega ao Rio de Janeiro reunindo fãs do universo de Harry Potter para um dia repleto de magia, diversão e experiências imersivas. ⚡🪄 O evento promete encantar bruxos e trouxas de todas as idades com atrações temáticas, concursos de cosplay, cenários instagramáveis, apresentações, lojinhas geek, atividades interativas e muito mais. Uma oportunidade única para viver de perto toda a emoção do mundo mágico mais amado do cinema e da literatura. Se você sempre sonhou em receber sua carta de Hogwarts, esta é a chance perfeita para reunir os amigos, celebrar sua casa favorita e mergulhar em um universo cheio de fantasia e nostalgia. 📍Rua Conde de Bonfim, nº 451 – Tijuca, Rio de Janeiro – RJ.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/pottercon-rj-2026/",
+      "site_oficial": "https://www.idealproducoes.com.br/potterconrj",
+      "local": "Tijuca Tênis Clube",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "idealproducoes"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 30,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495768,
+      "titulo": "Congresso de Autismo do Rio de Janeiro 2026",
+      "slug": "congresso-de-autismo-do-rio-de-janeiro-2026",
+      "data_inicio": "2026-08-15 09:00:00",
+      "data_fim": "2026-08-15 09:00:00",
+      "descricao": "Depois de reunir mais de 1.200 participantes em 2025, estamos preparados para fazer história novamente e, como sempre, reunindo grandes nomes do autismo. No dia 15 de agosto de 2026, vamos ter como palestrantes os maiores especialistas em autismo e comportamento aplicado do Brasil, como Fábio Coelho, Lucelmo Lacerda e Aída Brito, além de contar com outros renomados especialistas em autismo, de diferentes áreas.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/congresso-de-autismo-do-rio-de-janeiro-2026/",
+      "site_oficial": "https://lp.congressodeautismorj.com.br/pre-venda-promocional?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnOSRKiYoPwOG111Yw2mRUtMZqp-roqWiSBU1d3rpGoIxrj0FWbrY2ZlAJ24I_aem_9H1xkK84U",
+      "local": "Riale Brisa Barra Hotel",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [
+          "5521971582981"
+        ],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 1 dias.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 50,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494356,
+      "titulo": "28ª Meia Maratona Int’l do Rio – Rio Half Marathon",
+      "slug": "28a-meia-maratona-intl-do-rio-rio-half-marathon",
+      "data_inicio": "2026-08-16 09:00:00",
+      "data_fim": "2026-08-16 09:00:00",
+      "descricao": "A Meia Maratona Internacional do Rio de Janeiro é um dos eventos esportivos de rua mais prestigiados do Brasil. O evento atrai dezenas de milhares de participantes e se destaca por seu percurso cênico, que percorre a orla da cidade, passando pelos principais cartões-postais como Copacabana e o Pão de Açúcar. O evento oferece distâncias para todos os níveis de corredores: a desafiadora Meia Maratona (21K), a Corrida 10K e a Corrida e Caminhada 5K. A largada dos 21K ocorre no Leblon/Praia de São Conrado, e a chegada de todas as provas é no famoso Aterro do Flamengo. O evento é uma celebração do esporte e do turismo, com a entrega de kits e a Expo Atleta sendo realizadas na Marina da Glória.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/28a-meia-maratona-intl-do-rio-rio-half-marathon/",
+      "site_oficial": "https://www.yescom.com.br/meiadorio/2026/index.asp",
+      "local": "OUTROS",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495278,
+      "titulo": "Circuito Allrunning 3º Etapa Recreio dos bandeirantes",
+      "slug": "circuito-allrunning-3o-etapa-recreio-dos-bandeirantes",
+      "data_inicio": "2026-08-16 09:00:00",
+      "data_fim": "2026-08-16 09:00:00",
+      "descricao": "Vem aí a 3ª etapa do Circuito All Running É a sua chance de fazer parte de mais um desafio inesquecível! 🏃‍♂️💥 📍 Recreio dos Bandeirantes – Posto 12 📅 16 de agosto ⏰ Largada às 7h00 Escolha o seu ritmo e venha viver essa experiência: 🏃‍♂️ 5K Corrida 🚶‍♀️ 3K Caminhada Prepare-se para um evento com estrutura completa, kit exclusivo e aquela energia que só o All Running tem! ⚡🎽 🎯 Garanta já sua vaga e venha superar seus limites com a gente! 👉 Inscreva-se agora e não fique de fora!",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-allrunning-3o-etapa-recreio-dos-bandeirantes/",
+      "site_oficial": "https://www.ticketsports.com.br/e/circuito-allrunning-3o-etapa-recreio-dos-bandeirantes-86596",
+      "local": "Posto 12 - Recreio dos Bandeirantes",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495765,
+      "titulo": "46º Congreso Internacional de la ABPI – Encontro Global de Inovação e Propriedade Intelectual",
+      "slug": "46o-congreso-internacional-de-la-abpi-encontro-global-de-inovacao-e-propriedade-intelectual",
+      "data_inicio": "2026-08-16 09:00:00",
+      "data_fim": "2026-08-18 09:00:00",
+      "descricao": "O 46º Congresso Internacional da ABPI, reformulado em 2026 como Encontro Global de Inovação e Propriedade Intelectual, reúne especialistas, executivos, autoridades públicas, empresas, startups, escritórios de advocacia, pesquisadores e representantes do ecossistema de inovação para discutir os desafios e oportunidades da propriedade intelectual na economia do conhecimento. O evento aborda temas relacionados à inteligência artificial, novas tecnologias, empreendedorismo, proteção de ativos intangíveis, inovação corporativa, transferência de tecnologia, concorrência, direitos digitais e estratégias de negócios baseadas em propriedade intelectual. A programação inclui palestras, arenas temáticas, networking executivo, exposição de empresas e ambientes dedicados à geração de negócios e conexões institucionais.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/46o-congreso-internacional-de-la-abpi-encontro-global-de-inovacao-e-propriedade-intelectual/",
+      "site_oficial": "https://2026congresso.abpi.org.br/inscricoes/",
+      "local": "Sheraton Grand Rio Hotel & Resort",
+      "contato": {
+        "emails": [
+          "abpi@abpi.org.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "2026congresso"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [
+          "ABPI"
+        ],
+        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
       "id": 495775,
       "titulo": "Rio Innovation Week 2026",
       "slug": "rio-innovation-week-2026",
@@ -6383,90 +6383,6 @@
       "local_coletado": true
     },
     {
-      "id": 495145,
-      "titulo": "25th SAET Conference on Current Trends in Economics",
-      "slug": "25th-saet-conference-on-current-trends-in-economics",
-      "data_inicio": "2026-07-13 09:00:00",
-      "data_fim": "2026-07-17 09:00:00",
-      "descricao": "A 25ª Conferência Anual da SAET será realizada de 13 a 17 de julho de 2026, com uma celebração especial no dia 18 de julho em homenagem ao 80º aniversário de Aloisio Araujo. A conferência acontecerá no Instituto de Matemática Pura e Aplicada, IMPA, no Rio de Janeiro, RJ, Brasil. A conferência reúne pesquisadores e acadêmicos de economia para discutir tendências contemporâneas em teoria econômica, macroeconomia, microeconomia, econometria, mercados financeiros, desenvolvimento econômico.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/25th-saet-conference-on-current-trends-in-economics/",
-      "site_oficial": "https://impa.br/evento/saet-conference-on-current-trends-in-economics/",
-      "local": "Instituto de Matemática Pura e Aplicada - IMPA",
-      "contato": {
-        "emails": [
-          "eventos@impa.br",
-          "faleconosco@impa.br"
-        ],
-        "telefones": [
-          "(21) 2529-5000"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "impa"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento longo, 5 dias.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [
-          "SAET"
-        ],
-        "angulo_comercial": "Evento de finanças de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 494376,
-      "titulo": "CPA 2026 – Critical Perspectives on Accounting Conference: Toward New Accountings in Troubled Times",
-      "slug": "cpa-2026-critical-perspectives-on-accounting-conference-toward-new-accountings-in-troubled-times",
-      "data_inicio": "2026-07-14 09:00:00",
-      "data_fim": "2026-07-16 09:00:00",
-      "descricao": "The Critical Perspectives on Accounting Conference brings together accounting faculty, doctoral students, and researchers from other disciplines interested in critical accounting research. The Conference, held every three years, offers a collaborative and supportive atmosphere. It aims to build and consolidate the network of active supporters of critical accounting scholarship. It also seeks to encourage critical reflexivity on the development of accounting prescriptions and the practice of accounting in a world facing many challenges. Notably, the Conference aims to generate substantive conversations on how accounting might be improved to construct a better and fairer world, aiming focus on socio-political and environmental transformations.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/cpa-2026-critical-perspectives-on-accounting-conference-toward-new-accountings-in-troubled-times/",
-      "site_oficial": "https://cpa-conference.com/",
-      "local": "Vários locais",
-      "contato": {
-        "emails": [
-          "cpa2026@facc.ufrj.br",
-          "raquel@skl.tur.br"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "cpa-conference"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [
-          "CPA"
-        ],
-        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
       "id": 494374,
       "titulo": "Wicked A História Não Contada das Bruxas de OZ",
       "slug": "wicked-a-historia-nao-contada-das-bruxas-de-oz",
@@ -6697,56 +6613,6 @@
       "url_visitrio": "https://visitrio.com.br/evento/circuito-correndo-pelo-rio-2026-fundao/",
       "site_oficial": "https://www.ticketsports.com.br/e/circuito-correndo-pelo-rio-2026-fundao-86309",
       "local": "Cidade Universitária - Fundão",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 495146,
-      "titulo": "Asics Golden Run – Etapa RJ 2026",
-      "slug": "asics-golden-run-etapa-rj-2026",
-      "data_inicio": "2026-07-12 09:00:00",
-      "data_fim": "2026-07-12 09:00:00",
-      "descricao": "A ASICS Golden Run 2026 é o percurso ideal para quem busca se desafiar e atingir novos limites. Para quem busca velocidade e ir além. Mas, mais do que cruzar a linha de chegada, essa corrida é um espaço para você buscar o seu melhor – nas conexões, na saúde mental e física, no seu tempo. CONHEÇA OS PERCURSOS A ASICS te convida a manter o ritmo, aproveitar o caminho e buscar o seu melhor, seja para superar um desafio pessoal ou simplesmente viver a corrida do começo ao fim. Fiquem atentos aos locais de largada: Percurso 10K. Bosque do Flamengo, ao lado da Marina da Glória Percurso 21K. Leblon, posto 12 (Av. Delfim Moreira, 1045)",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/asics-golden-run-etapa-rj-2026/",
-      "site_oficial": "https://page.ticketsports.com.br/asicsgoldenrun2026etaparj/",
-      "local": "Vários locais",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 495294,
-      "titulo": "Corrida Aniversário do Musal 2026",
-      "slug": "corrida-aniversario-do-musal-2026",
-      "data_inicio": "2026-07-12 09:00:00",
-      "data_fim": "2026-07-12 09:00:00",
-      "descricao": "✈️🎉 CORRIDA ANIVERSÁRIO DO MUSAL 🎉✈️ Prepare-se para viver uma experiência única onde esporte, história e emoção se encontram! Venha celebrar mais um ano do MUSAL em um evento inesquecível. No cenário icônico do Campo dos Afonsos, você vai correr rodeado por aeronaves históricas e sentir de perto a grandiosidade da aviação brasileira. 🏃‍♂️ Percursos para todos os níveis: • 5K Corrida • 3K Caminhada ⏰ Largada: 7h30 📍 Local: Campo dos Afonsos 🚗 Estacionamento gratuito no local Além da prova, todos os participantes recebem um kit exclusivo com camisa oficial, medalha temática e brindes especiais. Mais do que uma corrida, é um convite para embarcar na história, superar limites e fazer parte de um momento único! ✨ MUSAL – Embarque na História! ✨",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-aniversario-do-musal-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-aniversario-do-musal-86585",
-      "local": "Museu Aeroespacial - MUSAL",
       "contato": {
         "emails": [],
         "telefones": [],
