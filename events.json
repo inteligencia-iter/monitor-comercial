@@ -1,389 +1,8 @@
 {
-  "gerado_em": "2026-08-17T06:51:57-03:00",
+  "gerado_em": "2026-08-24T06:56:23-03:00",
   "modo": "deterministico (custo zero)",
-  "total": 204,
+  "total": 196,
   "eventos": [
-    {
-      "id": 495763,
-      "titulo": "ENCOMEX 2026 RJ",
-      "slug": "encomex-2026-rj",
-      "data_inicio": "2026-08-17 09:00:00",
-      "data_fim": "2026-08-17 09:00:00",
-      "descricao": "O ENCOMEX 2026 RJ é um encontro empresarial voltado ao comércio exterior brasileiro, promovido pela CISBRA – Câmara de Comércio, Indústria e Serviços do Brasil. O evento tem como proposta conectar empresas, autoridades, especialistas e tomadores de decisão para discutir oportunidades de internacionalização, exportação, importação, políticas públicas, inovação, tecnologia, sustentabilidade, logística e novos mercados. A edição de 2026 aparece com pré-inscrição aberta e foco em geração de oportunidades e construção do futuro dos negócios internacionais.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/encomex-2026-rj/",
-      "site_oficial": "https://lp.cisbra.org.br/encomex/?utm_source=Instagram_Stories&utm_medium=01_ENVOLVIMENTO",
-      "local": "Museu do Amanhã",
-      "contato": {
-        "emails": [
-          "seuemail@empresa.com"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Desenvolvimento / Negócios",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "líderes, gestores e times comerciais",
-        "empresas_citadas": [
-          "ENCOMEX"
-        ],
-        "angulo_comercial": "Evento de negócios de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494354,
-      "titulo": "20ª Navalshore 2026 – Feira e Conferência da Indústria Marítima",
-      "slug": "navalshore-2026-feira-e-conferencia-da-industria-maritima",
-      "data_inicio": "2026-08-18 09:00:00",
-      "data_fim": "2026-08-20 09:00:00",
-      "descricao": "A Navalshore 2026 é a Feira e Conferência da Indústria Marítima mais importante da América Latina, reunindo empresas, fabricantes, fornecedores, estaleiros, armadores, engenheiros, operadores offshore e profissionais do setor naval, marítimo e de petróleo & gás em um único espaço para negócios, exposição de tecnologias, networking e conferências técnicas.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/navalshore-2026-feira-e-conferencia-da-industria-maritima/",
-      "site_oficial": "https://www.navalshore.com.br/",
-      "local": "ExpoRio Cidade Nova",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "navalshore"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Energia / Óleo e Gás",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de energia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494355,
-      "titulo": "6º Jotajá Summit 2026",
-      "slug": "6o-jotaja-summit-2026",
-      "data_inicio": "2026-08-18 09:00:00",
-      "data_fim": "2026-08-19 09:00:00",
-      "descricao": "O Jotajá Summit é o maior evento corporativo focado no ecossistema de food service e delivery no Brasil, especialmente voltado para donos de restaurantes, gestores operacionais, empreendedores e fornecedores do setor de alimentação fora do lar (AFDL).",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/6o-jotaja-summit-2026/",
-      "site_oficial": "https://www.jotajasummit.com.br",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [
-          "eventos.jotaja@gmail.com",
-          "exemplo@meusite.com"
-        ],
-        "telefones": [],
-        "whatsapp": [
-          "5521964707393"
-        ],
-        "produtoras_inferidas": [
-          "jotajasummit"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Gastronomia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "chefs, restaurantes e food service",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de gastronomia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496119,
-      "titulo": "Telco Transformation LATAM 2026",
-      "slug": "telco-transformation-latam-2026-2",
-      "data_inicio": "2026-08-19 09:00:00",
-      "data_fim": "2026-08-20 09:00:00",
-      "descricao": "O Telco Transformation LATAM 2026 é um dos principais encontros latino-americanos voltados ao setor de telecomunicações e transformação digital. O congresso reúne executivos de operadoras, reguladores, fornecedores de tecnologia, empresas de infraestrutura, especialistas em segurança cibernética e líderes da indústria para debater os desafios e oportunidades da evolução das redes de telecomunicações na América Latina. A edição de 2026 abordará temas como expansão do 5G, preparação para redes de próxima geração, inteligência artificial aplicada às operações de telecomunicações, Open RAN, automação de redes, computação em nuvem, Internet das Coisas (IoT), Big Data, gestão de riscos e cibersegurança.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/telco-transformation-latam-2026-2/",
-      "site_oficial": "https://www.conecta-latam.com/event-details/telco26",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "info@conectaevents.com"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "conecta-latam"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Tecnologia / Inovação",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 2 dias.",
-        "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [
-          "LATAM"
-        ],
-        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-08-03",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496118,
-      "titulo": "Telco Transformation LATAM 2026",
-      "slug": "telco-transformation-latam-2026",
-      "data_inicio": "2026-08-19 09:00:00",
-      "data_fim": "2026-08-20 09:00:00",
-      "descricao": "O Telco Transformation LATAM 2026 é um dos principais encontros latino-americanos voltados ao setor de telecomunicações e transformação digital. O congresso reúne executivos de operadoras, reguladores, fornecedores de tecnologia, empresas de infraestrutura, especialistas em segurança cibernética e líderes da indústria para debater os desafios e oportunidades da evolução das redes de telecomunicações na América Latina. A edição de 2026 abordará temas como expansão do 5G, preparação para redes de próxima geração, inteligência artificial aplicada às operações de telecomunicações, Open RAN, automação de redes, computação em nuvem, Internet das Coisas (IoT), Big Data, gestão de riscos e cibersegurança.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/telco-transformation-latam-2026/",
-      "site_oficial": "https://www.conecta-latam.com/event-details/telco26",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "info@conectaevents.com"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "conecta-latam"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Tecnologia / Inovação",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 2 dias.",
-        "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [
-          "LATAM"
-        ],
-        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-08-03",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494353,
-      "titulo": "Exposição das Américas e Caribe CBKC 2026",
-      "slug": "exposicao-das-americas-e-caribe-cbkc-2026",
-      "data_inicio": "2026-08-20 09:00:00",
-      "data_fim": "2026-08-23 09:00:00",
-      "descricao": "O espaço mais versátil para eventos no Brasil será a casa da cinofilia internacional! De 21 a 23 de agosto de 2026, o Riocentro, no Rio de Janeiro, sediará a Exposição Américas e Caribe 2026, promovida pela CBKC. Um evento de alto nível, pensado para receber criadores, juízes e apaixonados por cães do mundo todo. A CBKC está preparando uma experiência completa; com tudo que um evento desse porte exige. A cinofilia brasileira vai fazer história. Prepare-se. Você é nosso convidado!",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/exposicao-das-americas-e-caribe-cbkc-2026/",
-      "site_oficial": "https://www.instagram.com/p/DUqFOOdEhyx/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [
-          "CBKC"
-        ],
-        "angulo_comercial": "Evento de corporativo de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495277,
-      "titulo": "Vascorrida – A Corrida do Gigante 2026",
-      "slug": "vascorrida-a-corrida-do-gigante-2026",
-      "data_inicio": "2026-08-23 09:00:00",
-      "data_fim": "2026-08-23 09:00:00",
-      "descricao": "🏃‍♂️A tradição continua! A 2ª edição da Vascorrida no Rio já tem data marcada: 23/08. É dia de vestir a camisa, calçar o tênis e correr movido pela paixão que atravessa gerações. 💢 Mais que uma prova, é um encontro de vascaínos, amigos e famílias celebrando o amor pelo Gigante da Colina. QUEREMOS BATER O RECORDE DA PRIMEIRA EDIÇÃO! 📍 Rio de Janeiro 📅 23 de agosto",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/vascorrida-a-corrida-do-gigante-2026/",
-      "site_oficial": "https://www.spcrun.com.br/event-details/vascorrida-a-corrida-do-gigante",
-      "local": "Estádio de São Januário - Vasco da Gama",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495758,
-      "titulo": "Circuito Corrida Vale 2026",
-      "slug": "circuito-corrida-vale-2026",
-      "data_inicio": "2026-08-23 09:00:00",
-      "data_fim": "2026-08-23 09:00:00",
-      "descricao": "O Circuito Corrida Vale é uma corrida de rua patrocinada pela Vale com foco em incentivo ao esporte, saúde e qualidade de vida, integração comunitária e ativação institucional da marca. Dia 23/08/2026.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-corrida-vale-2026/",
-      "site_oficial": "https://www.circuitocorridavale.com.br/rio-de-janeiro/unica",
-      "local": null,
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495759,
-      "titulo": "3ª Corrida e Caminhada Instituto Netuno 2026",
-      "slug": "3a-corrida-e-caminhada-instituto-netuno-2026",
-      "data_inicio": "2026-08-23 09:00:00",
-      "data_fim": "2026-08-23 09:00:00",
-      "descricao": "📅 Data: 23/08/2026 (domingo) 📍 Local: Parque de Madureira – Arcos Olímpicos (RJ) 🏁 Largada: 08:00 🎽 Modalidades: Corrida 4 km e Caminhada 4 km ⏱️ A corrida terá chip de cronometragem",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/3a-corrida-e-caminhada-instituto-netuno-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/3-corrida-e-caminhada-instituto-netuno-86999?utm_source=vamucorrer&utm_medium=referral&utm_campaign=inscricao",
-      "local": "Parque de Madureira",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495760,
-      "titulo": "ATR Running – 11ª Edição Corrida e Caminhada pela Vida 2026",
-      "slug": "atr-running-11a-edicao-corrida-e-caminhada-pela-vida-2026",
-      "data_inicio": "2026-08-23 09:00:00",
-      "data_fim": "2026-08-23 09:00:00",
-      "descricao": "📅 Data: 23/08/2026 (domingo) 📍 Local: Recreio dos Bandeirantes — Posto 12 (em frente ao Quiosque Estação 12 / pista de skate) ⏰ Concentração: 07:00 às 08:00 🚦 Largada: 08:00 em ponto (sem atrasos) 🤝 Evento de grupo de amigos (coletivo, sem fins lucrativos) — nenhum organizador recebe valor.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/atr-running-11a-edicao-corrida-e-caminhada-pela-vida-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/atr-running-11-edicao-corrida-e-caminhada-pela-vida-87224?utm_source=vamucorrer&utm_medium=referral&utm_campaign=inscricao",
-      "local": "Posto 12 - Recreio dos Bandeirantes",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495761,
-      "titulo": "63ª Corrida e Caminhada Contra o Câncer de Mama",
-      "slug": "63a-corrida-e-caminhada-contra-o-cancer-de-mama",
-      "data_inicio": "2026-08-23 09:00:00",
-      "data_fim": "2026-08-23 09:00:00",
-      "descricao": "📅 Data: 23 de agosto de 2026 (domingo) 📍 Local (largada e chegada): Av. Infante Dom Henrique, entre a Praça Paris e o Monumento aos Pracinhas – Bairro da Glória – Rio de Janeiro (RJ) 🎯 Propósito: evento tradicional que une esporte, conscientização e mobilização social contra o câncer de mama ⏰ Horários de largada: • 07h20 – Corrida 10K (masc./fem., pelotão geral e PCD) • 07h40 – Corrida 5K (masc./fem., pelotão geral e PCD) • 07h45 – Caminhada 3K",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/63a-corrida-e-caminhada-contra-o-cancer-de-mama/",
-      "site_oficial": "https://www.ticketsports.com.br/e/63-corrida-e-caminhada-contra-o-cancer-de-mama-rio-de-janeiro-87148?utm_source=vamucorrer&utm_medium=referral&utm_campaign=inscricao",
-      "local": "Aterro do Flamengo",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495762,
-      "titulo": "Corrida Soldado do Bope 2026",
-      "slug": "corrida-soldado-do-bope-2026",
-      "data_inicio": "2026-08-23 09:00:00",
-      "data_fim": "2026-08-23 09:00:00",
-      "descricao": "🏃‍♂️💥 Prepare-se para a Corrida Soldado do BOPE! No dia 23 de agosto, no Batalhão de Operações Policiais Especiais – RJ, encare o desafio e supere seus limites! Escolha o seu percurso: 5K, 6K ou 10K.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-soldado-do-bope-2026/",
-      "site_oficial": "https://www.instagram.com/p/DYt4nMBsFiJ/",
-      "local": "BOPE - Batalhão de Operações Policiais Especiais",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 495276,
       "titulo": "International Conference on Dynamical Systems – Dedicated to The Memory of Jacob Palis",
@@ -2006,6 +1625,44 @@
       "local_coletado": true
     },
     {
+      "id": 494335,
+      "titulo": "20th World Congress on Menopause – WCM 2026",
+      "slug": "20th-world-congress-on-menopause-wcm-2026",
+      "data_inicio": "2026-09-30 09:00:00",
+      "data_fim": "2026-10-03 09:00:00",
+      "descricao": "20th World Congress on Menopause 2026 – Rio de Janeiro. Prepare-se para o evento global mais importante sobre menopausa! O 20th World Congress on Menopause acontecerá de 29 de setembro a 3 de outubro de 2026, no Rio de Janeiro, Brasil. Este é o ponto de encontro para profissionais e empresas do setor de saúde e bem-estar, com uma agenda repleta de discussões sobre os avanços científicos, tratamentos inovadores e melhores práticas no cuidado à saúde da mulher.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/20th-world-congress-on-menopause-wcm-2026/",
+      "site_oficial": "https://www.imsrio2026.com/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "imsrio2026"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "WCM"
+        ],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494336,
       "titulo": "Congresso Latinoamericano de Satélites – 25 anos",
       "slug": "congresso-latinoamericano-de-satelites-25-anos",
@@ -2042,44 +1699,6 @@
         "empresas_citadas": [],
         "angulo_comercial": "Evento de finanças de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
         "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494335,
-      "titulo": "20th World Congress on Menopause – WCM 2026",
-      "slug": "20th-world-congress-on-menopause-wcm-2026",
-      "data_inicio": "2026-09-30 09:00:00",
-      "data_fim": "2026-10-03 09:00:00",
-      "descricao": "20th World Congress on Menopause 2026 – Rio de Janeiro. Prepare-se para o evento global mais importante sobre menopausa! O 20th World Congress on Menopause acontecerá de 29 de setembro a 3 de outubro de 2026, no Rio de Janeiro, Brasil. Este é o ponto de encontro para profissionais e empresas do setor de saúde e bem-estar, com uma agenda repleta de discussões sobre os avanços científicos, tratamentos inovadores e melhores práticas no cuidado à saúde da mulher.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/20th-world-congress-on-menopause-wcm-2026/",
-      "site_oficial": "https://www.imsrio2026.com/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "imsrio2026"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "WCM"
-        ],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -3335,7 +2954,7 @@
         "produtoras_inferidas": [
           "expofranchisingabf"
         ],
-        "status": "erro"
+        "status": "sem_contato"
       },
       "inteligencia": {
         "segmento": "Desenvolvimento / Negócios",
@@ -4690,6 +4309,387 @@
       "primeiro_visto": "2026-07-08",
       "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 495763,
+      "titulo": "ENCOMEX 2026 RJ",
+      "slug": "encomex-2026-rj",
+      "data_inicio": "2026-08-17 09:00:00",
+      "data_fim": "2026-08-17 09:00:00",
+      "descricao": "O ENCOMEX 2026 RJ é um encontro empresarial voltado ao comércio exterior brasileiro, promovido pela CISBRA – Câmara de Comércio, Indústria e Serviços do Brasil. O evento tem como proposta conectar empresas, autoridades, especialistas e tomadores de decisão para discutir oportunidades de internacionalização, exportação, importação, políticas públicas, inovação, tecnologia, sustentabilidade, logística e novos mercados. A edição de 2026 aparece com pré-inscrição aberta e foco em geração de oportunidades e construção do futuro dos negócios internacionais.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/encomex-2026-rj/",
+      "site_oficial": "https://lp.cisbra.org.br/encomex/?utm_source=Instagram_Stories&utm_medium=01_ENVOLVIMENTO",
+      "local": "Museu do Amanhã",
+      "contato": {
+        "emails": [
+          "seuemail@empresa.com"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Desenvolvimento / Negócios",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "líderes, gestores e times comerciais",
+        "empresas_citadas": [
+          "ENCOMEX"
+        ],
+        "angulo_comercial": "Evento de negócios de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494354,
+      "titulo": "20ª Navalshore 2026 – Feira e Conferência da Indústria Marítima",
+      "slug": "navalshore-2026-feira-e-conferencia-da-industria-maritima",
+      "data_inicio": "2026-08-18 09:00:00",
+      "data_fim": "2026-08-20 09:00:00",
+      "descricao": "A Navalshore 2026 é a Feira e Conferência da Indústria Marítima mais importante da América Latina, reunindo empresas, fabricantes, fornecedores, estaleiros, armadores, engenheiros, operadores offshore e profissionais do setor naval, marítimo e de petróleo & gás em um único espaço para negócios, exposição de tecnologias, networking e conferências técnicas.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/navalshore-2026-feira-e-conferencia-da-industria-maritima/",
+      "site_oficial": "https://www.navalshore.com.br/",
+      "local": "ExpoRio Cidade Nova",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "navalshore"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Energia / Óleo e Gás",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de energia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494355,
+      "titulo": "6º Jotajá Summit 2026",
+      "slug": "6o-jotaja-summit-2026",
+      "data_inicio": "2026-08-18 09:00:00",
+      "data_fim": "2026-08-19 09:00:00",
+      "descricao": "O Jotajá Summit é o maior evento corporativo focado no ecossistema de food service e delivery no Brasil, especialmente voltado para donos de restaurantes, gestores operacionais, empreendedores e fornecedores do setor de alimentação fora do lar (AFDL).",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/6o-jotaja-summit-2026/",
+      "site_oficial": "https://www.jotajasummit.com.br",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [
+          "eventos.jotaja@gmail.com",
+          "exemplo@meusite.com"
+        ],
+        "telefones": [],
+        "whatsapp": [
+          "5521964707393"
+        ],
+        "produtoras_inferidas": [
+          "jotajasummit"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Gastronomia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "chefs, restaurantes e food service",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de gastronomia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496119,
+      "titulo": "Telco Transformation LATAM 2026",
+      "slug": "telco-transformation-latam-2026-2",
+      "data_inicio": "2026-08-19 09:00:00",
+      "data_fim": "2026-08-20 09:00:00",
+      "descricao": "O Telco Transformation LATAM 2026 é um dos principais encontros latino-americanos voltados ao setor de telecomunicações e transformação digital. O congresso reúne executivos de operadoras, reguladores, fornecedores de tecnologia, empresas de infraestrutura, especialistas em segurança cibernética e líderes da indústria para debater os desafios e oportunidades da evolução das redes de telecomunicações na América Latina. A edição de 2026 abordará temas como expansão do 5G, preparação para redes de próxima geração, inteligência artificial aplicada às operações de telecomunicações, Open RAN, automação de redes, computação em nuvem, Internet das Coisas (IoT), Big Data, gestão de riscos e cibersegurança.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/telco-transformation-latam-2026-2/",
+      "site_oficial": "https://www.conecta-latam.com/event-details/telco26",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "info@conectaevents.com"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "conecta-latam"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [
+          "LATAM"
+        ],
+        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496118,
+      "titulo": "Telco Transformation LATAM 2026",
+      "slug": "telco-transformation-latam-2026",
+      "data_inicio": "2026-08-19 09:00:00",
+      "data_fim": "2026-08-20 09:00:00",
+      "descricao": "O Telco Transformation LATAM 2026 é um dos principais encontros latino-americanos voltados ao setor de telecomunicações e transformação digital. O congresso reúne executivos de operadoras, reguladores, fornecedores de tecnologia, empresas de infraestrutura, especialistas em segurança cibernética e líderes da indústria para debater os desafios e oportunidades da evolução das redes de telecomunicações na América Latina. A edição de 2026 abordará temas como expansão do 5G, preparação para redes de próxima geração, inteligência artificial aplicada às operações de telecomunicações, Open RAN, automação de redes, computação em nuvem, Internet das Coisas (IoT), Big Data, gestão de riscos e cibersegurança.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/telco-transformation-latam-2026/",
+      "site_oficial": "https://www.conecta-latam.com/event-details/telco26",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "info@conectaevents.com"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "conecta-latam"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [
+          "LATAM"
+        ],
+        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494353,
+      "titulo": "Exposição das Américas e Caribe CBKC 2026",
+      "slug": "exposicao-das-americas-e-caribe-cbkc-2026",
+      "data_inicio": "2026-08-20 09:00:00",
+      "data_fim": "2026-08-23 09:00:00",
+      "descricao": "O espaço mais versátil para eventos no Brasil será a casa da cinofilia internacional! De 21 a 23 de agosto de 2026, o Riocentro, no Rio de Janeiro, sediará a Exposição Américas e Caribe 2026, promovida pela CBKC. Um evento de alto nível, pensado para receber criadores, juízes e apaixonados por cães do mundo todo. A CBKC está preparando uma experiência completa; com tudo que um evento desse porte exige. A cinofilia brasileira vai fazer história. Prepare-se. Você é nosso convidado!",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/exposicao-das-americas-e-caribe-cbkc-2026/",
+      "site_oficial": "https://www.instagram.com/p/DUqFOOdEhyx/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [
+          "CBKC"
+        ],
+        "angulo_comercial": "Evento de corporativo de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495277,
+      "titulo": "Vascorrida – A Corrida do Gigante 2026",
+      "slug": "vascorrida-a-corrida-do-gigante-2026",
+      "data_inicio": "2026-08-23 09:00:00",
+      "data_fim": "2026-08-23 09:00:00",
+      "descricao": "🏃‍♂️A tradição continua! A 2ª edição da Vascorrida no Rio já tem data marcada: 23/08. É dia de vestir a camisa, calçar o tênis e correr movido pela paixão que atravessa gerações. 💢 Mais que uma prova, é um encontro de vascaínos, amigos e famílias celebrando o amor pelo Gigante da Colina. QUEREMOS BATER O RECORDE DA PRIMEIRA EDIÇÃO! 📍 Rio de Janeiro 📅 23 de agosto",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/vascorrida-a-corrida-do-gigante-2026/",
+      "site_oficial": "https://www.spcrun.com.br/event-details/vascorrida-a-corrida-do-gigante",
+      "local": "Estádio de São Januário - Vasco da Gama",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495758,
+      "titulo": "Circuito Corrida Vale 2026",
+      "slug": "circuito-corrida-vale-2026",
+      "data_inicio": "2026-08-23 09:00:00",
+      "data_fim": "2026-08-23 09:00:00",
+      "descricao": "O Circuito Corrida Vale é uma corrida de rua patrocinada pela Vale com foco em incentivo ao esporte, saúde e qualidade de vida, integração comunitária e ativação institucional da marca. Dia 23/08/2026.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-corrida-vale-2026/",
+      "site_oficial": "https://www.circuitocorridavale.com.br/rio-de-janeiro/unica",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495759,
+      "titulo": "3ª Corrida e Caminhada Instituto Netuno 2026",
+      "slug": "3a-corrida-e-caminhada-instituto-netuno-2026",
+      "data_inicio": "2026-08-23 09:00:00",
+      "data_fim": "2026-08-23 09:00:00",
+      "descricao": "📅 Data: 23/08/2026 (domingo) 📍 Local: Parque de Madureira – Arcos Olímpicos (RJ) 🏁 Largada: 08:00 🎽 Modalidades: Corrida 4 km e Caminhada 4 km ⏱️ A corrida terá chip de cronometragem",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/3a-corrida-e-caminhada-instituto-netuno-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/3-corrida-e-caminhada-instituto-netuno-86999?utm_source=vamucorrer&utm_medium=referral&utm_campaign=inscricao",
+      "local": "Parque de Madureira",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495760,
+      "titulo": "ATR Running – 11ª Edição Corrida e Caminhada pela Vida 2026",
+      "slug": "atr-running-11a-edicao-corrida-e-caminhada-pela-vida-2026",
+      "data_inicio": "2026-08-23 09:00:00",
+      "data_fim": "2026-08-23 09:00:00",
+      "descricao": "📅 Data: 23/08/2026 (domingo) 📍 Local: Recreio dos Bandeirantes — Posto 12 (em frente ao Quiosque Estação 12 / pista de skate) ⏰ Concentração: 07:00 às 08:00 🚦 Largada: 08:00 em ponto (sem atrasos) 🤝 Evento de grupo de amigos (coletivo, sem fins lucrativos) — nenhum organizador recebe valor.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/atr-running-11a-edicao-corrida-e-caminhada-pela-vida-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/atr-running-11-edicao-corrida-e-caminhada-pela-vida-87224?utm_source=vamucorrer&utm_medium=referral&utm_campaign=inscricao",
+      "local": "Posto 12 - Recreio dos Bandeirantes",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495761,
+      "titulo": "63ª Corrida e Caminhada Contra o Câncer de Mama",
+      "slug": "63a-corrida-e-caminhada-contra-o-cancer-de-mama",
+      "data_inicio": "2026-08-23 09:00:00",
+      "data_fim": "2026-08-23 09:00:00",
+      "descricao": "📅 Data: 23 de agosto de 2026 (domingo) 📍 Local (largada e chegada): Av. Infante Dom Henrique, entre a Praça Paris e o Monumento aos Pracinhas – Bairro da Glória – Rio de Janeiro (RJ) 🎯 Propósito: evento tradicional que une esporte, conscientização e mobilização social contra o câncer de mama ⏰ Horários de largada: • 07h20 – Corrida 10K (masc./fem., pelotão geral e PCD) • 07h40 – Corrida 5K (masc./fem., pelotão geral e PCD) • 07h45 – Caminhada 3K",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/63a-corrida-e-caminhada-contra-o-cancer-de-mama/",
+      "site_oficial": "https://www.ticketsports.com.br/e/63-corrida-e-caminhada-contra-o-cancer-de-mama-rio-de-janeiro-87148?utm_source=vamucorrer&utm_medium=referral&utm_campaign=inscricao",
+      "local": "Aterro do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495762,
+      "titulo": "Corrida Soldado do Bope 2026",
+      "slug": "corrida-soldado-do-bope-2026",
+      "data_inicio": "2026-08-23 09:00:00",
+      "data_fim": "2026-08-23 09:00:00",
+      "descricao": "🏃‍♂️💥 Prepare-se para a Corrida Soldado do BOPE! No dia 23 de agosto, no Batalhão de Operações Policiais Especiais – RJ, encare o desafio e supere seus limites! Escolha o seu percurso: 5K, 6K ou 10K.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-soldado-do-bope-2026/",
+      "site_oficial": "https://www.instagram.com/p/DYt4nMBsFiJ/",
+      "local": "BOPE - Batalhão de Operações Policiais Especiais",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     },
     {
@@ -6065,40 +6065,6 @@
       "local_coletado": true
     },
     {
-      "id": 494372,
-      "titulo": "Expo Ser Vip 2026",
-      "slug": "expo-ser-vip-2026",
-      "data_inicio": "2026-07-21 09:00:00",
-      "data_fim": "2026-07-23 09:00:00",
-      "descricao": "A Expo Ser VIP 2026 é uma feira de negócios e oportunidades que reúne fornecedores, fabricantes, distribuidores e lojistas em setores como: ✔️ Papelaria e material escolar ✔️ Viagens e turismo ✔️ Presentes e gift ✔️ Brinquedos e puericultura ✔️ Utilidades diversas O formato combina exposição de produtos, lançamento de novidades do mercado, oportunidades de negócios entre atacadistas e varejistas e networking comercial.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/expo-ser-vip-2026/",
-      "site_oficial": "https://www.instagram.com/feiraservip/",
-      "local": "ExpoRio Cidade Nova",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Desenvolvimento / Negócios",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "líderes, gestores e times comerciais",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de negócios de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
       "id": 494808,
       "titulo": "International Congress of the World Association of Symphonic Bands and Ensembles -WASBE",
       "slug": "international-congress-of-the-world-association-of-symphonic-bands-and-ensembles-wasbe",
@@ -6394,225 +6360,6 @@
       "url_visitrio": "https://visitrio.com.br/evento/wicked-a-historia-nao-contada-das-bruxas-de-oz/",
       "site_oficial": "https://www.wickedbrasil.com/?utm_source=chatgpt.com",
       "local": "Cidade das Artes Bibi Ferreira",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 494375,
-      "titulo": "Convenção Internacional da ADHONEP 2026",
-      "slug": "convencao-internacional-da-adhonep-2026",
-      "data_inicio": "2026-07-15 09:00:00",
-      "data_fim": "2026-07-18 09:00:00",
-      "descricao": "A nossa Convenção é a nossa grande festa, onde anualmente reunimos os adhonepianos de todas as partes do mundo para estreitar os laços e desenvolver novos relacionamentos",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/convencao-internacional-da-adhonep-2026/",
-      "site_oficial": "https://adhonep.com/pt/convencao/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "(21) 3613-9700",
-          "(21) 93500-2400",
-          "(21) 96464-5161",
-          "(21)2109-0560",
-          "+55 (21) 2109-0560",
-          "+55 (21) 2109-0567",
-          "+55 (21) 2109-0569",
-          "+55 (21) 2109-0577",
-          "+55 (21) 2109-0581",
-          "+55 (21) 97190-0883",
-          "0800.301.8000"
-        ],
-        "whatsapp": [
-          "552121090560",
-          "552136139700",
-          "5521935002400",
-          "5521964645161"
-        ],
-        "produtoras_inferidas": [
-          "adhonep"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [
-          "ADHONEP"
-        ],
-        "angulo_comercial": "Evento de corporativo de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 494810,
-      "titulo": "Ultimate Tennis Showdown 2026",
-      "slug": "ultimate-tennis-showdown-2026",
-      "data_inicio": "2026-07-16 09:00:00",
-      "data_fim": "2026-07-18 09:00:00",
-      "descricao": "Para a alegria dos fanáticos torcedores brasileiros, o Rio de Janeiro ganhará um novo torneio de tênis em 2026. Trata-se do Ultimate Tennis Showdown (UTS), competição que revolucionou o esporte e que realizará a primeira etapa de sua história na América do Sul. A confirmação oficial da competição aconteceu em fevereiro, durante um encontro entre a equipe do Governo do Estado do Rio de Janeiro e o fundador do UTS, o francês Patrick Mouratoglou. O lendário treinador da modalidade, que já teve sob sua batuta nomes como a americana Serena Williams, o dinamarquês Holger Rune e o búlgaro Grigor Dimitrov, visitou o Rio de Janeiro para alinhar com a equipe local os últimos detalhes da competição, que conta com o apoio do Governo do Estado por meio da Lei de Incentivo ao Esporte, e que será realizada nos dias 16, 17 e 18 de julho no Ginásio do Maracanãzinho.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/ultimate-tennis-showdown-2026/",
-      "site_oficial": "https://www.ticketmaster.com.br/event/uts-rio-2026-br",
-      "local": "Estádio do Maracanãzinho",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 494809,
-      "titulo": "Alma Festival 2026",
-      "slug": "alma-festival-2026",
-      "data_inicio": "2026-07-18 09:00:00",
-      "data_fim": "2026-07-18 09:00:00",
-      "descricao": "O Alma Festival 2026 é um festival de música urbana focado principalmente em rap, trap e cultura jovem. Combinando elementos de música, games, esportes e arte. Dia 18 de Julho no RioCentro.",
-      "categoria": "culturais",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/alma-festival-2026/",
-      "site_oficial": "https://www.instagram.com/almafestivalbr/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 494373,
-      "titulo": "27th International Conference on Science and Technology of Synthetic Electronic Materials",
-      "slug": "27th-international-conference-on-science-and-technology-of-synthetic-electronic-materials",
-      "data_inicio": "2026-07-19 09:00:00",
-      "data_fim": "2026-07-24 09:00:00",
-      "descricao": "ICSM 2026 – O Maior Evento Global sobre Materiais Eletrônicos Sintéticos! De 19 a 24 de julho de 2026, no Windsor Convention & Expo Center, Rio de Janeiro, o ICSM 2026 reunirá os principais especialistas e empresas do setor para discutir inovação, pesquisa e negócios em materiais eletrônicos sintéticos. Destaques do evento: Tendências e Inovações: Avanços em eletrônica e fotônica orgânica. Networking Estratégico: Conexões com líderes do setor e cientistas renomados. Exposição e Parcerias: Oportunidades de negócios e expansão de mercado. Palestras e Workshops: Debates sobre tecnologia, desafios e aplicações. Garanta sua presença!",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/27th-international-conference-on-science-and-technology-of-synthetic-electronic-materials/",
-      "site_oficial": "https://www.icsm2026.com/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "aline@sbpmat.org.br",
-          "icsm2026rio@gmail.com"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "icsm2026"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 495144,
-      "titulo": "Circuito Banco do Brasil 2026",
-      "slug": "circuito-banco-do-brasil-2026",
-      "data_inicio": "2026-07-19 09:00:00",
-      "data_fim": "2026-07-19 09:00:00",
-      "descricao": "O Circuito BB de Corrida de rua 2026 tem percursos de 1K, 5k e 10k, incluindo atividades para toda família, e até para os pets. Esporte e bem-estar em uma estrutura completa de rua. Escolha sua distância, junte a família e façam parte dessa experiência. Dia 19/07 no Posto 2 de Copacabana.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-banco-do-brasil-2026/",
-      "site_oficial": "https://www.runningland.com.br/circuito-banco-do-brasil-2026-rj",
-      "local": "Praia de Copacabana",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 495290,
-      "titulo": "As Brabas Run 2026",
-      "slug": "as-brabas-run-2026",
-      "data_inicio": "2026-07-19 09:00:00",
-      "data_fim": "2026-07-19 09:00:00",
-      "descricao": "Participe da As Brabas Run, uma corrida exclusiva para mulheres! Data: 19 de julho de 2026 Distância: 7,5km Local: Parque Das Figueiras, Avenida Borges de Medeiros, 1426.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/as-brabas-run-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/as-brabas-run-86459",
-      "local": "Parque das Figueiras - Lagoa",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 495291,
-      "titulo": "Circuito Correndo Pelo Rio 2026 – Fundão",
-      "slug": "circuito-correndo-pelo-rio-2026-fundao",
-      "data_inicio": "2026-07-19 09:00:00",
-      "data_fim": "2026-07-19 09:00:00",
-      "descricao": "O Circuito Correndo pelo Rio é uma série de corridas urbanas voltadas para: Incentivo à prática esportiva, ocupação esportiva de diferentes regiões da cidade, integração entre corredores amadores e assessorias. A etapa fundão /utiliza o ambiente da ilha do Fundão utiliza o ambiente da ilha do Fundão/UFRJ , oferecendo percurso mais plano e rápido. 19/07/2026",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-correndo-pelo-rio-2026-fundao/",
-      "site_oficial": "https://www.ticketsports.com.br/e/circuito-correndo-pelo-rio-2026-fundao-86309",
-      "local": "Cidade Universitária - Fundão",
       "contato": {
         "emails": [],
         "telefones": [],
