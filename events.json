@@ -1,649 +1,8 @@
 {
-  "gerado_em": "2026-08-24T06:56:23-03:00",
+  "gerado_em": "2026-08-31T14:00:34-03:00",
   "modo": "deterministico (custo zero)",
-  "total": 196,
+  "total": 187,
   "eventos": [
-    {
-      "id": 495276,
-      "titulo": "International Conference on Dynamical Systems – Dedicated to The Memory of Jacob Palis",
-      "slug": "international-conference-on-dynamical-systems-dedicated-to-the-memory-of-jacob-palis",
-      "data_inicio": "2026-08-24 09:00:00",
-      "data_fim": "2026-08-28 09:00:00",
-      "descricao": "A International Conference on Dynamical Systems é um evento que vem sendo organizado desde 1981, com periodicidade quadrienal, ainda que de forma um pouco irregular. Seu principal objetivo é reunir especialistas de renome mundial na área de Sistemas Dinâmicos – campo no qual o IMPA tem desempenhado um papel fundamental, consolidando uma escola com identidade própria e fomentando grupos de pesquisa sólidos em todo o Brasil e na América Latina. Nesse contexto, Jacob Palis foi uma figura central nesse processo de desenvolvimento. Em razão de seu recente falecimento, dedicamos esta edição da conferência à sua memória, em homenagem à sua trajetória e legado. Os temas abordados na conferência destacarão as prolíficas contribuições de Jacob Palis aos Sistemas Dinâmicos e à Matemática em geral, sem, contudo, se limitarem a elas, abrangendo também outras áreas correlatas.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/international-conference-on-dynamical-systems-dedicated-to-the-memory-of-jacob-palis/",
-      "site_oficial": "https://impa.br/evento/international-conference-on-dynamical-systems-dedicated-to-the-memory-of-jacob-palis/",
-      "local": "Instituto de Matemática Pura e Aplicada - IMPA",
-      "contato": {
-        "emails": [
-          "eventos@impa.br",
-          "faleconosco@impa.br"
-        ],
-        "telefones": [
-          "(21) 2529-5000"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "impa"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 5 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495756,
-      "titulo": "Shell Eco-Marathon 2026",
-      "slug": "shell-eco-marathon-2026",
-      "data_inicio": "2026-08-24 09:00:00",
-      "data_fim": "2026-08-27 09:00:00",
-      "descricao": "A Shell Eco-Marathon é uma das maiores competições acadêmicas de eficiência energética do mundo. O evento desafia estudantes a projetar veículos ultraeficientes, maximizar autonomia energética, desenvolver soluções de mobilidade sustentável. As equipes competem em categorias como: Etanol,Gasolina,Bateria elétrica e Hidrogênio. 24 a 27 Agosto de 2026.",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/shell-eco-marathon-2026/",
-      "site_oficial": "https://www.shellecomarathon.com/programme/brazil.html",
-      "local": "Pier Mauá",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496116,
-      "titulo": "4º Salão Rio de Interiores",
-      "slug": "4o-salao-rio-de-interiores",
-      "data_inicio": "2026-08-25 09:00:00",
-      "data_fim": "2026-08-27 09:00:00",
-      "descricao": "Feira e encontro profissional de arquitetura e design de interiores, reunindo arquitetos, urbanistas, designers, empresas, fornecedores e entidades setoriais. A programação combina exposição de produtos e soluções, palestras, debates, networking e apresentações sobre sustentabilidade, bem-estar e regeneração dos espaços.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/4o-salao-rio-de-interiores/",
-      "site_oficial": "https://www.instagram.com/salaoriodeinteriores/",
-      "local": "IAB - Instituto de Arquitetos do Brasil - SP",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Tecnologia / Inovação",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de tecnologia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-08-03",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494352,
-      "titulo": "37º Congresso Brasileiro de Endocrinologia e Metabologia 2026",
-      "slug": "37o-congresso-brasileiro-de-endocrinologia-e-metabologia-2026",
-      "data_inicio": "2026-08-26 09:00:00",
-      "data_fim": "2026-08-29 09:00:00",
-      "descricao": "🌟 CBEM 2026 – Congresso Brasileiro de Endocrinologia e Metabologia 🌟 Entre os dias 26 e 29 de agosto de 2026, o Rio de Janeiro, a Cidade Maravilhosa, será palco de um dos eventos mais aguardados da Endocrinologia e Metabologia no Brasil! CBEM 2026 reunirá especialistas nacionais e internacionais para compartilhar descobertas, tendências, práticas e avanços científicos que impactam diretamente o cuidado com a saúde.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/37o-congresso-brasileiro-de-endocrinologia-e-metabologia-2026/",
-      "site_oficial": "https://www.cbem2026.com.br/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "andre@growup-eventos.com.br",
-          "contato@editoraclannad.com.br",
-          "secretaria@endocrino.org.br"
-        ],
-        "telefones": [
-          "(11) 3807-3808",
-          "(21) 2579-0312",
-          "+55 11 95631-0359",
-          "0800 444 3300"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "cbem2026"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Endocrinologia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 90,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494350,
-      "titulo": "Festival Nacional de Matemática 2026",
-      "slug": "festival-nacional-de-matematica-2026",
-      "data_inicio": "2026-08-27 09:00:00",
-      "data_fim": "2026-08-30 09:00:00",
-      "descricao": "O Festival Nacional de Matemática 2026 é um evento educacional e científico dedicado à divulgação, valorização e popularização da matemática no Brasil. O festival reúne estudantes, professores, pesquisadores, educadores, olimpíadas científicas, instituições de ensino e entusiastas da ciência, promovendo uma programação acessível, interativa e formativa.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/festival-nacional-de-matematica-2026/",
-      "site_oficial": "https://festivaldamatematica.impa.br/",
-      "local": "AXIA Marina da Glória",
-      "contato": {
-        "emails": [
-          "contato@festivaldamatematica.org.br",
-          "imprensa@impa.br",
-          "visitacao@festivaldamatematica.org.br"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "festivaldamatematica"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 4 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 50,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494351,
-      "titulo": "24º Congresso Corretores De Seguro 2026",
-      "slug": "24o-congresso-corretores-de-seguro-2026",
-      "data_inicio": "2026-08-27 09:00:00",
-      "data_fim": "2026-08-29 09:00:00",
-      "descricao": "O 24º Congresso Brasileiro dos Corretores de Seguros é o principal encontro nacional do mercado de seguros para corretores, promovido pela Federação Nacional dos Corretores de Seguros (FENACOR). O congresso reúne profissionais, empresas seguradoras, brokers, influenciadores do setor e representantes institucionais para debater os principais desafios e oportunidades da distribuição de seguros no Brasil, com foco em tendências mercadológicas, mudanças legislativas e comportamentais.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/24o-congresso-corretores-de-seguro-2026/",
-      "site_oficial": "https://www.fenacor.org.br/noticias/fenacor-lanca-24o-congresso-brasileiro-dos-co",
-      "local": "ExpoRio Cidade Nova",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "(21) 3077-4777"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "FENACOR"
-        ],
-        "status": "coletado",
-        "fonte": "manual",
-        "travado": true
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495754,
-      "titulo": "Congresso Internacional do Mercado Imobiliário 2026",
-      "slug": "congresso-internacional-do-mercado-imobiliario-2026",
-      "data_inicio": "2026-08-27 09:00:00",
-      "data_fim": "2026-08-28 09:00:00",
-      "descricao": "O CIMI360 é considerado um dos maiores encontros do mercado imobiliário da América Latina, reunindo profissionais de toda a cadeia do setor para discutir tendências, inovação, tecnologia, investimentos, incorporação, vendas, gestão, financiamento e desenvolvimento urbano. O evento combina congresso, feira de negócios e atividades práticas, criando um ambiente voltado para geração de negócios, capacitação profissional e networking. A programação inclui fóruns temáticos, oficinas, palestras nacionais e internacionais e uma ampla área de exposição com empresas, soluções e fornecedores do setor imobiliário.",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/congresso-internacional-do-mercado-imobiliario-2026/",
-      "site_oficial": "https://cimi360.com.br/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496115,
-      "titulo": "Virada da Empreendedora – Rio de Janeiro",
-      "slug": "virada-da-empreendedora-rio-de-janeiro-2",
-      "data_inicio": "2026-08-27 09:00:00",
-      "data_fim": "2026-08-28 09:00:00",
-      "descricao": "Virada da Empreendedora 2026 A Virada da Empreendedora nasce para mulheres reais, com desafios reais, que não querem mais empreender apenas por necessidade, mas para aquelas que querem ter sucesso. É uma imersão da Rede Mulher Empreendedora (RME) para mulheres prontas para começar com direção ou crescer com método, transformando esforço em resultado. Sua virada de chave começa aqui. Temos um encontro marcado no Rio de Janeiro, nos dias 27 e 28 de Agosto.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/virada-da-empreendedora-rio-de-janeiro-2/",
-      "site_oficial": "https://viradadaempreendedora.net.br/rio-de-janeiro/",
-      "local": "Fiap Botafogo",
-      "contato": {
-        "emails": [
-          "contato@rme.net.br"
-        ],
-        "telefones": [
-          "+55 112619-9190"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "viradadaempreendedora"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Desenvolvimento / Negócios",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 2 dias.",
-        "publico_alvo": "líderes, gestores e times comerciais",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-08-03",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496114,
-      "titulo": "Virada da Empreendedora – Rio de Janeiro",
-      "slug": "virada-da-empreendedora-rio-de-janeiro",
-      "data_inicio": "2026-08-27 09:00:00",
-      "data_fim": "2026-08-28 09:00:00",
-      "descricao": "Virada da Empreendedora 2026 A Virada da Empreendedora nasce para mulheres reais, com desafios reais, que não querem mais empreender apenas por necessidade, mas para aquelas que querem ter sucesso. É uma imersão da Rede Mulher Empreendedora (RME) para mulheres prontas para começar com direção ou crescer com método, transformando esforço em resultado. Sua virada de chave começa aqui. Temos um encontro marcado no Rio de Janeiro, nos dias 27 e 28 de Agosto.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/virada-da-empreendedora-rio-de-janeiro/",
-      "site_oficial": "https://viradadaempreendedora.net.br/rio-de-janeiro/",
-      "local": "Fiap Botafogo",
-      "contato": {
-        "emails": [
-          "contato@rme.net.br"
-        ],
-        "telefones": [
-          "+55 112619-9190"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "viradadaempreendedora"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Desenvolvimento / Negócios",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 2 dias.",
-        "publico_alvo": "líderes, gestores e times comerciais",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-08-03",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494349,
-      "titulo": "Congresso Carioca de Estudantes de Medicina 2026",
-      "slug": "congresso-carioca-de-estudantes-de-medicina-2026",
-      "data_inicio": "2026-08-28 09:00:00",
-      "data_fim": "2026-08-30 09:00:00",
-      "descricao": "O que você vai estar fazendo nos dias 28, 29 e 30 de agosto? O CCMED 2026 já tem data confirmada e será palco de 3 dias de imersão total na medicina 🩺 Grandes palestrantes 👨🏻‍⚕️👩🏻‍⚕️ Diversas especialidades 🔬 Minicursos 📚 Networking com estudantes de todo o país 🤝 E uma experiência que vai elevar seu nível acadêmico 🚀 📅 28, 29 e 30 de agosto Em breve abriremos as inscrições ⏳ Salve a data e prepare-se para fazer parte de algo gigante. 🔥",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/congresso-carioca-de-estudantes-de-medicina-2026/",
-      "site_oficial": "https://medassina.com.br/ccmed2026/",
-      "local": "Barra Shopping - Multiplan",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "medassina"
-        ],
-        "status": "bloqueado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494600,
-      "titulo": "Conferência Destino 2026",
-      "slug": "conferencia-destino-2026",
-      "data_inicio": "2026-08-28 09:00:00",
-      "data_fim": "2026-08-29 09:00:00",
-      "descricao": "A Conferência Destino é um dos maiores eventos cristãos de liderança e ativação espiritual da América Latina, idealizado por Tiago Brunet.",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/conferencia-destino-2026/",
-      "site_oficial": "https://casadedestino.com.br/conferenciadestino/#ingressos",
-      "local": "Farmasi Arena",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494348,
-      "titulo": "College Football Brasil 2026",
-      "slug": "college-football-brasil-2026",
-      "data_inicio": "2026-08-29 09:00:00",
-      "data_fim": "2026-08-29 09:00:00",
-      "descricao": "Jogo universitário de futebol americano (ACC) entre NC State e Virginia, marcou a primeira vez que um jogo de faculdade americana será realizado na América do Sul programado para 29 de agosto de 2026 no Rio.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/college-football-brasil-2026/",
-      "site_oficial": "https://www.ticketmaster.com.br/event/college-football",
-      "local": "Estádio Nilton Santos - Engenhão",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495753,
-      "titulo": "Churrasquinho Menos é Mais 2026",
-      "slug": "churrasquinho-menos-e-mais-2026",
-      "data_inicio": "2026-08-29 09:00:00",
-      "data_fim": "2026-08-29 09:00:00",
-      "descricao": "O “Churrasquinho Menos é Mais” é um dos projetos de pagode mais fortes do Brasil atualmente, misturando: Show ao vivo, roda de samba e pagode, experiência gastronômica open air lifestyle. Dia 29/08 na Marina da Glória.",
-      "categoria": "culturais",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/churrasquinho-menos-e-mais-2026/",
-      "site_oficial": "https://churrasquinhomenosemais.com.br/",
-      "local": "AXIA Marina da Glória",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494805,
-      "titulo": "Meia Maratona Cidade Maravilhosa 21K – 2026",
-      "slug": "rio-s21k-2026",
-      "data_inicio": "2026-08-30 09:00:00",
-      "data_fim": "2026-08-30 09:00:00",
-      "descricao": "Rápida, Plana, Maravilhosa A orla carioca como você nunca viu! A RIO S-21K é a meia maratona mais rápida e desejada do país, perfeita para você bater seu recorde nos 21k, contemplando uma paisagem espetacular. Largada: Leblon Av. Delfim Moreira com Rua Gen. Venâncio Flores",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/rio-s21k-2026/",
-      "site_oficial": "https://www.rios21k.com.br/",
-      "local": "Vários locais",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495138,
-      "titulo": "Centauro Desbrava II 2026",
-      "slug": "centauro-desbrava-ii-2026",
-      "data_inicio": "2026-08-30 09:00:00",
-      "data_fim": "2026-08-30 09:00:00",
-      "descricao": "Essa é a sua chance de deixar sua marca na pista na 3ª edição do DESBRAVA! Prepare-se para uma experiência que vai muito além da corrida: Kit exclusivo Nike, além de ativações que fazem cada quilômetro valer a pena. É o seu momento de transformar a pista em um verdadeiro espetáculo. E depois de cruzar a linha de chegada, a energia continua: um super show regional espera por você pra fechar o dia em grande estilo.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/centauro-desbrava-ii-2026/",
-      "site_oficial": "https://page.ticketsports.com.br/centauro-desbrava-2026-i-rio-de-janeiro-rj-ii/",
-      "local": "Museu do Amanhã",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495275,
-      "titulo": "Corrida das Patroas – Etapa Recreio dos Bandeirantes 2026",
-      "slug": "corrida-das-patroas-etapa-recreio-dos-bandeirantes-2026",
-      "data_inicio": "2026-08-30 09:00:00",
-      "data_fim": "2026-08-30 09:00:00",
-      "descricao": "Corrida de Rua. Participe da 2ª etapa 2026 da Corrida das Patroas 5K (corrida e caminhada) no Recreio dos Bandeirantes: esporte, diversão e empoderamento feminino em um percurso cheio de energia no Rio.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-das-patroas-etapa-recreio-dos-bandeirantes-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-das-patroas-2026-recreio-86968",
-      "local": "Posto 12 - Recreio dos Bandeirantes",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495749,
-      "titulo": "Carioca Family Run 2026",
-      "slug": "carioca-family-run-2026",
-      "data_inicio": "2026-08-30 09:00:00",
-      "data_fim": "2026-08-30 09:00:00",
-      "descricao": "A Carioca Family Run 2026 é uma corrida de rua que celebra a saúde, o bem-estar e a união familiar. Este evento é perfeito para corredores de todas as idades e níveis, oferecendo percursos de 5 km e 10 km para adultos e distâncias variadas para crianças. DATA: 30/08/2026 LOCAL: Orla de Copacabana – Posto 2 DISTÂNCIAS ADULTO: 5k corrida e caminhada 10k corrida",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/carioca-family-run-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/CARIOCA+FAMILY+RUN+2026-86505",
-      "local": "Praia de Copacabana",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495750,
-      "titulo": "10º Edição – Corrida e Samba",
-      "slug": "10o-edicao-corrida-e-samba",
-      "data_inicio": "2026-08-30 09:00:00",
-      "data_fim": "2026-08-30 09:00:00",
-      "descricao": "A Corrida e Samba mistura esporte e entretenimento em uma proposta temática focada em corrida recreativa ,música, experiência social e cultura popular. O evento combina a corrida com experiências incríveis e clima festivo pós prova. Domingo 30 de Agosto de 2026 na Lagoa Rodrigo de Freitas.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/10o-edicao-corrida-e-samba/",
-      "site_oficial": "https://www.instagram.com/corridaesamba/",
-      "local": "Lagoa Rodrigo de Freitas",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495751,
-      "titulo": "Corrida e Caminhada Contos Clássicos – Branca de Neve 2026",
-      "slug": "corrida-e-caminhada-contos-classicos-branca-de-neve-2026",
-      "data_inicio": "2026-08-30 09:00:00",
-      "data_fim": "2026-08-30 09:00:00",
-      "descricao": "📅 Data: 30/08/2026 (domingo) 📍 Local: Parque Madureira – Rio de Janeiro/RJ ⏰ Largada: 08h00 📖 Tema: evento inspirado no conto original alemão da Branca de Neve 🤝 Natureza: esportivo e beneficente 🎯 Causa: apoio aos projetos Coração Que Ajuda ❤️ e Café na Tenda ☕, com foco na arrecadação de alimentos para famílias e instituições em vulnerabilidade 📦 Doações aceitas: alimentos não perecíveis (obrigatório na inscrição/retirada) + itens de limpeza 🧼, higiene pessoal 🪥 e roupas 👕",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-contos-classicos-branca-de-neve-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+CONTOS+CL%C3%81SSICOS+-+BRANCA+DE+NEVE-86482",
-      "local": "Parque de Madureira",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495752,
-      "titulo": "Grand Premium Brasil – Rio de Janeiro",
-      "slug": "grand-premium-brasil-rio-de-janeiro",
-      "data_inicio": "2026-08-30 09:00:00",
-      "data_fim": "2026-08-30 09:00:00",
-      "descricao": "📅 Data oficial: 30 de agosto de 2026 🌆 Capitais-sede: 27 capitais do Brasil (avenidas e pontos turísticos com vias oficiais de cada cidade) ⏱️ Formato: largada e chegada simultâneas nas capitais 🎯 Propósito/impacto: integrar modalidades esportivas, revelar novos talentos, fortalecer o atletismo e as corridas de rua com visibilidade midiática, estrutura profissional e premiações de excelência 🏆 Ambição: entrar para o Guinness World Records📚 e lançar um livro/álbum histórico com atletas e resultados oficiais!",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/grand-premium-brasil-rio-de-janeiro/",
-      "site_oficial": "https://www.ticketsports.com.br/e/grand-premium-brasil-rio-de-janeiro-86133",
-      "local": "Praia de Copacabana",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495996,
-      "titulo": "Travessia de Copa – Rio de Janeiro 2026",
-      "slug": "travessia-de-copa-rio-de-janeiro-2026",
-      "data_inicio": "2026-08-30 09:00:00",
-      "data_fim": "2026-08-30 09:00:00",
-      "descricao": "A Travessia de Copa é um dos grandes desafios do Circuito Aqua, cruzando o lendário mar de Copacabana — do Forte de Copacabana até o Forte do Leme. Com percursos de 1.500m e 3.800m, a prova une resistência, técnica e conexão com um dos cenários mais icônicos do litoral brasileiro. Mais do que uma competição, é um mergulho em liberdade, superação e uma paisagem de tirar o fôlego.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/travessia-de-copa-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.runningland.com.br/travessia-de-copa-rio-de-janeiro-2026",
-      "local": "Praia de Copacabana",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-27",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 495274,
       "titulo": "16th ALGA meeting – Commutative Algebra and Algebraic Geometry",
@@ -1813,6 +1172,44 @@
       "local_coletado": true
     },
     {
+      "id": 494332,
+      "titulo": "Febrava Rio 2026",
+      "slug": "febrava-rio-2026",
+      "data_inicio": "2026-10-06 09:00:00",
+      "data_fim": "2026-10-08 09:00:00",
+      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
+      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "+55 11 3060-4717"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "febrava"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494331,
       "titulo": "FEICON Rio",
       "slug": "feicon-rio",
@@ -1847,44 +1244,6 @@
         ],
         "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
         "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494332,
-      "titulo": "Febrava Rio 2026",
-      "slug": "febrava-rio-2026",
-      "data_inicio": "2026-10-06 09:00:00",
-      "data_fim": "2026-10-08 09:00:00",
-      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
-      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "+55 11 3060-4717"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "febrava"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -3113,17 +2472,17 @@
       "local_coletado": true
     },
     {
-      "id": 495270,
-      "titulo": "Hoka Speed Run 2026 – Rio de Janeiro",
-      "slug": "hoka-speed-run-2026-rio-de-janeiro",
+      "id": 495269,
+      "titulo": "Smurfs Run Rio de Janeiro 2026",
+      "slug": "smurfs-run-rio-de-janeiro-2026",
       "data_inicio": "2026-11-08 09:00:00",
       "data_fim": "2026-11-08 09:00:00",
-      "descricao": "A HOKA Speed Run é uma corrida de rua premium organizada pela Beta Sports e patrocinada pela HOKA, marca global especializada em running performance. O evento é focado rápidos e estrutura voltada para corredores amadores avançados e atletas de elite. A etapa carioca integra o circuito nacional da prova e contará com distâncias de 7,5 km, 15km e 30km, utilizando o eixo plano do Aterro do Flamengo.",
+      "descricao": "Prepare sua camiseta azul e venha correr com os Smurfs! A Smurfs Run 2026 está chegando para transformar Rio de Janeiro (RJ) em um verdadeiro vilarejo mágico! Um evento esportivo único e totalmente temático para crianças, adultos e até pets! 📅 08 de novembro de 2026 | 📍Parque Olimpico – Barra da Tijuca | ⏰ Inicio as 6h",
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/hoka-speed-run-2026-rio-de-janeiro/",
-      "site_oficial": "https://www.ticketsports.com.br/e/hoka-speed-run-2026-rio-de-janeiro-85376",
-      "local": "AXIA Marina da Glória",
+      "url_visitrio": "https://visitrio.com.br/evento/smurfs-run-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/smurfs-run-rio-de-janeiro-86362",
+      "local": "Parque Olímpico",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -3138,17 +2497,17 @@
       "local_coletado": true
     },
     {
-      "id": 495269,
-      "titulo": "Smurfs Run Rio de Janeiro 2026",
-      "slug": "smurfs-run-rio-de-janeiro-2026",
+      "id": 495270,
+      "titulo": "Hoka Speed Run 2026 – Rio de Janeiro",
+      "slug": "hoka-speed-run-2026-rio-de-janeiro",
       "data_inicio": "2026-11-08 09:00:00",
       "data_fim": "2026-11-08 09:00:00",
-      "descricao": "Prepare sua camiseta azul e venha correr com os Smurfs! A Smurfs Run 2026 está chegando para transformar Rio de Janeiro (RJ) em um verdadeiro vilarejo mágico! Um evento esportivo único e totalmente temático para crianças, adultos e até pets! 📅 08 de novembro de 2026 | 📍Parque Olimpico – Barra da Tijuca | ⏰ Inicio as 6h",
+      "descricao": "A HOKA Speed Run é uma corrida de rua premium organizada pela Beta Sports e patrocinada pela HOKA, marca global especializada em running performance. O evento é focado rápidos e estrutura voltada para corredores amadores avançados e atletas de elite. A etapa carioca integra o circuito nacional da prova e contará com distâncias de 7,5 km, 15km e 30km, utilizando o eixo plano do Aterro do Flamengo.",
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/smurfs-run-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/smurfs-run-rio-de-janeiro-86362",
-      "local": "Parque Olímpico",
+      "url_visitrio": "https://visitrio.com.br/evento/hoka-speed-run-2026-rio-de-janeiro/",
+      "site_oficial": "https://www.ticketsports.com.br/e/hoka-speed-run-2026-rio-de-janeiro-85376",
+      "local": "AXIA Marina da Glória",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -4309,6 +3668,647 @@
       "primeiro_visto": "2026-07-08",
       "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 495276,
+      "titulo": "International Conference on Dynamical Systems – Dedicated to The Memory of Jacob Palis",
+      "slug": "international-conference-on-dynamical-systems-dedicated-to-the-memory-of-jacob-palis",
+      "data_inicio": "2026-08-24 09:00:00",
+      "data_fim": "2026-08-28 09:00:00",
+      "descricao": "A International Conference on Dynamical Systems é um evento que vem sendo organizado desde 1981, com periodicidade quadrienal, ainda que de forma um pouco irregular. Seu principal objetivo é reunir especialistas de renome mundial na área de Sistemas Dinâmicos – campo no qual o IMPA tem desempenhado um papel fundamental, consolidando uma escola com identidade própria e fomentando grupos de pesquisa sólidos em todo o Brasil e na América Latina. Nesse contexto, Jacob Palis foi uma figura central nesse processo de desenvolvimento. Em razão de seu recente falecimento, dedicamos esta edição da conferência à sua memória, em homenagem à sua trajetória e legado. Os temas abordados na conferência destacarão as prolíficas contribuições de Jacob Palis aos Sistemas Dinâmicos e à Matemática em geral, sem, contudo, se limitarem a elas, abrangendo também outras áreas correlatas.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/international-conference-on-dynamical-systems-dedicated-to-the-memory-of-jacob-palis/",
+      "site_oficial": "https://impa.br/evento/international-conference-on-dynamical-systems-dedicated-to-the-memory-of-jacob-palis/",
+      "local": "Instituto de Matemática Pura e Aplicada - IMPA",
+      "contato": {
+        "emails": [
+          "eventos@impa.br",
+          "faleconosco@impa.br"
+        ],
+        "telefones": [
+          "(21) 2529-5000"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "impa"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 5 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495756,
+      "titulo": "Shell Eco-Marathon 2026",
+      "slug": "shell-eco-marathon-2026",
+      "data_inicio": "2026-08-24 09:00:00",
+      "data_fim": "2026-08-27 09:00:00",
+      "descricao": "A Shell Eco-Marathon é uma das maiores competições acadêmicas de eficiência energética do mundo. O evento desafia estudantes a projetar veículos ultraeficientes, maximizar autonomia energética, desenvolver soluções de mobilidade sustentável. As equipes competem em categorias como: Etanol,Gasolina,Bateria elétrica e Hidrogênio. 24 a 27 Agosto de 2026.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/shell-eco-marathon-2026/",
+      "site_oficial": "https://www.shellecomarathon.com/programme/brazil.html",
+      "local": "Pier Mauá",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496116,
+      "titulo": "4º Salão Rio de Interiores",
+      "slug": "4o-salao-rio-de-interiores",
+      "data_inicio": "2026-08-25 09:00:00",
+      "data_fim": "2026-08-27 09:00:00",
+      "descricao": "Feira e encontro profissional de arquitetura e design de interiores, reunindo arquitetos, urbanistas, designers, empresas, fornecedores e entidades setoriais. A programação combina exposição de produtos e soluções, palestras, debates, networking e apresentações sobre sustentabilidade, bem-estar e regeneração dos espaços.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/4o-salao-rio-de-interiores/",
+      "site_oficial": "https://www.instagram.com/salaoriodeinteriores/",
+      "local": "IAB - Instituto de Arquitetos do Brasil - SP",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de tecnologia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494352,
+      "titulo": "37º Congresso Brasileiro de Endocrinologia e Metabologia 2026",
+      "slug": "37o-congresso-brasileiro-de-endocrinologia-e-metabologia-2026",
+      "data_inicio": "2026-08-26 09:00:00",
+      "data_fim": "2026-08-29 09:00:00",
+      "descricao": "🌟 CBEM 2026 – Congresso Brasileiro de Endocrinologia e Metabologia 🌟 Entre os dias 26 e 29 de agosto de 2026, o Rio de Janeiro, a Cidade Maravilhosa, será palco de um dos eventos mais aguardados da Endocrinologia e Metabologia no Brasil! CBEM 2026 reunirá especialistas nacionais e internacionais para compartilhar descobertas, tendências, práticas e avanços científicos que impactam diretamente o cuidado com a saúde.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/37o-congresso-brasileiro-de-endocrinologia-e-metabologia-2026/",
+      "site_oficial": "https://www.cbem2026.com.br/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "andre@growup-eventos.com.br",
+          "contato@editoraclannad.com.br",
+          "secretaria@endocrino.org.br"
+        ],
+        "telefones": [
+          "(11) 3807-3808",
+          "(21) 2579-0312",
+          "+55 11 95631-0359",
+          "0800 444 3300"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "cbem2026"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Endocrinologia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 90,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494350,
+      "titulo": "Festival Nacional de Matemática 2026",
+      "slug": "festival-nacional-de-matematica-2026",
+      "data_inicio": "2026-08-27 09:00:00",
+      "data_fim": "2026-08-30 09:00:00",
+      "descricao": "O Festival Nacional de Matemática 2026 é um evento educacional e científico dedicado à divulgação, valorização e popularização da matemática no Brasil. O festival reúne estudantes, professores, pesquisadores, educadores, olimpíadas científicas, instituições de ensino e entusiastas da ciência, promovendo uma programação acessível, interativa e formativa.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/festival-nacional-de-matematica-2026/",
+      "site_oficial": "https://festivaldamatematica.impa.br/",
+      "local": "AXIA Marina da Glória",
+      "contato": {
+        "emails": [
+          "contato@festivaldamatematica.org.br",
+          "imprensa@impa.br",
+          "visitacao@festivaldamatematica.org.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "festivaldamatematica"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 4 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 50,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494351,
+      "titulo": "24º Congresso Corretores De Seguro 2026",
+      "slug": "24o-congresso-corretores-de-seguro-2026",
+      "data_inicio": "2026-08-27 09:00:00",
+      "data_fim": "2026-08-29 09:00:00",
+      "descricao": "O 24º Congresso Brasileiro dos Corretores de Seguros é o principal encontro nacional do mercado de seguros para corretores, promovido pela Federação Nacional dos Corretores de Seguros (FENACOR). O congresso reúne profissionais, empresas seguradoras, brokers, influenciadores do setor e representantes institucionais para debater os principais desafios e oportunidades da distribuição de seguros no Brasil, com foco em tendências mercadológicas, mudanças legislativas e comportamentais.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/24o-congresso-corretores-de-seguro-2026/",
+      "site_oficial": "https://www.fenacor.org.br/noticias/fenacor-lanca-24o-congresso-brasileiro-dos-co",
+      "local": "ExpoRio Cidade Nova",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "(21) 3077-4777"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "FENACOR"
+        ],
+        "status": "coletado",
+        "fonte": "manual",
+        "travado": true
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495754,
+      "titulo": "Congresso Internacional do Mercado Imobiliário 2026",
+      "slug": "congresso-internacional-do-mercado-imobiliario-2026",
+      "data_inicio": "2026-08-27 09:00:00",
+      "data_fim": "2026-08-28 09:00:00",
+      "descricao": "O CIMI360 é considerado um dos maiores encontros do mercado imobiliário da América Latina, reunindo profissionais de toda a cadeia do setor para discutir tendências, inovação, tecnologia, investimentos, incorporação, vendas, gestão, financiamento e desenvolvimento urbano. O evento combina congresso, feira de negócios e atividades práticas, criando um ambiente voltado para geração de negócios, capacitação profissional e networking. A programação inclui fóruns temáticos, oficinas, palestras nacionais e internacionais e uma ampla área de exposição com empresas, soluções e fornecedores do setor imobiliário.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/congresso-internacional-do-mercado-imobiliario-2026/",
+      "site_oficial": "https://cimi360.com.br/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496115,
+      "titulo": "Virada da Empreendedora – Rio de Janeiro",
+      "slug": "virada-da-empreendedora-rio-de-janeiro-2",
+      "data_inicio": "2026-08-27 09:00:00",
+      "data_fim": "2026-08-28 09:00:00",
+      "descricao": "Virada da Empreendedora 2026 A Virada da Empreendedora nasce para mulheres reais, com desafios reais, que não querem mais empreender apenas por necessidade, mas para aquelas que querem ter sucesso. É uma imersão da Rede Mulher Empreendedora (RME) para mulheres prontas para começar com direção ou crescer com método, transformando esforço em resultado. Sua virada de chave começa aqui. Temos um encontro marcado no Rio de Janeiro, nos dias 27 e 28 de Agosto.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/virada-da-empreendedora-rio-de-janeiro-2/",
+      "site_oficial": "https://viradadaempreendedora.net.br/rio-de-janeiro/",
+      "local": "Fiap Botafogo",
+      "contato": {
+        "emails": [
+          "contato@rme.net.br"
+        ],
+        "telefones": [
+          "+55 112619-9190"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "viradadaempreendedora"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Desenvolvimento / Negócios",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "líderes, gestores e times comerciais",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496114,
+      "titulo": "Virada da Empreendedora – Rio de Janeiro",
+      "slug": "virada-da-empreendedora-rio-de-janeiro",
+      "data_inicio": "2026-08-27 09:00:00",
+      "data_fim": "2026-08-28 09:00:00",
+      "descricao": "Virada da Empreendedora 2026 A Virada da Empreendedora nasce para mulheres reais, com desafios reais, que não querem mais empreender apenas por necessidade, mas para aquelas que querem ter sucesso. É uma imersão da Rede Mulher Empreendedora (RME) para mulheres prontas para começar com direção ou crescer com método, transformando esforço em resultado. Sua virada de chave começa aqui. Temos um encontro marcado no Rio de Janeiro, nos dias 27 e 28 de Agosto.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/virada-da-empreendedora-rio-de-janeiro/",
+      "site_oficial": "https://viradadaempreendedora.net.br/rio-de-janeiro/",
+      "local": "Fiap Botafogo",
+      "contato": {
+        "emails": [
+          "contato@rme.net.br"
+        ],
+        "telefones": [
+          "+55 112619-9190"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "viradadaempreendedora"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Desenvolvimento / Negócios",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "líderes, gestores e times comerciais",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494349,
+      "titulo": "Congresso Carioca de Estudantes de Medicina 2026",
+      "slug": "congresso-carioca-de-estudantes-de-medicina-2026",
+      "data_inicio": "2026-08-28 09:00:00",
+      "data_fim": "2026-08-30 09:00:00",
+      "descricao": "O que você vai estar fazendo nos dias 28, 29 e 30 de agosto? O CCMED 2026 já tem data confirmada e será palco de 3 dias de imersão total na medicina 🩺 Grandes palestrantes 👨🏻‍⚕️👩🏻‍⚕️ Diversas especialidades 🔬 Minicursos 📚 Networking com estudantes de todo o país 🤝 E uma experiência que vai elevar seu nível acadêmico 🚀 📅 28, 29 e 30 de agosto Em breve abriremos as inscrições ⏳ Salve a data e prepare-se para fazer parte de algo gigante. 🔥",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/congresso-carioca-de-estudantes-de-medicina-2026/",
+      "site_oficial": "https://medassina.com.br/ccmed2026/",
+      "local": "Barra Shopping - Multiplan",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "medassina"
+        ],
+        "status": "bloqueado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494600,
+      "titulo": "Conferência Destino 2026",
+      "slug": "conferencia-destino-2026",
+      "data_inicio": "2026-08-28 09:00:00",
+      "data_fim": "2026-08-29 09:00:00",
+      "descricao": "A Conferência Destino é um dos maiores eventos cristãos de liderança e ativação espiritual da América Latina, idealizado por Tiago Brunet.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/conferencia-destino-2026/",
+      "site_oficial": "https://casadedestino.com.br/conferenciadestino/#ingressos",
+      "local": "Farmasi Arena",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494348,
+      "titulo": "College Football Brasil 2026",
+      "slug": "college-football-brasil-2026",
+      "data_inicio": "2026-08-29 09:00:00",
+      "data_fim": "2026-08-29 09:00:00",
+      "descricao": "Jogo universitário de futebol americano (ACC) entre NC State e Virginia, marcou a primeira vez que um jogo de faculdade americana será realizado na América do Sul programado para 29 de agosto de 2026 no Rio.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/college-football-brasil-2026/",
+      "site_oficial": "https://www.ticketmaster.com.br/event/college-football",
+      "local": "Estádio Nilton Santos - Engenhão",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495753,
+      "titulo": "Churrasquinho Menos é Mais 2026",
+      "slug": "churrasquinho-menos-e-mais-2026",
+      "data_inicio": "2026-08-29 09:00:00",
+      "data_fim": "2026-08-29 09:00:00",
+      "descricao": "O “Churrasquinho Menos é Mais” é um dos projetos de pagode mais fortes do Brasil atualmente, misturando: Show ao vivo, roda de samba e pagode, experiência gastronômica open air lifestyle. Dia 29/08 na Marina da Glória.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/churrasquinho-menos-e-mais-2026/",
+      "site_oficial": "https://churrasquinhomenosemais.com.br/",
+      "local": "AXIA Marina da Glória",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494805,
+      "titulo": "Meia Maratona Cidade Maravilhosa 21K – 2026",
+      "slug": "rio-s21k-2026",
+      "data_inicio": "2026-08-30 09:00:00",
+      "data_fim": "2026-08-30 09:00:00",
+      "descricao": "Rápida, Plana, Maravilhosa A orla carioca como você nunca viu! A RIO S-21K é a meia maratona mais rápida e desejada do país, perfeita para você bater seu recorde nos 21k, contemplando uma paisagem espetacular. Largada: Leblon Av. Delfim Moreira com Rua Gen. Venâncio Flores",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-s21k-2026/",
+      "site_oficial": "https://www.rios21k.com.br/",
+      "local": "Vários locais",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495138,
+      "titulo": "Centauro Desbrava II 2026",
+      "slug": "centauro-desbrava-ii-2026",
+      "data_inicio": "2026-08-30 09:00:00",
+      "data_fim": "2026-08-30 09:00:00",
+      "descricao": "Essa é a sua chance de deixar sua marca na pista na 3ª edição do DESBRAVA! Prepare-se para uma experiência que vai muito além da corrida: Kit exclusivo Nike, além de ativações que fazem cada quilômetro valer a pena. É o seu momento de transformar a pista em um verdadeiro espetáculo. E depois de cruzar a linha de chegada, a energia continua: um super show regional espera por você pra fechar o dia em grande estilo.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/centauro-desbrava-ii-2026/",
+      "site_oficial": "https://page.ticketsports.com.br/centauro-desbrava-2026-i-rio-de-janeiro-rj-ii/",
+      "local": "Museu do Amanhã",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495275,
+      "titulo": "Corrida das Patroas – Etapa Recreio dos Bandeirantes 2026",
+      "slug": "corrida-das-patroas-etapa-recreio-dos-bandeirantes-2026",
+      "data_inicio": "2026-08-30 09:00:00",
+      "data_fim": "2026-08-30 09:00:00",
+      "descricao": "Corrida de Rua. Participe da 2ª etapa 2026 da Corrida das Patroas 5K (corrida e caminhada) no Recreio dos Bandeirantes: esporte, diversão e empoderamento feminino em um percurso cheio de energia no Rio.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-das-patroas-etapa-recreio-dos-bandeirantes-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-das-patroas-2026-recreio-86968",
+      "local": "Posto 12 - Recreio dos Bandeirantes",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495749,
+      "titulo": "Carioca Family Run 2026",
+      "slug": "carioca-family-run-2026",
+      "data_inicio": "2026-08-30 09:00:00",
+      "data_fim": "2026-08-30 09:00:00",
+      "descricao": "A Carioca Family Run 2026 é uma corrida de rua que celebra a saúde, o bem-estar e a união familiar. Este evento é perfeito para corredores de todas as idades e níveis, oferecendo percursos de 5 km e 10 km para adultos e distâncias variadas para crianças. DATA: 30/08/2026 LOCAL: Orla de Copacabana – Posto 2 DISTÂNCIAS ADULTO: 5k corrida e caminhada 10k corrida",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/carioca-family-run-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/CARIOCA+FAMILY+RUN+2026-86505",
+      "local": "Praia de Copacabana",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495750,
+      "titulo": "10º Edição – Corrida e Samba",
+      "slug": "10o-edicao-corrida-e-samba",
+      "data_inicio": "2026-08-30 09:00:00",
+      "data_fim": "2026-08-30 09:00:00",
+      "descricao": "A Corrida e Samba mistura esporte e entretenimento em uma proposta temática focada em corrida recreativa ,música, experiência social e cultura popular. O evento combina a corrida com experiências incríveis e clima festivo pós prova. Domingo 30 de Agosto de 2026 na Lagoa Rodrigo de Freitas.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/10o-edicao-corrida-e-samba/",
+      "site_oficial": "https://www.instagram.com/corridaesamba/",
+      "local": "Lagoa Rodrigo de Freitas",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495751,
+      "titulo": "Corrida e Caminhada Contos Clássicos – Branca de Neve 2026",
+      "slug": "corrida-e-caminhada-contos-classicos-branca-de-neve-2026",
+      "data_inicio": "2026-08-30 09:00:00",
+      "data_fim": "2026-08-30 09:00:00",
+      "descricao": "📅 Data: 30/08/2026 (domingo) 📍 Local: Parque Madureira – Rio de Janeiro/RJ ⏰ Largada: 08h00 📖 Tema: evento inspirado no conto original alemão da Branca de Neve 🤝 Natureza: esportivo e beneficente 🎯 Causa: apoio aos projetos Coração Que Ajuda ❤️ e Café na Tenda ☕, com foco na arrecadação de alimentos para famílias e instituições em vulnerabilidade 📦 Doações aceitas: alimentos não perecíveis (obrigatório na inscrição/retirada) + itens de limpeza 🧼, higiene pessoal 🪥 e roupas 👕",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-contos-classicos-branca-de-neve-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+CONTOS+CL%C3%81SSICOS+-+BRANCA+DE+NEVE-86482",
+      "local": "Parque de Madureira",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495752,
+      "titulo": "Grand Premium Brasil – Rio de Janeiro",
+      "slug": "grand-premium-brasil-rio-de-janeiro",
+      "data_inicio": "2026-08-30 09:00:00",
+      "data_fim": "2026-08-30 09:00:00",
+      "descricao": "📅 Data oficial: 30 de agosto de 2026 🌆 Capitais-sede: 27 capitais do Brasil (avenidas e pontos turísticos com vias oficiais de cada cidade) ⏱️ Formato: largada e chegada simultâneas nas capitais 🎯 Propósito/impacto: integrar modalidades esportivas, revelar novos talentos, fortalecer o atletismo e as corridas de rua com visibilidade midiática, estrutura profissional e premiações de excelência 🏆 Ambição: entrar para o Guinness World Records📚 e lançar um livro/álbum histórico com atletas e resultados oficiais!",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/grand-premium-brasil-rio-de-janeiro/",
+      "site_oficial": "https://www.ticketsports.com.br/e/grand-premium-brasil-rio-de-janeiro-86133",
+      "local": "Praia de Copacabana",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495996,
+      "titulo": "Travessia de Copa – Rio de Janeiro 2026",
+      "slug": "travessia-de-copa-rio-de-janeiro-2026",
+      "data_inicio": "2026-08-30 09:00:00",
+      "data_fim": "2026-08-30 09:00:00",
+      "descricao": "A Travessia de Copa é um dos grandes desafios do Circuito Aqua, cruzando o lendário mar de Copacabana — do Forte de Copacabana até o Forte do Leme. Com percursos de 1.500m e 3.800m, a prova une resistência, técnica e conexão com um dos cenários mais icônicos do litoral brasileiro. Mais do que uma competição, é um mergulho em liberdade, superação e uma paisagem de tirar o fôlego.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/travessia-de-copa-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.runningland.com.br/travessia-de-copa-rio-de-janeiro-2026",
+      "local": "Praia de Copacabana",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     },
     {
@@ -5681,82 +5681,6 @@
       "local_coletado": true
     },
     {
-      "id": 496040,
-      "titulo": "Green Soul 2026 | Um encontro sobre futuros possíveis",
-      "slug": "green-soul-2026-um-encontro-sobre-futuros-possiveis",
-      "data_inicio": "2026-07-29 09:00:00",
-      "data_fim": "2026-07-29 09:00:00",
-      "descricao": "O futuro já começou — e ele pode ser aprendido com quem há séculos desenvolve formas de viver em equilíbrio com a natureza. O Green Soul 2026 é um encontro que reúne diferentes vozes, saberes e experiências para refletir sobre caminhos concretos para a regeneração ambiental, social e econômica. Mais do que um evento sobre sustentabilidade, é uma plataforma de impacto socioambiental que conecta cultura, educação, inovação e ancestralidade para ampliar a consciência coletiva e impulsionar soluções capazes de transformar territórios, organizações e pessoas. Vivemos um momento em que as crises climática, social e econômica exigem muito mais do que novas tecnologias: exigem novas formas de organização da vida. Ou talvez antigas formas que nunca deixaram de existir. Ao longo do encontro, lideranças indígenas, quilombolas e representantes de comunidades tradicionais mostram que as formas de viver pós-capitalistas já são uma realidade em seus territórios. Eles não vêm falar sobre o passado, mas compartilhar experiências que funcionam no presente e oferecem verdadeiros “spoilers” sobre como a humanidade poderá sobreviver no futuro por meio do manejo ecológico, da inteligência coletiva, da organização comunitária e da relação de reciprocidade com a natureza. Casa Savana 29/07/2026.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/green-soul-2026-um-encontro-sobre-futuros-possiveis/",
-      "site_oficial": "https://www.sympla.com.br/evento/green-soul-2026-um-encontro-sobre-futuros-possiveis/3490179?referrer=www.google.com&referrer=www.google.com",
-      "local": "Casa Savana",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Energia / Óleo e Gás",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de energia de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-27",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 496041,
-      "titulo": "Circuito Varejo Rio 2026",
-      "slug": "circuito-varejo-rio-2026",
-      "data_inicio": "2026-07-29 09:00:00",
-      "data_fim": "2026-07-29 09:00:00",
-      "descricao": "O Circuito Varejo Rio 2026 é um evento promovido pelo Sebrae Rio voltado para empresários, gestores e profissionais do varejo interessados em aprimorar estratégias de vendas, gestão, posicionamento de marca e experiência do cliente. Com o tema “Conexões que Movimentam o Varejo”, o encontro reúne palestras, painéis, mentorias, oficinas práticas e oportunidades de networking para apresentar tendências de consumo, inovação, transformação digital e ferramentas aplicáveis ao comércio. A proposta é oferecer conteúdo prático para micro e pequenas empresas, estimulando competitividade e crescimento sustentável.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-varejo-rio-2026/",
-      "site_oficial": "https://sites.rj.sebrae.com.br/inscricao/evento-circuito-varejo-rio?utm_source=meta&utm_medium=ads&utm_campaign=CIRCUITO_VAREJO_2026_14_A_28-07&utm_id=evento&utm_term=convers%C3%A3o",
-      "local": "Sebrae Rio",
-      "contato": {
-        "emails": [
-          "contatoandrefigueiredo@gmail.com",
-          "falesebraerio@rj.sebrae.com.br",
-          "rj-ouvidoria@rj.sebrae.com.br"
-        ],
-        "telefones": [
-          "(21) 96576-7825"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "sites"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Desenvolvimento / Negócios",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "líderes, gestores e times comerciais",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de negócios de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-27",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
       "id": 496034,
       "titulo": "XI Congresso Internacional de Artroplastia",
       "slug": "xi-congresso-internacional-de-artroplastia",
@@ -6065,84 +5989,6 @@
       "local_coletado": true
     },
     {
-      "id": 494808,
-      "titulo": "International Congress of the World Association of Symphonic Bands and Ensembles -WASBE",
-      "slug": "international-congress-of-the-world-association-of-symphonic-bands-and-ensembles-wasbe",
-      "data_inicio": "2026-07-21 09:00:00",
-      "data_fim": "2026-07-25 09:00:00",
-      "descricao": "A 21ª Conferência Internacional da WASBE (World Association for Symphonic Bands and Ensembles) é o principal encontro mundial de bandas sinfônicas e conjuntos de sopros, reunindo músicos, regentes, educadores, compositores e especialistas de dezenas de países para apresentações, debates, workshops, performances e intercâmbio artístico. Esta edição será a primeira na América Latina, realizada no Rio de Janeiro, com atividades artísticas e educacionais distribuídas por diversos espaços da cidade.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/international-congress-of-the-world-association-of-symphonic-bands-and-ensembles-wasbe/",
-      "site_oficial": "https://www.wasbe.online/conference-2026",
-      "local": "Vários locais",
-      "contato": {
-        "emails": [
-          "wasbe2026@gmail.com"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "wasbe"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 5 dias.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [
-          "WASBE"
-        ],
-        "angulo_comercial": "Evento de corporativo de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 494371,
-      "titulo": "48th Annual Meeting of the Cognitive Science Society – COGSCI 2026",
-      "slug": "48th-annual-meeting-of-the-cognitive-science-society-cogsci-2026",
-      "data_inicio": "2026-07-22 09:00:00",
-      "data_fim": "2026-07-25 09:00:00",
-      "descricao": "Vem aí o CogSci 2026 no Brasil! 🧠 A Cognitive Science Society convida você para participar do CogSci 2026, a principal conferência internacional dedicada ao estudo da mente e da cognição humana. Pela primeira vez sediado no Brasil, o evento acontecerá de 22 a 25 de julho de 2026, no luxuoso Sheraton Grand Rio Hotel & Resort, no Rio de Janeiro. 📢 Por que participar? ✔️ Programação científica de alto nível ✔️ Palestrantes internacionais renomados ✔️ Oportunidade de networking global ✔️ Submissões de trabalhos, pôsteres e simpósios ✔️ Local paradisíaco com vista para o mar Não perca a chance de fazer parte deste encontro que está moldando o futuro da cognição. CogSci 2026 – Onde mentes se encontram.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/48th-annual-meeting-of-the-cognitive-science-society-cogsci-2026/",
-      "site_oficial": "https://cognitivesciencesociety.org/future-conferences/",
-      "local": "Sheraton Grand Rio Hotel & Resort",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "cognitivesciencesociety"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "COGSCI"
-        ],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
       "id": 494370,
       "titulo": "Festival de Inverno Rio 2026",
       "slug": "festival-de-inverno-rio-2026",
@@ -6154,147 +6000,6 @@
       "url_visitrio": "https://visitrio.com.br/evento/festival-de-inverno-rio-2026/",
       "site_oficial": "https://www.instagram.com/festivaldeinvernorio/",
       "local": "AXIA Marina da Glória",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 494369,
-      "titulo": "26th International AIDS Conference 2026",
-      "slug": "26th-international-aids-conference-2026",
-      "data_inicio": "2026-07-26 09:00:00",
-      "data_fim": "2026-07-31 09:00:00",
-      "descricao": "🌍✨ O Rio de Janeiro será palco de um dos mais importantes encontros globais da saúde pública: a 26th International AIDS Conference 2026), organizada pela International AIDS Society (IAS). De 26 a 31 de julho de 2026, a cidade maravilhosa receberá milhares de especialistas, ativistas, gestores, profissionais de saúde e representantes da sociedade civil para debater os avanços e desafios no enfrentamento do HIV e da AIDS. Pela primeira vez realizada na América do Sul, a conferência chega em um momento estratégico, a apenas quatro anos do prazo global de 2030, reunindo ciência de ponta, inovação, políticas públicas e experiências comunitárias para acelerar respostas inclusivas e sustentáveis. 🌟 A realização da AIDS 2026 no Brasil conta com o apoio de instituições como a Fiocruz, o Ministério da Saúde, a Prefeitura do Rio, Visit Rio, Embratur, ABIA e diversas organizações da sociedade civil, reforçando o compromisso do país com a saúde, a ciência e a solidariedade global.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/26th-international-aids-conference-2026/",
-      "site_oficial": "https://www.iasociety.org/conferences/aids2026",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [
-          "privacy@iasociety.org",
-          "u003eprivacy@iasociety.org"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "iasociety"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Imunização",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 6 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "AIDS"
-        ],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 90,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 495143,
-      "titulo": "Corrida Dia da Amizade 4KM",
-      "slug": "corrida-dia-da-amizade-4km",
-      "data_inicio": "2026-07-26 09:00:00",
-      "data_fim": "2026-07-26 09:00:00",
-      "descricao": "📅 Data: 26/07/2026 (domingo) 📍 Local: Parque Radical de Deodoro – RJ 🎽 Modalidades: Corrida 4 km | Caminhada 4 km ⏰ Horário da largada: 08h00 🎯 Objetivo: evento beneficente com arrecadação de doações para famílias e instituições necessitadas 🤲",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-dia-da-amizade-4km/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-dia-da-amizade-4km-85998",
-      "local": "Parque Radical de Deodoro",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 495286,
-      "titulo": "Eco Run – Rio de Janeiro 2026",
-      "slug": "eco-run-rio-de-janeiro-2026",
-      "data_inicio": "2026-07-26 09:00:00",
-      "data_fim": "2026-07-26 09:00:00",
-      "descricao": "A Eco Run conecta esporte e consciência ambiental. Mais do que cruzar a linha de chegada, nosso propósito é reciclar energia e transformar movimento em impacto positivo. Uma prova desenhada para quem busca respeitar os ciclos do corpo e da natureza, renovando atitudes a cada passada. Dia 26 de Julho.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/eco-run-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.ecorun.com.br/rio-de-janeiro/unica",
-      "local": null,
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 495287,
-      "titulo": "6 Milhas da Reserva – 2026",
-      "slug": "6-milhas-da-reserva-2026",
-      "data_inicio": "2026-07-26 09:00:00",
-      "data_fim": "2026-07-26 09:00:00",
-      "descricao": "Prepare-se para um dos eventos mais aguardados do calendário esportivo carioca! No dia 26 de julho de 2026, a CORRE VENTOS realiza a corrida de 6 Milhas (9.6 km) na deslumbrante Praia da Reserva, entre a Barra da Tijuca e o Recreio dos Bandeirantes. Um percurso plano, perfeito para quem busca performance ou uma experiência única à beira-mar. A largada será em frente ao Blue Beach Point (Av. Lúcio Costa, nº 8.060) e a chegada no Posto 12 (Av. Lúcio Costa, nº 18.000). PERCURSO 📍 Percurso de 9.6 km (6 Milhas), individual, sem modalidade de caminhada. Largada às 07h em frente ao Blue Beach Point e chegada no Posto 12. Prova com percurso plano, ideal para todos os níveis de corredores.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/6-milhas-da-reserva-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/6-milhas-da-reserva-2026-85128",
-      "local": "Posto 12 - Recreio dos Bandeirantes",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 495288,
-      "titulo": "Circuito dos Elementos 2026 – Etapa Água",
-      "slug": "circuito-dos-elementos-2026-etapa-agua",
-      "data_inicio": "2026-07-26 09:00:00",
-      "data_fim": "2026-07-26 09:00:00",
-      "descricao": "O Circuito dos Elementos é um conjunto de corridas temáticas dividido por etapas (Água,Terra,Fogo e Ar), cada um com identidade própria.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-dos-elementos-2026-etapa-agua/",
-      "site_oficial": "https://esportecorrida.com.br/v3/evento.php?evt=2433",
-      "local": "Yup Star - A Roda Gigante do Rio",
       "contato": {
         "emails": [],
         "telefones": [],
