@@ -46,10 +46,11 @@ SAIDA = "events_ab.json"
 # --- Modo incremental (stateful) --------------------------------------------
 # O events.json commitado pelo GitHub Actions é o BANCO acumulado. A cada
 # execução mesclamos o feed novo nele por `id`, preservando contatos já
-# coletados (Etapa C) e resgates manuais. Eventos que já terminaram há mais de
-# RETENCAO_DIAS saem do arquivo (é um monitor prospectivo).
+# coletados (Etapa C) e resgates manuais. Eventos NUNCA são removidos do
+# banco — mesmo depois de saírem do calendário público do Visit Rio ou de já
+# terem acontecido, ficam marcados como no_feed=True e continuam no arquivo
+# como histórico permanente.
 BANCO = "events.json"
-RETENCAO_DIAS = 30
 
 # --------------------------------------------------------------------------- #
 # Etapa B — classificação de categoria
@@ -253,15 +254,6 @@ def _skeleton_contato():
             "produtoras_inferidas": [], "status": "nao_coletado"}
 
 
-def _ja_passou(ev, hoje):
-    """True se o evento terminou há mais de RETENCAO_DIAS."""
-    try:
-        fim = datetime.fromisoformat(ev["data_fim"]).date()
-    except Exception:
-        return False
-    return (hoje - fim).days > RETENCAO_DIAS
-
-
 def carregar_banco():
     """Lê o events.json acumulado (se existir) e indexa por id."""
     import os
@@ -287,7 +279,7 @@ def mesclar(feed, banco, hoje):
                               sobrevive porque a Etapa C só toca pendentes.
       - só corporativo carrega contato/inteligencia; se a categoria mudou,
         o enriquecimento antigo é descartado (esqueleto limpo).
-      - id sumiu do feed   -> mantém enquanto dentro da janela de retenção,
+      - id sumiu do feed   -> mantém PARA SEMPRE (histórico permanente),
                               marcando no_feed=True (saiu do calendário público).
     """
     saida = []
@@ -330,16 +322,16 @@ def mesclar(feed, banco, hoje):
 
         saida.append(ev)
 
-    # eventos do banco que não vieram mais no feed
+    # Eventos do banco que não vieram mais no feed são mantidos PARA SEMPRE
+    # como histórico — o monitor nunca descarta um evento já visto, mesmo
+    # que tenha saído do calendário público do Visit Rio ou já tenha
+    # acontecido há muito tempo.
     arquivados = 0
     for id_, antigo in banco.items():
         if id_ in vistos:
             continue
-        if _ja_passou(antigo, hoje):
-            arquivados += 1
-            continue                      # expira da retenção
         antigo["novo"] = False
-        antigo["no_feed"] = True          # saiu do calendário, mas ainda vigente
+        antigo["no_feed"] = True          # saiu do calendário público, mas fica no histórico
         saida.append(antigo)
 
     return saida, arquivados
