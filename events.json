@@ -1,738 +1,42 @@
 {
-  "gerado_em": "2026-09-21T12:53:49-03:00",
+  "gerado_em": "2026-09-28T14:36:59-03:00",
   "modo": "deterministico (custo zero)",
-  "total": 295,
+  "total": 302,
   "eventos": [
     {
-      "id": 494337,
-      "titulo": "ROG.E 2026",
-      "slug": "rog-e-2026",
-      "data_inicio": "2026-09-21 09:00:00",
-      "data_fim": "2026-09-24 09:00:00",
-      "descricao": "A ROG.e 2026 (Rio Oil & Gas Energy) é um dos principais eventos de energia da América Latina, reunindo líderes, especialistas, empresas e formuladores de políticas públicas para debater o presente e o futuro do setor energético, com foco especial em transição energética, descarbonização, inovação tecnológica e integração entre diferentes matrizes de energia. Mais do que um evento de óleo e gás, o ROG.e se posiciona como uma plataforma estratégica de diálogo entre energia tradicional e novas energias, conectando petróleo, gás natural, energias renováveis, hidrogênio, captura de carbono, eletrificação, digitalização e eficiência energética em um mesmo ecossistema.",
+      "id": 494335,
+      "titulo": "20th World Congress on Menopause – WCM 2026",
+      "slug": "20th-world-congress-on-menopause-wcm-2026",
+      "data_inicio": "2026-09-30 09:00:00",
+      "data_fim": "2026-10-03 09:00:00",
+      "descricao": "20th World Congress on Menopause 2026 – Rio de Janeiro. Prepare-se para o evento global mais importante sobre menopausa! O 20th World Congress on Menopause acontecerá de 29 de setembro a 3 de outubro de 2026, no Rio de Janeiro, Brasil. Este é o ponto de encontro para profissionais e empresas do setor de saúde e bem-estar, com uma agenda repleta de discussões sobre os avanços científicos, tratamentos inovadores e melhores práticas no cuidado à saúde da mulher.",
       "categoria": "corporativos",
       "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/rog-e-2026/",
-      "site_oficial": "https://roge.energy/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [
-          "552121129040"
-        ],
-        "produtoras_inferidas": [
-          "roge"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Energia / Óleo e Gás",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 4 dias.",
-        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
-        "empresas_citadas": [
-          "ROG"
-        ],
-        "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496462,
-      "titulo": "3º Seminário Internacional de Valorização do Patrimônio Cultural: Sustentabilidade na preservação de bens culturais",
-      "slug": "3o-seminario-internacional-de-valorizacao-do-patrimonio-cultural-sustentabilidade-na-preservacao-de-bens-culturais",
-      "data_inicio": "2026-09-21 09:00:00",
-      "data_fim": "2026-09-25 09:00:00",
-      "descricao": "O 3º Seminário Internacional de Valorização do Patrimônio Cultural será organizado pela Casa de Oswaldo Cruz, em parceria com a Universidade de Évora (Portugal), a Universitat Politècnica de València (Espanha), a Universidad Católica de La Plata (Argentina), a Universidade Estadual de Campinas (Brasil), a Universidade Federal de Mato Grosso do Sul (Brasil), além do Centro Internacional de Estudos para a Conservação e Restauração de Bens Culturais (ICCROM), do Conselho Internacional de Monumentos e Sítios (ICOMOS-Brasil), do Conselho Internacional de Museus (ICOM-Brasil) e da Climate Heritage Network – Latin America & Caribe. O evento contará com palestrantes convidados e receberá inscrições de trabalhos e pôsteres de estudantes de graduação, pós-graduação e profissionais ibero-americanos. As contribuições deverão dialogar com os seguintes eixos temáticos: inovação em materiais e práticas de conservação; gestão de riscos (pessoas, lugares e acervos); mudanças climáticas — estratégias de adaptação, resiliência e enfrentamento; e patrimônio cultural e tecnologias sociais. A programação do evento incluirá, ainda, oficinas teóricas e práticas, voltadas à capacitação dos participantes e ao intercâmbio de conhecimentos e experiências no campo da preservação e valorização do patrimônio cultural.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/3o-seminario-internacional-de-valorizacao-do-patrimonio-cultural-sustentabilidade-na-preservacao-de-bens-culturais/",
-      "site_oficial": "https://www.even3.com.br/iii-seminario-internacional-de-valorizacao-do-patrimonio-cultural-693803/?utm_source=chatgpt.com",
-      "local": "Fiocruz - Instituto de Comunicação e Informação Científica e Tecnológica em Saúde",
-      "contato": {
-        "emails": [
-          "analaurapm@unam.mx",
-          "ancosu@upv.es",
-          "annalaura@usp.br",
-          "beadomga@upv.es",
-          "bevilacqua.gabriel@queensu.ca",
-          "carla.coelho@fiocruz.br",
-          "catherine.gallois@fiocruz.br",
-          "claudiasrcarvalho@gmail.com",
-          "cynthia.tarrisse@itamaraty.gov.br",
-          "diego.bevilaqua@fiocruz.br",
-          "doris-couto@sedac.rs.gov.br",
-          "fsitzia@uevora.pt",
-          "helena.tavares@fiocruz.br",
-          "ipozo@uvigo.gal",
-          "julia_riscado@yahoo.com.br",
-          "luana_campos@ufms.br",
-          "lucimaraletelier@gmail.com",
-          "luiz.sarmento@iphan.gov.br",
-          "mabacmar@dcom.upv.es",
-          "marcos.pinheiro@fiocruz.br",
-          "maria.carcereri@fiocruz.br",
-          "mariajhho@gmail.com",
-          "mauro.garciasantacruz@ucalp.edu.ar",
-          "mteobaldo@hotmail.com",
-          "nathalia.serrano@fiocruz.br",
-          "pmn@uevora.pt",
-          "rafaeln.azevedo@iphan.gov.br",
-          "sacuesta@esc.upv.es",
-          "safra@kojom.org",
-          "teresa.reis@uevora.pt",
-          "thamires.oliveira@fiocruz.br",
-          "willidebarros@eba.ufmg.br",
-          "yacyara.froner@gmail.com"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Tecnologia / Inovação",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 5 dias.",
-        "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de tecnologia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 90,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495736,
-      "titulo": "Casa Cor Rio de Janeiro 2026",
-      "slug": "casa-cor-rio-de-janeiro-2026",
-      "data_inicio": "2026-09-22 09:00:00",
-      "data_fim": "2026-11-15 09:00:00",
-      "descricao": "A CASACOR Rio de Janeiro inicia um novo capítulo de sua trajetória ao anunciar o endereço que receberá a edição comemorativa de 35 anos da mostra. Em sintonia com o movimento de revitalização do centro da cidade e com a proposta de ressignificar espaços urbanos de relevância histórica e arquitetônica, a edição de 2026 ocupará o Edifício Aliança da Bahia, localizado na Rua Araújo Porto Alegre, 36, em frente ao Palácio Gustavo Capanema, conectando patrimônio, cultura, arquitetura e novas experiências de ocupação da cidade.",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/casa-cor-rio-de-janeiro-2026/",
-      "site_oficial": "https://casacor.abril.com.br/mostras/rio-de-janeiro/",
-      "local": "São Conrado Fashion Mall",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496460,
-      "titulo": "Hackconference – 2026",
-      "slug": "hackconference-2026",
-      "data_inicio": "2026-09-22 09:00:00",
-      "data_fim": "2026-09-22 09:00:00",
-      "descricao": "HACKCONFERENCE 2026 chega à Casa Firjan A Casa Firjan, em Botafogo, recebe no dia 22 de setembro de 2026 o HACKCONFERENCE 2026, parte da programação especial do HACKTUDO – Festival de Cultura Digital. Com foco em tecnologia, inovação e educação, o encontro promove debates e reflexões sobre o futuro da aprendizagem, a inteligência artificial, a cultura maker e as novas formas de interação entre tecnologia e sociedade. A programação reúne profissionais, educadores, estudantes, pesquisadores e interessados em inovação para compartilhar conhecimentos, experiências e perspectivas sobre os desafios e oportunidades da transformação digital. 📅 22 de setembro de 2026 📍 Casa Firjan – Botafogo 🎟️ Participação gratuita",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/hackconference-2026/",
-      "site_oficial": "https://www.hacktudo.com.br/",
-      "local": "Casa Firjan",
+      "url_visitrio": "https://visitrio.com.br/evento/20th-world-congress-on-menopause-wcm-2026/",
+      "site_oficial": "https://www.imsrio2026.com/",
+      "local": "Centro de Convenções & Hotéis Windsor",
       "contato": {
         "emails": [],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
-          "hacktudo"
+          "imsrio2026"
         ],
         "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de ciência de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 30,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495734,
-      "titulo": "Health Tech Summit Rio 2026",
-      "slug": "health-tech-summit-rio-2026",
-      "data_inicio": "2026-09-23 09:00:00",
-      "data_fim": "2026-09-24 09:00:00",
-      "descricao": "O HealthTech 2026, realizado pela Assespro.Rio, é um evento voltado à inovação, tecnologia e transformação digital no setor de saúde. A proposta é reunir empresas de tecnologia, healthtechs, gestores, especialistas, startups e profissionais da área para discutir soluções digitais aplicadas a hospitais, clínicas, laboratórios, operadoras e demais organizações do ecossistema de saúde. A programação deve abordar temas como inteligência artificial, dados, automação, segurança da informação, interoperabilidade, eficiência operacional, novas plataformas digitais e tendências para a modernização dos serviços de saúde. O evento tem perfil corporativo e institucional, funcionando como espaço de conteúdo, networking, conexão entre empresas e geração de oportunidades de negócios no mercado de healthtech.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/health-tech-summit-rio-2026/",
-      "site_oficial": "https://assespro.rio/healthtech2026#",
-      "local": "Centro de Convenções RB1",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "assespro"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495735,
-      "titulo": "XV Seminário da cadeia de óleo, gás e energia",
-      "slug": "xv-seminario-da-cadeia-de-oleo-gas-e-energia",
-      "data_inicio": "2026-09-23 09:00:00",
-      "data_fim": "2026-09-24 09:00:00",
-      "descricao": "O XV Seminário da Cadeia de Óleo, Gás e Energia é um evento setorial voltado à discussão dos principais desafios, oportunidades e tendências da indústria energética, com foco na cadeia produtiva de óleo, gás natural, energia e serviços associados. A programação deve reunir representantes de empresas, entidades do setor, fornecedores, especialistas, investidores, gestores públicos e profissionais técnicos para debater temas como exploração e produção, infraestrutura, transição energética, inovação tecnológica, conteúdo local, regulação, sustentabilidade, logística, investimentos e desenvolvimento da cadeia de fornecedores. O seminário tem perfil corporativo e institucional, funcionando como espaço de atualização técnica, relacionamento empresarial e articulação entre os diferentes agentes do setor. Por tratar de uma cadeia estratégica para o Rio de Janeiro e para o Brasil, o evento tende a atrair público ligado à indústria, energia, engenharia, tecnologia, infraestrutura, governo e prestação de serviços especializados.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xv-seminario-da-cadeia-de-oleo-gas-e-energia/",
-      "site_oficial": "https://assespro.rio/energy2026#",
-      "local": "Centro de Convenções RB1",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "assespro"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Energia / Óleo e Gás",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 2 dias.",
-        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 50,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496458,
-      "titulo": "FLUP — Festa Literária das Periferias",
-      "slug": "flup-festa-literaria-das-periferias",
-      "data_inicio": "2026-09-23 09:00:00",
-      "data_fim": "2026-09-27 09:00:00",
-      "descricao": "Em 2026, a Flup acontecerá de 23 a 27 de setembro e chega à sua 16ª edição guiada pelo tema “As Filhas das Filhas das Filhas”. Inspirada na obra e na trajetória de Ana Maria Gonçalves, primeira mulher negra eleita para a Academia Brasileira de Letras e homenageada desta edição, a Festa convida o público a refletir sobre as heranças que atravessam gerações, as histórias que resistem ao apagamento e as mulheres que, ao longo do tempo, deram à luz muito mais do que filhos: deram à luz comunidades, saberes, linguagens, territórios e futuros. Durante cinco dias, o Teatro Carlos Gomes e a Praça Tiradentes receberão mesas literárias, performances, rodas de conversa, batalhas de rima e de esquetes, lançamentos de livros, slams, afoxés, bênçãos das mais velhas, campeonatos de passinho e altinha, vivências brincantes, feira de baianas e muito samba.",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/flup-festa-literaria-das-periferias/",
-      "site_oficial": "https://www.vempraflup.com.br/",
-      "local": "Vários locais",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496459,
-      "titulo": "XII Congresso Brasileiro de Educação em Fisioterapia",
-      "slug": "xii-congresso-brasileiro-de-educacao-em-fisioterapia",
-      "data_inicio": "2026-09-23 09:00:00",
-      "data_fim": "2026-09-26 09:00:00",
-      "descricao": "É com grande alegria que a ABENFISIO convida todas e todos para o XXXV Fórum Nacional de Ensino em Fisioterapia e o XII Congresso Brasileiro de Educação em Fisioterapia, que acontecerão de 23 a 26 de setembro de 2026, no Rio de Janeiro. Em um ano especialmente simbólico, em que celebramos os 25 anos da ABENFISIO, nosso encontro será guiado pelo tema “Ensinar, Sentir e Cuidar: formação em Fisioterapia na Perspectiva da Saúde Biopsicossocial”. A proposta fortalece o debate sobre uma formação alinhada às demandas contemporâneas da saúde, valorizando não apenas o conhecimento técnico, mas também a sensibilidade, a ética, a equidade e o compromisso social. Ao longo da programação, refletiremos sobre desafios atuais da educação e da saúde, como as novas Diretrizes Curriculares Nacionais, o uso ético da inteligência artificial, as mudanças climáticas, o enfrentamento ao capacitismo e ao racismo ambiental, além da inovação curricular e das tecnologias educacionais. O congresso reafirma o compromisso histórico da ABENFISIO com a qualificação da formação em Fisioterapia, promovendo o diálogo entre docentes, estudantes, profissionais, gestores e instituições, em defesa de uma educação crítica, humanizada e comprometida com os princípios do SUS. Pela primeira vez, também contaremos com espaços dedicados ao bem-estar dos participantes, como a Sala Aconchego Carioca e o roteiro Respira no Rio, convidando todos a vivenciar momentos de cuidado, acolhimento e conexão com a cidade.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xii-congresso-brasileiro-de-educacao-em-fisioterapia/",
-      "site_oficial": "https://www.even3.com.br/xii-congresso-brasileiro-de-educacao-em-fisioterapia-747352?even3_orig=events_eventlist",
-      "local": "Instituto de Psiquiatria da UFRJ",
-      "contato": {
-        "emails": [
-          "adriane.batiston@ufms.br",
-          "ana.azevedo@ifrj.edu.br",
-          "ana.luiza.oliveira@ufrn.br",
-          "anasettecamara@gmail.com",
-          "arthur.medeiros@saude.gov.br",
-          "arthurde@souunisuam.com.br",
-          "brendadoliveirasr@gmail.com",
-          "carolinaschmitt@usp.br",
-          "cinthyapsilva@gmail.com",
-          "clarice.baldotto@gmail.com",
-          "clarice.olivo@fm.usp.br",
-          "clarinhampb.acadim@gmail.com",
-          "cristine@fmrp.usp.br",
-          "danyaprigio@gmail.com",
-          "eduardo.guedes.ufpb@gmail.com",
-          "ferreirathalleshenrique@gmail.com",
-          "francisca.rego@uol.com.br",
-          "guirbarbosa@gmail.com",
-          "juliana.veiga@ifrj.edu.br",
-          "karina.durce@prof.saocamilo-sp.br",
-          "katiaqsribeiro@gmail.com",
-          "lais.costa@fiocruz.br",
-          "laissouza@hotmail.com",
-          "leandro.karam@pucpr.br",
-          "lfcalvarenga@gmail.com",
-          "lucianarbilitario@gmail.com",
-          "luizhbso@usp.br",
-          "majcaldas@hotmail.com",
-          "marcelo.viana@ufrn.br",
-          "mariana.aveiro@unifesp.br",
-          "mateus.antunes@italo.br",
-          "mauren.carvalho@ifrj.edu.br",
-          "michelle.guiot@ifrj.edu.br",
-          "mparangole@gmail.com",
-          "patsymandelli@gmail.com",
-          "racheltrinchao@bahiana.edu.br",
-          "raquel.braga@ifrj.edu.br",
-          "ricardo.aguiar@unifal-mg.edu.br",
-          "simasjmm@gmail.com",
-          "sonehara.elisa@gmail.com.br",
-          "susana.nogueira@ifrj.edu.br",
-          "sylvia.aguiar@ifrj.edu.br",
-          "vrochafisio@gmail.com"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Saúde / Geral",
         "porte_estimado": "grande",
         "porte_justificativa": "Evento internacional, 4 dias.",
         "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 90,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495733,
-      "titulo": "Feira de Condomínios & Encontro de Síndicos 2026",
-      "slug": "feira-de-condominios-encontro-de-sindicos-2026",
-      "data_inicio": "2026-09-24 09:00:00",
-      "data_fim": "2026-09-25 09:00:00",
-      "descricao": "A Feira de Condomínios & Encontro de Síndicos chega à sua 6ª edição em 2026, consolidando-se como o maior e melhor encontro do mercado condominial do Rio de Janeiro. Realizado em conjunto pelas duas maiores entidades do setor, Secovi Rio (Sindicato da Habitação) e ABADI (Associação Brasileira das Administradoras de Imóveis), o evento reúne síndicos, funcionários de condomínios, administradoras, construtoras, empresários, condôminos, advogados e todos os interessados em se aprofundar no universo da administração condominial. A Feira de Condomínios e Encontro de Síndicos 2026 une a experiência do Secovi Rio e da ABADI, oferecendo dois dias de palestras com especialistas em temas como jurídico, inovação, sustentabilidade, liderança e gestão.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/feira-de-condominios-encontro-de-sindicos-2026/",
-      "site_oficial": "https://www.feiraeencontro.com.br/",
-      "local": "ExpoRio Cidade Nova",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "feiraeencontro"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Jurídico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "advogados, magistrados e departamentos jurídicos",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de jurídico de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496527,
-      "titulo": "IX Congresso de Farmácia Hospitalar em Oncologia do INCA",
-      "slug": "ix-congresso-de-farmacia-hospitalar-em-oncologia-do-inca",
-      "data_inicio": "2026-09-24 09:00:00",
-      "data_fim": "2026-09-26 09:00:00",
-      "descricao": "O Congresso de Farmácia Hospitalar em Oncologia do INCA reúne farmacêuticos, pesquisadores, residentes, estudantes e outros profissionais da saúde para discutir avanços e desafios da assistência farmacêutica, com ênfase no cuidado oncológico. A programação integra atualização científica, experiências da prática hospitalar, apresentação de trabalhos, debates e atividades voltadas à gestão, assistência, ensino e pesquisa. A edição de 2026 abordará o protagonismo do farmacêutico na ampliação do acesso, na incorporação de inovações e na segurança do cuidado ao paciente. Entre os temas estão farmácia clínica, medicamentos antineoplásicos, radiofarmácia, gestão hospitalar, inovação tecnológica, avaliação de tecnologias em saúde, segurança do paciente e atuação multiprofissional em oncologia.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/ix-congresso-de-farmacia-hospitalar-em-oncologia-do-inca/",
-      "site_oficial": "https://congressofarmaciainca.com.br/",
-      "local": "Prodigy Santos Dumont",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "congressofarmaciainca"
-        ],
-        "status": "bloqueado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Oncologia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
         "empresas_citadas": [
-          "INCA"
+          "WCM"
         ],
         "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
         "relevancia_b2b": 80,
         "_fonte": "heuristica"
       },
-      "primeiro_visto": "2026-09-21",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495732,
-      "titulo": "Corrida da Cleopatra 2026",
-      "slug": "corrida-da-cleopatra-2026",
-      "data_inicio": "2026-09-26 09:00:00",
-      "data_fim": "2026-09-26 09:00:00",
-      "descricao": "📅 Data: 26/09/2026 (sábado) 📍 Local: Quinta da Boa Vista – RJ 🏁 Modalidades: Corrida 4km e Caminhada 4km ⏰ Largada: 8h 📞 Informações: (21) 99076-6733 – Philipe Pinheiro 🤝 Evento beneficente em apoio ao Projeto Coração Que Ajuda e ao Projeto Café Na Tenda, com arrecadação de alimentos e doações para atender famílias e instituições necessitadas. 🧼👕 Além de alimentos não perecíveis, também são aceitas doações de itens de limpeza, itens de higiene pessoal e roupas.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-da-cleopatra-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-da-cleopatra-87198",
-      "local": "Quinta da Boa Vista",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
       "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496454,
-      "titulo": "Hacktudo 2026",
-      "slug": "hacktudo-2026",
-      "data_inicio": "2026-09-26 09:00:00",
-      "data_fim": "2026-09-27 09:00:00",
-      "descricao": "HACKTUDO 2026 O Rio de Janeiro recebe, nos dias 26 e 27 de setembro, a 10ª edição do HACKTUDO – Festival de Cultura Digital, no Museu de Arte Moderna do Rio de Janeiro (MAM Rio). Com entrada gratuita, o evento reúne tecnologia, inovação, arte e entretenimento, com atrações de robótica, drones, inteligência artificial, realidade virtual, cultura maker, games e experiências interativas. Em 2025, o festival reuniu cerca de 16 mil pessoas no MAM Rio. Em 2026, celebrando uma década de história, o HACKTUDO amplia sua atuação e realiza também sua primeira edição em São Paulo. 📅 26 e 27 de setembro de 2026 📍 MAM Rio 🎟️ Entrada gratuita",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/hacktudo-2026/",
-      "site_oficial": "https://www.hacktudo.com.br/",
-      "local": "MAM - Museu de Arte Moderna do Rio de Janeiro",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "hacktudo"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Tecnologia / Inovação",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 2 dias.",
-        "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 50,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496455,
-      "titulo": "NFL Rio Run 2026",
-      "slug": "nfl-rio-run-2026",
-      "data_inicio": "2026-09-26 09:00:00",
-      "data_fim": "2026-09-26 09:00:00",
-      "descricao": "Corrida temática oficial da NFL realizada na véspera da partida entre Dallas Cowboys e Baltimore Ravens, no Maracanã. Os participantes podem escolher camisetas personalizadas das 32 franquias da liga.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/nfl-rio-run-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/nfl-rio-run-or-rio-de-janeiro-2026-87770",
-      "local": "Parque Garota de Ipanema",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496456,
-      "titulo": "Pokémon GO City Safari: Rio de Janeiro 2026",
-      "slug": "pokemon-go-city-safari-rio-de-janeiro-2026",
-      "data_inicio": "2026-09-26 09:00:00",
-      "data_fim": "2026-09-27 09:00:00",
-      "descricao": "O Rio de Janeiro recebe pela primeira vez o Pokémon GO City Safari, evento presencial internacional que transforma a cidade em uma grande experiência de exploração baseada no jogo Pokémon GO. Durante dois dias, os participantes poderão percorrer diferentes regiões e pontos turísticos do município, visitar Poképaradas especiais, completar pesquisas exclusivas, participar de uma caça aos selos digital e encontrar Pokémon selecionados para o evento. A experiência não terá uma arena ou local único. A jogabilidade estará disponível em toda a área determinada pela organização dentro do Rio, permitindo que os participantes explorem a cidade no próprio ritmo. O mapa oficial dos pontos de interesse e das áreas de encontro ainda será divulgado. Entre os destaques estão a pesquisa especial com Eevee usando chapéu de explorador, a Caça aos Selos com até oito pontos turísticos, Pokémon exclusivos e regionais, maior chance de encontrar versões brilhantes e bônus especiais para os participantes com ingresso.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/pokemon-go-city-safari-rio-de-janeiro-2026/",
-      "site_oficial": "https://pokemongo.com/pt-BR/featured-in-person-events/citysafari/rio-de-janeiro",
-      "local": "Vários locais",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "pokemongo"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "GO"
-        ],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496457,
-      "titulo": "Congresso Brasileiro de Musculação – ENAF Rio de Janeiro 2026",
-      "slug": "congresso-brasileiro-de-musculacao-enaf-rio-de-janeiro-2026",
-      "data_inicio": "2026-09-26 09:00:00",
-      "data_fim": "2026-09-27 09:00:00",
-      "descricao": "O Congresso Brasileiro de Musculação é um evento de destaque no cenário nacional, reunindo profissionais, atletas e entusiastas do mundo fitness em um ambiente propício para troca de conhecimento, atualização científica e networking. Este congresso é reconhecido por suas diversas qualidades que o tornam um marco no calendário dos praticantes de musculação e atividades físicas em geral.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/congresso-brasileiro-de-musculacao-enaf-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.sympla.com.br/evento/congresso-brasileiro-de-musculacao-enaf-rio-de-janeiro-2026/3444482",
-      "local": "Laghetto Stilo Barra Rio",
-      "contato": {
-        "emails": [
-          "contato@enaf.com.br"
-        ],
-        "telefones": [
-          "(35) 99725-9528"
-        ],
-        "whatsapp": [
-          "5535997259528"
-        ],
-        "produtoras_inferidas": [],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 2 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "ENAF"
-        ],
-        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495136,
-      "titulo": "NFL Rio Game 2026",
-      "slug": "nfl-rio-game-2026",
-      "data_inicio": "2026-09-27 09:00:00",
-      "data_fim": "2026-09-27 09:00:00",
-      "descricao": "O NFL Rio Game 2026 marcará a primeira partida de temporada regular da National Football League (NFL) realizada na cidade, consolidando o compromisso da liga com o Brasil. Este evento, que é uma partida oficial da temporada regular da NFL 2026/2027, é classificado como um grande evento esportivo e de entretenimento (B2C) com apelo global. Sua realização no Rio, seguindo as edições de sucesso em São Paulo (2024 e 2025), é vista como um fator que consolida o país como um polo internacional estratégico para a NFL. Adicionalmente, seguindo o formato dos jogos internacionais anteriores, espera-se que o evento conte com uma programação extra de uma semana de ativações na cidade, incluindo a montagem de um Fan Plaza, além de eventos culturais e ações sociais.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/nfl-rio-game-2026/",
-      "site_oficial": "https://www.nfl.com/international/games/rio/roi",
-      "local": "Estádio Maracanã",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495731,
-      "titulo": "Corrida CureRETT 2026",
-      "slug": "corrida-curerett-2026",
-      "data_inicio": "2026-09-27 09:00:00",
-      "data_fim": "2026-09-27 09:00:00",
-      "descricao": "A prova é promovida pelo Instituto CureRETT para conscientização sobre a Síndrome de Rett, autismo e doenças raras, e conta com corrida, caminhada, aulões e área infantil. Dia 26/09 na Barra Olímpica.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-curerett-2026/",
-      "site_oficial": "https://www.curerett.org.br/event-details/evento-curerett-2026",
-      "local": "OUTROS",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496450,
-      "titulo": "5ª Caminhada de Conscientização Sobre Alopecia Areata-RJ",
-      "slug": "5a-caminhada-de-conscientizacao-sobre-alopecia-areata-rj",
-      "data_inicio": "2026-09-27 09:00:00",
-      "data_fim": "2026-09-27 09:00:00",
-      "descricao": "A 5ª Caminhada de Conscientização sobre Alopecia Areata será realizada na orla do Leblon, reunindo pacientes, familiares, dermatologistas e apoiadores em uma mobilização pela informação, pelo acolhimento e pelo combate ao preconceito. Promovida pela Sociedade Brasileira de Dermatologia – Regional Rio de Janeiro, a iniciativa terá um percurso de 1,5 quilômetro, entre os postos 12 e 10. O evento busca ampliar o conhecimento da população sobre a alopecia areata, doença autoimune que provoca a queda de cabelos e pelos, além de incentivar o diagnóstico e o acompanhamento adequado com médicos dermatologistas.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/5a-caminhada-de-conscientizacao-sobre-alopecia-areata-rj/",
-      "site_oficial": "https://sbdrj.org.br/5a-caminhada-de-conscientizacao-sobre-alopecia-areata/",
-      "local": "Praia do Leblon",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496451,
-      "titulo": "5ª Corrida e Caminhada Prezunic",
-      "slug": "5a-corrida-e-caminhada-prezunic",
-      "data_inicio": "2026-09-27 09:00:00",
-      "data_fim": "2026-09-27 09:00:00",
-      "descricao": "A 5ª Corrida e Caminhada Prezunic será realizada na orla de Copacabana, com percursos de 5 e 10 quilômetros para corredores e uma caminhada de 2 quilômetros aberta também à participação de tutores com seus animais de estimação. Promovido pelo Prezunic e organizado pela New Quality, o evento combina esporte, saúde, lazer e convivência familiar em um dos cenários mais conhecidos do Rio de Janeiro. A programação contará com estrutura de apoio aos atletas, entrega de kits, ativações de marcas e premiação para os melhores colocados nas categorias competitivas.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/5a-corrida-e-caminhada-prezunic/",
-      "site_oficial": "https://www.sympla.com.br/evento/5-corrida-e-caminhada-prezunic/3519914",
-      "local": "Praia de Copacabana",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496452,
-      "titulo": "Bimbo Global Race 2026 – Rio de Janeiro",
-      "slug": "bimbo-global-race-2026-rio-de-janeiro",
-      "data_inicio": "2026-09-27 09:00:00",
-      "data_fim": "2026-09-27 09:00:00",
-      "descricao": "A Bimbo Global Race 2026 chega ao Aterro do Flamengo reunindo esporte, convivência familiar e solidariedade em uma programação para diferentes idades e níveis de condicionamento. A etapa carioca oferece corridas cronometradas de 5 km e 10 km, caminhadas recreativas de 1 km e 3 km e provas infantis com distâncias adaptadas. Promovida simultaneamente em diferentes países, a iniciativa transforma a participação esportiva em impacto social: para cada inscrição presencial, o Grupo Bimbo doa 20 fatias de pão a bancos de alimentos e instituições que atuam no combate à fome. Em 2026, a corrida chega à sua 11ª edição global, com expectativa de reunir mais de 170 mil pessoas em 29 cidades de 23 países. Anúncio oficial do Grupo Bimbo.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/bimbo-global-race-2026-rio-de-janeiro/",
-      "site_oficial": "https://www.ticketsports.com.br/e/bimboglobalrace2026riodejaneiro",
-      "local": "Aterro do Flamengo",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496453,
-      "titulo": "Rio Triathlon 2026",
-      "slug": "rio-triathlon-2026",
-      "data_inicio": "2026-09-27 09:00:00",
-      "data_fim": "2026-09-27 09:00:00",
-      "descricao": "O Rio Triathlon 2026 reúne atletas federados e não federados em uma etapa do Campeonato Estadual organizada pela FTERJ. Realizada na Praia do Recreio, a competição oferece as distâncias Sprint e Standard, combinando natação em águas abertas, ciclismo pela orla e corrida à beira-mar. Além das disputas gerais e por faixa etária, o evento contempla atletas PCD e categorias de alto rendimento. A etapa integra o calendário oficial da modalidade no estado e contribui para fortalecer o Rio de Janeiro como destino para competições de resistência e esportes ao ar livre.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/rio-triathlon-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/RIO-TRIATHLON-2026-88134",
-      "local": "Praia do Recreio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-09-14",
       "novo": false,
       "no_feed": false,
       "local_coletado": true
@@ -774,44 +78,6 @@
         "empresas_citadas": [],
         "angulo_comercial": "Evento de finanças de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
         "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494335,
-      "titulo": "20th World Congress on Menopause – WCM 2026",
-      "slug": "20th-world-congress-on-menopause-wcm-2026",
-      "data_inicio": "2026-09-30 09:00:00",
-      "data_fim": "2026-10-03 09:00:00",
-      "descricao": "20th World Congress on Menopause 2026 – Rio de Janeiro. Prepare-se para o evento global mais importante sobre menopausa! O 20th World Congress on Menopause acontecerá de 29 de setembro a 3 de outubro de 2026, no Rio de Janeiro, Brasil. Este é o ponto de encontro para profissionais e empresas do setor de saúde e bem-estar, com uma agenda repleta de discussões sobre os avanços científicos, tratamentos inovadores e melhores práticas no cuidado à saúde da mulher.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/20th-world-congress-on-menopause-wcm-2026/",
-      "site_oficial": "https://www.imsrio2026.com/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "imsrio2026"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "WCM"
-        ],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -1091,6 +357,44 @@
       "local_coletado": true
     },
     {
+      "id": 494332,
+      "titulo": "Febrava Rio 2026",
+      "slug": "febrava-rio-2026",
+      "data_inicio": "2026-10-06 09:00:00",
+      "data_fim": "2026-10-08 09:00:00",
+      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
+      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "+55 11 3060-4717"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "febrava"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494331,
       "titulo": "FEICON Rio",
       "slug": "feicon-rio",
@@ -1125,44 +429,6 @@
         ],
         "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
         "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494332,
-      "titulo": "Febrava Rio 2026",
-      "slug": "febrava-rio-2026",
-      "data_inicio": "2026-10-06 09:00:00",
-      "data_fim": "2026-10-08 09:00:00",
-      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
-      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "+55 11 3060-4717"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "febrava"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -1493,7 +759,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-21",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1851,6 +1117,42 @@
       "local_coletado": true
     },
     {
+      "id": 496439,
+      "titulo": "Monja Coen no Rio de Janeiro – Palestra “Coragem Para Ser Quem Você É”",
+      "slug": "monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voce-e",
+      "data_inicio": "2026-10-20 09:00:00",
+      "data_fim": "2026-10-20 09:00:00",
+      "descricao": "Palestra sobre autenticidade, autoconhecimento e coragem para assumir a própria identidade. Com base nos ensinamentos do Zen-Budismo, Monja Coen propõe reflexões sobre comparação, expectativas externas, medo de julgamentos e construção de uma vida mais consciente e coerente com os próprios valores. Dia 20 de outubro no Shopping da gávea.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voce-e/",
+      "site_oficial": "https://www.almatickets.com.br/events/monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voc-20102026-riodejaneiro",
+      "local": "Shopping da Gávea Rio de Janeiro",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "almatickets"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 30,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 496440,
       "titulo": "Seminário Nacional de Telecomunicações 2026",
       "slug": "seminario-nacional-de-telecomunicacoes-2026",
@@ -1881,42 +1183,6 @@
         "empresas_citadas": [],
         "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
         "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496439,
-      "titulo": "Monja Coen no Rio de Janeiro – Palestra “Coragem Para Ser Quem Você É”",
-      "slug": "monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voce-e",
-      "data_inicio": "2026-10-20 09:00:00",
-      "data_fim": "2026-10-20 09:00:00",
-      "descricao": "Palestra sobre autenticidade, autoconhecimento e coragem para assumir a própria identidade. Com base nos ensinamentos do Zen-Budismo, Monja Coen propõe reflexões sobre comparação, expectativas externas, medo de julgamentos e construção de uma vida mais consciente e coerente com os próprios valores. Dia 20 de outubro no Shopping da gávea.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voce-e/",
-      "site_oficial": "https://www.almatickets.com.br/events/monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voc-20102026-riodejaneiro",
-      "local": "Shopping da Gávea Rio de Janeiro",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "almatickets"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 30,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-14",
@@ -2674,6 +1940,42 @@
       "local_coletado": true
     },
     {
+      "id": 496565,
+      "titulo": "3rd Oral-Gut Conference – OralGut3",
+      "slug": "3rd-oral-gut-conference-oralgut3",
+      "data_inicio": "2026-11-03 09:00:00",
+      "data_fim": "2026-11-05 09:00:00",
+      "descricao": "A Oral-Gut Conference é uma conferência científica internacional dedicada ao estudo das relações entre a cavidade oral, trato gastrointestinal, microbiota e sistema imunológico, reunindo pesquisadores e profissionais de diferentes países que trabalham com imunologia de mucosas, microbiologia e fisiologia gastrointestinal. O objetivo central do encontro é ampliar o diálogo entre áreas que tradicionalmente estudam separadamente as superfícies mucosas oral e intestinal, abordando tanto os mecanismos biológicos locais quanto suas repercussões sistêmicas. A organização destaca particularmente imunidade das mucosas oral e intestinal, interação entre saúde oral e intestinal e consequências sistêmicas de alterações no trato gastrointestinal.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/3rd-oral-gut-conference-oralgut3/",
+      "site_oficial": "https://alaci.org/en/3rd-oral-gut-conference/",
+      "local": "Fiocruz - Instituto de Comunicação e Informação Científica e Tecnológica em Saúde",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "alaci"
+        ],
+        "status": "bloqueado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-28",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494318,
       "titulo": "Meeting of the International Society for Pediatric and Adolescent Diabetes – ISPAD 2026",
       "slug": "meeting-of-the-international-society-for-pediatric-and-adolescent-diabetes-ispad-2026",
@@ -3021,17 +2323,17 @@
       "local_coletado": true
     },
     {
-      "id": 495269,
-      "titulo": "Smurfs Run Rio de Janeiro 2026",
-      "slug": "smurfs-run-rio-de-janeiro-2026",
+      "id": 495270,
+      "titulo": "Hoka Speed Run 2026 – Rio de Janeiro",
+      "slug": "hoka-speed-run-2026-rio-de-janeiro",
       "data_inicio": "2026-11-08 09:00:00",
       "data_fim": "2026-11-08 09:00:00",
-      "descricao": "Prepare sua camiseta azul e venha correr com os Smurfs! A Smurfs Run 2026 está chegando para transformar Rio de Janeiro (RJ) em um verdadeiro vilarejo mágico! Um evento esportivo único e totalmente temático para crianças, adultos e até pets! 📅 08 de novembro de 2026 | 📍Parque Olimpico – Barra da Tijuca | ⏰ Inicio as 6h",
+      "descricao": "A HOKA Speed Run é uma corrida de rua premium organizada pela Beta Sports e patrocinada pela HOKA, marca global especializada em running performance. O evento é focado rápidos e estrutura voltada para corredores amadores avançados e atletas de elite. A etapa carioca integra o circuito nacional da prova e contará com distâncias de 7,5 km, 15km e 30km, utilizando o eixo plano do Aterro do Flamengo.",
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/smurfs-run-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/smurfs-run-rio-de-janeiro-86362",
-      "local": "Parque Olímpico",
+      "url_visitrio": "https://visitrio.com.br/evento/hoka-speed-run-2026-rio-de-janeiro/",
+      "site_oficial": "https://www.ticketsports.com.br/e/hoka-speed-run-2026-rio-de-janeiro-85376",
+      "local": "AXIA Marina da Glória",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -3046,17 +2348,17 @@
       "local_coletado": true
     },
     {
-      "id": 495270,
-      "titulo": "Hoka Speed Run 2026 – Rio de Janeiro",
-      "slug": "hoka-speed-run-2026-rio-de-janeiro",
+      "id": 495269,
+      "titulo": "Smurfs Run Rio de Janeiro 2026",
+      "slug": "smurfs-run-rio-de-janeiro-2026",
       "data_inicio": "2026-11-08 09:00:00",
       "data_fim": "2026-11-08 09:00:00",
-      "descricao": "A HOKA Speed Run é uma corrida de rua premium organizada pela Beta Sports e patrocinada pela HOKA, marca global especializada em running performance. O evento é focado rápidos e estrutura voltada para corredores amadores avançados e atletas de elite. A etapa carioca integra o circuito nacional da prova e contará com distâncias de 7,5 km, 15km e 30km, utilizando o eixo plano do Aterro do Flamengo.",
+      "descricao": "Prepare sua camiseta azul e venha correr com os Smurfs! A Smurfs Run 2026 está chegando para transformar Rio de Janeiro (RJ) em um verdadeiro vilarejo mágico! Um evento esportivo único e totalmente temático para crianças, adultos e até pets! 📅 08 de novembro de 2026 | 📍Parque Olimpico – Barra da Tijuca | ⏰ Inicio as 6h",
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/hoka-speed-run-2026-rio-de-janeiro/",
-      "site_oficial": "https://www.ticketsports.com.br/e/hoka-speed-run-2026-rio-de-janeiro-85376",
-      "local": "AXIA Marina da Glória",
+      "url_visitrio": "https://visitrio.com.br/evento/smurfs-run-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/smurfs-run-rio-de-janeiro-86362",
+      "local": "Parque Olímpico",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -3134,7 +2436,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-21",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3293,7 +2595,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-21",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4024,7 +3326,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-21",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4636,6 +3938,44 @@
       "local_coletado": true
     },
     {
+      "id": 496578,
+      "titulo": "SBC Summit 2027",
+      "slug": "sbc-summit-2027",
+      "data_inicio": "2027-03-02 09:00:00",
+      "data_fim": "2027-03-04 09:00:00",
+      "descricao": "O SBC Summit Rio 2027 será a quarta edição do encontro internacional dedicado aos mercados de apostas esportivas, jogos e iGaming no Brasil. Realizado de 2 a 4 de março, no Riocentro, o evento reunirá operadores, fornecedores, afiliados, reguladores e especialistas em tecnologia, pagamentos, marketing, integridade e jogo responsável.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/sbc-summit-2027/",
+      "site_oficial": "https://sbcevents.com/en/sbc-summit-rio/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "sbcevents"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Desenvolvimento / Negócios",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "líderes, gestores e times comerciais",
+        "empresas_citadas": [
+          "SBC"
+        ],
+        "angulo_comercial": "Evento de negócios de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-28",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 496415,
       "titulo": "37ª SRE Super Rio Expofood",
       "slug": "37a-sre-super-rio-expofood",
@@ -4897,6 +4237,44 @@
       "local_coletado": true
     },
     {
+      "id": 496577,
+      "titulo": "International Perio Master Clinic – IPMC 2027",
+      "slug": "international-perio-master-clinic-ipmc-2027",
+      "data_inicio": "2027-04-30 09:00:00",
+      "data_fim": "2027-05-01 09:00:00",
+      "descricao": "O International Perio Master Clinic é o principal fórum da European Federation of Periodontology dedicado à excelência clínica em periodontia, implantodontia e dentística restauradora. A edição de 2027, com o tema “The Perio-Restorative Interplay”, acontece nos dias 30 de abril e 1º de maio, no Windsor Barra Hotel, na Barra da Tijuca. As edições internacionais anteriores foram realizadas em Singapura (2024), León, no México (2023), e Hong Kong (2019), reunindo participantes de dezenas de países.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/international-perio-master-clinic-ipmc-2027/",
+      "site_oficial": "https://www.efp.org/news-events/international-perio-master-clinic-2027/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "efp"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "IPMC"
+        ],
+        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-28",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 496412,
       "titulo": "44° Congresso de Cardiologia da SOCERJ",
       "slug": "44-congresso-de-cardiologia-da-socerj",
@@ -4937,6 +4315,42 @@
       },
       "primeiro_visto": "2026-09-14",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496576,
+      "titulo": "InterPore2027 – 19th Annual Meeting of the International Society for Porous Media",
+      "slug": "interpore2027-19th-annual-meeting-of-the-international-society-for-porous-media",
+      "data_inicio": "2027-05-10 09:00:00",
+      "data_fim": "2027-05-13 09:00:00",
+      "descricao": "O InterPore2027 será a 19ª reunião anual da International Society for Porous Media, principal sociedade científica internacional dedicada ao estudo de meios porosos. O congresso reunirá pesquisadores, engenheiros, estudantes e profissionais da indústria de diversos países, de 10 a 13 de maio de 2027, no Windsor Barra Hotel. Cursos científicos complementares serão realizados nos dias 9 e 14 de maio. Com o tema central “Imaging of Porous Materials”, a programação abordará aplicações em energia, meio ambiente, geociências, biomedicina, ciência dos materiais e engenharia. O encontro contará com palestras plenárias, sessões técnicas, minissimpósios, pôsteres, exposição tecnológica e atividades para estudantes. Será a primeira edição do congresso realizada no Hemisfério Sul.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/interpore2027-19th-annual-meeting-of-the-international-society-for-porous-media/",
+      "site_oficial": "https://interpore.org/event/interpore2027",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "interpore"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-28",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -5327,7 +4741,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-21",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -5372,7 +4786,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-21",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -5417,6 +4831,42 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-21",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496575,
+      "titulo": "Congresso da Societas Liturgica 2027",
+      "slug": "congresso-da-societas-liturgica-2027",
+      "data_inicio": "2027-08-02 09:00:00",
+      "data_fim": "2027-08-06 09:00:00",
+      "descricao": "O Congresso da Societas Liturgica 2027 reunirá pesquisadores, professores, líderes religiosos e profissionais dedicados ao estudo e à prática da liturgia cristã. Com o tema “From Inculturation to Decoloniality: Liturgy, Culture, and Power”, o encontro discutirá as relações entre liturgia, cultura, colonialidade e estruturas de poder, valorizando diferentes tradições e perspectivas do cristianismo global. Realizado pela primeira vez na América Latina, o congresso acontecerá na Universidade do Estado do Rio de Janeiro e contará com conferências, apresentações acadêmicas, seminários, celebrações ecumênicas e visitas opcionais a espaços religiosos da cidade.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/congresso-da-societas-liturgica-2027/",
+      "site_oficial": "https://www.societas-liturgica.org/congress/",
+      "local": "Universidade Estadual do Rio de Janeiro - UERJ",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "societas-liturgica"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 5 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-28",
       "novo": true,
       "no_feed": false,
       "local_coletado": true
@@ -5487,7 +4937,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-21",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -5529,7 +4979,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-21",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -5567,7 +5017,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-21",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -5648,6 +5098,75 @@
       "local_coletado": true
     },
     {
+      "id": 496574,
+      "titulo": "19th COBEP / IEEE SPEC / ECCE-LAC 2027",
+      "slug": "19th-cobep-ieee-spec-ecce-lac-2027",
+      "data_inicio": "2027-11-28 09:00:00",
+      "data_fim": "2027-12-01 09:00:00",
+      "descricao": "O COBEP / IEEE SPEC / ECCE-LAC 2027 reunirá, pela primeira vez em uma única programação, o 19º Congresso Brasileiro de Eletrônica de Potência, a 12ª IEEE Southern Power Electronics Conference e a edição inaugural do Energy Conversion Congress & Exposition para a América Latina e o Caribe. O encontro internacional promoverá a troca de conhecimentos entre pesquisadores, engenheiros, professores, estudantes e representantes da indústria sobre eletrônica de potência, conversão de energia, sistemas elétricos, energias renováveis, mobilidade elétrica e novas tecnologias. Organizado pela SOBRAEP, com participação da IEEE Power Electronics Society e da IEEE Industry Applications Society, o evento acontecerá de 28 de novembro a 1º de dezembro de 2027, no Rio de Janeiro.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/19th-cobep-ieee-spec-ecce-lac-2027/",
+      "site_oficial": "https://www.cobep.org/",
+      "local": null,
+      "contato": {
+        "emails": [
+          "secretaria@cobep2027.com.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "cobep"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Energia / Óleo e Gás",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
+        "empresas_citadas": [
+          "COBEP",
+          "IEEE",
+          "SPEC",
+          "ECCE",
+          "LAC"
+        ],
+        "angulo_comercial": "Evento de energia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 90,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-28",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496564,
+      "titulo": "Ney Matogrosso – Tour 85 Anos de Ousadia | Maracanã 2027",
+      "slug": "ney-matogrosso-tour-85-anos-de-ousadia-maracana-2027",
+      "data_inicio": "2027-12-18 09:00:00",
+      "data_fim": "2027-12-18 09:00:00",
+      "descricao": "“85 Anos de Ousadia” é a nova turnê de Ney Matogrosso criada para celebrar seus 85 anos e sua trajetória artística, reunindo repertório associado a diferentes momentos de sua carreira, novos figurinos e uma concepção visual desenvolvida especificamente para o projeto. O espetáculo não foi apresentado como uma turnê de despedida. A proposta é celebrar a permanência e a capacidade de reinvenção do artista, revisitando sua obra sob uma nova construção cênica e visual. A identidade da campanha foi desenvolvida a partir de um ensaio realizado pelo fotógrafo norte-americano David LaChapelle, marcando a primeira colaboração do fotógrafo com um artista brasileiro. O show do Maracanã será o encerramento da turnê, fazendo do Rio de Janeiro o destino final do projeto em 18 de dezembro de 2027",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/ney-matogrosso-tour-85-anos-de-ousadia-maracana-2027/",
+      "site_oficial": "https://www.eventim.com.br/es/event/ney-matogrosso-tour-85-anos-de-ousadia-estadio-maracana-22047849/?utm_source=chatgpt.com",
+      "local": "Estádio Maracanã",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-09-28",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 496503,
       "titulo": "72nd UICH International Congress 2028",
       "slug": "72nd-uich-international-congress-2028",
@@ -5683,8 +5202,742 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-21",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 494337,
+      "titulo": "ROG.E 2026",
+      "slug": "rog-e-2026",
+      "data_inicio": "2026-09-21 09:00:00",
+      "data_fim": "2026-09-24 09:00:00",
+      "descricao": "A ROG.e 2026 (Rio Oil & Gas Energy) é um dos principais eventos de energia da América Latina, reunindo líderes, especialistas, empresas e formuladores de políticas públicas para debater o presente e o futuro do setor energético, com foco especial em transição energética, descarbonização, inovação tecnológica e integração entre diferentes matrizes de energia. Mais do que um evento de óleo e gás, o ROG.e se posiciona como uma plataforma estratégica de diálogo entre energia tradicional e novas energias, conectando petróleo, gás natural, energias renováveis, hidrogênio, captura de carbono, eletrificação, digitalização e eficiência energética em um mesmo ecossistema.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/rog-e-2026/",
+      "site_oficial": "https://roge.energy/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [
+          "552121129040"
+        ],
+        "produtoras_inferidas": [
+          "roge"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Energia / Óleo e Gás",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 4 dias.",
+        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
+        "empresas_citadas": [
+          "ROG"
+        ],
+        "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496462,
+      "titulo": "3º Seminário Internacional de Valorização do Patrimônio Cultural: Sustentabilidade na preservação de bens culturais",
+      "slug": "3o-seminario-internacional-de-valorizacao-do-patrimonio-cultural-sustentabilidade-na-preservacao-de-bens-culturais",
+      "data_inicio": "2026-09-21 09:00:00",
+      "data_fim": "2026-09-25 09:00:00",
+      "descricao": "O 3º Seminário Internacional de Valorização do Patrimônio Cultural será organizado pela Casa de Oswaldo Cruz, em parceria com a Universidade de Évora (Portugal), a Universitat Politècnica de València (Espanha), a Universidad Católica de La Plata (Argentina), a Universidade Estadual de Campinas (Brasil), a Universidade Federal de Mato Grosso do Sul (Brasil), além do Centro Internacional de Estudos para a Conservação e Restauração de Bens Culturais (ICCROM), do Conselho Internacional de Monumentos e Sítios (ICOMOS-Brasil), do Conselho Internacional de Museus (ICOM-Brasil) e da Climate Heritage Network – Latin America & Caribe. O evento contará com palestrantes convidados e receberá inscrições de trabalhos e pôsteres de estudantes de graduação, pós-graduação e profissionais ibero-americanos. As contribuições deverão dialogar com os seguintes eixos temáticos: inovação em materiais e práticas de conservação; gestão de riscos (pessoas, lugares e acervos); mudanças climáticas — estratégias de adaptação, resiliência e enfrentamento; e patrimônio cultural e tecnologias sociais. A programação do evento incluirá, ainda, oficinas teóricas e práticas, voltadas à capacitação dos participantes e ao intercâmbio de conhecimentos e experiências no campo da preservação e valorização do patrimônio cultural.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/3o-seminario-internacional-de-valorizacao-do-patrimonio-cultural-sustentabilidade-na-preservacao-de-bens-culturais/",
+      "site_oficial": "https://www.even3.com.br/iii-seminario-internacional-de-valorizacao-do-patrimonio-cultural-693803/?utm_source=chatgpt.com",
+      "local": "Fiocruz - Instituto de Comunicação e Informação Científica e Tecnológica em Saúde",
+      "contato": {
+        "emails": [
+          "analaurapm@unam.mx",
+          "ancosu@upv.es",
+          "annalaura@usp.br",
+          "beadomga@upv.es",
+          "bevilacqua.gabriel@queensu.ca",
+          "carla.coelho@fiocruz.br",
+          "catherine.gallois@fiocruz.br",
+          "claudiasrcarvalho@gmail.com",
+          "cynthia.tarrisse@itamaraty.gov.br",
+          "diego.bevilaqua@fiocruz.br",
+          "doris-couto@sedac.rs.gov.br",
+          "fsitzia@uevora.pt",
+          "helena.tavares@fiocruz.br",
+          "ipozo@uvigo.gal",
+          "julia_riscado@yahoo.com.br",
+          "luana_campos@ufms.br",
+          "lucimaraletelier@gmail.com",
+          "luiz.sarmento@iphan.gov.br",
+          "mabacmar@dcom.upv.es",
+          "marcos.pinheiro@fiocruz.br",
+          "maria.carcereri@fiocruz.br",
+          "mariajhho@gmail.com",
+          "mauro.garciasantacruz@ucalp.edu.ar",
+          "mteobaldo@hotmail.com",
+          "nathalia.serrano@fiocruz.br",
+          "pmn@uevora.pt",
+          "rafaeln.azevedo@iphan.gov.br",
+          "sacuesta@esc.upv.es",
+          "safra@kojom.org",
+          "teresa.reis@uevora.pt",
+          "thamires.oliveira@fiocruz.br",
+          "willidebarros@eba.ufmg.br",
+          "yacyara.froner@gmail.com"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 5 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de tecnologia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 90,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495736,
+      "titulo": "Casa Cor Rio de Janeiro 2026",
+      "slug": "casa-cor-rio-de-janeiro-2026",
+      "data_inicio": "2026-09-22 09:00:00",
+      "data_fim": "2026-11-15 09:00:00",
+      "descricao": "A CASACOR Rio de Janeiro inicia um novo capítulo de sua trajetória ao anunciar o endereço que receberá a edição comemorativa de 35 anos da mostra. Em sintonia com o movimento de revitalização do centro da cidade e com a proposta de ressignificar espaços urbanos de relevância histórica e arquitetônica, a edição de 2026 ocupará o Edifício Aliança da Bahia, localizado na Rua Araújo Porto Alegre, 36, em frente ao Palácio Gustavo Capanema, conectando patrimônio, cultura, arquitetura e novas experiências de ocupação da cidade.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/casa-cor-rio-de-janeiro-2026/",
+      "site_oficial": "https://casacor.abril.com.br/mostras/rio-de-janeiro/",
+      "local": "São Conrado Fashion Mall",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496460,
+      "titulo": "Hackconference – 2026",
+      "slug": "hackconference-2026",
+      "data_inicio": "2026-09-22 09:00:00",
+      "data_fim": "2026-09-22 09:00:00",
+      "descricao": "HACKCONFERENCE 2026 chega à Casa Firjan A Casa Firjan, em Botafogo, recebe no dia 22 de setembro de 2026 o HACKCONFERENCE 2026, parte da programação especial do HACKTUDO – Festival de Cultura Digital. Com foco em tecnologia, inovação e educação, o encontro promove debates e reflexões sobre o futuro da aprendizagem, a inteligência artificial, a cultura maker e as novas formas de interação entre tecnologia e sociedade. A programação reúne profissionais, educadores, estudantes, pesquisadores e interessados em inovação para compartilhar conhecimentos, experiências e perspectivas sobre os desafios e oportunidades da transformação digital. 📅 22 de setembro de 2026 📍 Casa Firjan – Botafogo 🎟️ Participação gratuita",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/hackconference-2026/",
+      "site_oficial": "https://www.hacktudo.com.br/",
+      "local": "Casa Firjan",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "hacktudo"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 30,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495734,
+      "titulo": "Health Tech Summit Rio 2026",
+      "slug": "health-tech-summit-rio-2026",
+      "data_inicio": "2026-09-23 09:00:00",
+      "data_fim": "2026-09-24 09:00:00",
+      "descricao": "O HealthTech 2026, realizado pela Assespro.Rio, é um evento voltado à inovação, tecnologia e transformação digital no setor de saúde. A proposta é reunir empresas de tecnologia, healthtechs, gestores, especialistas, startups e profissionais da área para discutir soluções digitais aplicadas a hospitais, clínicas, laboratórios, operadoras e demais organizações do ecossistema de saúde. A programação deve abordar temas como inteligência artificial, dados, automação, segurança da informação, interoperabilidade, eficiência operacional, novas plataformas digitais e tendências para a modernização dos serviços de saúde. O evento tem perfil corporativo e institucional, funcionando como espaço de conteúdo, networking, conexão entre empresas e geração de oportunidades de negócios no mercado de healthtech.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/health-tech-summit-rio-2026/",
+      "site_oficial": "https://assespro.rio/healthtech2026#",
+      "local": "Centro de Convenções RB1",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "assespro"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495735,
+      "titulo": "XV Seminário da cadeia de óleo, gás e energia",
+      "slug": "xv-seminario-da-cadeia-de-oleo-gas-e-energia",
+      "data_inicio": "2026-09-23 09:00:00",
+      "data_fim": "2026-09-24 09:00:00",
+      "descricao": "O XV Seminário da Cadeia de Óleo, Gás e Energia é um evento setorial voltado à discussão dos principais desafios, oportunidades e tendências da indústria energética, com foco na cadeia produtiva de óleo, gás natural, energia e serviços associados. A programação deve reunir representantes de empresas, entidades do setor, fornecedores, especialistas, investidores, gestores públicos e profissionais técnicos para debater temas como exploração e produção, infraestrutura, transição energética, inovação tecnológica, conteúdo local, regulação, sustentabilidade, logística, investimentos e desenvolvimento da cadeia de fornecedores. O seminário tem perfil corporativo e institucional, funcionando como espaço de atualização técnica, relacionamento empresarial e articulação entre os diferentes agentes do setor. Por tratar de uma cadeia estratégica para o Rio de Janeiro e para o Brasil, o evento tende a atrair público ligado à indústria, energia, engenharia, tecnologia, infraestrutura, governo e prestação de serviços especializados.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xv-seminario-da-cadeia-de-oleo-gas-e-energia/",
+      "site_oficial": "https://assespro.rio/energy2026#",
+      "local": "Centro de Convenções RB1",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "assespro"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Energia / Óleo e Gás",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 50,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496458,
+      "titulo": "FLUP — Festa Literária das Periferias",
+      "slug": "flup-festa-literaria-das-periferias",
+      "data_inicio": "2026-09-23 09:00:00",
+      "data_fim": "2026-09-27 09:00:00",
+      "descricao": "Em 2026, a Flup acontecerá de 23 a 27 de setembro e chega à sua 16ª edição guiada pelo tema “As Filhas das Filhas das Filhas”. Inspirada na obra e na trajetória de Ana Maria Gonçalves, primeira mulher negra eleita para a Academia Brasileira de Letras e homenageada desta edição, a Festa convida o público a refletir sobre as heranças que atravessam gerações, as histórias que resistem ao apagamento e as mulheres que, ao longo do tempo, deram à luz muito mais do que filhos: deram à luz comunidades, saberes, linguagens, territórios e futuros. Durante cinco dias, o Teatro Carlos Gomes e a Praça Tiradentes receberão mesas literárias, performances, rodas de conversa, batalhas de rima e de esquetes, lançamentos de livros, slams, afoxés, bênçãos das mais velhas, campeonatos de passinho e altinha, vivências brincantes, feira de baianas e muito samba.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/flup-festa-literaria-das-periferias/",
+      "site_oficial": "https://www.vempraflup.com.br/",
+      "local": "Vários locais",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496459,
+      "titulo": "XII Congresso Brasileiro de Educação em Fisioterapia",
+      "slug": "xii-congresso-brasileiro-de-educacao-em-fisioterapia",
+      "data_inicio": "2026-09-23 09:00:00",
+      "data_fim": "2026-09-26 09:00:00",
+      "descricao": "É com grande alegria que a ABENFISIO convida todas e todos para o XXXV Fórum Nacional de Ensino em Fisioterapia e o XII Congresso Brasileiro de Educação em Fisioterapia, que acontecerão de 23 a 26 de setembro de 2026, no Rio de Janeiro. Em um ano especialmente simbólico, em que celebramos os 25 anos da ABENFISIO, nosso encontro será guiado pelo tema “Ensinar, Sentir e Cuidar: formação em Fisioterapia na Perspectiva da Saúde Biopsicossocial”. A proposta fortalece o debate sobre uma formação alinhada às demandas contemporâneas da saúde, valorizando não apenas o conhecimento técnico, mas também a sensibilidade, a ética, a equidade e o compromisso social. Ao longo da programação, refletiremos sobre desafios atuais da educação e da saúde, como as novas Diretrizes Curriculares Nacionais, o uso ético da inteligência artificial, as mudanças climáticas, o enfrentamento ao capacitismo e ao racismo ambiental, além da inovação curricular e das tecnologias educacionais. O congresso reafirma o compromisso histórico da ABENFISIO com a qualificação da formação em Fisioterapia, promovendo o diálogo entre docentes, estudantes, profissionais, gestores e instituições, em defesa de uma educação crítica, humanizada e comprometida com os princípios do SUS. Pela primeira vez, também contaremos com espaços dedicados ao bem-estar dos participantes, como a Sala Aconchego Carioca e o roteiro Respira no Rio, convidando todos a vivenciar momentos de cuidado, acolhimento e conexão com a cidade.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xii-congresso-brasileiro-de-educacao-em-fisioterapia/",
+      "site_oficial": "https://www.even3.com.br/xii-congresso-brasileiro-de-educacao-em-fisioterapia-747352?even3_orig=events_eventlist",
+      "local": "Instituto de Psiquiatria da UFRJ",
+      "contato": {
+        "emails": [
+          "adriane.batiston@ufms.br",
+          "ana.azevedo@ifrj.edu.br",
+          "ana.luiza.oliveira@ufrn.br",
+          "anasettecamara@gmail.com",
+          "arthur.medeiros@saude.gov.br",
+          "arthurde@souunisuam.com.br",
+          "brendadoliveirasr@gmail.com",
+          "carolinaschmitt@usp.br",
+          "cinthyapsilva@gmail.com",
+          "clarice.baldotto@gmail.com",
+          "clarice.olivo@fm.usp.br",
+          "clarinhampb.acadim@gmail.com",
+          "cristine@fmrp.usp.br",
+          "danyaprigio@gmail.com",
+          "eduardo.guedes.ufpb@gmail.com",
+          "ferreirathalleshenrique@gmail.com",
+          "francisca.rego@uol.com.br",
+          "guirbarbosa@gmail.com",
+          "juliana.veiga@ifrj.edu.br",
+          "karina.durce@prof.saocamilo-sp.br",
+          "katiaqsribeiro@gmail.com",
+          "lais.costa@fiocruz.br",
+          "laissouza@hotmail.com",
+          "leandro.karam@pucpr.br",
+          "lfcalvarenga@gmail.com",
+          "lucianarbilitario@gmail.com",
+          "luizhbso@usp.br",
+          "majcaldas@hotmail.com",
+          "marcelo.viana@ufrn.br",
+          "mariana.aveiro@unifesp.br",
+          "mateus.antunes@italo.br",
+          "mauren.carvalho@ifrj.edu.br",
+          "michelle.guiot@ifrj.edu.br",
+          "mparangole@gmail.com",
+          "patsymandelli@gmail.com",
+          "racheltrinchao@bahiana.edu.br",
+          "raquel.braga@ifrj.edu.br",
+          "ricardo.aguiar@unifal-mg.edu.br",
+          "simasjmm@gmail.com",
+          "sonehara.elisa@gmail.com.br",
+          "susana.nogueira@ifrj.edu.br",
+          "sylvia.aguiar@ifrj.edu.br",
+          "vrochafisio@gmail.com"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 90,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495733,
+      "titulo": "Feira de Condomínios & Encontro de Síndicos 2026",
+      "slug": "feira-de-condominios-encontro-de-sindicos-2026",
+      "data_inicio": "2026-09-24 09:00:00",
+      "data_fim": "2026-09-25 09:00:00",
+      "descricao": "A Feira de Condomínios & Encontro de Síndicos chega à sua 6ª edição em 2026, consolidando-se como o maior e melhor encontro do mercado condominial do Rio de Janeiro. Realizado em conjunto pelas duas maiores entidades do setor, Secovi Rio (Sindicato da Habitação) e ABADI (Associação Brasileira das Administradoras de Imóveis), o evento reúne síndicos, funcionários de condomínios, administradoras, construtoras, empresários, condôminos, advogados e todos os interessados em se aprofundar no universo da administração condominial. A Feira de Condomínios e Encontro de Síndicos 2026 une a experiência do Secovi Rio e da ABADI, oferecendo dois dias de palestras com especialistas em temas como jurídico, inovação, sustentabilidade, liderança e gestão.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/feira-de-condominios-encontro-de-sindicos-2026/",
+      "site_oficial": "https://www.feiraeencontro.com.br/",
+      "local": "ExpoRio Cidade Nova",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "feiraeencontro"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Jurídico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "advogados, magistrados e departamentos jurídicos",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de jurídico de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496527,
+      "titulo": "IX Congresso de Farmácia Hospitalar em Oncologia do INCA",
+      "slug": "ix-congresso-de-farmacia-hospitalar-em-oncologia-do-inca",
+      "data_inicio": "2026-09-24 09:00:00",
+      "data_fim": "2026-09-26 09:00:00",
+      "descricao": "O Congresso de Farmácia Hospitalar em Oncologia do INCA reúne farmacêuticos, pesquisadores, residentes, estudantes e outros profissionais da saúde para discutir avanços e desafios da assistência farmacêutica, com ênfase no cuidado oncológico. A programação integra atualização científica, experiências da prática hospitalar, apresentação de trabalhos, debates e atividades voltadas à gestão, assistência, ensino e pesquisa. A edição de 2026 abordará o protagonismo do farmacêutico na ampliação do acesso, na incorporação de inovações e na segurança do cuidado ao paciente. Entre os temas estão farmácia clínica, medicamentos antineoplásicos, radiofarmácia, gestão hospitalar, inovação tecnológica, avaliação de tecnologias em saúde, segurança do paciente e atuação multiprofissional em oncologia.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/ix-congresso-de-farmacia-hospitalar-em-oncologia-do-inca/",
+      "site_oficial": "https://congressofarmaciainca.com.br/",
+      "local": "Prodigy Santos Dumont",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "congressofarmaciainca"
+        ],
+        "status": "bloqueado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Oncologia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "INCA"
+        ],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-21",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495732,
+      "titulo": "Corrida da Cleopatra 2026",
+      "slug": "corrida-da-cleopatra-2026",
+      "data_inicio": "2026-09-26 09:00:00",
+      "data_fim": "2026-09-26 09:00:00",
+      "descricao": "📅 Data: 26/09/2026 (sábado) 📍 Local: Quinta da Boa Vista – RJ 🏁 Modalidades: Corrida 4km e Caminhada 4km ⏰ Largada: 8h 📞 Informações: (21) 99076-6733 – Philipe Pinheiro 🤝 Evento beneficente em apoio ao Projeto Coração Que Ajuda e ao Projeto Café Na Tenda, com arrecadação de alimentos e doações para atender famílias e instituições necessitadas. 🧼👕 Além de alimentos não perecíveis, também são aceitas doações de itens de limpeza, itens de higiene pessoal e roupas.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-da-cleopatra-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-da-cleopatra-87198",
+      "local": "Quinta da Boa Vista",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496454,
+      "titulo": "Hacktudo 2026",
+      "slug": "hacktudo-2026",
+      "data_inicio": "2026-09-26 09:00:00",
+      "data_fim": "2026-09-27 09:00:00",
+      "descricao": "HACKTUDO 2026 O Rio de Janeiro recebe, nos dias 26 e 27 de setembro, a 10ª edição do HACKTUDO – Festival de Cultura Digital, no Museu de Arte Moderna do Rio de Janeiro (MAM Rio). Com entrada gratuita, o evento reúne tecnologia, inovação, arte e entretenimento, com atrações de robótica, drones, inteligência artificial, realidade virtual, cultura maker, games e experiências interativas. Em 2025, o festival reuniu cerca de 16 mil pessoas no MAM Rio. Em 2026, celebrando uma década de história, o HACKTUDO amplia sua atuação e realiza também sua primeira edição em São Paulo. 📅 26 e 27 de setembro de 2026 📍 MAM Rio 🎟️ Entrada gratuita",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/hacktudo-2026/",
+      "site_oficial": "https://www.hacktudo.com.br/",
+      "local": "MAM - Museu de Arte Moderna do Rio de Janeiro",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "hacktudo"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 50,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496455,
+      "titulo": "NFL Rio Run 2026",
+      "slug": "nfl-rio-run-2026",
+      "data_inicio": "2026-09-26 09:00:00",
+      "data_fim": "2026-09-26 09:00:00",
+      "descricao": "Corrida temática oficial da NFL realizada na véspera da partida entre Dallas Cowboys e Baltimore Ravens, no Maracanã. Os participantes podem escolher camisetas personalizadas das 32 franquias da liga.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/nfl-rio-run-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/nfl-rio-run-or-rio-de-janeiro-2026-87770",
+      "local": "Parque Garota de Ipanema",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496456,
+      "titulo": "Pokémon GO City Safari: Rio de Janeiro 2026",
+      "slug": "pokemon-go-city-safari-rio-de-janeiro-2026",
+      "data_inicio": "2026-09-26 09:00:00",
+      "data_fim": "2026-09-27 09:00:00",
+      "descricao": "O Rio de Janeiro recebe pela primeira vez o Pokémon GO City Safari, evento presencial internacional que transforma a cidade em uma grande experiência de exploração baseada no jogo Pokémon GO. Durante dois dias, os participantes poderão percorrer diferentes regiões e pontos turísticos do município, visitar Poképaradas especiais, completar pesquisas exclusivas, participar de uma caça aos selos digital e encontrar Pokémon selecionados para o evento. A experiência não terá uma arena ou local único. A jogabilidade estará disponível em toda a área determinada pela organização dentro do Rio, permitindo que os participantes explorem a cidade no próprio ritmo. O mapa oficial dos pontos de interesse e das áreas de encontro ainda será divulgado. Entre os destaques estão a pesquisa especial com Eevee usando chapéu de explorador, a Caça aos Selos com até oito pontos turísticos, Pokémon exclusivos e regionais, maior chance de encontrar versões brilhantes e bônus especiais para os participantes com ingresso.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/pokemon-go-city-safari-rio-de-janeiro-2026/",
+      "site_oficial": "https://pokemongo.com/pt-BR/featured-in-person-events/citysafari/rio-de-janeiro",
+      "local": "Vários locais",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "pokemongo"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "GO"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496457,
+      "titulo": "Congresso Brasileiro de Musculação – ENAF Rio de Janeiro 2026",
+      "slug": "congresso-brasileiro-de-musculacao-enaf-rio-de-janeiro-2026",
+      "data_inicio": "2026-09-26 09:00:00",
+      "data_fim": "2026-09-27 09:00:00",
+      "descricao": "O Congresso Brasileiro de Musculação é um evento de destaque no cenário nacional, reunindo profissionais, atletas e entusiastas do mundo fitness em um ambiente propício para troca de conhecimento, atualização científica e networking. Este congresso é reconhecido por suas diversas qualidades que o tornam um marco no calendário dos praticantes de musculação e atividades físicas em geral.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/congresso-brasileiro-de-musculacao-enaf-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.sympla.com.br/evento/congresso-brasileiro-de-musculacao-enaf-rio-de-janeiro-2026/3444482",
+      "local": "Laghetto Stilo Barra Rio",
+      "contato": {
+        "emails": [
+          "contato@enaf.com.br"
+        ],
+        "telefones": [
+          "(35) 99725-9528"
+        ],
+        "whatsapp": [
+          "5535997259528"
+        ],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "ENAF"
+        ],
+        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495136,
+      "titulo": "NFL Rio Game 2026",
+      "slug": "nfl-rio-game-2026",
+      "data_inicio": "2026-09-27 09:00:00",
+      "data_fim": "2026-09-27 09:00:00",
+      "descricao": "O NFL Rio Game 2026 marcará a primeira partida de temporada regular da National Football League (NFL) realizada na cidade, consolidando o compromisso da liga com o Brasil. Este evento, que é uma partida oficial da temporada regular da NFL 2026/2027, é classificado como um grande evento esportivo e de entretenimento (B2C) com apelo global. Sua realização no Rio, seguindo as edições de sucesso em São Paulo (2024 e 2025), é vista como um fator que consolida o país como um polo internacional estratégico para a NFL. Adicionalmente, seguindo o formato dos jogos internacionais anteriores, espera-se que o evento conte com uma programação extra de uma semana de ativações na cidade, incluindo a montagem de um Fan Plaza, além de eventos culturais e ações sociais.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/nfl-rio-game-2026/",
+      "site_oficial": "https://www.nfl.com/international/games/rio/roi",
+      "local": "Estádio Maracanã",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495731,
+      "titulo": "Corrida CureRETT 2026",
+      "slug": "corrida-curerett-2026",
+      "data_inicio": "2026-09-27 09:00:00",
+      "data_fim": "2026-09-27 09:00:00",
+      "descricao": "A prova é promovida pelo Instituto CureRETT para conscientização sobre a Síndrome de Rett, autismo e doenças raras, e conta com corrida, caminhada, aulões e área infantil. Dia 26/09 na Barra Olímpica.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-curerett-2026/",
+      "site_oficial": "https://www.curerett.org.br/event-details/evento-curerett-2026",
+      "local": "OUTROS",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496450,
+      "titulo": "5ª Caminhada de Conscientização Sobre Alopecia Areata-RJ",
+      "slug": "5a-caminhada-de-conscientizacao-sobre-alopecia-areata-rj",
+      "data_inicio": "2026-09-27 09:00:00",
+      "data_fim": "2026-09-27 09:00:00",
+      "descricao": "A 5ª Caminhada de Conscientização sobre Alopecia Areata será realizada na orla do Leblon, reunindo pacientes, familiares, dermatologistas e apoiadores em uma mobilização pela informação, pelo acolhimento e pelo combate ao preconceito. Promovida pela Sociedade Brasileira de Dermatologia – Regional Rio de Janeiro, a iniciativa terá um percurso de 1,5 quilômetro, entre os postos 12 e 10. O evento busca ampliar o conhecimento da população sobre a alopecia areata, doença autoimune que provoca a queda de cabelos e pelos, além de incentivar o diagnóstico e o acompanhamento adequado com médicos dermatologistas.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/5a-caminhada-de-conscientizacao-sobre-alopecia-areata-rj/",
+      "site_oficial": "https://sbdrj.org.br/5a-caminhada-de-conscientizacao-sobre-alopecia-areata/",
+      "local": "Praia do Leblon",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496451,
+      "titulo": "5ª Corrida e Caminhada Prezunic",
+      "slug": "5a-corrida-e-caminhada-prezunic",
+      "data_inicio": "2026-09-27 09:00:00",
+      "data_fim": "2026-09-27 09:00:00",
+      "descricao": "A 5ª Corrida e Caminhada Prezunic será realizada na orla de Copacabana, com percursos de 5 e 10 quilômetros para corredores e uma caminhada de 2 quilômetros aberta também à participação de tutores com seus animais de estimação. Promovido pelo Prezunic e organizado pela New Quality, o evento combina esporte, saúde, lazer e convivência familiar em um dos cenários mais conhecidos do Rio de Janeiro. A programação contará com estrutura de apoio aos atletas, entrega de kits, ativações de marcas e premiação para os melhores colocados nas categorias competitivas.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/5a-corrida-e-caminhada-prezunic/",
+      "site_oficial": "https://www.sympla.com.br/evento/5-corrida-e-caminhada-prezunic/3519914",
+      "local": "Praia de Copacabana",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496452,
+      "titulo": "Bimbo Global Race 2026 – Rio de Janeiro",
+      "slug": "bimbo-global-race-2026-rio-de-janeiro",
+      "data_inicio": "2026-09-27 09:00:00",
+      "data_fim": "2026-09-27 09:00:00",
+      "descricao": "A Bimbo Global Race 2026 chega ao Aterro do Flamengo reunindo esporte, convivência familiar e solidariedade em uma programação para diferentes idades e níveis de condicionamento. A etapa carioca oferece corridas cronometradas de 5 km e 10 km, caminhadas recreativas de 1 km e 3 km e provas infantis com distâncias adaptadas. Promovida simultaneamente em diferentes países, a iniciativa transforma a participação esportiva em impacto social: para cada inscrição presencial, o Grupo Bimbo doa 20 fatias de pão a bancos de alimentos e instituições que atuam no combate à fome. Em 2026, a corrida chega à sua 11ª edição global, com expectativa de reunir mais de 170 mil pessoas em 29 cidades de 23 países. Anúncio oficial do Grupo Bimbo.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/bimbo-global-race-2026-rio-de-janeiro/",
+      "site_oficial": "https://www.ticketsports.com.br/e/bimboglobalrace2026riodejaneiro",
+      "local": "Aterro do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496453,
+      "titulo": "Rio Triathlon 2026",
+      "slug": "rio-triathlon-2026",
+      "data_inicio": "2026-09-27 09:00:00",
+      "data_fim": "2026-09-27 09:00:00",
+      "descricao": "O Rio Triathlon 2026 reúne atletas federados e não federados em uma etapa do Campeonato Estadual organizada pela FTERJ. Realizada na Praia do Recreio, a competição oferece as distâncias Sprint e Standard, combinando natação em águas abertas, ciclismo pela orla e corrida à beira-mar. Além das disputas gerais e por faixa etária, o evento contempla atletas PCD e categorias de alto rendimento. A etapa integra o calendário oficial da modalidade no estado e contribui para fortalecer o Rio de Janeiro como destino para competições de resistência e esportes ao ar livre.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-triathlon-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/RIO-TRIATHLON-2026-88134",
+      "local": "Praia do Recreio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     },
     {
