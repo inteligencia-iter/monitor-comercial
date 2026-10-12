@@ -1,499 +1,8 @@
 {
-  "gerado_em": "2026-10-05T15:40:39-03:00",
+  "gerado_em": "2026-10-12T15:56:59-03:00",
   "modo": "deterministico (custo zero)",
-  "total": 329,
+  "total": 344,
   "eventos": [
-    {
-      "id": 496445,
-      "titulo": "VI Colóquio Internacional de Filosofia da Neurociência, Filosofia Experimental, Inteligência Artificial e Neuroética",
-      "slug": "vi-coloquio-internacional-de-filosofia-da-neurociencia-filosofia-experimental-inteligencia-artificial-e-neuroetica",
-      "data_inicio": "2026-10-05 09:00:00",
-      "data_fim": "2026-10-09 09:00:00",
-      "descricao": "O VI Colóquio Internacional de Filosofia da Neurociência reúne pesquisadores brasileiros e estrangeiros para discutir as relações entre mente, cérebro, cognição e tecnologias emergentes. Com o tema “Cérebros, Máquinas e Sociedades”, a programação aborda consciência, inteligência artificial, livre-arbítrio, tomada de decisão e os impactos éticos e sociais dos avanços científicos. O encontro busca fortalecer a pesquisa interdisciplinar e ampliar redes internacionais de colaboração entre filosofia, neurociência, psicologia, ciências cognitivas, matemática e ciência da computação.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/vi-coloquio-internacional-de-filosofia-da-neurociencia-filosofia-experimental-inteligencia-artificial-e-neuroetica/",
-      "site_oficial": "https://www.even3.com.br/26002/",
-      "local": "UFRJ - Centro Cultural de Ciência e Tecnologia",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 5 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494332,
-      "titulo": "Febrava Rio 2026",
-      "slug": "febrava-rio-2026",
-      "data_inicio": "2026-10-06 09:00:00",
-      "data_fim": "2026-10-08 09:00:00",
-      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
-      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "+55 11 3060-4717"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "febrava"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494331,
-      "titulo": "FEICON Rio",
-      "slug": "feicon-rio",
-      "data_inicio": "2026-10-06 09:00:00",
-      "data_fim": "2026-10-08 09:00:00",
-      "descricao": "A FEICON Rio 2026 representa uma expansão estratégica da maior feira de construção e arquitetura da América Latina, trazendo ao Rio de Janeiro oportunidades de mercado, conteúdo técnico e tendências inovadoras para profissionais e empresas de toda a cadeia da construção civil.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/feicon-rio/",
-      "site_oficial": "https://www.feiconrio.com.br/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "+55 11 3060-4717"
-        ],
-        "whatsapp": [
-          "551151922480"
-        ],
-        "produtoras_inferidas": [
-          "feiconrio"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [
-          "FEICON"
-        ],
-        "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494330,
-      "titulo": "XXXII Congresso Brasileiro de Neurologia – CBN 2026",
-      "slug": "xxxii-congresso-brasileiro-de-neurologia-cbn-2026",
-      "data_inicio": "2026-10-07 09:00:00",
-      "data_fim": "2026-10-10 09:00:00",
-      "descricao": "O XXXII Congresso Brasileiro de Neurologia (CBN 2026) será realizado de 07 a 10 de outubro de 2026, no Rio de Janeiro, reunindo especialistas e profissionais da neurologia de todo o Brasil. Com foco nas últimas inovações científicas e terapêuticas, o evento proporcionará uma oportunidade única de atualização, discussão de casos clínicos e troca de experiências. Além disso, será um ambiente propício para o fortalecimento de parcerias acadêmicas e o avanço do conhecimento na área. Não perca a chance de participar deste congresso de referência e expandir sua atuação no campo da neurologia.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xxxii-congresso-brasileiro-de-neurologia-cbn-2026/",
-      "site_oficial": "https://congressoabneuro2026.com.br/evento/cbn2026/home",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "congressoabneuro2026"
-        ],
-        "status": "bloqueado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Neurologia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "CBN"
-        ],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494328,
-      "titulo": "29th World Congress of Cardiology – WCC",
-      "slug": "world-congress-of-cardiology-wcc-2026",
-      "data_inicio": "2026-10-08 09:00:00",
-      "data_fim": "2026-10-10 09:00:00",
-      "descricao": "O World Congress of Cardiology 2026 (WCC 2026) será realizado em conjunto com o 81° Congresso Brasileiro de Cardiologia (CBC 2026), formando um dos maiores encontros científicos globais da área cardiovascular. O congresso reunirá especialistas, pesquisadores, clínicos e líderes da cardiologia mundial, com foco na troca internacional de conhecimento, inovação tecnológica e discussão de soluções globais para doenças cardiovasculares.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/world-congress-of-cardiology-wcc-2026/",
-      "site_oficial": "https://worldcardio2026.com/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [
-          "tatiane.bertechini@ccmgroup.com.br"
-        ],
-        "telefones": [
-          "(11) 97896-0793",
-          "+55 21 3478-2700"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "CCM Group",
-          "Sociedade Brasileira de Cardiologia"
-        ],
-        "status": "coletado",
-        "fonte": "manual",
-        "travado": true
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Cardiologia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "WCC"
-        ],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494329,
-      "titulo": "81º Congresso Brasileiro de Cardiologia 2026",
-      "slug": "81o-congresso-brasileiro-de-cardiologia-2026",
-      "data_inicio": "2026-10-08 09:00:00",
-      "data_fim": "2026-10-10 09:00:00",
-      "descricao": "O 81º Congresso Brasileiro de Cardiologia será realizado junto com o World Congress of Cardiology 2026 (WCC 2026). O congresso reunirá especialistas, pesquisadores, clínicos e líderes da cardiologia mundial, com foco na troca internacional de conhecimento, inovação tecnológica e discussão de soluções globais para doenças cardiovasculares.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/81o-congresso-brasileiro-de-cardiologia-2026/",
-      "site_oficial": "https://worldcardio2026.com/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [
-          "tatiane.bertechini@ccmgroup.com.br"
-        ],
-        "telefones": [
-          "(11) 97896-0793",
-          "+55 21 3478-2700"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "CCM Group",
-          "Sociedade Brasileira de Cardiologia"
-        ],
-        "status": "coletado",
-        "fonte": "manual",
-        "travado": true
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Cardiologia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494327,
-      "titulo": "Master Games Brasil Rio 2026",
-      "slug": "master-games-brasil-rio-2026",
-      "data_inicio": "2026-10-09 09:00:00",
-      "data_fim": "2026-10-18 09:00:00",
-      "descricao": "No período de 09 a 18 de outubro de 2026, o Comitê Brasileiro do Esporte Master (CBEM) realizará, na cidade do Rio de Janeiro, a primeira edição dos MASTER GAMES BRASIL 2026, um evento que representa um marco definitivo na história da longevidade esportiva no país. Inspirado nos princípios do movimento internacional Sport for All e alinhado às diretrizes da IMGA (International Masters Games Association), os Master Games Brasil nascem com o propósito de valorizar, promover e fortalecer o esporte master, criando uma plataforma permanente de participação, desenvolvimento e reconhecimento para atletas de todas as regiões do Brasil e de diversos países. O evento será multiesportivo, aberto a atletas master, e reunirá milhares de participantes em uma celebração que integra competição, saúde, turismo, experiência e convivência. Ao longo de dez dias, o Rio de Janeiro sediará provas, festivais e cerimônias em arenas renomadas, conectando tradição esportiva, infraestrutura de excelência e o simbolismo da cidade que é cartão postal do mundo.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/master-games-brasil-rio-2026/",
-      "site_oficial": null,
-      "local": null,
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496444,
-      "titulo": "Jorge Vercillo apresenta: JV30 Parte II – Mais um final feliz",
-      "slug": "jorge-vercillo-apresenta-jv30-parte-ii-mais-um-final-feliz",
-      "data_inicio": "2026-10-10 09:00:00",
-      "data_fim": "2026-10-10 09:00:00",
-      "descricao": "Jorge Vercillo apresenta no Qualistage a nova fase da turnê comemorativa de seus 30 anos de carreira, JV30 Parte II – Mais um final feliz. Com direção visual de Rafael Dragaud, o espetáculo combina iluminação, projeções e diferentes influências da música brasileira, passando pela bossa nova, samba, ijexá, reggae, jazz e R&B. O repertório reúne sucessos como “Que Nem Maré”, “Fênix”, “Homem-Aranha”, “Monalisa”, “Final Feliz”, “Encontro das Águas” e “Ela Une Todas as Coisas”, além de músicas mais recentes.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/jorge-vercillo-apresenta-jv30-parte-ii-mais-um-final-feliz/",
-      "site_oficial": "https://www.ticketmaster.com.br/event/jorge-vercillo-no-qualistage-rj",
-      "local": "Qualistage",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "ticketmaster"
-        ],
-        "status": "bloqueado"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [
-          "JV30"
-        ],
-        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 30,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496652,
-      "titulo": "Maria Rita: Redescobrir Vol. 2 – Rio de Janeiro",
-      "slug": "maria-rita-redescobrir-vol-2-rio-de-janeiro",
-      "data_inicio": "2026-10-10 09:00:00",
-      "data_fim": "2026-10-10 09:00:00",
-      "descricao": "Maria Rita retorna aos palcos com a turnê “Redescobrir Vol. 2”, sequência do projeto lançado originalmente em 2012. O espetáculo apresenta novas interpretações de clássicos da música brasileira, incluindo obras eternizadas por Elis Regina, combinando memória, homenagem e uma leitura contemporânea do repertório.",
-      "categoria": "outros",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/maria-rita-redescobrir-vol-2-rio-de-janeiro/",
-      "site_oficial": "https://www.ticketmaster.com.br/event/maria-rita-rio-de-janeiro",
-      "local": "Vivo Rio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495728,
-      "titulo": "New Balance 15k Rio de Janeiro – 2026",
-      "slug": "new-balance-15k-rio-de-janeiro-2026",
-      "data_inicio": "2026-10-11 09:00:00",
-      "data_fim": "2026-10-11 09:00:00",
-      "descricao": "A NB15k Rio de Janeiro é uma corrida de rua que será realizada no dia 11/10/2026 (domingo), em Rio de Janeiro capital, com participação de ambos os sexos. Terá percursos de 7,5km e 15km. A programação completa e mais informações estão disponíveis no site www.newbalance.com.br/nbraceseries. A largada da prova será no dia 11/10/2026 às 6h00h, no Rio de Janeiro, Parque do Flamengo (Av. Infante Dom Henrique, 85 – Glória, Rio de Janeiro).",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/new-balance-15k-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.newbalance.com.br/corrida-new-balance-15k-rio-de-janeiro",
-      "local": "Aterro do Flamengo",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495729,
-      "titulo": "Corrida Outubro Rosa 2026",
-      "slug": "corrida-outubro-rosa-2026",
-      "data_inicio": "2026-10-11 09:00:00",
-      "data_fim": "2026-10-11 09:00:00",
-      "descricao": "Ela está de volta! 💗 Para quem estava ansioso, já pode marcar no calendário: 11 de outubro tem Corrida Outubro Rosa no Posto 12, Recreio. 🏃‍♀️🎀 Um evento que une esporte, conscientização e uma causa que merece toda a nossa atenção. ✨ Corrida e Caminhada 5K 🏆 Premiação geral e por faixa etária 👟 Prova mista 📍 Posto 12 – Recreio 📅 11 de outubro",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-outubro-rosa-2026/",
-      "site_oficial": "https://www.instagram.com/p/DZs2wlSPD3C/",
-      "local": "Posto 12 - Recreio dos Bandeirantes",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495967,
-      "titulo": "Corrida e Caminhada Outubro Rosa",
-      "slug": "corrida-e-caminhada-outubro-rosa",
-      "data_inicio": "2026-10-11 09:00:00",
-      "data_fim": "2026-10-11 09:00:00",
-      "descricao": "📍 Local: Recreio dos Bandeirantes – RJ | Largada e chegada no Posto 12 (próximo ao nº 18.000 da Av. Lúcio Costa) 📅 Data: 11 de outubro de 2026 (domingo) 🌦️ Realização em qualquer condição climática 👥 Participação mediante inscrição (participantes denominados ATLETAS) 🏁 Modalidades: 5 km Corrida e 5 km Caminhada 🏢 Realização e organização: Corre Assessoria Esportiva",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-outubro-rosa/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida+e+caminhada+outubro+rosa-87592",
-      "local": "Posto 12 - Recreio dos Bandeirantes",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-27",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496443,
-      "titulo": "Girl Power – Rio de Janeiro Etapa 2 – 2026",
-      "slug": "girl-power-rio-de-janeiro-etapa-2-2026",
-      "data_inicio": "2026-10-11 09:00:00",
-      "data_fim": "2026-10-11 09:00:00",
-      "descricao": "A Girl Power Run é mais do que uma corrida — é um movimento de força, coragem e autoconfiança. Criada para celebrar a potência feminina, a prova convida mulheres de todas as idades a ocuparem seu espaço com orgulho, resistência e brilho. Correndo com o coração, com garra e com beleza, cada mulher na Girl Power Run reafirma que ser forte também é ser livre.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/girl-power-rio-de-janeiro-etapa-2-2026/",
-      "site_oficial": "https://www.runningland.com.br/girl-power-rio-de-janeiro-etapa-2-2026",
-      "local": null,
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496539,
-      "titulo": "43rd Annual Conference of the Association of Global South Studies",
-      "slug": "43rd-annual-conference-of-the-association-of-global-south-studies",
-      "data_inicio": "2026-10-11 09:00:00",
-      "data_fim": "2026-10-13 09:00:00",
-      "descricao": "A Conferência Anual da Association of Global South Studies reúne pesquisadores, professores, estudantes, jornalistas, profissionais de políticas públicas e representantes da sociedade civil para discutir questões relacionadas aos países da América Latina, África, Ásia, Caribe e Oriente Médio. Com o tema “The World the Global South Made”, a edição de 2026 analisará como ideias, movimentos políticos, produções culturais e experiências sociais originadas no Sul Global contribuíram para a formação do mundo contemporâneo e influenciaram as sociedades do Norte Global. A programação contará com apresentações individuais, painéis acadêmicos, debates interdisciplinares, cerimônia de abertura, entrega de prêmios e atividades de relacionamento. Também estão previstas excursões culturais opcionais a Petrópolis e a uma fazenda histórica de café.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/43rd-annual-conference-of-the-association-of-global-south-studies/",
-      "site_oficial": "https://form.jotform.com/260294151846156",
-      "local": "Arena Copacabana Hotel",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "form"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Gastronomia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "chefs, restaurantes e food service",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de gastronomia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-21",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496651,
-      "titulo": "Elymar Santos — Estrela Luminosa 2026",
-      "slug": "elymar-santos-estrela-luminosa-2026",
-      "data_inicio": "2026-10-11 09:00:00",
-      "data_fim": "2026-10-11 09:00:00",
-      "descricao": "Elymar Santos celebra 40 anos de carreira com o espetáculo “Estrela Luminosa”, revisitando sucessos de sua trajetória na música romântica, no samba e na MPB.",
-      "categoria": "outros",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/elymar-santos-estrela-luminosa-2026/",
-      "site_oficial": "https://www.ticketmaster.com.br/event/elymar-santos-no-qualistage-rj?utm_source=chatgpt.com",
-      "local": "Qualistage",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 496649,
       "titulo": "Marina Sena Coisas Naturais 2026",
@@ -515,7 +24,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -540,7 +49,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -730,7 +239,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -749,9 +258,11 @@
       "contato": {
         "emails": [],
         "telefones": [],
-        "whatsapp": [],
+        "whatsapp": [
+          "5511976413459"
+        ],
         "produtoras_inferidas": [],
-        "status": "erro"
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Beleza",
@@ -848,7 +359,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -873,7 +384,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -898,7 +409,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -936,7 +447,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1036,7 +547,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1061,7 +572,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1086,7 +597,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1111,7 +622,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1154,6 +665,49 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496712,
+      "titulo": "XII SINTAE — Seminário de Integração dos Técnicos Administrativos em Educação da UFRJ",
+      "slug": "xii-sintae-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj",
+      "data_inicio": "2026-10-19 09:00:00",
+      "data_fim": "2026-10-23 09:00:00",
+      "descricao": "O SINTAE promove o intercâmbio de conhecimentos e experiências entre profissionais técnico-administrativos de instituições públicas de ensino superior. Com palestras e apresentações em grupos de trabalho, o seminário discute práticas profissionais e produção técnico-científica nas universidades, oferecendo participação presencial e remota conforme a modalidade de cada atividade.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xii-sintae-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj/",
+      "site_oficial": "https://eventos.ufrj.br/evento/sintae-2026-xii-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj/",
+      "local": "Parque Tecnológico da UFRJ",
+      "contato": {
+        "emails": [
+          "sintae@casadaciencia.ufrj.br"
+        ],
+        "telefones": [
+          "+55 (21) 3938-9600"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "eventos"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento longo, 5 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "SINTAE",
+          "UFRJ"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-05",
       "novo": false,
       "no_feed": false,
       "local_coletado": true
@@ -1216,85 +770,6 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-05",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496712,
-      "titulo": "XII SINTAE — Seminário de Integração dos Técnicos Administrativos em Educação da UFRJ",
-      "slug": "xii-sintae-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj",
-      "data_inicio": "2026-10-19 09:00:00",
-      "data_fim": "2026-10-23 09:00:00",
-      "descricao": "O SINTAE promove o intercâmbio de conhecimentos e experiências entre profissionais técnico-administrativos de instituições públicas de ensino superior. Com palestras e apresentações em grupos de trabalho, o seminário discute práticas profissionais e produção técnico-científica nas universidades, oferecendo participação presencial e remota conforme a modalidade de cada atividade.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xii-sintae-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj/",
-      "site_oficial": "https://eventos.ufrj.br/evento/sintae-2026-xii-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj/",
-      "local": "Parque Tecnológico da UFRJ",
-      "contato": {
-        "emails": [
-          "sintae@casadaciencia.ufrj.br"
-        ],
-        "telefones": [
-          "+55 (21) 3938-9600"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "eventos"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento longo, 5 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "SINTAE",
-          "UFRJ"
-        ],
-        "angulo_comercial": "Evento de ciência de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-05",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496439,
-      "titulo": "Monja Coen no Rio de Janeiro – Palestra “Coragem Para Ser Quem Você É”",
-      "slug": "monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voce-e",
-      "data_inicio": "2026-10-20 09:00:00",
-      "data_fim": "2026-10-20 09:00:00",
-      "descricao": "Palestra sobre autenticidade, autoconhecimento e coragem para assumir a própria identidade. Com base nos ensinamentos do Zen-Budismo, Monja Coen propõe reflexões sobre comparação, expectativas externas, medo de julgamentos e construção de uma vida mais consciente e coerente com os próprios valores. Dia 20 de outubro no Shopping da gávea.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voce-e/",
-      "site_oficial": "https://www.almatickets.com.br/events/monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voc-20102026-riodejaneiro",
-      "local": "Shopping da Gávea Rio de Janeiro",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "almatickets"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 30,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
       "novo": false,
       "no_feed": false,
       "local_coletado": true
@@ -1330,6 +805,42 @@
         "empresas_citadas": [],
         "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
         "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496439,
+      "titulo": "Monja Coen no Rio de Janeiro – Palestra “Coragem Para Ser Quem Você É”",
+      "slug": "monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voce-e",
+      "data_inicio": "2026-10-20 09:00:00",
+      "data_fim": "2026-10-20 09:00:00",
+      "descricao": "Palestra sobre autenticidade, autoconhecimento e coragem para assumir a própria identidade. Com base nos ensinamentos do Zen-Budismo, Monja Coen propõe reflexões sobre comparação, expectativas externas, medo de julgamentos e construção de uma vida mais consciente e coerente com os próprios valores. Dia 20 de outubro no Shopping da gávea.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voce-e/",
+      "site_oficial": "https://www.almatickets.com.br/events/monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voc-20102026-riodejaneiro",
+      "local": "Shopping da Gávea Rio de Janeiro",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "almatickets"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 30,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-14",
@@ -1397,7 +908,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1443,6 +954,51 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496437,
+      "titulo": "33º Congresso Internacional da Indústria do Trigo",
+      "slug": "33o-congresso-internacional-da-industria-do-trigo",
+      "data_inicio": "2026-10-21 09:00:00",
+      "data_fim": "2026-10-23 09:00:00",
+      "descricao": "O 33º Congresso Internacional da Indústria do Trigo reunirá executivos, empresários, especialistas, autoridades e representantes dos principais segmentos da produção, comercialização, moagem e transformação do trigo. Durante três dias, o encontro promoverá debates sobre economia, geopolítica, comportamento do consumidor, gestão empresarial, regulamentação, inovação e perspectivas para os mercados brasileiro e internacional. A programação contará com palestras, painéis, workshops, feira de negócios e atividades de relacionamento, incluindo coquetel, jantar de confraternização e show.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/33o-congresso-internacional-da-industria-do-trigo/",
+      "site_oficial": "https://congressoabitrigo.com.br/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "abitrigo@wenter.com.br",
+          "anaflavia@attualecomunicacao.com.br",
+          "comercial@triplem.com.br",
+          "reservas@triplem.com.br",
+          "sonia@apricot.com.br"
+        ],
+        "telefones": [
+          "+55 21 97126-0904",
+          "+55 21 98604-8523"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "congressoabitrigo"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
       "novo": false,
       "no_feed": false,
       "local_coletado": true
@@ -1507,51 +1063,6 @@
       "local_coletado": true
     },
     {
-      "id": 496437,
-      "titulo": "33º Congresso Internacional da Indústria do Trigo",
-      "slug": "33o-congresso-internacional-da-industria-do-trigo",
-      "data_inicio": "2026-10-21 09:00:00",
-      "data_fim": "2026-10-23 09:00:00",
-      "descricao": "O 33º Congresso Internacional da Indústria do Trigo reunirá executivos, empresários, especialistas, autoridades e representantes dos principais segmentos da produção, comercialização, moagem e transformação do trigo. Durante três dias, o encontro promoverá debates sobre economia, geopolítica, comportamento do consumidor, gestão empresarial, regulamentação, inovação e perspectivas para os mercados brasileiro e internacional. A programação contará com palestras, painéis, workshops, feira de negócios e atividades de relacionamento, incluindo coquetel, jantar de confraternização e show.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/33o-congresso-internacional-da-industria-do-trigo/",
-      "site_oficial": "https://congressoabitrigo.com.br/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "abitrigo@wenter.com.br",
-          "anaflavia@attualecomunicacao.com.br",
-          "comercial@triplem.com.br",
-          "reservas@triplem.com.br",
-          "sonia@apricot.com.br"
-        ],
-        "telefones": [
-          "+55 21 97126-0904",
-          "+55 21 98604-8523"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "congressoabitrigo"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 495725,
       "titulo": "XX Congresso Nacional IAPE 2026",
       "slug": "xx-congresso-nacional-iape-2026",
@@ -1590,15 +1101,15 @@
       "local_coletado": true
     },
     {
-      "id": 496112,
+      "id": 496111,
       "titulo": "Festival Futuros Possíveis 2026",
-      "slug": "festival-futuros-possiveis-2026-2",
+      "slug": "festival-futuros-possiveis-2026",
       "data_inicio": "2026-10-22 09:00:00",
       "data_fim": "2026-10-23 09:00:00",
       "descricao": "Festival de tendências, inovação e estudos de futuros que reúne palestras, painéis, oficinas, experiências, instalações artísticas, música e networking. A edição de 2026 discutirá como a inteligência artificial está transformando negócios, sociedade, trabalho, cultura e vida cotidiana. Dia 22 e 23 de outubro na Casa Firjan.",
       "categoria": "corporativos",
       "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026-2/",
+      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026/",
       "site_oficial": "https://casafirjan.com.br/",
       "local": "Casa Firjan",
       "contato": {
@@ -1631,15 +1142,15 @@
       "local_coletado": true
     },
     {
-      "id": 496111,
+      "id": 496112,
       "titulo": "Festival Futuros Possíveis 2026",
-      "slug": "festival-futuros-possiveis-2026",
+      "slug": "festival-futuros-possiveis-2026-2",
       "data_inicio": "2026-10-22 09:00:00",
       "data_fim": "2026-10-23 09:00:00",
       "descricao": "Festival de tendências, inovação e estudos de futuros que reúne palestras, painéis, oficinas, experiências, instalações artísticas, música e networking. A edição de 2026 discutirá como a inteligência artificial está transformando negócios, sociedade, trabalho, cultura e vida cotidiana. Dia 22 e 23 de outubro na Casa Firjan.",
       "categoria": "corporativos",
       "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026/",
+      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026-2/",
       "site_oficial": "https://casafirjan.com.br/",
       "local": "Casa Firjan",
       "contato": {
@@ -1831,7 +1342,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2017,11 +1528,11 @@
       "slug": "mondial-de-la-biere-2026",
       "data_inicio": "2026-10-29 09:00:00",
       "data_fim": "2026-11-01 09:00:00",
-      "descricao": "Prepare-se para a maior celebração cervejeira da América Latina! O Mondial de La Bière Rio 2025 está chegando e promete uma experiência inesquecível para os amantes de cerveja artesanal, música, gastronomia e cultura. Serão centenas de rótulos nacionais e internacionais reunidos em um só lugar, além de lançamentos exclusivos, harmonizações incríveis e experiências sensoriais que vão aguçar todos os seus sentidos. Se você é fã de cerveja ou quer descobrir um novo universo de sabores, o Mondial de La Bière é o seu lugar!",
-      "categoria": "culturais",
+      "descricao": "🍻 Prepare-se para celebrar a cultura cervejeira no Rio! O Mondial de la Bière reúne cervejas artesanais, música e gastronomia em uma experiência repleta de sabores e descobertas. Explore rótulos nacionais e internacionais, descubra novos estilos e aproveite combinações gastronômicas que tornam cada brinde ainda mais especial. 🎶 Seja para quem já aprecia cervejas artesanais ou para quem deseja conhecer esse universo, o Mondial de la Bière é um convite para reunir os amigos e aproveitar o melhor da cultura cervejeira. 🎟️ Acesse o link abaixo para garantir seu ingresso com o cupom de desconto do Visit Rio.",
+      "categoria": "esportivos",
       "categoria_fonte": "heuristica",
       "url_visitrio": "https://visitrio.com.br/evento/mondial-de-la-biere-2026/",
-      "site_oficial": "https://www.instagram.com/mondialdelabierebr/",
+      "site_oficial": "https://embedstore.ingresse.com/tickets/www.ingresse.com/event/92096?coupon=VISITRIO",
       "local": "Pier Mauá",
       "contato": {
         "emails": [],
@@ -2093,7 +1604,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2132,7 +1643,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2227,7 +1738,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2330,6 +1841,46 @@
       },
       "primeiro_visto": "2026-09-28",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496719,
+      "titulo": "XVII Encontro Clio-Psyché / X Congresso Brasileiro de História da Psicologia",
+      "slug": "xvii-encontro-clio-psyche-x-congresso-brasileiro-de-historia-da-psicologia",
+      "data_inicio": "2026-11-03 09:00:00",
+      "data_fim": "2026-11-06 09:00:00",
+      "descricao": "O encontro reúne a comunidade de história da psicologia para discutir caminhos locais e desafios compartilhados na América Latina. Organizado conjuntamente pela Sociedade Brasileira de História da Psicologia e pelo Laboratório Clio-Psyché, recebe pesquisadores e estudantes na UERJ para apresentação de trabalhos e intercâmbio de perspectivas históricas.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xvii-encontro-clio-psyche-x-congresso-brasileiro-de-historia-da-psicologia/",
+      "site_oficial": "https://sbhpsi.com.br/xvii-encontro-clio-psyche-x-congresso-brasileiro-de-historia-da-psicologia-x-cbhp/",
+      "local": "Universidade Estadual do Rio de Janeiro - UERJ",
+      "contato": {
+        "emails": [
+          "%20sbhpsi@gmail.com",
+          "sbhpsi.tesouraria@gmail.com",
+          "sbhpsi@gmail.com"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "sbhpsi"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2482,6 +2033,49 @@
       },
       "primeiro_visto": "2026-07-08",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496759,
+      "titulo": "Festival Fado Rio de Janeiro 2026",
+      "slug": "festival-fado-rio-de-janeiro-2026",
+      "data_inicio": "2026-11-05 09:00:00",
+      "data_fim": "2026-11-06 09:00:00",
+      "descricao": "O Festival Fado Rio de Janeiro retorna à cidade com o tema “O Fado e os Bairros”, celebrando a relação do gênero musical português com os bairros históricos de Lisboa. A edição reúne concertos dos fadistas Sara Correia e Camané, além de exposição, cinema e conferência sobre a história e as transformações culturais do fado.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/festival-fado-rio-de-janeiro-2026/",
+      "site_oficial": "https://vivorio.com.br/eventos/festival-fado-3/",
+      "local": "Vários locais",
+      "contato": {
+        "emails": [
+          "email@dominio.com",
+          "faleconosco@vivorio.com.br"
+        ],
+        "telefones": [
+          "(21) 2272-2901"
+        ],
+        "whatsapp": [
+          "552122722901"
+        ],
+        "produtoras_inferidas": [
+          "vivorio"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2680,17 +2274,17 @@
       "local_coletado": true
     },
     {
-      "id": 495270,
-      "titulo": "Hoka Speed Run 2026 – Rio de Janeiro",
-      "slug": "hoka-speed-run-2026-rio-de-janeiro",
+      "id": 495269,
+      "titulo": "Smurfs Run Rio de Janeiro 2026",
+      "slug": "smurfs-run-rio-de-janeiro-2026",
       "data_inicio": "2026-11-08 09:00:00",
       "data_fim": "2026-11-08 09:00:00",
-      "descricao": "A HOKA Speed Run é uma corrida de rua premium organizada pela Beta Sports e patrocinada pela HOKA, marca global especializada em running performance. O evento é focado rápidos e estrutura voltada para corredores amadores avançados e atletas de elite. A etapa carioca integra o circuito nacional da prova e contará com distâncias de 7,5 km, 15km e 30km, utilizando o eixo plano do Aterro do Flamengo.",
+      "descricao": "Prepare sua camiseta azul e venha correr com os Smurfs! A Smurfs Run 2026 está chegando para transformar Rio de Janeiro (RJ) em um verdadeiro vilarejo mágico! Um evento esportivo único e totalmente temático para crianças, adultos e até pets! 📅 08 de novembro de 2026 | 📍Parque Olimpico – Barra da Tijuca | ⏰ Inicio as 6h",
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/hoka-speed-run-2026-rio-de-janeiro/",
-      "site_oficial": "https://www.ticketsports.com.br/e/hoka-speed-run-2026-rio-de-janeiro-85376",
-      "local": "AXIA Marina da Glória",
+      "url_visitrio": "https://visitrio.com.br/evento/smurfs-run-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/smurfs-run-rio-de-janeiro-86362",
+      "local": "Parque Olímpico",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -2705,17 +2299,17 @@
       "local_coletado": true
     },
     {
-      "id": 495269,
-      "titulo": "Smurfs Run Rio de Janeiro 2026",
-      "slug": "smurfs-run-rio-de-janeiro-2026",
+      "id": 495270,
+      "titulo": "Hoka Speed Run 2026 – Rio de Janeiro",
+      "slug": "hoka-speed-run-2026-rio-de-janeiro",
       "data_inicio": "2026-11-08 09:00:00",
       "data_fim": "2026-11-08 09:00:00",
-      "descricao": "Prepare sua camiseta azul e venha correr com os Smurfs! A Smurfs Run 2026 está chegando para transformar Rio de Janeiro (RJ) em um verdadeiro vilarejo mágico! Um evento esportivo único e totalmente temático para crianças, adultos e até pets! 📅 08 de novembro de 2026 | 📍Parque Olimpico – Barra da Tijuca | ⏰ Inicio as 6h",
+      "descricao": "A HOKA Speed Run é uma corrida de rua premium organizada pela Beta Sports e patrocinada pela HOKA, marca global especializada em running performance. O evento é focado rápidos e estrutura voltada para corredores amadores avançados e atletas de elite. A etapa carioca integra o circuito nacional da prova e contará com distâncias de 7,5 km, 15km e 30km, utilizando o eixo plano do Aterro do Flamengo.",
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/smurfs-run-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/smurfs-run-rio-de-janeiro-86362",
-      "local": "Parque Olímpico",
+      "url_visitrio": "https://visitrio.com.br/evento/hoka-speed-run-2026-rio-de-janeiro/",
+      "site_oficial": "https://www.ticketsports.com.br/e/hoka-speed-run-2026-rio-de-janeiro-85376",
+      "local": "AXIA Marina da Glória",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -2751,6 +2345,74 @@
       "inteligencia": null,
       "primeiro_visto": "2026-07-08",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496741,
+      "titulo": "Eco Run TotalEnergies – Rio de Janeiro 2026",
+      "slug": "eco-run-totalenergies-rio-de-janeiro-2026",
+      "data_inicio": "2026-11-08 09:00:00",
+      "data_fim": "2026-11-08 09:00:00",
+      "descricao": "A Eco Run TotalEnergies — Rio de Janeiro 2026 é uma corrida de rua que combina esporte, saúde e conscientização ambiental. Realizada na orla de Copacabana, a edição especial oferecerá percursos de 5 km e 10 km para corredores de diferentes níveis de experiência. Com o conceito “Movimento que transforma o futuro”, a prova busca incentivar escolhas sustentáveis e mostrar como atitudes individuais podem contribuir para a regeneração ambiental. A iniciativa integra o circuito Eco Run TotalEnergies, plataforma que conecta corrida, bem-estar e responsabilidade socioambiental.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/eco-run-totalenergies-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.ecorun.com.br/rio-de-janeiro-edicao-especial/unica",
+      "local": "Praia de Copacabana",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496758,
+      "titulo": "Bossa Sempre Nova 2026",
+      "slug": "bossa-sempre-nova-2026",
+      "data_inicio": "2026-11-08 09:00:00",
+      "data_fim": "2026-11-08 09:00:00",
+      "descricao": "O espetáculo Bossa Sempre Nova reúne Roberto Menescal, Patty Ascher e Danilo Caymmi em uma celebração da Bossa Nova e da música brasileira. O projeto promove o encontro entre diferentes gerações e linguagens musicais, combinando a tradição do gênero com interpretações contemporâneas e influências do jazz. O repertório inclui clássicos como O Barquinho, Chega de Saudade, Desafinado, Água de Beber, Vagamente, Andanças, Casaco Marrom e The Look of Love. Roberto Menescal, um dos fundadores da Bossa Nova, divide o palco com Danilo Caymmi, representante de uma das principais famílias da música brasileira, e Patty Ascher, cantora com trajetória ligada à música brasileira, ao jazz e à cena internacional.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/bossa-sempre-nova-2026/",
+      "site_oficial": "https://vivorio.com.br/eventos/bossa-sempre-nova/",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [
+          "email@dominio.com",
+          "faleconosco@vivorio.com.br"
+        ],
+        "telefones": [
+          "(21) 2272-2901"
+        ],
+        "whatsapp": [
+          "552122722901"
+        ],
+        "produtoras_inferidas": [
+          "vivorio"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 1 dias.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2794,6 +2456,31 @@
       },
       "primeiro_visto": "2026-09-21",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496757,
+      "titulo": "Hayley Williams RJ 2026",
+      "slug": "hayley-williams-rj-2026",
+      "data_inicio": "2026-11-09 09:00:00",
+      "data_fim": "2026-11-09 09:00:00",
+      "descricao": "Hayley Williams, cantora, compositora e vocalista da banda Paramore, apresenta no Qualistage uma edição carioca de The Hayley Williams Show. A apresentação integra a passagem da artista pelo Brasil e marca um show solo de grande porte no Rio de Janeiro. A programação é voltada aos admiradores da carreira solo de Hayley Williams e ao público que acompanha seu trabalho no rock alternativo internacional. A produção também mantém parceria com a organização ambiental REVERB, iniciativa dedicada à redução do impacto ambiental das turnês e ao apoio de ações sociais.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/hayley-williams-rj-2026/",
+      "site_oficial": "https://www.eventim.com.br/event/the-hayley-williams-show-qualistage-21660394/",
+      "local": "Qualistage",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2985,13 +2672,55 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496718,
+      "titulo": "XIII Seminário de Pesquisadores do PPGAS-MN/UFRJ — XIII SeMaNa",
+      "slug": "xiii-seminario-de-pesquisadores-do-ppgas-mn-ufrj-xiii-semana",
+      "data_inicio": "2026-11-10 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "O seminário do Museu Nacional promove o diálogo entre pesquisas em antropologia social, com participação de estudantes de diferentes programas de pós-graduação. A edição discute a circulação de saberes, pessoas e formas de autoridade, reunindo grupos de trabalho e debates para compartilhar investigações e ampliar o intercâmbio acadêmico.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xiii-seminario-de-pesquisadores-do-ppgas-mn-ufrj-xiii-semana/",
+      "site_oficial": "https://ppgas.museunacional.ufrj.br/?utm_source=chatgpt.com",
+      "local": "Museu Nacional - Universidade Federal do Rio de Janeiro UFRJ",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "(21) 25689642"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "ppgas"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Energia / Óleo e Gás",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 4 dias.",
+        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
+        "empresas_citadas": [
+          "PPGAS",
+          "MN",
+          "UFRJ"
+        ],
+        "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
       "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
     {
       "id": 495267,
-      "titulo": "FISWeek Rio 2026",
+      "titulo": "fswk Rio 2026",
       "slug": "fisweek-rio-2026",
       "data_inicio": "2026-11-11 09:00:00",
       "data_fim": "2026-11-13 09:00:00",
@@ -3167,6 +2896,46 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496756,
+      "titulo": "Gilsons Convida Gilberto Gil 2026",
+      "slug": "gilsons-convida-gilberto-gil-2026",
+      "data_inicio": "2026-11-13 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "O trio Gilsons recebe Gilberto Gil em uma apresentação especial no Vivo Rio, celebrando os 20 anos da casa de espetáculos. O encontro conecta diferentes gerações da família Gil e possui significado histórico: Gilberto Gil participou da inauguração do Vivo Rio, em novembro de 2006, e retorna ao palco duas décadas depois como convidado dos Gilsons. Formado por José Gil, João Gil e Francisco Gil, o trio apresenta a turnê mundial “Eu Vejo Luz”, com músicas do álbum Eu Vejo Luz em Maior Proporção do que Eu Vejo a Escuridão e sucessos de sua trajetória. A participação de Gilberto Gil transforma a apresentação em um encontro especial da música brasileira, reunindo tradição, contemporaneidade e a herança musical da família.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/gilsons-convida-gilberto-gil-2026/",
+      "site_oficial": "https://www.ticket360.com.br/evento/33890/ingressos-para-gilsons-convida-gilberto-gil?_gl=1*rsn3c2*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwifjVBhBKEiwAYx4K9DZm-xaTqSipJKjgZgIl9O5uOVeqq_YARz_znHtJlPVmSdc7MR59MBoCsUoQAvD_BwE&gbraid=0AAAAAD1IkYdj4d6ONLl4lGgqjCzzKWvo",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [
+          "contato@ticket360.com.br"
+        ],
+        "telefones": [
+          "+55-11-2797-0777"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "ticket360"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 1 dias.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
       "novo": true,
       "no_feed": false,
       "local_coletado": true
@@ -3252,6 +3021,56 @@
       "inteligencia": null,
       "primeiro_visto": "2026-07-08",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496739,
+      "titulo": "Circuito dos Elementos – Etapa Ar 2026",
+      "slug": "circuito-dos-elementos-etapa-ar-2026",
+      "data_inicio": "2026-11-15 09:00:00",
+      "data_fim": "2026-11-15 09:00:00",
+      "descricao": "O Circuito dos Elementos 2026 — Etapa Ar é a quarta e última etapa do circuito de corridas temáticas organizado pela AR2 Eventos. A prova será realizada na Praça Mauá, na região do Porto Maravilha, com corrida competitiva de 5 km e caminhada participativa de 3 km. Inspirada no elemento ar, a etapa encerra o ciclo de 2026 após as provas dedicadas aos demais elementos da natureza. O evento contará com cronometragem eletrônica na corrida, postos de hidratação, aquecimento coletivo, DJ, espaço para fotos, premiação por categorias e medalha para os participantes que concluírem o percurso.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-dos-elementos-etapa-ar-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/circuito-dos-elementos-etapa-ar-88342",
+      "local": "Praça Mauá",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496740,
+      "titulo": "Corrida da Bandeira – 2026",
+      "slug": "corrida-da-bandeira-2026",
+      "data_inicio": "2026-11-15 09:00:00",
+      "data_fim": "2026-11-15 09:00:00",
+      "descricao": "A Corrida da Bandeira é uma prova cívico-esportiva realizada nas instalações do Museu Aeroespacial, no histórico Campo dos Afonsos. A programação combina corrida de 5 km e caminhada de 3 km com uma celebração alusiva ao Dia da Bandeira. O ambiente é um dos principais diferenciais: os participantes percorrem uma área ligada à história da aviação brasileira, com acesso ao complexo do MUSAL, aeronaves históricas e espaços normalmente utilizados pela Força Aérea Brasileira. A edição oferece estacionamento gratuito, sujeito à capacidade do local. A organização recomenda que os participantes cheguem com aproximadamente 1h30 de antecedência.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-da-bandeira-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+DA+BANDEIRA+-+2026-87797",
+      "local": "Museu Aeroespacial - MUSAL",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3342,6 +3161,42 @@
       },
       "primeiro_visto": "2026-07-08",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496738,
+      "titulo": "Simpósio MycoClima 2026",
+      "slug": "simposio-mycoclima-2026",
+      "data_inicio": "2026-11-17 09:00:00",
+      "data_fim": "2026-11-17 09:00:00",
+      "descricao": "O Simpósio MycoClima aborda a emergência de doenças fúngicas em um cenário de mudanças climáticas e seus impactos na saúde humana, animal e ambiental. Voltado a pesquisadores, estudantes e profissionais, o encontro discute diagnóstico, tratamento e resistência antifúngica, estimulando colaboração científica sob a perspectiva de Uma Só Saúde.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/simposio-mycoclima-2026/",
+      "site_oficial": "https://www.ioc.fiocruz.br/agenda/simposio-mycoclima-2026",
+      "local": "Instituto Oswaldo Cruz — IOC/Fiocruz",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "ioc"
+        ],
+        "status": "erro"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3636,6 +3491,31 @@
       "local_coletado": true
     },
     {
+      "id": 496737,
+      "titulo": "Corrida da Portela 2026",
+      "slug": "corrida-da-portela-2026",
+      "data_inicio": "2026-11-22 09:00:00",
+      "data_fim": "2026-11-22 09:00:00",
+      "descricao": "A Corrida da Portela 2026 reunirá esporte, samba e cultura popular em uma prova realizada a partir da Quadra da Portela, em Oswaldo Cruz. O evento oferecerá corrida competitiva de 5 km e caminhada participativa de 3 km, promovendo saúde, integração comunitária e valorização da identidade cultural da tradicional escola de samba carioca. A edição de 2026 integra as homenagens a Monarco, compositor, baluarte da Portela e uma das principais referências da história do samba. A corrida fará parte das celebrações relacionadas ao enredo que a escola levará para o Carnaval, transformando a prova em uma experiência esportiva e cultural ligada à memória do artista e à comunidade portelense.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-da-portela-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-da-portela-2026-87907?utm_source=corrida360&utm_medium=site",
+      "local": "Quadra da Portela",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494311,
       "titulo": "II Seminário de Estudos sobre o Estado do Rio de Janeiro",
       "slug": "ii-seminario-de-estudos-sobre-o-estado-do-rio-de-janeiro",
@@ -3803,6 +3683,122 @@
       "inteligencia": null,
       "primeiro_visto": "2026-09-14",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496736,
+      "titulo": "23º Congresso Rio de Transportes",
+      "slug": "23o-congresso-rio-de-transportes",
+      "data_inicio": "2026-11-26 09:00:00",
+      "data_fim": "2026-11-27 09:00:00",
+      "descricao": "O Congresso Rio de Transportes reúne pesquisadores, profissionais, gestores públicos e empresas para discutir pesquisa e desenvolvimento no setor de transportes. Com realização híbrida no Museu do Amanhã, o encontro aproxima produção acadêmica e desafios profissionais, contribuindo para a troca de conhecimentos e o debate sobre mobilidade.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/23o-congresso-rio-de-transportes/",
+      "site_oficial": "https://www.riodetransportes.org.br/",
+      "local": "Museu do Amanhã",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "riodetransportes"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496734,
+      "titulo": "5º Congresso Internacional da ISESS — International Society of Endoscopic Spine Surgery",
+      "slug": "5o-congresso-internacional-da-isess-international-society-of-endoscopic-spine-surgery",
+      "data_inicio": "2026-11-27 09:00:00",
+      "data_fim": "2026-11-28 09:00:00",
+      "descricao": "O 5º Congresso Internacional da International Society of Endoscopic Spine Surgery — ISESS, que acontecerá pela primeira vez fora da Ásia. Durante dois dias, médicos, residentes, estudantes, pesquisadores e representantes da indústria participarão de conferências, mesas-redondas, apresentações de trabalhos científicos e debates sobre cirurgia endoscópica da coluna, técnicas minimamente invasivas, deformidades, tumores, trauma vertebral, complicações cirúrgicas e novas tecnologias. A programação também abordará inteligência artificial, robótica, navegação cirúrgica e realidade aumentada aplicadas ao tratamento da coluna.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/5o-congresso-internacional-da-isess-international-society-of-endoscopic-spine-surgery/",
+      "site_oficial": "https://sincol2026.softaliza.com.br/contato",
+      "local": "Windsor Marapendi Hotel",
+      "contato": {
+        "emails": [
+          "contato@eventosincol.com.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "sincol2026"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Oncologia",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "ISESS"
+        ],
+        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496735,
+      "titulo": "SINCOL 2026 — Simpósio Internacional de Coluna",
+      "slug": "sincol-2026-simposio-internacional-de-coluna",
+      "data_inicio": "2026-11-27 09:00:00",
+      "data_fim": "2026-11-28 09:00:00",
+      "descricao": "O SINCOL 2026 — Simpósio Internacional de Coluna celebrará os 20 anos do encontro reunindo especialistas em neurocirurgia, ortopedia e tratamentos das patologias da coluna vertebral. A edição será realizada conjuntamente com o 5º Congresso Internacional da International Society of Endoscopic Spine Surgery — ISESS, que acontecerá pela primeira vez fora da Ásia. Durante dois dias, médicos, residentes, estudantes, pesquisadores e representantes da indústria participarão de conferências, mesas-redondas, apresentações de trabalhos científicos e debates sobre cirurgia endoscópica da coluna, técnicas minimamente invasivas, deformidades, tumores, trauma vertebral, complicações cirúrgicas e novas tecnologias. A programação também abordará inteligência artificial, robótica, navegação cirúrgica e realidade aumentada aplicadas ao tratamento da coluna.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/sincol-2026-simposio-internacional-de-coluna/",
+      "site_oficial": "https://sincol2026.softaliza.com.br/contato",
+      "local": "Windsor Marapendi Hotel",
+      "contato": {
+        "emails": [
+          "contato@eventosincol.com.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "sincol2026"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Neurologia",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "SINCOL"
+        ],
+        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4154,6 +4150,40 @@
       "local_coletado": true
     },
     {
+      "id": 496755,
+      "titulo": "Exagerado Rio de Janeiro 2026",
+      "slug": "exagerado-rio-de-janeiro-2026",
+      "data_inicio": "2026-12-09 09:00:00",
+      "data_fim": "2026-12-13 09:00:00",
+      "descricao": "O Exagerado, considerado por sua organização um dos maiores eventos de varejo do Brasil, retorna ao Rio de Janeiro para cinco dias de compras, entretenimento e experiências no Riocentro. O evento reúne marcas de moda, calçados, artigos esportivos, beleza, casa, decoração e outros segmentos, oferecendo produtos de coleções anteriores com descontos mínimos anunciados de 50%, que podem chegar a 90%. Além dos espaços comerciais, o Exagerado costuma oferecer praça de alimentação, apresentações musicais, DJs, atividades culturais, atrações infantis, ações sociais, iniciativas sustentáveis e feira de adoção de animais. A proposta combina o formato de outlet com elementos de feira e festival de entretenimento.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/exagerado-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.instagram.com/exagerado/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Beleza",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de estética e distribuidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de beleza de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 496417,
       "titulo": "Rei e Rainha do Mar 2026",
       "slug": "rei-e-rainha-do-mar-2026",
@@ -4274,7 +4304,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4312,7 +4342,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4554,7 +4584,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4720,7 +4750,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -5260,7 +5290,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-05",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -5772,6 +5802,497 @@
       "primeiro_visto": "2026-09-21",
       "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496445,
+      "titulo": "VI Colóquio Internacional de Filosofia da Neurociência, Filosofia Experimental, Inteligência Artificial e Neuroética",
+      "slug": "vi-coloquio-internacional-de-filosofia-da-neurociencia-filosofia-experimental-inteligencia-artificial-e-neuroetica",
+      "data_inicio": "2026-10-05 09:00:00",
+      "data_fim": "2026-10-09 09:00:00",
+      "descricao": "O VI Colóquio Internacional de Filosofia da Neurociência reúne pesquisadores brasileiros e estrangeiros para discutir as relações entre mente, cérebro, cognição e tecnologias emergentes. Com o tema “Cérebros, Máquinas e Sociedades”, a programação aborda consciência, inteligência artificial, livre-arbítrio, tomada de decisão e os impactos éticos e sociais dos avanços científicos. O encontro busca fortalecer a pesquisa interdisciplinar e ampliar redes internacionais de colaboração entre filosofia, neurociência, psicologia, ciências cognitivas, matemática e ciência da computação.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/vi-coloquio-internacional-de-filosofia-da-neurociencia-filosofia-experimental-inteligencia-artificial-e-neuroetica/",
+      "site_oficial": "https://www.even3.com.br/26002/",
+      "local": "UFRJ - Centro Cultural de Ciência e Tecnologia",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 5 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494332,
+      "titulo": "Febrava Rio 2026",
+      "slug": "febrava-rio-2026",
+      "data_inicio": "2026-10-06 09:00:00",
+      "data_fim": "2026-10-08 09:00:00",
+      "descricao": "A Febrava RIO conecta as principais marcas do setor AVACR (Aquecimento, Ventilação, Ar-Condicionado e Refrigeração) a milhares de profissionais das indústrias mais estratégicas da região — como construção civil, petróleo & gás, energia, química e farmacêutica — com foco no usuário final corporativo. O evento potencializa a geração de negócios qualificados, amplia a visibilidade das empresas expositoras e cria oportunidades reais de mercado, fortalecendo seu papel como agente de transformação e desenvolvimento do setor no estado do Rio de Janeiro.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/febrava-rio-2026/",
+      "site_oficial": "https://www.febrava.com.br/pt-br/expor/febrava-rio.html",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "+55 11 3060-4717"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "febrava"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494331,
+      "titulo": "FEICON Rio",
+      "slug": "feicon-rio",
+      "data_inicio": "2026-10-06 09:00:00",
+      "data_fim": "2026-10-08 09:00:00",
+      "descricao": "A FEICON Rio 2026 representa uma expansão estratégica da maior feira de construção e arquitetura da América Latina, trazendo ao Rio de Janeiro oportunidades de mercado, conteúdo técnico e tendências inovadoras para profissionais e empresas de toda a cadeia da construção civil.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/feicon-rio/",
+      "site_oficial": "https://www.feiconrio.com.br/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "+55 11 3060-4717"
+        ],
+        "whatsapp": [
+          "551151922480"
+        ],
+        "produtoras_inferidas": [
+          "feiconrio"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [
+          "FEICON"
+        ],
+        "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494330,
+      "titulo": "XXXII Congresso Brasileiro de Neurologia – CBN 2026",
+      "slug": "xxxii-congresso-brasileiro-de-neurologia-cbn-2026",
+      "data_inicio": "2026-10-07 09:00:00",
+      "data_fim": "2026-10-10 09:00:00",
+      "descricao": "O XXXII Congresso Brasileiro de Neurologia (CBN 2026) será realizado de 07 a 10 de outubro de 2026, no Rio de Janeiro, reunindo especialistas e profissionais da neurologia de todo o Brasil. Com foco nas últimas inovações científicas e terapêuticas, o evento proporcionará uma oportunidade única de atualização, discussão de casos clínicos e troca de experiências. Além disso, será um ambiente propício para o fortalecimento de parcerias acadêmicas e o avanço do conhecimento na área. Não perca a chance de participar deste congresso de referência e expandir sua atuação no campo da neurologia.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xxxii-congresso-brasileiro-de-neurologia-cbn-2026/",
+      "site_oficial": "https://congressoabneuro2026.com.br/evento/cbn2026/home",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "congressoabneuro2026"
+        ],
+        "status": "bloqueado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Neurologia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "CBN"
+        ],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494328,
+      "titulo": "29th World Congress of Cardiology – WCC",
+      "slug": "world-congress-of-cardiology-wcc-2026",
+      "data_inicio": "2026-10-08 09:00:00",
+      "data_fim": "2026-10-10 09:00:00",
+      "descricao": "O World Congress of Cardiology 2026 (WCC 2026) será realizado em conjunto com o 81° Congresso Brasileiro de Cardiologia (CBC 2026), formando um dos maiores encontros científicos globais da área cardiovascular. O congresso reunirá especialistas, pesquisadores, clínicos e líderes da cardiologia mundial, com foco na troca internacional de conhecimento, inovação tecnológica e discussão de soluções globais para doenças cardiovasculares.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/world-congress-of-cardiology-wcc-2026/",
+      "site_oficial": "https://worldcardio2026.com/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [
+          "tatiane.bertechini@ccmgroup.com.br"
+        ],
+        "telefones": [
+          "(11) 97896-0793",
+          "+55 21 3478-2700"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "CCM Group",
+          "Sociedade Brasileira de Cardiologia"
+        ],
+        "status": "coletado",
+        "fonte": "manual",
+        "travado": true
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Cardiologia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "WCC"
+        ],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494329,
+      "titulo": "81º Congresso Brasileiro de Cardiologia 2026",
+      "slug": "81o-congresso-brasileiro-de-cardiologia-2026",
+      "data_inicio": "2026-10-08 09:00:00",
+      "data_fim": "2026-10-10 09:00:00",
+      "descricao": "O 81º Congresso Brasileiro de Cardiologia será realizado junto com o World Congress of Cardiology 2026 (WCC 2026). O congresso reunirá especialistas, pesquisadores, clínicos e líderes da cardiologia mundial, com foco na troca internacional de conhecimento, inovação tecnológica e discussão de soluções globais para doenças cardiovasculares.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/81o-congresso-brasileiro-de-cardiologia-2026/",
+      "site_oficial": "https://worldcardio2026.com/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [
+          "tatiane.bertechini@ccmgroup.com.br"
+        ],
+        "telefones": [
+          "(11) 97896-0793",
+          "+55 21 3478-2700"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "CCM Group",
+          "Sociedade Brasileira de Cardiologia"
+        ],
+        "status": "coletado",
+        "fonte": "manual",
+        "travado": true
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Cardiologia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494327,
+      "titulo": "Master Games Brasil Rio 2026",
+      "slug": "master-games-brasil-rio-2026",
+      "data_inicio": "2026-10-09 09:00:00",
+      "data_fim": "2026-10-18 09:00:00",
+      "descricao": "No período de 09 a 18 de outubro de 2026, o Comitê Brasileiro do Esporte Master (CBEM) realizará, na cidade do Rio de Janeiro, a primeira edição dos MASTER GAMES BRASIL 2026, um evento que representa um marco definitivo na história da longevidade esportiva no país. Inspirado nos princípios do movimento internacional Sport for All e alinhado às diretrizes da IMGA (International Masters Games Association), os Master Games Brasil nascem com o propósito de valorizar, promover e fortalecer o esporte master, criando uma plataforma permanente de participação, desenvolvimento e reconhecimento para atletas de todas as regiões do Brasil e de diversos países. O evento será multiesportivo, aberto a atletas master, e reunirá milhares de participantes em uma celebração que integra competição, saúde, turismo, experiência e convivência. Ao longo de dez dias, o Rio de Janeiro sediará provas, festivais e cerimônias em arenas renomadas, conectando tradição esportiva, infraestrutura de excelência e o simbolismo da cidade que é cartão postal do mundo.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/master-games-brasil-rio-2026/",
+      "site_oficial": null,
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496444,
+      "titulo": "Jorge Vercillo apresenta: JV30 Parte II – Mais um final feliz",
+      "slug": "jorge-vercillo-apresenta-jv30-parte-ii-mais-um-final-feliz",
+      "data_inicio": "2026-10-10 09:00:00",
+      "data_fim": "2026-10-10 09:00:00",
+      "descricao": "Jorge Vercillo apresenta no Qualistage a nova fase da turnê comemorativa de seus 30 anos de carreira, JV30 Parte II – Mais um final feliz. Com direção visual de Rafael Dragaud, o espetáculo combina iluminação, projeções e diferentes influências da música brasileira, passando pela bossa nova, samba, ijexá, reggae, jazz e R&B. O repertório reúne sucessos como “Que Nem Maré”, “Fênix”, “Homem-Aranha”, “Monalisa”, “Final Feliz”, “Encontro das Águas” e “Ela Une Todas as Coisas”, além de músicas mais recentes.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/jorge-vercillo-apresenta-jv30-parte-ii-mais-um-final-feliz/",
+      "site_oficial": "https://www.ticketmaster.com.br/event/jorge-vercillo-no-qualistage-rj",
+      "local": "Qualistage",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "ticketmaster"
+        ],
+        "status": "bloqueado"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [
+          "JV30"
+        ],
+        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 30,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496652,
+      "titulo": "Maria Rita: Redescobrir Vol. 2 – Rio de Janeiro",
+      "slug": "maria-rita-redescobrir-vol-2-rio-de-janeiro",
+      "data_inicio": "2026-10-10 09:00:00",
+      "data_fim": "2026-10-10 09:00:00",
+      "descricao": "Maria Rita retorna aos palcos com a turnê “Redescobrir Vol. 2”, sequência do projeto lançado originalmente em 2012. O espetáculo apresenta novas interpretações de clássicos da música brasileira, incluindo obras eternizadas por Elis Regina, combinando memória, homenagem e uma leitura contemporânea do repertório.",
+      "categoria": "outros",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/maria-rita-redescobrir-vol-2-rio-de-janeiro/",
+      "site_oficial": "https://www.ticketmaster.com.br/event/maria-rita-rio-de-janeiro",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495728,
+      "titulo": "New Balance 15k Rio de Janeiro – 2026",
+      "slug": "new-balance-15k-rio-de-janeiro-2026",
+      "data_inicio": "2026-10-11 09:00:00",
+      "data_fim": "2026-10-11 09:00:00",
+      "descricao": "A NB15k Rio de Janeiro é uma corrida de rua que será realizada no dia 11/10/2026 (domingo), em Rio de Janeiro capital, com participação de ambos os sexos. Terá percursos de 7,5km e 15km. A programação completa e mais informações estão disponíveis no site www.newbalance.com.br/nbraceseries. A largada da prova será no dia 11/10/2026 às 6h00h, no Rio de Janeiro, Parque do Flamengo (Av. Infante Dom Henrique, 85 – Glória, Rio de Janeiro).",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/new-balance-15k-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.newbalance.com.br/corrida-new-balance-15k-rio-de-janeiro",
+      "local": "Aterro do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495729,
+      "titulo": "Corrida Outubro Rosa 2026",
+      "slug": "corrida-outubro-rosa-2026",
+      "data_inicio": "2026-10-11 09:00:00",
+      "data_fim": "2026-10-11 09:00:00",
+      "descricao": "Ela está de volta! 💗 Para quem estava ansioso, já pode marcar no calendário: 11 de outubro tem Corrida Outubro Rosa no Posto 12, Recreio. 🏃‍♀️🎀 Um evento que une esporte, conscientização e uma causa que merece toda a nossa atenção. ✨ Corrida e Caminhada 5K 🏆 Premiação geral e por faixa etária 👟 Prova mista 📍 Posto 12 – Recreio 📅 11 de outubro",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-outubro-rosa-2026/",
+      "site_oficial": "https://www.instagram.com/p/DZs2wlSPD3C/",
+      "local": "Posto 12 - Recreio dos Bandeirantes",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495967,
+      "titulo": "Corrida e Caminhada Outubro Rosa",
+      "slug": "corrida-e-caminhada-outubro-rosa",
+      "data_inicio": "2026-10-11 09:00:00",
+      "data_fim": "2026-10-11 09:00:00",
+      "descricao": "📍 Local: Recreio dos Bandeirantes – RJ | Largada e chegada no Posto 12 (próximo ao nº 18.000 da Av. Lúcio Costa) 📅 Data: 11 de outubro de 2026 (domingo) 🌦️ Realização em qualquer condição climática 👥 Participação mediante inscrição (participantes denominados ATLETAS) 🏁 Modalidades: 5 km Corrida e 5 km Caminhada 🏢 Realização e organização: Corre Assessoria Esportiva",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-outubro-rosa/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida+e+caminhada+outubro+rosa-87592",
+      "local": "Posto 12 - Recreio dos Bandeirantes",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496443,
+      "titulo": "Girl Power – Rio de Janeiro Etapa 2 – 2026",
+      "slug": "girl-power-rio-de-janeiro-etapa-2-2026",
+      "data_inicio": "2026-10-11 09:00:00",
+      "data_fim": "2026-10-11 09:00:00",
+      "descricao": "A Girl Power Run é mais do que uma corrida — é um movimento de força, coragem e autoconfiança. Criada para celebrar a potência feminina, a prova convida mulheres de todas as idades a ocuparem seu espaço com orgulho, resistência e brilho. Correndo com o coração, com garra e com beleza, cada mulher na Girl Power Run reafirma que ser forte também é ser livre.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/girl-power-rio-de-janeiro-etapa-2-2026/",
+      "site_oficial": "https://www.runningland.com.br/girl-power-rio-de-janeiro-etapa-2-2026",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496539,
+      "titulo": "43rd Annual Conference of the Association of Global South Studies",
+      "slug": "43rd-annual-conference-of-the-association-of-global-south-studies",
+      "data_inicio": "2026-10-11 09:00:00",
+      "data_fim": "2026-10-13 09:00:00",
+      "descricao": "A Conferência Anual da Association of Global South Studies reúne pesquisadores, professores, estudantes, jornalistas, profissionais de políticas públicas e representantes da sociedade civil para discutir questões relacionadas aos países da América Latina, África, Ásia, Caribe e Oriente Médio. Com o tema “The World the Global South Made”, a edição de 2026 analisará como ideias, movimentos políticos, produções culturais e experiências sociais originadas no Sul Global contribuíram para a formação do mundo contemporâneo e influenciaram as sociedades do Norte Global. A programação contará com apresentações individuais, painéis acadêmicos, debates interdisciplinares, cerimônia de abertura, entrega de prêmios e atividades de relacionamento. Também estão previstas excursões culturais opcionais a Petrópolis e a uma fazenda histórica de café.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/43rd-annual-conference-of-the-association-of-global-south-studies/",
+      "site_oficial": "https://form.jotform.com/260294151846156",
+      "local": "Arena Copacabana Hotel",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "form"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Gastronomia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "chefs, restaurantes e food service",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de gastronomia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-21",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496651,
+      "titulo": "Elymar Santos — Estrela Luminosa 2026",
+      "slug": "elymar-santos-estrela-luminosa-2026",
+      "data_inicio": "2026-10-11 09:00:00",
+      "data_fim": "2026-10-11 09:00:00",
+      "descricao": "Elymar Santos celebra 40 anos de carreira com o espetáculo “Estrela Luminosa”, revisitando sucessos de sua trajetória na música romântica, no samba e na MPB.",
+      "categoria": "outros",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/elymar-santos-estrela-luminosa-2026/",
+      "site_oficial": "https://www.ticketmaster.com.br/event/elymar-santos-no-qualistage-rj?utm_source=chatgpt.com",
+      "local": "Qualistage",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     },
     {
