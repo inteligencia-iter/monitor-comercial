@@ -1,631 +1,8 @@
 {
-  "gerado_em": "2026-10-12T15:56:59-03:00",
+  "gerado_em": "2026-10-19T13:48:26-03:00",
   "modo": "deterministico (custo zero)",
-  "total": 344,
+  "total": 362,
   "eventos": [
-    {
-      "id": 496649,
-      "titulo": "Marina Sena Coisas Naturais 2026",
-      "slug": "marina-sena-coisas-naturais-2026",
-      "data_inicio": "2026-10-12 09:00:00",
-      "data_fim": "2026-10-12 09:00:00",
-      "descricao": "Marina Sena apresenta o espetáculo “Coisas Naturais”, baseado em seu terceiro álbum. Com direção de Vito Soares, Marcelo Jarosz e Fernanda Fiuza, o show combina música, dança, câmeras no palco e elementos teatrais, apresentando todas as faixas do disco com novos arranjos e interpretações.",
-      "categoria": "culturais",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/marina-sena-coisas-naturais-2026/",
-      "site_oficial": "https://vivorio.com.br/eventos/marina-sena/",
-      "local": "Vivo Rio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496650,
-      "titulo": "Palavra Cantada — 30 Anos",
-      "slug": "palavra-cantada-30-anos",
-      "data_inicio": "2026-10-12 09:00:00",
-      "data_fim": "2026-10-12 09:00:00",
-      "descricao": "Em comemoração ao Dia das Crianças, Sandra Peres e Paulo Tatit apresentam o espetáculo Palavra Cantada 30 Anos, reunindo clássicos como “Sopa” e “Pé com Pé”, além de músicas do álbum Cenas Infantis. A programação também inclui uma recepção lúdica no foyer com os personagens Pauleco e Sandreca.",
-      "categoria": "outros",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/palavra-cantada-30-anos/",
-      "site_oficial": "https://www.ticket360.com.br/evento/32876/ingressos-para-palavra-cantada?_gl=1*1dugtlk*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwoOjVBhArEiwAUwDak23ngjngd9lfQXcyv3JEDOWYbimh3FoAyfWQeFSCewRj4fXt_PZlWhoC-CIQAvD_BwE&gbraid=0AAAAAD1IkYexzQwEwFhpDyEJMw6or1LT-",
-      "local": "Vivo Rio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494325,
-      "titulo": "Congresso Veterinário de León – CVDL in Rio 2026",
-      "slug": "cvdl-in-rio-2026",
-      "data_inicio": "2026-10-15 09:00:00",
-      "data_fim": "2026-10-16 09:00:00",
-      "descricao": "O Congresso Veterinário de León é hoje o maior congresso veterinário na área de pequenos animais no mundo. Para que se tenha ideia, sua edição de 2019, em setembro passado, recebeu 18.765 participantes. Realizado pelo CMG – Congress and Meetings Group – ocorre há 25 anos na cidade de León, no México, e já conta com edições anuais também no Equador, Colômbia, Panamá e El Salvador. A partir de 2021 começará a ser realizado na Argentina e em 2022, através de uma parceria com a In Rio, iniciará suas atividades no Brasil com data marcada para acontecer de 27 a 29 de outubro de 2022. O evento foca no tripé educação continuada, negócios e lazer e tem um conceito totalmente diferente, que lhe confere reconhecimento internacional. Em León, a feira ocupa uma área de 18.000 m2 que recebe mais de 200 empresas do setor veterinário, sem contar as empresas locais que comparecem e comercializam produtos e atividades da Cidade de Léon.",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/cvdl-in-rio-2026/",
-      "site_oficial": "https://www.cvdlinrio.com/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494326,
-      "titulo": "34th World Congress of the ISHRS 2026 (Intl Society of Hair Restoration Surgery)",
-      "slug": "34th-world-congress-of-the-ishrs-2026-intl-society-of-hair-restoration-surgery",
-      "data_inicio": "2026-10-15 09:00:00",
-      "data_fim": "2026-10-17 09:00:00",
-      "descricao": "Junte-se a nós para três dias de debate, networking e investigação científica. Marque em seu calendário de 15 a 17 de outubro de 2026 na vibrante cidade litorânea no Brasil, o Rio de Janeiro. Além das Sessões Gerais, o programa incluirá um Programa para Assistentes Cirúrgicos, a Conferência de Morbidade e Mortalidade da ISHRS e ABHRS, pré-cursos opcionais com ingressos vendidos à parte na quarta-feira, um Workshop de Cirurgia ao Vivo limitado e expositores de todo o mundo.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/34th-world-congress-of-the-ishrs-2026-intl-society-of-hair-restoration-surgery/",
-      "site_oficial": "https://34thannual.org/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "info@cosmeticsurgery.org",
-          "info@ishrs.org"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "34thannual"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "ISHRS"
-        ],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494323,
-      "titulo": "14º Festival Moto Brasil 2026",
-      "slug": "festival-moto-brasil-2026",
-      "data_inicio": "2026-10-16 09:00:00",
-      "data_fim": "2026-10-18 09:00:00",
-      "descricao": "O Festival Moto Brasil (FMB) é um dos principais eventos motociclísticos do país, reunindo paixão por duas rodas, negócios, lifestyle, exposição de motos, experiências interativas e cultura biker. O festival é considerado um ponto de encontro definitivo para motociclistas, marcas, montadoras, influenciadores e público apaixonado pelo universo das motos.",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/festival-moto-brasil-2026/",
-      "site_oficial": "https://festivalmotobrasil.com.br/?",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495961,
-      "titulo": "XIX Congreso del Capítulo Hispano Latinoamericano de Trastornos de la Conducta Alimentaria del Academy for Eating Disorders (AED)",
-      "slug": "xix-congreso-del-capitulo-hispano-latinoamericano-de-trastornos-de-la-conducta-alimentaria-del-academy-for-eating-disorders-aed",
-      "data_inicio": "2026-10-16 09:00:00",
-      "data_fim": "2026-10-17 09:00:00",
-      "descricao": "O XIX Congreso del Capítulo Hispano Latinoamericano de Trastornos de la Conducta Alimentaria reunirá profissionais e pesquisadores da América Latina, Espanha, Portugal e outros países para discutir os avanços científicos e clínicos relacionados aos transtornos alimentares. O programa foi estruturado para abordar temas como a interação entre transtornos alimentares e distúrbios endócrinos e metabólicos, novas abordagens terapêuticas, pesquisa clínica, prevenção e tratamento multidisciplinar, incentivando o intercâmbio científico e a cooperação internacional.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xix-congreso-del-capitulo-hispano-latinoamericano-de-trastornos-de-la-conducta-alimentaria-del-academy-for-eating-disorders-aed/",
-      "site_oficial": "https://cchla2026.com.br/",
-      "local": "Windsor Florida Hotel",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "cchla2026"
-        ],
-        "status": "bloqueado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 2 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "AED"
-        ],
-        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-27",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495965,
-      "titulo": "12º DermaRio 2026 – Encontro de Dermatologia 2026",
-      "slug": "12o-dermario-2026-encontro-de-dermatologia-2026",
-      "data_inicio": "2026-10-16 09:00:00",
-      "data_fim": "2026-10-17 09:00:00",
-      "descricao": "A 12º edição, que acontecerá nos dias 16 e 17 de outubro, no Windsor Barra, reunirá renomados especialistas para discutir as últimas novidades, pesquisas recentes e práticas inovadoras em dermatologia. Serão dois dias de muitas trocas e atualização! Essa é uma oportunidade ímpar para aprimorar conhecimentos, trocar experiências e, é claro, fortalecer a nossa especialidade. Venha curtir esse evento e encontrar amigos queridos.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/12o-dermario-2026-encontro-de-dermatologia-2026/",
-      "site_oficial": "https://dermario.com.br/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "dermario"
-        ],
-        "status": "erro"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 2 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-27",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496648,
-      "titulo": "Rod Hanna Flashback 2026",
-      "slug": "rod-hanna-flashback-2026",
-      "data_inicio": "2026-10-16 09:00:00",
-      "data_fim": "2026-10-16 09:00:00",
-      "descricao": "A banda Rod Hanna apresenta no Vivo Rio um espetáculo dedicado aos grandes sucessos da disco music e do flashback. Liderado por Rodrigo Laguna e Nora Hanna, o show reúne releituras de artistas como ABBA, Bee Gees, A-ha, Madonna, Cher, Gloria Gaynor e Erasure, acompanhadas por iluminação cênica, projeções e uma produção visual imersiva.",
-      "categoria": "culturais",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/rod-hanna-flashback-2026/",
-      "site_oficial": "https://www.ticket360.com.br/evento/33672/ingressos-para-rod-hanna-flashback?_gl=1*1dugtlk*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwoOjVBhArEiwAUwDak23ngjngd9lfQXcyv3JEDOWYbimh3FoAyfWQeFSCewRj4fXt_PZlWhoC-CIQAvD_BwE&gbraid=0AAAAAD1IkYexzQwEwFhpDyEJMw6or1LT-",
-      "local": "Vivo Rio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494322,
-      "titulo": "Professional Fair 2026 by Beauty Fair",
-      "slug": "professional-fair-2026-by-beauty-fair",
-      "data_inicio": "2026-10-17 09:00:00",
-      "data_fim": "2026-10-20 09:00:00",
-      "descricao": "A Professional Fair Rio de Janeiro é um evento profissional voltado exclusivamente para quem atua no mercado de beleza, reunindo cabeleireiros, barbeiros, maquiadores, manicures, lash designers, empreendedores e outros profissionais do setor. Organizada pela Beauty Fair, a feira é um espaço estratégico para atualização, negócios e networking, conectando profissionais às principais marcas, lançamentos, tendências e oportunidades do mercado. Durante os dias de evento, os visitantes têm acesso a expositores renomados, contato direto com fabricantes e distribuidores, além de conteúdos técnicos, workshops e experiências práticas que contribuem para o crescimento profissional e fortalecimento dos negócios. A Professional Fair RJ se consolida como um dos principais encontros do setor no estado, promovendo troca de conhecimento, geração de oportunidades e valorização do profissional da beleza.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/professional-fair-2026-by-beauty-fair/",
-      "site_oficial": "https://rj.professionalfair.com.br/",
-      "local": "ExpoRio Cidade Nova",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [
-          "5511976413459"
-        ],
-        "produtoras_inferidas": [],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Beleza",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de estética e distribuidores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de beleza de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494324,
-      "titulo": "Rio Coffee Nation 2026",
-      "slug": "rio-coffee-nation-2026",
-      "data_inicio": "2026-10-17 09:00:00",
-      "data_fim": "2026-10-18 09:00:00",
-      "descricao": "O Rio Coffee Nation é um evento imperdível para os amantes de café! Com uma programação diversificada, ele traz o que há de melhor no universo cafeeiro, incluindo palestras, workshops e exposições sobre a produção, tendências e inovações do setor. Ideal para profissionais e entusiastas, o evento oferece uma oportunidade única de conhecer mais sobre o mundo do café, fazer networking e explorar as últimas novidades da indústria. Marque na sua agenda e venha vivenciar essa experiência!",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/rio-coffee-nation-2026/",
-      "site_oficial": "https://www.instagram.com/riocoffeenation/",
-      "local": "EXC Rio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Gastronomia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "chefs, restaurantes e food service",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de gastronomia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495727,
-      "titulo": "Corrida Granado Pink Rio de Janeiro 2026",
-      "slug": "corrida-granado-pink-rio-de-janeiro-2026",
-      "data_inicio": "2026-10-17 09:00:00",
-      "data_fim": "2026-10-17 09:00:00",
-      "descricao": "Sucesso em todo o Brasil, o Circuito de Corrida de Rua Granado Pink chega a mais uma cidade para proporcionar uma experiência única de saúde, bem-estar e diversão. Exclusiva para mulheres, a corrida promovida pela Granado, a botica mais antiga do país, conta com percursos de caminhada e corrida de 7,5 km. Venha celebrar esse momento especial em uma manhã inteiramente dedicada às mulheres. Além da corrida, o evento oferece diversas atrações na arena, como massagem, esmaltação de unhas, sorteio de brindes e outras experiências preparadas para tornar o dia ainda mais especial. Com mais de 150 anos de história, a Granado sempre buscou oferecer produtos e experiências inovadoras. A Corrida Granado Pink reforça a importância da prática de atividades físicas como caminho para o equilíbrio, a saúde e a qualidade de vida. Mais do que uma corrida, o evento proporciona uma experiência completa, desde a retirada do kit até as atividades realizadas na arena após a prova.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-granado-pink-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-granado-pink-rio-de-janeiro-2026-87385",
-      "local": "Parque das Figueiras - Lagoa",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496645,
-      "titulo": "Ana Carolina — Turnê “25 Anas”",
-      "slug": "ana-carolina-turne-25-anas",
-      "data_inicio": "2026-10-17 09:00:00",
-      "data_fim": "2026-10-17 09:00:00",
-      "descricao": "Ana Carolina celebra mais de 25 anos de carreira com a turnê “25 Anas”. Dividido em cinco atos, o espetáculo reúne sucessos como “Garganta”, “Quem de Nós Dois” e “É Isso Aí”, além de músicas do projeto autoral Ainda Já – Vol. 1, com elementos cênicos e projeções que revisitam diferentes fases da artista.",
-      "categoria": "outros",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/ana-carolina-turne-25-anas/",
-      "site_oficial": "https://www.ticketmaster.com.br/event/ana-carolina-qualistage",
-      "local": "Qualistage",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496646,
-      "titulo": "4ª Etapa do Circuito Carioca de Frescobol 2026",
-      "slug": "4a-etapa-do-circuito-carioca-de-frescobol-2026",
-      "data_inicio": "2026-10-17 09:00:00",
-      "data_fim": "2026-10-18 09:00:00",
-      "descricao": "A quarta etapa do Circuito Carioca de Frescobol reúne atletas de diferentes categorias na Praia do Flamengo. Organizada pela FEFERJ, a competição valoriza uma modalidade criada no Rio de Janeiro e reconhecida como parte do patrimônio cultural e esportivo do estado.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/4a-etapa-do-circuito-carioca-de-frescobol-2026/",
-      "site_oficial": "https://www.instagram.com/p/Dc3z89HDvbX/",
-      "local": "Praia do Flamengo",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496647,
-      "titulo": "Dionne Warwick Over And Out A Farewell Tour 2026",
-      "slug": "dionne-warwick-over-and-out-a-farewell-tour-2026",
-      "data_inicio": "2026-10-17 09:00:00",
-      "data_fim": "2026-10-17 09:00:00",
-      "descricao": "Dionne Warwick apresenta no Vivo Rio a turnê internacional Over and Out: A Farewell Tour, que marca sua despedida dos palcos após mais de seis décadas de carreira. Vencedora de seis prêmios Grammy, a artista norte-americana revisita sucessos como “That’s What Friends Are For”, “I Say a Little Prayer”, “Heartbreaker” e “I’ll Never Love This Way Again”.",
-      "categoria": "outros",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/dionne-warwick-over-and-out-a-farewell-tour-2026/",
-      "site_oficial": "https://www.ticket360.com.br/evento/33395/ingressos-para-dionne-warwick-over-and-out-a-farewell-tour?_gl=1*1dugtlk*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwoOjVBhArEiwAUwDak23ngjngd9lfQXcyv3JEDOWYbimh3FoAyfWQeFSCewRj4fXt_PZlWhoC-CIQAvD_BwE&gbraid=0AAAAAD1IkYexzQwE",
-      "local": "Vivo Rio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496714,
-      "titulo": "3º Festival Favela Sustentável",
-      "slug": "3o-festival-favela-sustentavel",
-      "data_inicio": "2026-10-17 09:00:00",
-      "data_fim": "2026-10-17 09:00:00",
-      "descricao": "O Festival Favela Sustentável reúne iniciativas comunitárias, cultura e soluções socioambientais na Fundição Progresso. Gratuito e aberto ao público, o encontro oferece oficinas, apresentações, debates e feira de economia solidária, aproximando coletivos de favelas e periferias, pesquisadores e visitantes interessados em sustentabilidade e transformação dos territórios.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/3o-festival-favela-sustentavel/",
-      "site_oficial": "https://www.favelasustentavel.org/festival-favela-sustentavel",
-      "local": "Fundição Progresso",
-      "contato": {
-        "emails": [
-          "rede@favelasustentavel.org"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "favelasustentavel"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de finanças de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495726,
-      "titulo": "Corrida Santos Dumont 2026",
-      "slug": "corrida-santos-dumont-2026",
-      "data_inicio": "2026-10-18 09:00:00",
-      "data_fim": "2026-10-18 09:00:00",
-      "descricao": "🚀 Vem aí a Corrida Santos Dumont – 2026! Prepare-se para um evento que une esporte, saúde e homenagem a um dos maiores ícones da nossa história! 📅 Data: 18 de outubro de 2026 📍 Local: Musal – Campo dos Afonsos ⏰ Horários de Largada: 🏃‍♂️ Corrida 5km – 7h30 🚶 Caminhada 3km – 8:00 💡 Destaque: Estacionamento gratuito e seguro para todos os participantes! “Sujeito a Lotação” 🕖 Importante: Chegue com pelo menos 1h30min hora de antecedência para garantir um aquecimento tranquilo e evitar imprevistos. Venha celebrar o legado de Santos Dumont com saúde e movimento! Inscreva-se e participe dessa experiência única!",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-santos-dumont-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-santos-dumont-2026-87320",
-      "local": "Museu Aeroespacial - MUSAL",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495947,
-      "titulo": "Bota Pra Correr – Rio de Janeiro – 2026",
-      "slug": "bota-pra-correr-rio-de-janeiro-2026",
-      "data_inicio": "2026-10-18 09:00:00",
-      "data_fim": "2026-10-18 09:00:00",
-      "descricao": "Bota Pra Correr é uma iniciativa desenvolvida para promover a saúde e combater a inércia de forma prática e acessível. Nossa missão é colocar mais pessoas na rua através do esporte compartilhado. Ao trazer alguém para o asfalto, você expande uma rede de bem-estar e qualidade de vida. Afinal, nós acreditamos que correr junto é o melhor remédio. 18 de Outubro de 2026 no Aterro do Flamengo.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/bota-pra-correr-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.runningland.com.br/bota-pra-correr-rio-de-janeiro-2026",
-      "local": "Aterro do Flamengo",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-27",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496442,
-      "titulo": "Todo Mês É Outubro Rosa | 2026",
-      "slug": "todo-mes-e-outubro-rosa-2026",
-      "data_inicio": "2026-10-18 09:00:00",
-      "data_fim": "2026-10-18 09:00:00",
-      "descricao": "Um nome novo. O mesmo propósito. O evento que você conheceu como Pedal pela Cura agora é Todo Mês é Outubro Rosa A mudança de nome traduz melhor o que esse movimento sempre representou: uma iniciativa que reúne pedal, corrida e caminhada para mobilizar pessoas em torno do combate ao câncer de mama. No dia 18 de outubro de 2026, estaremos novamente juntos no Rio de Janeiro, com percursos em direção à Vista Chinesa, transformando cada passo e cada pedalada em apoio ao Instituto Protea.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/todo-mes-e-outubro-rosa-2026/",
-      "site_oficial": "https://www.sympla.com.br/evento/todo-mes-e-outubro-rosa-2026/3539917",
-      "local": "OUTROS",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496642,
-      "titulo": "Corrida dos Professores 2026",
-      "slug": "corrida-dos-professores-2026",
-      "data_inicio": "2026-10-18 09:00:00",
-      "data_fim": "2026-10-18 09:00:00",
-      "descricao": "Promovida pela APPAI em homenagem ao Mês dos Professores, a Corrida dos Professores reúne educadores, familiares e beneficiários na Praça da Apoteose. A edição de 2026 contará com corrida de 5 km, caminhada de 3 km e uma modalidade virtual, além de celebrar os 40 anos da associação.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-dos-professores-2026/",
-      "site_oficial": "https://www.appai.org.br/corrida-dos-professores-2026-quem-educa-transforma-quem-corre-inspira/",
-      "local": "Sambódromo Marquês de Sapucaí",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496643,
-      "titulo": "VII Corrida e Caminhada de Prevenção ao Câncer de Mama 2026",
-      "slug": "vii-corrida-e-caminhada-de-prevencao-ao-cancer-de-mama-2026",
-      "data_inicio": "2026-10-18 09:00:00",
-      "data_fim": "2026-10-18 09:00:00",
-      "descricao": "Neste Outubro Rosa, a Sociedade Brasileira de Mastologia – Regional Rio de Janeiro promoverá a 7ª Edição da Corrida e Caminhada de Prevenção ao Câncer de Mama. O objetivo é conscientizar a população sobre esse tema importante, incentivando a prática de exercícios físicos e hábitos saudáveis, que ajudam a reduzir os riscos de desenvolver não só o câncer de mama, mas também outras doenças. O evento esportivo, denominado “VII CORRIDA E CAMINHADA DE PREVENÇÃO AO CÂNCER DE MAMA”, acontecerá no dia 18 de outubro de 2026, domingo, no Parque das Figueiras – Lagoa Rodrigo de Freitas. Haverá uma corrida/caminhada de 4 km (não competitiva) e uma corrida de 7,5 km.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/vii-corrida-e-caminhada-de-prevencao-ao-cancer-de-mama-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/VII+CORRIDA+E+CAMINHADA+DE+PREVEN%C3%87%C3%83O+AO+C%C3%82NCER+DE+MAMA-87705",
-      "local": "Parque das Figueiras - Lagoa",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496641,
-      "titulo": "Corrida e Caminhada Contra a Fome 2026 – Etapa Rio de Janeiro",
-      "slug": "corrida-e-caminhada-contra-a-fome-2026-etapa-rio-de-janeiro",
-      "data_inicio": "2026-10-18 09:00:00",
-      "data_fim": "2026-10-18 09:00:00",
-      "descricao": "A prova mais solidária do Brasil está de volta! No dia 18/10/2026, vamos ocupar as ruas de Copacabana, fazendo o bem para o corpo e também para a alma ao ajudar quem mais precisa. Correndo ou caminhando, cada passo vai ajudar a encher muitos pratos com comida de qualidade. Na CORRIDA E CAMINHADA CONTRA A FOME, toda inscrição fortalece os projetos da ONG Ação da Cidadania, que há mais de 30 anos combate a fome e promove a segurança alimentar em todo o Brasil. Ao participar, você passa a fazer parte dessa mobilização. A edição deste ano marca a abertura do Natal Sem Fome, a maior campanha solidária de arrecadação de alimentos da América Latina. Nesta Corrida e Caminhada Contra a Fome, ilumine o Natal de quem precisa! Distâncias: 🥇 10 km (corrida) 🥈 5 km (corrida) 🚶 1 km (caminhada)",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-contra-a-fome-2026-etapa-rio-de-janeiro/",
-      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+CONTRA+A+FOME+2026+-+ETAPA+RIO+DE+JANEIRO-87925",
-      "local": "Praia de Copacabana",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496644,
-      "titulo": "Rio Maravilha Etapa Primavera 2026",
-      "slug": "rio-maravilha-etapa-primavera-2026",
-      "data_inicio": "2026-10-18 09:00:00",
-      "data_fim": "2026-10-18 09:00:00",
-      "descricao": "A Etapa Primavera encerra o ciclo principal do Circuito Rio Maravilha 2026 com uma corrida de 5 km e caminhada de 3 km pela região da Praça Mauá. A prova reúne corredores, caminhantes e grupos esportivos em um percurso próximo a atrativos como o Museu do Amanhã e a Orla Conde.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/rio-maravilha-etapa-primavera-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/RIO+MARAVILHA+ETAPA+PRIMAVERA+2026-87966",
-      "local": "Praça Mauá",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 496441,
       "titulo": "2o Simpósio Brasileiro sobre Espécies Exóticas Invasoras",
@@ -665,49 +42,6 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496712,
-      "titulo": "XII SINTAE — Seminário de Integração dos Técnicos Administrativos em Educação da UFRJ",
-      "slug": "xii-sintae-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj",
-      "data_inicio": "2026-10-19 09:00:00",
-      "data_fim": "2026-10-23 09:00:00",
-      "descricao": "O SINTAE promove o intercâmbio de conhecimentos e experiências entre profissionais técnico-administrativos de instituições públicas de ensino superior. Com palestras e apresentações em grupos de trabalho, o seminário discute práticas profissionais e produção técnico-científica nas universidades, oferecendo participação presencial e remota conforme a modalidade de cada atividade.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xii-sintae-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj/",
-      "site_oficial": "https://eventos.ufrj.br/evento/sintae-2026-xii-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj/",
-      "local": "Parque Tecnológico da UFRJ",
-      "contato": {
-        "emails": [
-          "sintae@casadaciencia.ufrj.br"
-        ],
-        "telefones": [
-          "+55 (21) 3938-9600"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "eventos"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento longo, 5 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "SINTAE",
-          "UFRJ"
-        ],
-        "angulo_comercial": "Evento de ciência de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-05",
       "novo": false,
       "no_feed": false,
       "local_coletado": true
@@ -775,39 +109,44 @@
       "local_coletado": true
     },
     {
-      "id": 496440,
-      "titulo": "Seminário Nacional de Telecomunicações 2026",
-      "slug": "seminario-nacional-de-telecomunicacoes-2026",
-      "data_inicio": "2026-10-20 09:00:00",
-      "data_fim": "2026-10-22 09:00:00",
-      "descricao": "O XXII Seminário Nacional de Telecomunicações reunirá executivos, especialistas, autoridades, pesquisadores e representantes de empresas para três dias de debates sobre o futuro da conectividade e das infraestruturas críticas no Brasil. A programação abordará 5G e 6G, inteligência artificial, integração com órgãos reguladores, energias renováveis e novas tecnologias, além de apresentações empresariais e premiações promovidas pela APTEL. O público-alvo inclui profissionais de telecomunicações e tecnologia da informação, utilities, empresas de energia, petróleo e gás, defesa, órgãos governamentais, universidades, startups, fabricantes e integradores de tecnologia.",
+      "id": 496712,
+      "titulo": "XII SINTAE — Seminário de Integração dos Técnicos Administrativos em Educação da UFRJ",
+      "slug": "xii-sintae-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj",
+      "data_inicio": "2026-10-19 09:00:00",
+      "data_fim": "2026-10-23 09:00:00",
+      "descricao": "O SINTAE promove o intercâmbio de conhecimentos e experiências entre profissionais técnico-administrativos de instituições públicas de ensino superior. Com palestras e apresentações em grupos de trabalho, o seminário discute práticas profissionais e produção técnico-científica nas universidades, oferecendo participação presencial e remota conforme a modalidade de cada atividade.",
       "categoria": "corporativos",
       "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/seminario-nacional-de-telecomunicacoes-2026/",
-      "site_oficial": "https://www.sympla.com.br/evento/snt-xxii-2026-20-10-a-22-10-rio-de-janeiro-rj/3396212",
-      "local": "OUTROS",
+      "url_visitrio": "https://visitrio.com.br/evento/xii-sintae-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj/",
+      "site_oficial": "https://eventos.ufrj.br/evento/sintae-2026-xii-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj/",
+      "local": "Parque Tecnológico da UFRJ",
       "contato": {
         "emails": [
-          "contato@aptel.com.br"
+          "sintae@casadaciencia.ufrj.br"
         ],
         "telefones": [
-          "(11) 97489-0494"
+          "+55 (21) 3938-9600"
         ],
         "whatsapp": [],
-        "produtoras_inferidas": [],
+        "produtoras_inferidas": [
+          "eventos"
+        ],
         "status": "coletado"
       },
       "inteligencia": {
-        "segmento": "Energia / Óleo e Gás",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 3 dias.",
-        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento longo, 5 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "SINTAE",
+          "UFRJ"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
         "_fonte": "heuristica"
       },
-      "primeiro_visto": "2026-09-14",
+      "primeiro_visto": "2026-10-05",
       "novo": false,
       "no_feed": false,
       "local_coletado": true
@@ -841,6 +180,44 @@
         "empresas_citadas": [],
         "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
         "relevancia_b2b": 30,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496440,
+      "titulo": "Seminário Nacional de Telecomunicações 2026",
+      "slug": "seminario-nacional-de-telecomunicacoes-2026",
+      "data_inicio": "2026-10-20 09:00:00",
+      "data_fim": "2026-10-22 09:00:00",
+      "descricao": "O XXII Seminário Nacional de Telecomunicações reunirá executivos, especialistas, autoridades, pesquisadores e representantes de empresas para três dias de debates sobre o futuro da conectividade e das infraestruturas críticas no Brasil. A programação abordará 5G e 6G, inteligência artificial, integração com órgãos reguladores, energias renováveis e novas tecnologias, além de apresentações empresariais e premiações promovidas pela APTEL. O público-alvo inclui profissionais de telecomunicações e tecnologia da informação, utilities, empresas de energia, petróleo e gás, defesa, órgãos governamentais, universidades, startups, fabricantes e integradores de tecnologia.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/seminario-nacional-de-telecomunicacoes-2026/",
+      "site_oficial": "https://www.sympla.com.br/evento/snt-xxii-2026-20-10-a-22-10-rio-de-janeiro-rj/3396212",
+      "local": "OUTROS",
+      "contato": {
+        "emails": [
+          "contato@aptel.com.br"
+        ],
+        "telefones": [
+          "(11) 97489-0494"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Energia / Óleo e Gás",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 3 dias.",
+        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-14",
@@ -1101,15 +478,15 @@
       "local_coletado": true
     },
     {
-      "id": 496111,
+      "id": 496112,
       "titulo": "Festival Futuros Possíveis 2026",
-      "slug": "festival-futuros-possiveis-2026",
+      "slug": "festival-futuros-possiveis-2026-2",
       "data_inicio": "2026-10-22 09:00:00",
       "data_fim": "2026-10-23 09:00:00",
       "descricao": "Festival de tendências, inovação e estudos de futuros que reúne palestras, painéis, oficinas, experiências, instalações artísticas, música e networking. A edição de 2026 discutirá como a inteligência artificial está transformando negócios, sociedade, trabalho, cultura e vida cotidiana. Dia 22 e 23 de outubro na Casa Firjan.",
       "categoria": "corporativos",
       "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026/",
+      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026-2/",
       "site_oficial": "https://casafirjan.com.br/",
       "local": "Casa Firjan",
       "contato": {
@@ -1142,15 +519,15 @@
       "local_coletado": true
     },
     {
-      "id": 496112,
+      "id": 496111,
       "titulo": "Festival Futuros Possíveis 2026",
-      "slug": "festival-futuros-possiveis-2026-2",
+      "slug": "festival-futuros-possiveis-2026",
       "data_inicio": "2026-10-22 09:00:00",
       "data_fim": "2026-10-23 09:00:00",
       "descricao": "Festival de tendências, inovação e estudos de futuros que reúne palestras, painéis, oficinas, experiências, instalações artísticas, música e networking. A edição de 2026 discutirá como a inteligência artificial está transformando negócios, sociedade, trabalho, cultura e vida cotidiana. Dia 22 e 23 de outubro na Casa Firjan.",
       "categoria": "corporativos",
       "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026-2/",
+      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026/",
       "site_oficial": "https://casafirjan.com.br/",
       "local": "Casa Firjan",
       "contato": {
@@ -1743,6 +1120,56 @@
       "local_coletado": true
     },
     {
+      "id": 496798,
+      "titulo": "Corrida Noturna Mitos – Gato Preto 2026",
+      "slug": "corrida-noturna-mitos-gato-preto-2026",
+      "data_inicio": "2026-10-31 09:00:00",
+      "data_fim": "2026-10-31 09:00:00",
+      "descricao": "📅 Data: 31/10/2026 📍 Local: Parque Madureira – RJ ⏰ Largada: 18h00 🏃 Modalidades: Corrida 4 km e Caminhada 4 km ❤️ Evento beneficente em apoio ao Projeto Coração Que Ajuda e ao Projeto Café na Tenda, com arrecadação de alimentos e doações para famílias e instituições necessitadas. 📞 Informações/contato: (21) 99076-6733 – Philípe Pinheiro",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-noturna-mitos-gato-preto-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-noturna-mitos-gato-preto-87522",
+      "local": "Parque de Madureira",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496799,
+      "titulo": "Jão – Turnê Memórias Póstumas",
+      "slug": "jao-turne-memorias-postumas",
+      "data_inicio": "2026-10-31 09:00:00",
+      "data_fim": "2026-10-31 09:00:00",
+      "descricao": "Jão apresenta no Rio de Janeiro a Turnê Memórias Póstumas, espetáculo baseado no álbum homônimo lançado pelo cantor em 2026. A apresentação marca uma nova fase da carreira do artista e combina repertório do novo trabalho com canções consagradas de sua trajetória. Produzida para grandes arenas, a turnê conta com proposta visual, cenográfica e narrativa inspirada na estética lírica e nostálgica do álbum. A etapa carioca acontece na Farmasi Arena e integra uma circulação por cinco capitais brasileiras: Rio de Janeiro, Belo Horizonte, Recife, Brasília e São Paulo.",
+      "categoria": "outros",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/jao-turne-memorias-postumas/",
+      "site_oficial": "https://www.eventim.com.br/artist/jao/jao-turne-memorias-postumas-4252486/",
+      "local": "Farmasi Arena",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 495954,
       "titulo": "Corrida Das Poderosas 2026 – 3ª Etapa",
       "slug": "corrida-das-poderosas-2026-3a-etapa-2",
@@ -1766,6 +1193,95 @@
       "novo": false,
       "no_feed": false,
       "local_coletado": true
+    },
+    {
+      "id": 496795,
+      "titulo": "Broadway Nights O Musical In Concert 2026",
+      "slug": "broadway-nights-o-musical-in-concert-2026",
+      "data_inicio": "2026-11-01 09:00:00",
+      "data_fim": "2026-11-01 09:00:00",
+      "descricao": "Broadway Nights – O Musical In Concert é um espetáculo musical que apresenta canções consagradas de grandes produções da Broadway e do cinema. A montagem reúne artistas e números inteiramente cantados ao vivo, acompanhados por coreografias, trocas de figurinos, cenografia e projeções que recriam a atmosfera dos tradicionais musicais internacionais. O repertório inclui referências a obras como Grease, O Fantasma da Ópera e New York, New York. A produção tem direção-geral de Bruno Rizzo e direção executiva de Daniela Schiarreta",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/broadway-nights-o-musical-in-concert-2026/",
+      "site_oficial": "https://www.ticket360.com.br/evento/33467/ingressos-para-broadway-2026",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496796,
+      "titulo": "Pink Floyd Experience In Concert",
+      "slug": "pink-floyd-experience-in-concert",
+      "data_inicio": "2026-11-01 09:00:00",
+      "data_fim": "2026-11-01 09:00:00",
+      "descricao": "O Pink Floyd Experience In Concert é um espetáculo musical e visual dedicado à trajetória e ao repertório do Pink Floyd. A produção reúne banda, cantores e orquestra em uma apresentação inteiramente executada ao vivo, acompanhada por projeções, efeitos visuais, iluminação sincronizada, cenografia temática e recursos de projeção mapeada em 3D. O repertório contempla clássicos associados às diferentes fases da banda e às carreiras de David Gilmour e Roger Waters, incluindo músicas como “Mother”, “Wish You Were Here”, “Time” e “Another Brick in the Wall”. O espetáculo busca recriar a atmosfera conceitual e audiovisual que marcou a obra do Pink Floyd, combinando performance musical, tecnologia e elementos sinfônicos.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/pink-floyd-experience-in-concert/",
+      "site_oficial": "https://www.ticket360.com.br/evento/32796/ingressos-para-pink-floyd-experience-in-concert",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [
+          "contato@ticket360.com.br"
+        ],
+        "telefones": [
+          "+55-11-2797-0777"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "ticket360"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 30,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496797,
+      "titulo": "Aventura Congelante – O Legado in Concert 2026",
+      "slug": "aventura-congelante-o-legado-in-concert-2026",
+      "data_inicio": "2026-11-01 09:00:00",
+      "data_fim": "2026-11-01 09:00:00",
+      "descricao": "“Aventura Congelante – O Legado In Concert” é um espetáculo musical infantil inspirado nas aventuras das irmãs Elsa e Anna. Com dois contadores de histórias, elenco de atores, cantores e bailarinos, a montagem apresenta em aproximadamente 70 minutos uma narrativa baseada nas histórias de Frozen e Frozen II. O espetáculo acompanha os personagens desde a infância das irmãs, passando pelo reino de Arendelle e pela Floresta Encantada. As músicas são interpretadas ao vivo pelo elenco.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/aventura-congelante-o-legado-in-concert-2026/",
+      "site_oficial": "https://www.ticket360.com.br/evento/33459/ingressos-para-aventura-congelante-2026",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false
     },
     {
       "id": 495271,
@@ -1880,7 +1396,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2075,7 +1591,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2274,6 +1790,54 @@
       "local_coletado": true
     },
     {
+      "id": 496823,
+      "titulo": "Corrida e Caminhada Rio Night Run 2026",
+      "slug": "corrida-e-caminhada-rio-night-run-2026",
+      "data_inicio": "2026-11-07 09:00:00",
+      "data_fim": "2026-11-07 09:00:00",
+      "descricao": "A Corrida e Caminhada Rio Night Run 2026 é um evento esportivo noturno realizado na Quinta da Boa Vista, em São Cristóvão. Com percurso aproximado de 4 km, a programação oferece corrida competitiva com cronometragem e caminhada participativa, combinando atividade física, música, iluminação em LED e entretenimento. O evento contará com aquecimento coletivo, DJ, Dance Mix, premiação esportiva e medalha para todos os participantes que concluírem o percurso.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-rio-night-run-2026/",
+      "site_oficial": "https://esportecorrida.com.br/v3/evento.php?evt=2781&utm_source=corrida360&utm_medium=site",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false
+    },
+    {
+      "id": 496856,
+      "titulo": "World Cup Jiu-Jitsu 2026 — CBJJO",
+      "slug": "world-cup-jiu-jitsu-2026-cbjjo",
+      "data_inicio": "2026-11-07 09:00:00",
+      "data_fim": "2026-11-08 09:00:00",
+      "descricao": "O World Cup Jiu-Jitsu 2026 é uma competição nacional promovida pela Confederação Brasileira de Jiu-Jitsu Olímpico — CBJJO. Realizado durante dois dias no Centro Esportivo Miécimo da Silva, em Campo Grande, o evento reunirá atletas de diferentes idades, faixas e equipes nas modalidades GI, No-Gi, Festival Infantil e Super Absoluto. A programação contempla desde categorias infantis, a partir de quatro anos, até adultos e atletas das classes Master, incluindo premiações individuais, por equipes e em dinheiro.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/world-cup-jiu-jitsu-2026-cbjjo/",
+      "site_oficial": "https://www.instagram.com/p/Deb_wVEEbrH/",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false
+    },
+    {
       "id": 495269,
       "titulo": "Smurfs Run Rio de Janeiro 2026",
       "slug": "smurfs-run-rio-de-janeiro-2026",
@@ -2369,7 +1933,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2412,9 +1976,33 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
+    },
+    {
+      "id": 496822,
+      "titulo": "Corrida Flashow Resenha 2026",
+      "slug": "corrida-flashow-resenha-2026",
+      "data_inicio": "2026-11-08 09:00:00",
+      "data_fim": "2026-11-08 09:00:00",
+      "descricao": "A Corrida Flashow Resenha é um evento esportivo e beneficente realizado no Parque Madureira, com percursos de 4 km para corrida e caminhada. A prova foi criada com uma proposta recreativa e familiar, reunindo participantes individuais, famílias, amigos e equipes em uma manhã de esporte, diversão e solidariedade. O evento apoia o Projeto Coração Que Ajuda e o Projeto Café na Tenda por meio da arrecadação obrigatória de alimentos e da coleta adicional de roupas, produtos de higiene e itens de limpeza. A programação também inclui premiações para os primeiros colocados, maiores equipes, maior família, maior doador e melhor fantasia.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-flashow-resenha-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida+flashow+resenha-86206",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false
     },
     {
       "id": 496526,
@@ -2480,7 +2068,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2714,13 +2302,13 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
     {
       "id": 495267,
-      "titulo": "fswk Rio 2026",
+      "titulo": "FISWeek Rio 2026 (FSWK)",
       "slug": "fisweek-rio-2026",
       "data_inicio": "2026-11-11 09:00:00",
       "data_fim": "2026-11-13 09:00:00",
@@ -2748,7 +2336,9 @@
         "porte_estimado": "grande",
         "porte_justificativa": "Feira/convenção de grande formato.",
         "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [],
+        "empresas_citadas": [
+          "FSWK"
+        ],
         "angulo_comercial": "Evento de tecnologia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
         "relevancia_b2b": 70,
         "_fonte": "heuristica"
@@ -2936,31 +2526,6 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-12",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495266,
-      "titulo": "Santander Night Run – Rio de Janeiro – Etapa 2 – 2026",
-      "slug": "santander-night-run-rio-de-janeiro-etapa-2-2026",
-      "data_inicio": "2026-11-14 09:00:00",
-      "data_fim": "2026-11-14 09:00:00",
-      "descricao": "Mais do que uma corrida, a Santander Night Run é uma experiência. Quando a noite cai, a cidade se ilumina e vira palco para quem acredita que movimento também é celebração. Música, luz, suor, flow e liberdade — tudo se encontra na pista. Coloque seu tênis, vista sua melhor energia e venha correr com brilho nos olhos. A pista é sua. Dia 14/11.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/santander-night-run-rio-de-janeiro-etapa-2-2026/",
-      "site_oficial": "https://www.runningland.com.br/night-run-rio-de-janeiro-etapa-2-2026",
-      "local": null,
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
       "novo": false,
       "no_feed": false,
       "local_coletado": true
@@ -2998,6 +2563,30 @@
       "novo": false,
       "no_feed": false,
       "local_coletado": true
+    },
+    {
+      "id": 496794,
+      "titulo": "Corrida do Futebol Light – Edição Pelé",
+      "slug": "corrida-do-futebol-light-edicao-pele",
+      "data_inicio": "2026-11-14 09:00:00",
+      "data_fim": "2026-11-14 09:00:00",
+      "descricao": "Em 2026, o Maracanã acende as luzes para a Corrida do Futebol Light – Edição Pelé, uma prova noturna que em sua primeira edição no estádio onde o Rei marcou seu milésimo gol e onde o esporte brasileiro escreveu suas maiores histórias, convida corredores de todas as idades a viver uma experiência única. ⚽👑 Realizada pela Effect Sport, com patrocínio master da Light e desenvolvida em parceria com a Pelé Brand, responsável por cuidar e preservar o legado do Rei Pelé, a prova levará quem corre para dentro de um dos maiores palcos do futebol mundial, em percursos de 8K, 4K, 4K + 4K (revezamento) e Kids. O FUTEBOL SEMPRE CORREU NAS SUAS VEIAS. AGORA É A SUA VEZ DE CORRER NELE. 📍 MARACANÃ — RIO DE JANEIRO 📅 14 DE NOVEMBRO",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-do-futebol-light-edicao-pele/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-do-futebol-light-edicao-pele-88396",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false
     },
     {
       "id": 495035,
@@ -3045,7 +2634,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3070,7 +2659,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3196,7 +2785,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3373,6 +2962,31 @@
       "local_coletado": true
     },
     {
+      "id": 496793,
+      "titulo": "Ca7riel & Paco Amoroso – Turnê Mundial 2026",
+      "slug": "ca7riel-paco-amoroso-turne-mundial-2026",
+      "data_inicio": "2026-11-20 09:00:00",
+      "data_fim": "2026-11-20 09:00:00",
+      "descricao": "A dupla argentina CA7RIEL & Paco Amoroso apresenta no Rio de Janeiro a Free Spirits World Tour, turnê de divulgação do álbum Free Spirits. O espetáculo mistura trap, hip-hop, rock, pop, jazz, música eletrônica, performance artística e elementos cênicos ligados ao conceito do fictício “Free Spirits Wellness Center”. O projeto sucede a bem-sucedida turnê Papota e apresenta uma nova fase da dupla, combinando humor, teatralidade, crítica à indústria musical e experimentação sonora. O álbum conta com participações de artistas como Sting, Jack Black, Fred Again.. e Anderson .Paak.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/ca7riel-paco-amoroso-turne-mundial-2026/",
+      "site_oficial": "https://www.ticketmaster.com.br/event/ca7riel-e-paco-amoroso-rj",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494313,
       "titulo": "Bioestethic 2026",
       "slug": "bioestethic-2026",
@@ -3432,6 +3046,31 @@
       "local_coletado": true
     },
     {
+      "id": 495266,
+      "titulo": "Santander Night Run – Rio de Janeiro – Etapa 2 – 2026",
+      "slug": "santander-night-run-rio-de-janeiro-etapa-2-2026",
+      "data_inicio": "2026-11-21 09:00:00",
+      "data_fim": "2026-11-21 09:00:00",
+      "descricao": "Mais do que uma corrida, a Santander Night Run é uma experiência. Quando a noite cai, a cidade se ilumina e vira palco para quem acredita que movimento também é celebração. Música, luz, suor, flow e liberdade — tudo se encontra na pista. Coloque seu tênis, vista sua melhor energia e venha correr com brilho nos olhos. A pista é sua. Dia 14/11.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/santander-night-run-rio-de-janeiro-etapa-2-2026/",
+      "site_oficial": "https://www.runningland.com.br/night-run-rio-de-janeiro-etapa-2-2026",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 495480,
       "titulo": "Mariah Carey’s Christmas Time 2026",
       "slug": "mariah-careys-christmas-time-2026",
@@ -3455,6 +3094,30 @@
       "novo": false,
       "no_feed": false,
       "local_coletado": true
+    },
+    {
+      "id": 496821,
+      "titulo": "Uphill Cristo Redentor 2026",
+      "slug": "uphill-cristo-redentor-2026",
+      "data_inicio": "2026-11-21 09:00:00",
+      "data_fim": "2026-11-21 09:00:00",
+      "descricao": "O Uphill Cristo Redentor 2026 é uma corrida noturna de subida realizada nas vias pavimentadas do Parque Nacional da Tijuca. Com percursos de 5 km, 10 km e 21 km, o evento oferece largadas no Mirante Dona Marta, na Ladeira do Ascurra e na Estrada Dona Castorina, com chegada conjunta nas Paineiras. A experiência combina desafio esportivo, paisagens emblemáticas do Rio, iluminação por lanternas de cabeça e descida pelo Trem do Corcovado, consolidando-se como uma das principais provas de turismo esportivo da cidade.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/uphill-cristo-redentor-2026/",
+      "site_oficial": "https://site.ticketsports.com.br/Inscricao/Categoria.aspx?__idEvento=87298&lang=pt-BR",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false
     },
     {
       "id": 496422,
@@ -3511,9 +3174,33 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
+    },
+    {
+      "id": 496855,
+      "titulo": "31ª Parada Do Orgulho LGBTI – Rio 2026",
+      "slug": "31a-parada-do-orgulho-lgbti-rio-2026",
+      "data_inicio": "2026-11-22 09:00:00",
+      "data_fim": "2026-11-22 09:00:00",
+      "descricao": "A 31ª Parada do Orgulho LGBTI+ Rio é uma manifestação cultural, social e de cidadania realizada na orla de Copacabana. Organizada pelo Grupo Arco-Íris de Cidadania LGBTI+, a edição de 2026 terá como tema “Reconhecemos justa toda forma de amor e de existência” e reunirá apresentações musicais, DJs, performances, trios elétricos, ações de conscientização, promoção de direitos humanos e serviços voltados à população LGBTI+. Além da parada principal, a programação contará com mais de 30 atividades culturais, sociais e institucionais realizadas ao longo do ano.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/31a-parada-do-orgulho-lgbti-rio-2026/",
+      "site_oficial": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/parada-lgbti-do-rj-traz-toda-forma-de-amor-como-tema-em-2026",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false
     },
     {
       "id": 494311,
@@ -3718,7 +3405,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3758,7 +3445,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3798,7 +3485,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3921,7 +3608,7 @@
     },
     {
       "id": 495714,
-      "titulo": "T&F Experience – Etapa RJ",
+      "titulo": "T&F Experience – Etapa RJ 2026",
       "slug": "tf-experience-etapa-rj",
       "data_inicio": "2026-11-29 09:00:00",
       "data_fim": "2026-11-29 09:00:00",
@@ -4150,6 +3837,31 @@
       "local_coletado": true
     },
     {
+      "id": 496854,
+      "titulo": "Corrida e Caminhada dos Engenheiros e Arquitetos 2026",
+      "slug": "corrida-e-caminhada-dos-engenheiros-e-arquitetos-2026",
+      "data_inicio": "2026-12-06 09:00:00",
+      "data_fim": "2026-12-06 09:00:00",
+      "descricao": "A 36ª Corrida e Caminhada dos Engenheiros e Arquitetos da SEAERJ é uma tradicional prova esportiva voltada a profissionais, estudantes, familiares e ao público em geral. Realizada na Quinta da Boa Vista, a edição de 2026 contará com corrida e caminhada de 5 km, kit do atleta, medalha de participação, sorteios e brindes. Promovido pela Sociedade dos Engenheiros e Arquitetos do Estado do Rio de Janeiro, o evento combina esporte, saúde, confraternização profissional e valorização do patrimônio da engenharia carioca. A edição terá como tema a Casa de Máquinas da antiga Elevatória da Glória, instalação histórica do sistema de saneamento do Rio.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-dos-engenheiros-e-arquitetos-2026/",
+      "site_oficial": "https://www.instagram.com/p/DdcYxJRDGEH/",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 496755,
       "titulo": "Exagerado Rio de Janeiro 2026",
       "slug": "exagerado-rio-de-janeiro-2026",
@@ -4179,7 +3891,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-12",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4257,6 +3969,105 @@
       "novo": false,
       "no_feed": false,
       "local_coletado": true
+    },
+    {
+      "id": 496792,
+      "titulo": "Natal do Bita com Orquestra Petrobras Sinfônica 2026",
+      "slug": "natal-do-bita-com-orquestra-petrobras-sinfonica-2026",
+      "data_inicio": "2026-12-20 09:00:00",
+      "data_fim": "2026-12-20 09:00:00",
+      "descricao": "“Natal do Bita” é um concerto especial para toda a família que une o universo infantil do Mundo Bita à sonoridade da Orquestra Petrobras Sinfônica. A apresentação reúne clássicos natalinos em versões sinfônicas, sucessos do grupo infantil e trechos de obras tradicionalmente associadas ao Natal. O repertório anunciado inclui “Então é Natal”, “Noite Feliz”, “O Velhinho”, “Boas Festas”, “Fazendinha”, “Meu Pequeno Coração” e “Fundo do Mar”. A apresentação também marca o lançamento do álbum Natal do Bita, gravado pelo Mundo Bita em parceria com a Orquestra Petrobras Sinfônica e incluindo músicas de O Quebra-Nozes, de Tchaikovsky.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/natal-do-bita-com-orquestra-petrobras-sinfonica-2026/",
+      "site_oficial": "https://www.ticket360.com.br/evento/34237/ingressos-para-natal-do-bita-com-orquestra-petrobras-sinfonica",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496819,
+      "titulo": "Corrida Yup Star Run 2026",
+      "slug": "corrida-yup-star-run-2026",
+      "data_inicio": "2026-12-20 09:00:00",
+      "data_fim": "2026-12-20 09:00:00",
+      "descricao": "A Corrida Yup Star Run é um evento esportivo realizado no Porto Maravilha, com largada e chegada em frente à roda-gigante Yup Star, ao lado do AquaRio. Em sua primeira edição, a programação oferece corrida competitiva de 5 km e caminhada participativa de 3 km, reunindo esporte, lazer e entretenimento em uma das principais áreas turísticas da cidade. O evento contará com cronometragem, aquecimento coletivo, Dance Mix, premiação esportiva e medalha para todos os participantes que concluírem o percurso.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-yup-star-run-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-yup-star-run-87975",
+      "local": "Yup Star - A Roda Gigante do Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496853,
+      "titulo": "Corrida e Caminhada Contos Clássicos – Peter Pan 2026",
+      "slug": "corrida-e-caminhada-contos-classicos-peter-pan-2026",
+      "data_inicio": "2026-12-20 09:00:00",
+      "data_fim": "2026-12-20 09:00:00",
+      "descricao": "A Corrida e Caminhada Contos Clássicos — Peter Pan é uma prova temática e beneficente realizada no Parque Madureira. Inspirado no conto original de Peter Pan, o evento reúne corrida e caminhada de 4 km em uma experiência voltada à promoção da atividade física, integração entre famílias, entretenimento e solidariedade. A iniciativa apoia o Projeto Coração Que Ajuda e o Projeto Café na Tenda, arrecadando alimentos e outros itens destinados a famílias e instituições em situação de vulnerabilidade. Todos os participantes que concluírem o percurso recebem medalha, com premiações para classificação geral, faixas etárias, maiores equipes, maior família e maior doador.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-contos-classicos-peter-pan-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+CONTOS+CL%C3%81SSICOS+-+PETER+PAN-87590",
+      "local": "Parque de Madureira",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496852,
+      "titulo": "Rio Maravilha Seasons 2026",
+      "slug": "rio-maravilha-seasons-2026",
+      "data_inicio": "2026-12-27 09:00:00",
+      "data_fim": "2026-12-27 09:00:00",
+      "descricao": "A Rio Maravilha Seasons 2026 é uma corrida e caminhada de rua promovida pela AR2 Eventos, realizada no Aterro do Flamengo, com largada e chegada na altura do Monumento aos Pracinhas. A programação oferece corrida de 5 km, corrida de 10 km e caminhada participativa de 5 km, reunindo atletas, grupos de corrida, assessorias esportivas, pessoas com deficiência e praticantes de diferentes faixas etárias. A prova encerra o calendário anual do circuito Rio Maravilha",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-maravilha-seasons-2026/",
+      "site_oficial": "https://esportecorrida.com.br/v3/evento.php?evt=2720",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
+      "no_feed": false
     },
     {
       "id": 495710,
@@ -4431,6 +4242,31 @@
       },
       "primeiro_visto": "2026-07-08",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496777,
+      "titulo": "MotoGP 2027 Season Launch",
+      "slug": "motogp-2027-season-launch",
+      "data_inicio": "2027-02-21 09:00:00",
+      "data_fim": "2027-02-21 09:00:00",
+      "descricao": "O MotoGP 2027 Season Launch será o lançamento mundial da temporada 2027 da principal categoria do motociclismo internacional. Realizado na Praia de Botafogo, o evento reunirá todas as equipes, pilotos, fabricantes e motos oficiais da MotoGP, além de imprensa internacional, emissoras, patrocinadores e fãs. A programação prevista inclui apresentação das equipes, entrevistas e aparições dos pilotos, exposição das novas motos de 850 cc, ativações interativas, produtos oficiais, atrações musicais brasileiras e internacionais e entretenimento ao vivo",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/motogp-2027-season-launch/",
+      "site_oficial": "https://www.motogp.com/en/news/2026/06/01/rio-de-janeiro-organisera-la-ceremonie-douverture-de-la-saison-2027/1083883?utm_source=chatgpt.com",
+      "local": "Enseada de Botafogo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -5802,6 +5638,629 @@
       "primeiro_visto": "2026-09-21",
       "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496649,
+      "titulo": "Marina Sena Coisas Naturais 2026",
+      "slug": "marina-sena-coisas-naturais-2026",
+      "data_inicio": "2026-10-12 09:00:00",
+      "data_fim": "2026-10-12 09:00:00",
+      "descricao": "Marina Sena apresenta o espetáculo “Coisas Naturais”, baseado em seu terceiro álbum. Com direção de Vito Soares, Marcelo Jarosz e Fernanda Fiuza, o show combina música, dança, câmeras no palco e elementos teatrais, apresentando todas as faixas do disco com novos arranjos e interpretações.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/marina-sena-coisas-naturais-2026/",
+      "site_oficial": "https://vivorio.com.br/eventos/marina-sena/",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496650,
+      "titulo": "Palavra Cantada — 30 Anos",
+      "slug": "palavra-cantada-30-anos",
+      "data_inicio": "2026-10-12 09:00:00",
+      "data_fim": "2026-10-12 09:00:00",
+      "descricao": "Em comemoração ao Dia das Crianças, Sandra Peres e Paulo Tatit apresentam o espetáculo Palavra Cantada 30 Anos, reunindo clássicos como “Sopa” e “Pé com Pé”, além de músicas do álbum Cenas Infantis. A programação também inclui uma recepção lúdica no foyer com os personagens Pauleco e Sandreca.",
+      "categoria": "outros",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/palavra-cantada-30-anos/",
+      "site_oficial": "https://www.ticket360.com.br/evento/32876/ingressos-para-palavra-cantada?_gl=1*1dugtlk*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwoOjVBhArEiwAUwDak23ngjngd9lfQXcyv3JEDOWYbimh3FoAyfWQeFSCewRj4fXt_PZlWhoC-CIQAvD_BwE&gbraid=0AAAAAD1IkYexzQwEwFhpDyEJMw6or1LT-",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494325,
+      "titulo": "Congresso Veterinário de León – CVDL in Rio 2026",
+      "slug": "cvdl-in-rio-2026",
+      "data_inicio": "2026-10-15 09:00:00",
+      "data_fim": "2026-10-16 09:00:00",
+      "descricao": "O Congresso Veterinário de León é hoje o maior congresso veterinário na área de pequenos animais no mundo. Para que se tenha ideia, sua edição de 2019, em setembro passado, recebeu 18.765 participantes. Realizado pelo CMG – Congress and Meetings Group – ocorre há 25 anos na cidade de León, no México, e já conta com edições anuais também no Equador, Colômbia, Panamá e El Salvador. A partir de 2021 começará a ser realizado na Argentina e em 2022, através de uma parceria com a In Rio, iniciará suas atividades no Brasil com data marcada para acontecer de 27 a 29 de outubro de 2022. O evento foca no tripé educação continuada, negócios e lazer e tem um conceito totalmente diferente, que lhe confere reconhecimento internacional. Em León, a feira ocupa uma área de 18.000 m2 que recebe mais de 200 empresas do setor veterinário, sem contar as empresas locais que comparecem e comercializam produtos e atividades da Cidade de Léon.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/cvdl-in-rio-2026/",
+      "site_oficial": "https://www.cvdlinrio.com/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494326,
+      "titulo": "34th World Congress of the ISHRS 2026 (Intl Society of Hair Restoration Surgery)",
+      "slug": "34th-world-congress-of-the-ishrs-2026-intl-society-of-hair-restoration-surgery",
+      "data_inicio": "2026-10-15 09:00:00",
+      "data_fim": "2026-10-17 09:00:00",
+      "descricao": "Junte-se a nós para três dias de debate, networking e investigação científica. Marque em seu calendário de 15 a 17 de outubro de 2026 na vibrante cidade litorânea no Brasil, o Rio de Janeiro. Além das Sessões Gerais, o programa incluirá um Programa para Assistentes Cirúrgicos, a Conferência de Morbidade e Mortalidade da ISHRS e ABHRS, pré-cursos opcionais com ingressos vendidos à parte na quarta-feira, um Workshop de Cirurgia ao Vivo limitado e expositores de todo o mundo.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/34th-world-congress-of-the-ishrs-2026-intl-society-of-hair-restoration-surgery/",
+      "site_oficial": "https://34thannual.org/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "info@cosmeticsurgery.org",
+          "info@ishrs.org"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "34thannual"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "ISHRS"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494323,
+      "titulo": "14º Festival Moto Brasil 2026",
+      "slug": "festival-moto-brasil-2026",
+      "data_inicio": "2026-10-16 09:00:00",
+      "data_fim": "2026-10-18 09:00:00",
+      "descricao": "O Festival Moto Brasil (FMB) é um dos principais eventos motociclísticos do país, reunindo paixão por duas rodas, negócios, lifestyle, exposição de motos, experiências interativas e cultura biker. O festival é considerado um ponto de encontro definitivo para motociclistas, marcas, montadoras, influenciadores e público apaixonado pelo universo das motos.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/festival-moto-brasil-2026/",
+      "site_oficial": "https://festivalmotobrasil.com.br/?",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495961,
+      "titulo": "XIX Congreso del Capítulo Hispano Latinoamericano de Trastornos de la Conducta Alimentaria del Academy for Eating Disorders (AED)",
+      "slug": "xix-congreso-del-capitulo-hispano-latinoamericano-de-trastornos-de-la-conducta-alimentaria-del-academy-for-eating-disorders-aed",
+      "data_inicio": "2026-10-16 09:00:00",
+      "data_fim": "2026-10-17 09:00:00",
+      "descricao": "O XIX Congreso del Capítulo Hispano Latinoamericano de Trastornos de la Conducta Alimentaria reunirá profissionais e pesquisadores da América Latina, Espanha, Portugal e outros países para discutir os avanços científicos e clínicos relacionados aos transtornos alimentares. O programa foi estruturado para abordar temas como a interação entre transtornos alimentares e distúrbios endócrinos e metabólicos, novas abordagens terapêuticas, pesquisa clínica, prevenção e tratamento multidisciplinar, incentivando o intercâmbio científico e a cooperação internacional.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xix-congreso-del-capitulo-hispano-latinoamericano-de-trastornos-de-la-conducta-alimentaria-del-academy-for-eating-disorders-aed/",
+      "site_oficial": "https://cchla2026.com.br/",
+      "local": "Windsor Florida Hotel",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "cchla2026"
+        ],
+        "status": "bloqueado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "AED"
+        ],
+        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495965,
+      "titulo": "12º DermaRio 2026 – Encontro de Dermatologia 2026",
+      "slug": "12o-dermario-2026-encontro-de-dermatologia-2026",
+      "data_inicio": "2026-10-16 09:00:00",
+      "data_fim": "2026-10-17 09:00:00",
+      "descricao": "A 12º edição, que acontecerá nos dias 16 e 17 de outubro, no Windsor Barra, reunirá renomados especialistas para discutir as últimas novidades, pesquisas recentes e práticas inovadoras em dermatologia. Serão dois dias de muitas trocas e atualização! Essa é uma oportunidade ímpar para aprimorar conhecimentos, trocar experiências e, é claro, fortalecer a nossa especialidade. Venha curtir esse evento e encontrar amigos queridos.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/12o-dermario-2026-encontro-de-dermatologia-2026/",
+      "site_oficial": "https://dermario.com.br/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "dermario"
+        ],
+        "status": "erro"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496648,
+      "titulo": "Rod Hanna Flashback 2026",
+      "slug": "rod-hanna-flashback-2026",
+      "data_inicio": "2026-10-16 09:00:00",
+      "data_fim": "2026-10-16 09:00:00",
+      "descricao": "A banda Rod Hanna apresenta no Vivo Rio um espetáculo dedicado aos grandes sucessos da disco music e do flashback. Liderado por Rodrigo Laguna e Nora Hanna, o show reúne releituras de artistas como ABBA, Bee Gees, A-ha, Madonna, Cher, Gloria Gaynor e Erasure, acompanhadas por iluminação cênica, projeções e uma produção visual imersiva.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/rod-hanna-flashback-2026/",
+      "site_oficial": "https://www.ticket360.com.br/evento/33672/ingressos-para-rod-hanna-flashback?_gl=1*1dugtlk*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwoOjVBhArEiwAUwDak23ngjngd9lfQXcyv3JEDOWYbimh3FoAyfWQeFSCewRj4fXt_PZlWhoC-CIQAvD_BwE&gbraid=0AAAAAD1IkYexzQwEwFhpDyEJMw6or1LT-",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494322,
+      "titulo": "Professional Fair 2026 by Beauty Fair",
+      "slug": "professional-fair-2026-by-beauty-fair",
+      "data_inicio": "2026-10-17 09:00:00",
+      "data_fim": "2026-10-20 09:00:00",
+      "descricao": "A Professional Fair Rio de Janeiro é um evento profissional voltado exclusivamente para quem atua no mercado de beleza, reunindo cabeleireiros, barbeiros, maquiadores, manicures, lash designers, empreendedores e outros profissionais do setor. Organizada pela Beauty Fair, a feira é um espaço estratégico para atualização, negócios e networking, conectando profissionais às principais marcas, lançamentos, tendências e oportunidades do mercado. Durante os dias de evento, os visitantes têm acesso a expositores renomados, contato direto com fabricantes e distribuidores, além de conteúdos técnicos, workshops e experiências práticas que contribuem para o crescimento profissional e fortalecimento dos negócios. A Professional Fair RJ se consolida como um dos principais encontros do setor no estado, promovendo troca de conhecimento, geração de oportunidades e valorização do profissional da beleza.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/professional-fair-2026-by-beauty-fair/",
+      "site_oficial": "https://rj.professionalfair.com.br/",
+      "local": "ExpoRio Cidade Nova",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [
+          "5511976413459"
+        ],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Beleza",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de estética e distribuidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de beleza de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494324,
+      "titulo": "Rio Coffee Nation 2026",
+      "slug": "rio-coffee-nation-2026",
+      "data_inicio": "2026-10-17 09:00:00",
+      "data_fim": "2026-10-18 09:00:00",
+      "descricao": "O Rio Coffee Nation é um evento imperdível para os amantes de café! Com uma programação diversificada, ele traz o que há de melhor no universo cafeeiro, incluindo palestras, workshops e exposições sobre a produção, tendências e inovações do setor. Ideal para profissionais e entusiastas, o evento oferece uma oportunidade única de conhecer mais sobre o mundo do café, fazer networking e explorar as últimas novidades da indústria. Marque na sua agenda e venha vivenciar essa experiência!",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-coffee-nation-2026/",
+      "site_oficial": "https://www.instagram.com/riocoffeenation/",
+      "local": "EXC Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Gastronomia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "chefs, restaurantes e food service",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de gastronomia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495727,
+      "titulo": "Corrida Granado Pink Rio de Janeiro 2026",
+      "slug": "corrida-granado-pink-rio-de-janeiro-2026",
+      "data_inicio": "2026-10-17 09:00:00",
+      "data_fim": "2026-10-17 09:00:00",
+      "descricao": "Sucesso em todo o Brasil, o Circuito de Corrida de Rua Granado Pink chega a mais uma cidade para proporcionar uma experiência única de saúde, bem-estar e diversão. Exclusiva para mulheres, a corrida promovida pela Granado, a botica mais antiga do país, conta com percursos de caminhada e corrida de 7,5 km. Venha celebrar esse momento especial em uma manhã inteiramente dedicada às mulheres. Além da corrida, o evento oferece diversas atrações na arena, como massagem, esmaltação de unhas, sorteio de brindes e outras experiências preparadas para tornar o dia ainda mais especial. Com mais de 150 anos de história, a Granado sempre buscou oferecer produtos e experiências inovadoras. A Corrida Granado Pink reforça a importância da prática de atividades físicas como caminho para o equilíbrio, a saúde e a qualidade de vida. Mais do que uma corrida, o evento proporciona uma experiência completa, desde a retirada do kit até as atividades realizadas na arena após a prova.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-granado-pink-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-granado-pink-rio-de-janeiro-2026-87385",
+      "local": "Parque das Figueiras - Lagoa",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496645,
+      "titulo": "Ana Carolina — Turnê “25 Anas”",
+      "slug": "ana-carolina-turne-25-anas",
+      "data_inicio": "2026-10-17 09:00:00",
+      "data_fim": "2026-10-17 09:00:00",
+      "descricao": "Ana Carolina celebra mais de 25 anos de carreira com a turnê “25 Anas”. Dividido em cinco atos, o espetáculo reúne sucessos como “Garganta”, “Quem de Nós Dois” e “É Isso Aí”, além de músicas do projeto autoral Ainda Já – Vol. 1, com elementos cênicos e projeções que revisitam diferentes fases da artista.",
+      "categoria": "outros",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/ana-carolina-turne-25-anas/",
+      "site_oficial": "https://www.ticketmaster.com.br/event/ana-carolina-qualistage",
+      "local": "Qualistage",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496646,
+      "titulo": "4ª Etapa do Circuito Carioca de Frescobol 2026",
+      "slug": "4a-etapa-do-circuito-carioca-de-frescobol-2026",
+      "data_inicio": "2026-10-17 09:00:00",
+      "data_fim": "2026-10-18 09:00:00",
+      "descricao": "A quarta etapa do Circuito Carioca de Frescobol reúne atletas de diferentes categorias na Praia do Flamengo. Organizada pela FEFERJ, a competição valoriza uma modalidade criada no Rio de Janeiro e reconhecida como parte do patrimônio cultural e esportivo do estado.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/4a-etapa-do-circuito-carioca-de-frescobol-2026/",
+      "site_oficial": "https://www.instagram.com/p/Dc3z89HDvbX/",
+      "local": "Praia do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496647,
+      "titulo": "Dionne Warwick Over And Out A Farewell Tour 2026",
+      "slug": "dionne-warwick-over-and-out-a-farewell-tour-2026",
+      "data_inicio": "2026-10-17 09:00:00",
+      "data_fim": "2026-10-17 09:00:00",
+      "descricao": "Dionne Warwick apresenta no Vivo Rio a turnê internacional Over and Out: A Farewell Tour, que marca sua despedida dos palcos após mais de seis décadas de carreira. Vencedora de seis prêmios Grammy, a artista norte-americana revisita sucessos como “That’s What Friends Are For”, “I Say a Little Prayer”, “Heartbreaker” e “I’ll Never Love This Way Again”.",
+      "categoria": "outros",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/dionne-warwick-over-and-out-a-farewell-tour-2026/",
+      "site_oficial": "https://www.ticket360.com.br/evento/33395/ingressos-para-dionne-warwick-over-and-out-a-farewell-tour?_gl=1*1dugtlk*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwoOjVBhArEiwAUwDak23ngjngd9lfQXcyv3JEDOWYbimh3FoAyfWQeFSCewRj4fXt_PZlWhoC-CIQAvD_BwE&gbraid=0AAAAAD1IkYexzQwE",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496714,
+      "titulo": "3º Festival Favela Sustentável",
+      "slug": "3o-festival-favela-sustentavel",
+      "data_inicio": "2026-10-17 09:00:00",
+      "data_fim": "2026-10-17 09:00:00",
+      "descricao": "O Festival Favela Sustentável reúne iniciativas comunitárias, cultura e soluções socioambientais na Fundição Progresso. Gratuito e aberto ao público, o encontro oferece oficinas, apresentações, debates e feira de economia solidária, aproximando coletivos de favelas e periferias, pesquisadores e visitantes interessados em sustentabilidade e transformação dos territórios.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/3o-festival-favela-sustentavel/",
+      "site_oficial": "https://www.favelasustentavel.org/festival-favela-sustentavel",
+      "local": "Fundição Progresso",
+      "contato": {
+        "emails": [
+          "rede@favelasustentavel.org"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "favelasustentavel"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de finanças de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495726,
+      "titulo": "Corrida Santos Dumont 2026",
+      "slug": "corrida-santos-dumont-2026",
+      "data_inicio": "2026-10-18 09:00:00",
+      "data_fim": "2026-10-18 09:00:00",
+      "descricao": "🚀 Vem aí a Corrida Santos Dumont – 2026! Prepare-se para um evento que une esporte, saúde e homenagem a um dos maiores ícones da nossa história! 📅 Data: 18 de outubro de 2026 📍 Local: Musal – Campo dos Afonsos ⏰ Horários de Largada: 🏃‍♂️ Corrida 5km – 7h30 🚶 Caminhada 3km – 8:00 💡 Destaque: Estacionamento gratuito e seguro para todos os participantes! “Sujeito a Lotação” 🕖 Importante: Chegue com pelo menos 1h30min hora de antecedência para garantir um aquecimento tranquilo e evitar imprevistos. Venha celebrar o legado de Santos Dumont com saúde e movimento! Inscreva-se e participe dessa experiência única!",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-santos-dumont-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-santos-dumont-2026-87320",
+      "local": "Museu Aeroespacial - MUSAL",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495947,
+      "titulo": "Bota Pra Correr – Rio de Janeiro – 2026",
+      "slug": "bota-pra-correr-rio-de-janeiro-2026",
+      "data_inicio": "2026-10-18 09:00:00",
+      "data_fim": "2026-10-18 09:00:00",
+      "descricao": "Bota Pra Correr é uma iniciativa desenvolvida para promover a saúde e combater a inércia de forma prática e acessível. Nossa missão é colocar mais pessoas na rua através do esporte compartilhado. Ao trazer alguém para o asfalto, você expande uma rede de bem-estar e qualidade de vida. Afinal, nós acreditamos que correr junto é o melhor remédio. 18 de Outubro de 2026 no Aterro do Flamengo.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/bota-pra-correr-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.runningland.com.br/bota-pra-correr-rio-de-janeiro-2026",
+      "local": "Aterro do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496442,
+      "titulo": "Todo Mês É Outubro Rosa | 2026",
+      "slug": "todo-mes-e-outubro-rosa-2026",
+      "data_inicio": "2026-10-18 09:00:00",
+      "data_fim": "2026-10-18 09:00:00",
+      "descricao": "Um nome novo. O mesmo propósito. O evento que você conheceu como Pedal pela Cura agora é Todo Mês é Outubro Rosa A mudança de nome traduz melhor o que esse movimento sempre representou: uma iniciativa que reúne pedal, corrida e caminhada para mobilizar pessoas em torno do combate ao câncer de mama. No dia 18 de outubro de 2026, estaremos novamente juntos no Rio de Janeiro, com percursos em direção à Vista Chinesa, transformando cada passo e cada pedalada em apoio ao Instituto Protea.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/todo-mes-e-outubro-rosa-2026/",
+      "site_oficial": "https://www.sympla.com.br/evento/todo-mes-e-outubro-rosa-2026/3539917",
+      "local": "OUTROS",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496642,
+      "titulo": "Corrida dos Professores 2026",
+      "slug": "corrida-dos-professores-2026",
+      "data_inicio": "2026-10-18 09:00:00",
+      "data_fim": "2026-10-18 09:00:00",
+      "descricao": "Promovida pela APPAI em homenagem ao Mês dos Professores, a Corrida dos Professores reúne educadores, familiares e beneficiários na Praça da Apoteose. A edição de 2026 contará com corrida de 5 km, caminhada de 3 km e uma modalidade virtual, além de celebrar os 40 anos da associação.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-dos-professores-2026/",
+      "site_oficial": "https://www.appai.org.br/corrida-dos-professores-2026-quem-educa-transforma-quem-corre-inspira/",
+      "local": "Sambódromo Marquês de Sapucaí",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496643,
+      "titulo": "VII Corrida e Caminhada de Prevenção ao Câncer de Mama 2026",
+      "slug": "vii-corrida-e-caminhada-de-prevencao-ao-cancer-de-mama-2026",
+      "data_inicio": "2026-10-18 09:00:00",
+      "data_fim": "2026-10-18 09:00:00",
+      "descricao": "Neste Outubro Rosa, a Sociedade Brasileira de Mastologia – Regional Rio de Janeiro promoverá a 7ª Edição da Corrida e Caminhada de Prevenção ao Câncer de Mama. O objetivo é conscientizar a população sobre esse tema importante, incentivando a prática de exercícios físicos e hábitos saudáveis, que ajudam a reduzir os riscos de desenvolver não só o câncer de mama, mas também outras doenças. O evento esportivo, denominado “VII CORRIDA E CAMINHADA DE PREVENÇÃO AO CÂNCER DE MAMA”, acontecerá no dia 18 de outubro de 2026, domingo, no Parque das Figueiras – Lagoa Rodrigo de Freitas. Haverá uma corrida/caminhada de 4 km (não competitiva) e uma corrida de 7,5 km.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/vii-corrida-e-caminhada-de-prevencao-ao-cancer-de-mama-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/VII+CORRIDA+E+CAMINHADA+DE+PREVEN%C3%87%C3%83O+AO+C%C3%82NCER+DE+MAMA-87705",
+      "local": "Parque das Figueiras - Lagoa",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496641,
+      "titulo": "Corrida e Caminhada Contra a Fome 2026 – Etapa Rio de Janeiro",
+      "slug": "corrida-e-caminhada-contra-a-fome-2026-etapa-rio-de-janeiro",
+      "data_inicio": "2026-10-18 09:00:00",
+      "data_fim": "2026-10-18 09:00:00",
+      "descricao": "A prova mais solidária do Brasil está de volta! No dia 18/10/2026, vamos ocupar as ruas de Copacabana, fazendo o bem para o corpo e também para a alma ao ajudar quem mais precisa. Correndo ou caminhando, cada passo vai ajudar a encher muitos pratos com comida de qualidade. Na CORRIDA E CAMINHADA CONTRA A FOME, toda inscrição fortalece os projetos da ONG Ação da Cidadania, que há mais de 30 anos combate a fome e promove a segurança alimentar em todo o Brasil. Ao participar, você passa a fazer parte dessa mobilização. A edição deste ano marca a abertura do Natal Sem Fome, a maior campanha solidária de arrecadação de alimentos da América Latina. Nesta Corrida e Caminhada Contra a Fome, ilumine o Natal de quem precisa! Distâncias: 🥇 10 km (corrida) 🥈 5 km (corrida) 🚶 1 km (caminhada)",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-contra-a-fome-2026-etapa-rio-de-janeiro/",
+      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+CONTRA+A+FOME+2026+-+ETAPA+RIO+DE+JANEIRO-87925",
+      "local": "Praia de Copacabana",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496644,
+      "titulo": "Rio Maravilha Etapa Primavera 2026",
+      "slug": "rio-maravilha-etapa-primavera-2026",
+      "data_inicio": "2026-10-18 09:00:00",
+      "data_fim": "2026-10-18 09:00:00",
+      "descricao": "A Etapa Primavera encerra o ciclo principal do Circuito Rio Maravilha 2026 com uma corrida de 5 km e caminhada de 3 km pela região da Praça Mauá. A prova reúne corredores, caminhantes e grupos esportivos em um percurso próximo a atrativos como o Museu do Amanhã e a Orla Conde.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-maravilha-etapa-primavera-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/RIO+MARAVILHA+ETAPA+PRIMAVERA+2026-87966",
+      "local": "Praça Mauá",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     },
     {
