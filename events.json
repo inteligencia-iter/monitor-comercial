@@ -1,753 +1,8 @@
 {
-  "gerado_em": "2026-10-19T13:48:26-03:00",
+  "gerado_em": "2026-10-26T13:06:45-03:00",
   "modo": "deterministico (custo zero)",
-  "total": 362,
+  "total": 374,
   "eventos": [
-    {
-      "id": 496441,
-      "titulo": "2o Simpósio Brasileiro sobre Espécies Exóticas Invasoras",
-      "slug": "2o-simposio-brasileiro-sobre-especies-exoticas-invasoras",
-      "data_inicio": "2026-10-19 09:00:00",
-      "data_fim": "2026-10-24 09:00:00",
-      "descricao": "O simpósio reunirá pesquisadores, estudantes, gestores públicos, empresas e organizações da sociedade civil para discutir os impactos e o controle de espécies exóticas invasoras no Brasil. A programação inclui palestras, mesas-redondas, sessões científicas, oficinas, minicursos, feira de extensão e atividades de campo, abordando prevenção, monitoramento, legislação, fiscalização, ciência cidadã e técnicas de manejo. O encontro também pretende estruturar uma rede nacional para integrar pesquisas, políticas públicas e ações de conservação. O 2o Simpósio Brasileiro sobre Espécies Exóticas Invasoras, a ser realizado na Universidade do Estado do Rio de Janeiro (Uerj), propõe ser como um espaço de transformação, conexão e construção de futuro. Mais do que um evento científico, o simpósio propõe uma mobilização nacional em defesa da biodiversidade, da inovação e da resiliência dos ecossistemas brasileiros. As espécies exóticas invasoras ultrapassam fronteiras silenciosamente, alterando paisagens, ameaçando espécies nativas, impactando economias e colocando em risco a saúde ambiental e humana. Enfrentar esse desafio exige ciência integrada, cooperação estratégica e uma nova visão de país.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/2o-simposio-brasileiro-sobre-especies-exoticas-invasoras/",
-      "site_oficial": "https://www.even3.com.br/2o-simposio-brasileiro-sobre-especies-exoticas-invasoras-717778/?utm_source=chatgpt.com",
-      "local": "Universidade Estadual do Rio de Janeiro - UERJ",
-      "contato": {
-        "emails": [
-          "florenciayannelli@gmail.com",
-          "ldrake@drakemes.com",
-          "macedo@edu.unirio.br",
-          "sbeei2026@gmail.com",
-          "sziller@institutohorus.org.br",
-          "tebo@utk.edu"
-        ],
-        "telefones": [
-          "(21) 99943-6179"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496713,
-      "titulo": "XXXI Semana IPPUR",
-      "slug": "xxxi-semana-ippur",
-      "data_inicio": "2026-10-19 09:00:00",
-      "data_fim": "2026-10-24 09:00:00",
-      "descricao": "A Semana IPPUR reúne pesquisadores, especialistas e movimentos sociais para discutir ativismos, planejamento urbano e gestão pública no Sul Global. A programação inclui conferências, mesas de debate e sessões temáticas, celebrando os 55 anos do programa de pós-graduação e promovendo reflexões sobre democracia e desenvolvimento das cidades e regiões.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xxxi-semana-ippur/",
-      "site_oficial": "https://ippur.ufrj.br/event/semana-ippur-2026/",
-      "local": "UFRJ - Praia Vermelha",
-      "contato": {
-        "emails": [
-          "admsede@ippur.com.br",
-          "admsede@ippur.ufrj.br",
-          "biblioteca@ippur.com.br",
-          "biblioteca@ippur.ufrj.br",
-          "direcao@ippur.com.br",
-          "direcao@ippur.ufrj.br",
-          "divulgacao@ippur.com.br",
-          "divulgacao@ippur.ufrj.br",
-          "ensino@gpdes.ufrj.br",
-          "financeiro@ippur.com.br",
-          "financeiro@ippur.ufrj.br",
-          "josemar@ippur.ufrj.br",
-          "latosensu@ippur.com.br",
-          "latosensu@ippur.ufrj.br",
-          "patrimonio@ippur.com.br",
-          "patrimonio@ippur.ufrj.br",
-          "pessoal@ippur.com.br",
-          "pessoal@ippur.ufrj.br",
-          "protocolo@ippur.com.br",
-          "requerimento@gpdes.ufrj.br",
-          "secretariacoordenacao@gpdes.ufrj.br",
-          "secretariaensino@ippur.com.br",
-          "secretariaensino@ippur.ufrj.br"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "ippur"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 6 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "IPPUR"
-        ],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496712,
-      "titulo": "XII SINTAE — Seminário de Integração dos Técnicos Administrativos em Educação da UFRJ",
-      "slug": "xii-sintae-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj",
-      "data_inicio": "2026-10-19 09:00:00",
-      "data_fim": "2026-10-23 09:00:00",
-      "descricao": "O SINTAE promove o intercâmbio de conhecimentos e experiências entre profissionais técnico-administrativos de instituições públicas de ensino superior. Com palestras e apresentações em grupos de trabalho, o seminário discute práticas profissionais e produção técnico-científica nas universidades, oferecendo participação presencial e remota conforme a modalidade de cada atividade.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xii-sintae-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj/",
-      "site_oficial": "https://eventos.ufrj.br/evento/sintae-2026-xii-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj/",
-      "local": "Parque Tecnológico da UFRJ",
-      "contato": {
-        "emails": [
-          "sintae@casadaciencia.ufrj.br"
-        ],
-        "telefones": [
-          "+55 (21) 3938-9600"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "eventos"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento longo, 5 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "SINTAE",
-          "UFRJ"
-        ],
-        "angulo_comercial": "Evento de ciência de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496439,
-      "titulo": "Monja Coen no Rio de Janeiro – Palestra “Coragem Para Ser Quem Você É”",
-      "slug": "monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voce-e",
-      "data_inicio": "2026-10-20 09:00:00",
-      "data_fim": "2026-10-20 09:00:00",
-      "descricao": "Palestra sobre autenticidade, autoconhecimento e coragem para assumir a própria identidade. Com base nos ensinamentos do Zen-Budismo, Monja Coen propõe reflexões sobre comparação, expectativas externas, medo de julgamentos e construção de uma vida mais consciente e coerente com os próprios valores. Dia 20 de outubro no Shopping da gávea.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voce-e/",
-      "site_oficial": "https://www.almatickets.com.br/events/monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voc-20102026-riodejaneiro",
-      "local": "Shopping da Gávea Rio de Janeiro",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "almatickets"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 30,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496440,
-      "titulo": "Seminário Nacional de Telecomunicações 2026",
-      "slug": "seminario-nacional-de-telecomunicacoes-2026",
-      "data_inicio": "2026-10-20 09:00:00",
-      "data_fim": "2026-10-22 09:00:00",
-      "descricao": "O XXII Seminário Nacional de Telecomunicações reunirá executivos, especialistas, autoridades, pesquisadores e representantes de empresas para três dias de debates sobre o futuro da conectividade e das infraestruturas críticas no Brasil. A programação abordará 5G e 6G, inteligência artificial, integração com órgãos reguladores, energias renováveis e novas tecnologias, além de apresentações empresariais e premiações promovidas pela APTEL. O público-alvo inclui profissionais de telecomunicações e tecnologia da informação, utilities, empresas de energia, petróleo e gás, defesa, órgãos governamentais, universidades, startups, fabricantes e integradores de tecnologia.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/seminario-nacional-de-telecomunicacoes-2026/",
-      "site_oficial": "https://www.sympla.com.br/evento/snt-xxii-2026-20-10-a-22-10-rio-de-janeiro-rj/3396212",
-      "local": "OUTROS",
-      "contato": {
-        "emails": [
-          "contato@aptel.com.br"
-        ],
-        "telefones": [
-          "(11) 97489-0494"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Energia / Óleo e Gás",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 3 dias.",
-        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496639,
-      "titulo": "ConBraPA 2026 – 4ª Conferência Brasileira de Planejamento Experimental e Análise de Dados",
-      "slug": "conbrapa-2026-4a-conferencia-brasileira-de-planejamento-experimental-e-analise-de-dados",
-      "data_inicio": "2026-10-20 09:00:00",
-      "data_fim": "2026-10-22 09:00:00",
-      "descricao": "ConBraPA 2026 consolida sua trajetória como um fórum científico plural, interdisciplinar e metodologicamente rigoroso, ampliando sua inserção internacional e assumindo como eixo estruturante a integração entre Inteligência Artificial, planejamento experimental e tomada de decisão baseada em evidências. A nossa 4ª Conferência ocorrerá entre os dias 20 e 22 de outubro de 2026. O evento será em formato híbrido, com programação online ao longo dos três dias e atividade presencial no dia 21 de outubro.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/conbrapa-2026-4a-conferencia-brasileira-de-planejamento-experimental-e-analise-de-dados/",
-      "site_oficial": "https://www.even3.com.br/conbrapa-2026?even3_orig=events_eventlist",
-      "local": "COPPE / EE / UFRJ",
-      "contato": {
-        "emails": [
-          "adricortes@cos.ufrj.br",
-          "brenno.castro@marinha.mil.br",
-          "caioalmeida@ima.ufrj.br",
-          "carolina.c.delfino@gmail.com",
-          "carolina.delfino@coppe.ufrj.br",
-          "caroline.oliveirasouza@ima.ufrj.br",
-          "cmicelifarias@cos.ufrj.br",
-          "drfabiola.sma@gmail.com",
-          "erica.ferreira@coppe.ufrj.br",
-          "erick.lorenzato@gmail.com",
-          "fernandamarques1077@gmail.com",
-          "franciscosilva@ic.ufrj.br",
-          "jaciarasantoos8@gmail.com",
-          "jandre@peb.ufrj.br",
-          "kellyraynara1023@gmail.com",
-          "lgcosta@mecanica.coppe.ufrj.br",
-          "lucas.franco.ifrjdc@gmail.com",
-          "luiz.baptista@coppe.ufrj.br",
-          "marcelobdarosa@gmail.com",
-          "marcocolosio@gmail.com",
-          "marcusoliveiraufrj@gmail.com",
-          "n.y.kashiwaqui@ima.ufrj.br",
-          "natmourajr@lps.ufrj.br",
-          "nicollefernandadiasbrum@ima.ufrj.br",
-          "otto.tavares@coppe.ufrj.br",
-          "patricia.lucas@ifnmg.edu.br",
-          "renan@peb.ufrj.br",
-          "sergio.thode@ifrj.edu.br",
-          "viviane.valladao@ima.ufrj.br"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494321,
-      "titulo": "Jornada Nacional de Imunizações (SBIm) 2026",
-      "slug": "jornada-nacional-de-imunizacoes-sbim-2026",
-      "data_inicio": "2026-10-21 09:00:00",
-      "data_fim": "2026-10-24 09:00:00",
-      "descricao": "A XXVIII Jornada Nacional de Imunizações, promovida pela Sociedade Brasileira de Imunizações (SBIm), um dos mais importantes eventos científicos do país na área de vacinas e imunização, já tem data para acontecer este ano de 2026. Com o tema “Imunização em movimento: inovação, ciência e comunicação”, o encontro será realizado de 21 a 24 de outubro, no Windsor Oceânico Hotel, na Barra da Tijuca, no Rio de Janeiro. O evento reunirá pesquisadores, profissionais de saúde, gestores, comunicadores científicos e especialistas nacionais e internacionais para debater os avanços, desafios e perspectivas da imunização no Brasil e no mundo. Reconhecida pela qualidade científica e pelo diálogo interdisciplinar, a Jornada da SBIm é um espaço privilegiado para atualização, troca de experiências e fortalecimento das ações em imunização. O Ceti-Saúde UFG destaca a relevância do evento para profissionais que atuam direta ou indiretamente na promoção da saúde, na vigilância epidemiológica e na comunicação científica. Anote na agenda: XXVIII Jornada Nacional de Imunizações SBIm 2026 21 a 24 de outubro de 2026 Windsor Oceânico Hotel – Barra da Tijuca, Rio de Janeiro",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/jornada-nacional-de-imunizacoes-sbim-2026/",
-      "site_oficial": "https://jornadasbim.com.br/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "andrea@fernandapresteseventos.com.br"
-        ],
-        "telefones": [
-          "(11) 3255-9659",
-          "(11) 3255.5674",
-          "(11) 5081-7028",
-          "(11) 5084-4246",
-          "+55 (11) 3472.2020",
-          "+55 (11) 93465-0374",
-          "+55 (11) 93777-4445"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "jornadasbim"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Imunização",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496437,
-      "titulo": "33º Congresso Internacional da Indústria do Trigo",
-      "slug": "33o-congresso-internacional-da-industria-do-trigo",
-      "data_inicio": "2026-10-21 09:00:00",
-      "data_fim": "2026-10-23 09:00:00",
-      "descricao": "O 33º Congresso Internacional da Indústria do Trigo reunirá executivos, empresários, especialistas, autoridades e representantes dos principais segmentos da produção, comercialização, moagem e transformação do trigo. Durante três dias, o encontro promoverá debates sobre economia, geopolítica, comportamento do consumidor, gestão empresarial, regulamentação, inovação e perspectivas para os mercados brasileiro e internacional. A programação contará com palestras, painéis, workshops, feira de negócios e atividades de relacionamento, incluindo coquetel, jantar de confraternização e show.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/33o-congresso-internacional-da-industria-do-trigo/",
-      "site_oficial": "https://congressoabitrigo.com.br/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "abitrigo@wenter.com.br",
-          "anaflavia@attualecomunicacao.com.br",
-          "comercial@triplem.com.br",
-          "reservas@triplem.com.br",
-          "sonia@apricot.com.br"
-        ],
-        "telefones": [
-          "+55 21 97126-0904",
-          "+55 21 98604-8523"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "congressoabitrigo"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496438,
-      "titulo": "II Fórum de Acústica do Rio de Janeiro | II FARJ",
-      "slug": "ii-forum-de-acustica-do-rio-de-janeiro-ii-farj",
-      "data_inicio": "2026-10-21 09:00:00",
-      "data_fim": "2026-10-22 09:00:00",
-      "descricao": "O Fórum de Acústica do Rio de Janeiro (FARJ) é uma iniciativa da regional Rio de Janeiro da Sociedade Brasileira de Acústica (Sobrac-RJ) com o objetivo de promover o desenvolvimento da acústica e de suas subáreas, tanto no campo científico quanto nas aplicações práticas, no Estado do Rio de Janeiro. A sua 1ª edição ocorreu em novembro de 2025, na cidade de Búzios-RJ. Anteriormente, houve outro evento precursor, o Simpósio de Acústica do Rio de Janeiro (SFA), realizado em 2017 na UERJ. Em sua 2ª edição, nos dias 21 e 22 de outubro de 2026, o FARJ propõe discutir as relações entre acessibilidade acústica e qualidade do ambiente construído a partir de mesas redondas e sessões técnicas, com a participação de palestrantes nacionais.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/ii-forum-de-acustica-do-rio-de-janeiro-ii-farj/",
-      "site_oficial": "https://www.even3.com.br/ii-forum-de-acustica-do-rio-de-janeiro-712787/",
-      "local": "Universidade Estadual do Rio de Janeiro - UERJ",
-      "contato": {
-        "emails": [
-          "ana.gama@fiocruz.br",
-          "armando.nembri@fiocruz.br",
-          "contatogeraldonogueira@gmail.com",
-          "danielapastore@gmail.com",
-          "dantasbianca@gmail.com",
-          "dubocmarilda@gmail.com",
-          "elikatakimoto@gmail.com",
-          "fcpinto@ufrj.br",
-          "fuks.leonardo@gmail.com",
-          "jeanne@ime.uerj.br",
-          "julio@poli.ufrj.br",
-          "lygianiemeyer@gmail.com",
-          "marcia.soalheiro@fiocruz.br",
-          "marialucia@grillo.com.br",
-          "moyses.acustica@gmail.com",
-          "nayaragevu@gmail.com",
-          "ritagomes@sgaada.ufrj.br",
-          "sobrac.rj@gmail.com",
-          "stephanielivss@gmail.com",
-          "submissao.farj@gmail.com",
-          "walkiria.pontes@fiocruz.br",
-          "zmsoares@inmetro.gov.br"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 2 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "FARJ"
-        ],
-        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 50,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495725,
-      "titulo": "XX Congresso Nacional IAPE 2026",
-      "slug": "xx-congresso-nacional-iape-2026",
-      "data_inicio": "2026-10-22 09:00:00",
-      "data_fim": "2026-10-23 09:00:00",
-      "descricao": "O Congresso Nacional do IAPE é um dos principais encontros brasileiros voltados ao Direito Previdenciário, reunindo advogados, magistrados, procuradores, servidores públicos, professores, especialistas em seguridade social e profissionais da área jurídica para debater as principais mudanças legislativas, decisões dos tribunais superiores, benefícios previdenciários, regimes próprios de previdência, previdência complementar e temas ligados à seguridade social. O evento normalmente conta com palestras, painéis temáticos, oficinas práticas e atividades de networking voltadas para atualização profissional e aperfeiçoamento técnico.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xx-congresso-nacional-iape-2026/",
-      "site_oficial": "https://eventosiape.associatec.com.br/Evento/congresso-nacional",
-      "local": "Prodigy Santos Dumont",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "eventosiape"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Jurídico",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 2 dias.",
-        "publico_alvo": "advogados, magistrados e departamentos jurídicos",
-        "empresas_citadas": [
-          "IAPE"
-        ],
-        "angulo_comercial": "Evento de jurídico de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496112,
-      "titulo": "Festival Futuros Possíveis 2026",
-      "slug": "festival-futuros-possiveis-2026-2",
-      "data_inicio": "2026-10-22 09:00:00",
-      "data_fim": "2026-10-23 09:00:00",
-      "descricao": "Festival de tendências, inovação e estudos de futuros que reúne palestras, painéis, oficinas, experiências, instalações artísticas, música e networking. A edição de 2026 discutirá como a inteligência artificial está transformando negócios, sociedade, trabalho, cultura e vida cotidiana. Dia 22 e 23 de outubro na Casa Firjan.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026-2/",
-      "site_oficial": "https://casafirjan.com.br/",
-      "local": "Casa Firjan",
-      "contato": {
-        "emails": [
-          "dpo@firjan.com.br",
-          "imprensa@firjan.com.br"
-        ],
-        "telefones": [
-          "(21) 97256-3572"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "casafirjan"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Tecnologia / Inovação",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 2 dias.",
-        "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-08-03",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496111,
-      "titulo": "Festival Futuros Possíveis 2026",
-      "slug": "festival-futuros-possiveis-2026",
-      "data_inicio": "2026-10-22 09:00:00",
-      "data_fim": "2026-10-23 09:00:00",
-      "descricao": "Festival de tendências, inovação e estudos de futuros que reúne palestras, painéis, oficinas, experiências, instalações artísticas, música e networking. A edição de 2026 discutirá como a inteligência artificial está transformando negócios, sociedade, trabalho, cultura e vida cotidiana. Dia 22 e 23 de outubro na Casa Firjan.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026/",
-      "site_oficial": "https://casafirjan.com.br/",
-      "local": "Casa Firjan",
-      "contato": {
-        "emails": [
-          "dpo@firjan.com.br",
-          "imprensa@firjan.com.br"
-        ],
-        "telefones": [
-          "(21) 97256-3572"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "casafirjan"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Tecnologia / Inovação",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 2 dias.",
-        "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-08-03",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496436,
-      "titulo": "II Seminário Latino Americano sobre Cuidados no Brasil",
-      "slug": "ii-seminario-latino-americano-sobre-cuidados-no-brasil",
-      "data_inicio": "2026-10-22 09:00:00",
-      "data_fim": "2026-10-22 09:00:00",
-      "descricao": "O II Seminário Latino-Americano de Cuidados no Brasil será realizado entre os dias 20 e 22 de outubro de 2026, na Universidade do Estado do Rio de Janeiro (UERJ), no Rio de Janeiro. O evento reunirá pesquisadoras(es), profissionais das políticas sociais, movimentos sociais, estudantes, coletivos e organizações comprometidas com o debate sobre o cuidado, as políticas públicas e os desafios contemporâneos da reprodução social na América Latina. O seminário tem como objetivo fortalecer redes de articulação acadêmica, política e social, promovendo reflexões críticas sobre o cuidado como dimensão coletiva, pública e interseccional, articulando debates sobre gênero, raça, deficiência, maternidade, trabalho, território e direitos sociais.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/ii-seminario-latino-americano-sobre-cuidados-no-brasil/",
-      "site_oficial": "https://www.even3.com.br/e/ii-seminario-latino-americano-sobre-cuidados-no-brasil-729796",
-      "local": "Universidade Estadual do Rio de Janeiro - UERJ",
-      "contato": {
-        "emails": [
-          "abebe.ofa@gmail.com",
-          "advogadavivianesilva@gmail.com",
-          "alexandresilva@ufsj.edu.br",
-          "amaessistentesocial@gmail.com",
-          "amanda.lemos@unisuam.edu.br",
-          "apmbsantos@gmail.com",
-          "arianaksantos@gmail.com",
-          "charlestonassis@id.uff.br",
-          "cibsesoufrj@gmail.com",
-          "dannymedeiro@hotmail.com",
-          "ednacm25@gmail.com",
-          "ernanicmendes@gmail.com",
-          "evelincifuentes@outlook.com",
-          "fernandez.laura@correounivalle.edu.co",
-          "flaviapdeazevedo@gmail.com",
-          "gilda.santos1@hotmail.com",
-          "gspeduc@gmail.com",
-          "helenabernardo@uol.com.br",
-          "janicerealina@gmail.com",
-          "julianakelly2308@gmail.com",
-          "julianamartins@criola.org.br",
-          "katia.souza@fiocruz.br",
-          "libiamafra@gmail.com",
-          "luciana_firmino@yahoo.com.br",
-          "marcia.alves.geo@gmail.com",
-          "mariaeduvisb@gmail.com",
-          "mariana.gino@gmail.com",
-          "marinho.silvana@gmail.com",
-          "mcbslima@gmail.com",
-          "mclucinda@gmail.com",
-          "nataliapinna.ufrj@gmail.com",
-          "niarafelipeas@outlook.com",
-          "nucleomaterna@gmail.com",
-          "patyolario@hotmail.com",
-          "profa.thamiresribeiro@gmail.com",
-          "psicopedag.vanessaferreira@gmail.com",
-          "sandyaleluia705@gmail.com",
-          "sheidias1979@gmail.com",
-          "silvanasocipufmt@gmail.com",
-          "silvarn2025@gmail.com",
-          "taynaeuna@gmail.com",
-          "tereza-silva@hotmail.com",
-          "thiago.rodrigues.seso@gmail.com",
-          "venusbarros5@gmail.com",
-          "yuliesky90@gmail.com"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Jurídico",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 1 dias.",
-        "publico_alvo": "advogados, magistrados e departamentos jurídicos",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de jurídico de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496435,
-      "titulo": "Brand Impact 2026",
-      "slug": "brand-impact-2026",
-      "data_inicio": "2026-10-23 09:00:00",
-      "data_fim": "2026-10-23 09:00:00",
-      "descricao": "O Brand Impact 2026 reunirá estudantes, profissionais e empresas para uma tarde de palestras, experiências de marca e networking sobre marketing, comunicação e negócios. Promovida pela ESPM Jr., a edição adota o conceito “Efeito Borboleta”, abordando como pequenas ideias, decisões e campanhas podem provocar transformações relevantes em marcas, pessoas e mercados.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/brand-impact-2026/",
-      "site_oficial": "https://www.sympla.com.br/evento/brand-impact-2026/3482800",
-      "local": "Clube de Engenharia",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Desenvolvimento / Negócios",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "líderes, gestores e times comerciais",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de negócios de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495724,
-      "titulo": "The World Experience – World Cheerleading Championship 2026",
-      "slug": "the-world-experience-world-cheerleading-championship-2026",
-      "data_inicio": "2026-10-24 09:00:00",
-      "data_fim": "2026-10-25 09:00:00",
-      "descricao": "O The World Experience é uma competição internacional de cheerleading e performance esportiva que reúne equipes de diversos países para disputas em diferentes categorias e níveis técnicos. O evento combina competição, intercâmbio cultural e experiências voltadas para atletas, treinadores e delegações internacionais.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/the-world-experience-world-cheerleading-championship-2026/",
-      "site_oficial": "https://www.instagram.com/p/DSBlb67Du1a/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496638,
-      "titulo": "Fagner no Vivo Rio 2026",
-      "slug": "fagner-no-vivo-rio-2026",
-      "data_inicio": "2026-10-24 09:00:00",
-      "data_fim": "2026-10-24 09:00:00",
-      "descricao": "Fagner retorna ao palco do Vivo Rio para uma apresentação dedicada aos grandes sucessos de sua trajetória. Um dos principais nomes da MPB, o cantor e compositor cearense revisita canções que marcaram mais de cinco décadas de carreira, acompanhado por sua banda.",
-      "categoria": "culturais",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/fagner-no-vivo-rio-2026/",
-      "site_oficial": "https://www.ticket360.com.br/evento/33849/ingressos-para-fagner?_gl=1*1dugtlk*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwoOjVBhArEiwAUwDak23ngjngd9lfQXcyv3JEDOWYbimh3FoAyfWQeFSCewRj4fXt_PZlWhoC-CIQAvD_BwE&gbraid=0AAAAAD1IkYexzQwEwFhpDyEJMw6or1LT-",
-      "local": "Vivo Rio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495365,
-      "titulo": "Corrida e Caminhada Contos Clássicos – Pequena Sereia",
-      "slug": "corrida-e-caminhada-contos-classicos-pequena-sereia",
-      "data_inicio": "2026-10-25 09:00:00",
-      "data_fim": "2026-10-25 09:00:00",
-      "descricao": "📅 Data: 25/10/2026 (domingo) 📍 Local: Parque Madureira — Rio de Janeiro/RJ ⏰ Largada: 8h00 🎭 Tema: inspirado na versão original de *A Pequena Sereia* (1837) 🤝 Evento esportivo e beneficente para incentivar atividade física e apoiar ações sociais ❤️ Ação beneficente: apoio ao Projeto Coração Que Ajuda e ao Projeto Café na Tenda, com arrecadação para famílias e instituições em situação de vulnerabilidade 🧼👕 Também aceitam doações de: itens de limpeza, higiene pessoal e roupas",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-contos-classicos-pequena-sereia/",
-      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+CONTOS+CL%C3%81SSICOS+-+PEQUENA+SEREIA-86528",
-      "local": "Parque de Madureira",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 494320,
       "titulo": "Congresso Brasileiro de Hematologia, Hemoterapia e Terapia Celular – HEMO 2026",
@@ -894,31 +149,6 @@
         "relevancia_b2b": 80,
         "_fonte": "heuristica"
       },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495132,
-      "titulo": "Mondial De La Bière 2026",
-      "slug": "mondial-de-la-biere-2026",
-      "data_inicio": "2026-10-29 09:00:00",
-      "data_fim": "2026-11-01 09:00:00",
-      "descricao": "🍻 Prepare-se para celebrar a cultura cervejeira no Rio! O Mondial de la Bière reúne cervejas artesanais, música e gastronomia em uma experiência repleta de sabores e descobertas. Explore rótulos nacionais e internacionais, descubra novos estilos e aproveite combinações gastronômicas que tornam cada brinde ainda mais especial. 🎶 Seja para quem já aprecia cervejas artesanais ou para quem deseja conhecer esse universo, o Mondial de la Bière é um convite para reunir os amigos e aproveitar o melhor da cultura cervejeira. 🎟️ Acesse o link abaixo para garantir seu ingresso com o cupom de desconto do Visit Rio.",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/mondial-de-la-biere-2026/",
-      "site_oficial": "https://embedstore.ingresse.com/tickets/www.ingresse.com/event/92096?coupon=VISITRIO",
-      "local": "Pier Mauá",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
       "primeiro_visto": "2026-07-08",
       "novo": false,
       "no_feed": false,
@@ -1140,7 +370,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1165,6 +395,78 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496895,
+      "titulo": "Breakfast Weekend 4ª Edição – 2026",
+      "slug": "breakfast-weekend-4a-edicao-2026",
+      "data_inicio": "2026-10-31 09:00:00",
+      "data_fim": "2026-11-29 09:00:00",
+      "descricao": "O Breakfast Weekend – Festival de Cafés da Manhã retorna ao Rio de Janeiro para sua 3ª edição e será realizado entre 28 de março e 26 de abril de 2026. O festival reúne hotéis, cafeterias, padarias gourmet e confeitarias da capital fluminense para oferecer ao público experiências exclusivas de café da manhã, com menus criados especialmente para o evento e valores promocionais. A proposta do Breakfast Weekend é valorizar o café da manhã como uma experiência gastronômica e de lazer, ampliando o acesso do público a estabelecimentos reconhecidos pela qualidade, pelo serviço e pela identidade local. No Rio de Janeiro, o festival se conecta diretamente ao estilo de vida da cidade, marcada pela diversidade cultural, pela hospitalidade, pelo turismo e por uma cena gastronômica que une tradição, criatividade e experiências à mesa. Durante o período do evento, os estabelecimentos participantes oferecem menus exclusivos organizados em diferentes faixas de preço, estimulando novos hábitos de consumo e ampliando o fluxo de clientes. O festival se consolida também como uma plataforma de visibilidade, relacionamento e geração de negócios, fortalecendo a economia gastronômica local e o turismo urbano.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/breakfast-weekend-4a-edicao-2026/",
+      "site_oficial": "https://breakfastweekend.com.br/",
+      "local": "Vários locais",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "breakfastweekend"
+        ],
+        "status": "bloqueado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento longo, 30 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 497004,
+      "titulo": "Gastronomia sem Fronteiras 2026",
+      "slug": "gastronomia-sem-fronteiras-2026",
+      "data_inicio": "2026-10-31 09:00:00",
+      "data_fim": "2026-11-08 09:00:00",
+      "descricao": "O Gastronomia Sem Fronteiras 2026 é um festival gastronômico e cultural de caráter B2C que celebra a diversidade culinária global, unindo sabores de diferentes nacionalidades em um único espaço. O evento funciona como uma grande vitrine da gastronomia internacional, apresentando pratos típicos elaborados por chefs renomados e restaurantes de destaque, sempre com o objetivo de promover o intercâmbio cultural por meio do paladar. Além das experiências degustativas, o festival oferece uma programação rica que inclui aulas-show, palestras educativas sobre técnicas culinárias e segurança alimentar, e atividades de entretenimento para toda a família. O projeto destaca-se não apenas pela curadoria gastronômica de alta qualidade, mas também por sua atmosfera vibrante, que combina música ao vivo e áreas de convivência, tornando-se um ponto de encontro estratégico para amantes da boa mesa e profissionais do setor alimentício. Acontece somente nos dias 31/10, 01/11, 07/11 e 08/11, e não durante todo o intervalo.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/gastronomia-sem-fronteiras-2026/",
+      "site_oficial": "https://www.gastronomiasemfronteiras25.com.br/",
+      "local": "São Conrado Fashion Mall",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "gastronomiasemfronteiras25"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Energia / Óleo e Gás",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 9 dias.",
+        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de energia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
       "novo": true,
       "no_feed": false,
       "local_coletado": true
@@ -1215,7 +517,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1255,7 +557,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-19",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1270,7 +572,7 @@
       "categoria_fonte": "heuristica",
       "url_visitrio": "https://visitrio.com.br/evento/aventura-congelante-o-legado-in-concert-2026/",
       "site_oficial": "https://www.ticket360.com.br/evento/33459/ingressos-para-aventura-congelante-2026",
-      "local": null,
+      "local": "Vivo Rio",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -1280,8 +582,9 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
-      "no_feed": false
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
     },
     {
       "id": 495271,
@@ -1655,44 +958,6 @@
       "local_coletado": true
     },
     {
-      "id": 495951,
-      "titulo": "1º Congresso de Dermatologia Do Instituto IMS",
-      "slug": "1o-congresso-de-dermatologia-do-instituto-ims",
-      "data_inicio": "2026-11-07 09:00:00",
-      "data_fim": "2026-11-07 09:00:00",
-      "descricao": "O 1º Congresso de Dermatologia do Instituto IMS marca o posicionamento do Instituto como referência nacional em ensino dermatológico, reunindo médicos dermatologistas e pós-graduandos em Dermatologia de todo o Brasil em um encontro científico de excelência. Este é um congresso de integração das três unidades do Instituto IMS: Rio de Janeiro (Hospital da Gamboa), Volta Redonda e São Luís do Maranhão — unindo corpo docente, alunos e profissionais de todas as sedes em um encontro único.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/1o-congresso-de-dermatologia-do-instituto-ims/",
-      "site_oficial": "https://www.institutoims.com.br/congresso",
-      "local": "Pestana Rio Atlântica",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "institutoims"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Dermatologia",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 1 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "IMS"
-        ],
-        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-27",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 496429,
       "titulo": "Expo Le Cordon Bleu 4° Edição",
       "slug": "expo-le-cordon-bleu-4-edicao",
@@ -1800,7 +1065,7 @@
       "categoria_fonte": "visitrio",
       "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-rio-night-run-2026/",
       "site_oficial": "https://esportecorrida.com.br/v3/evento.php?evt=2781&utm_source=corrida360&utm_medium=site",
-      "local": null,
+      "local": "Quinta da Boa Vista",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -1810,8 +1075,9 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
-      "no_feed": false
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
     },
     {
       "id": 496856,
@@ -1824,7 +1090,7 @@
       "categoria_fonte": "visitrio",
       "url_visitrio": "https://visitrio.com.br/evento/world-cup-jiu-jitsu-2026-cbjjo/",
       "site_oficial": "https://www.instagram.com/p/Deb_wVEEbrH/",
-      "local": null,
+      "local": "Centro Esportivo Miécimo da Silva",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -1834,8 +1100,47 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496894,
+      "titulo": "Simpósio Internacional ABEV – Tireoide 360°",
+      "slug": "simposio-internacional-abev-tireoide-360",
+      "data_inicio": "2026-11-07 09:00:00",
+      "data_fim": "2026-11-08 09:00:00",
+      "descricao": "O simpósio da Associação Brasileira de Endocrinologia Veterinária reúne profissionais para discutir doenças da tireoide e das paratireoides em cães e gatos. A programação presencial inclui avaliação hormonal, diagnóstico, tratamento e cuidados cirúrgicos, com especialistas brasileiros e estrangeiros, debates de casos e oportunidades de atualização em clínica veterinária.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/simposio-internacional-abev-tireoide-360/",
+      "site_oficial": "https://abev.org.br/simposio-internacional-abev-tireoide-360/",
+      "local": "Riale Brisa Barra Hotel",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "abev"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Endocrinologia",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "ABEV"
+        ],
+        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
       "novo": true,
-      "no_feed": false
+      "no_feed": false,
+      "local_coletado": true
     },
     {
       "id": 495269,
@@ -1991,7 +1296,7 @@
       "categoria_fonte": "visitrio",
       "url_visitrio": "https://visitrio.com.br/evento/corrida-flashow-resenha-2026/",
       "site_oficial": "https://www.ticketsports.com.br/e/corrida+flashow+resenha-86206",
-      "local": null,
+      "local": "Parque de Madureira",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -2001,8 +1306,9 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
-      "no_feed": false
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
     },
     {
       "id": 496526,
@@ -2069,6 +1375,50 @@
       "inteligencia": null,
       "primeiro_visto": "2026-10-12",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496893,
+      "titulo": "FGV EMAp 15 Years: Multidisciplinarity in Mathematics and Data Science",
+      "slug": "fgv-emap-15-years-multidisciplinarity-in-mathematics-and-data-science",
+      "data_inicio": "2026-11-09 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "O FGV EMAp 15 Years: Multidisciplinarity in Mathematics and Data Science é um simpósio científico internacional promovido pela Escola de Matemática Aplicada da Fundação Getulio Vargas em comemoração aos seus 15 anos. Durante cinco dias, pesquisadores, estudantes, ex-alunos e profissionais brasileiros e estrangeiros discutirão avanços e desafios em Matemática Aplicada, Estatística e Ciência de Dados. A programação inclui palestras plenárias, minissimpósios temáticos, mesas-redondas, sessões de pôsteres e atividades institucionais.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/fgv-emap-15-years-multidisciplinarity-in-mathematics-and-data-science/",
+      "site_oficial": "https://emap.fgv.br/eventos/fgv-emap-15-years-multidisciplinarity-mathematics-and-data-science",
+      "local": "Praia de Botafogo",
+      "contato": {
+        "emails": [
+          "emap15@fgv.br",
+          "emap@fgv.br"
+        ],
+        "telefones": [
+          "+55 21 3799-5917",
+          "+55-21-3799-5917"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "emap"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 5 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "FGV"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2349,6 +1699,44 @@
       "local_coletado": true
     },
     {
+      "id": 496892,
+      "titulo": "XXIV Simpósio Internacional de Atividade Física do Rio de Janeiro — SIAFIS-RJ",
+      "slug": "xxiv-simposio-internacional-de-atividade-fisica-do-rio-de-janeiro-siafis-rj",
+      "data_inicio": "2026-11-12 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "O SIAFIS reúne pesquisadores, profissionais de saúde e educação física e militares para discutir desempenho humano e ciência do exercício. A edição aborda treinamento de força, resiliência física e mental e longevidade, com palestras, debates e apresentação de pesquisas, aproximando instituições civis e militares em torno de aplicações científicas.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xxiv-simposio-internacional-de-atividade-fisica-do-rio-de-janeiro-siafis-rj/",
+      "site_oficial": "https://siafis2026.com.br/",
+      "local": "Fortaleza de São João",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "siafis2026"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "SIAFIS"
+        ],
+        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 494316,
       "titulo": "Rio Health Congress 2026",
       "slug": "rio-health-congress-2026",
@@ -2575,7 +1963,7 @@
       "categoria_fonte": "visitrio",
       "url_visitrio": "https://visitrio.com.br/evento/corrida-do-futebol-light-edicao-pele/",
       "site_oficial": "https://www.ticketsports.com.br/e/corrida-do-futebol-light-edicao-pele-88396",
-      "local": null,
+      "local": "Estádio Maracanã",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -2585,30 +1973,6 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
-      "no_feed": false
-    },
-    {
-      "id": 495035,
-      "titulo": "LIVE!21K XP – RIO DE JANEIRO 2026",
-      "slug": "live21k-xp-rio-de-janeiro-2026",
-      "data_inicio": "2026-11-15 09:00:00",
-      "data_fim": "2026-11-15 09:00:00",
-      "descricao": "A LIVE! 21K XP é uma das principais meias maratonas do Brasil. Acontecerá no Aterro do Flamengo no dia 15/11. Categorias 5KM, 10KM E 21KM, além da corrida Kids.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/live21k-xp-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.appliveexperience.com.br/evento/live21k-rio-de-janeiro-2026",
-      "local": "Aterro do Flamengo",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
       "novo": false,
       "no_feed": false,
       "local_coletado": true
@@ -2660,6 +2024,51 @@
       "inteligencia": null,
       "primeiro_visto": "2026-10-12",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496891,
+      "titulo": "31º Congresso Internacional de Transporte Aquaviário, Construção Naval e Offshore — SOBENA",
+      "slug": "31o-congresso-internacional-de-transporte-aquaviario-construcao-naval-e-offshore-sobena",
+      "data_inicio": "2026-11-16 09:00:00",
+      "data_fim": "2026-11-18 09:00:00",
+      "descricao": "O congresso da SOBENA reúne academia e indústria para discutir transporte aquaviário, construção naval e operações offshore. Em formato híbrido, oferece sessões técnicas, apresentações de pesquisas e painéis sobre descarbonização, digitalização, logística, segurança e meio ambiente marinho, favorecendo a troca de conhecimentos entre profissionais, pesquisadores, estudantes e empresas do setor.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/31o-congresso-internacional-de-transporte-aquaviario-construcao-naval-e-offshore-sobena/",
+      "site_oficial": "https://www.sobena.org/inscricao/31%C2%BA-congresso-internacional-de-transporte-aquaviario-construcao-naval-e-offshore",
+      "local": "Vila Galé Rio de Janeiro",
+      "contato": {
+        "emails": [
+          "sobena@sobena.org.br"
+        ],
+        "telefones": [
+          "(21) 2263-9079",
+          "(21) 2283-2482"
+        ],
+        "whatsapp": [
+          "552122639079"
+        ],
+        "produtoras_inferidas": [
+          "sobena"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "SOBENA"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2746,6 +2155,42 @@
         ],
         "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
         "relevancia_b2b": 90,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 495730,
+      "titulo": "Morar Mais Rio 2026/2027",
+      "slug": "morar-mais-rio-2026",
+      "data_inicio": "2026-11-17 09:00:00",
+      "data_fim": "2026-12-31 09:00:00",
+      "descricao": "O Morar Mais é uma das mais tradicionais mostras de arquitetura, decoração, design de interiores e paisagismo do Brasil. Criado no Rio de Janeiro em 2004, o evento apresenta ambientes assinados por arquitetos e designers com foco em custo-benefício, sustentabilidade, inovação, tecnologia aplicada à casa, brasilidade, customização e soluções acessíveis de decoração. Local: a definir, em breve mais atualizações.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/morar-mais-rio-2026/",
+      "site_oficial": "https://morarmais.com.br/mms/eventos/",
+      "local": "Casa Shopping",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "morarmais"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento longo, 45 dias.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 60,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -2982,7 +2427,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3106,7 +2551,7 @@
       "categoria_fonte": "visitrio",
       "url_visitrio": "https://visitrio.com.br/evento/uphill-cristo-redentor-2026/",
       "site_oficial": "https://site.ticketsports.com.br/Inscricao/Categoria.aspx?__idEvento=87298&lang=pt-BR",
-      "local": null,
+      "local": "Santuário Cristo Redentor",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -3116,8 +2561,9 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
-      "no_feed": false
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
     },
     {
       "id": 496422,
@@ -3189,7 +2635,7 @@
       "categoria_fonte": "heuristica",
       "url_visitrio": "https://visitrio.com.br/evento/31a-parada-do-orgulho-lgbti-rio-2026/",
       "site_oficial": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/parada-lgbti-do-rj-traz-toda-forma-de-amor-como-tema-em-2026",
-      "local": null,
+      "local": "Praia de Copacabana",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -3199,8 +2645,9 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
-      "no_feed": false
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
     },
     {
       "id": 494311,
@@ -3374,6 +2821,46 @@
       "local_coletado": true
     },
     {
+      "id": 496890,
+      "titulo": "XXI Assembleia Geral Intermediária da ODUCAL",
+      "slug": "xxi-assembleia-geral-intermediaria-da-oducal",
+      "data_inicio": "2026-11-25 09:00:00",
+      "data_fim": "2026-11-27 09:00:00",
+      "descricao": "A assembleia reúne reitores e lideranças de universidades católicas da América Latina e do Caribe para discutir educação superior e cooperação institucional. A programação inclui conferências, painéis e oficinas sobre gestão, internacionalização, comunicação e inteligência artificial, além de momentos deliberativos voltados à atuação conjunta das instituições integrantes da organização.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xxi-assembleia-geral-intermediaria-da-oducal/",
+      "site_oficial": "https://eventos.puc-rio.br/oducal/programacao/detalhes/1351",
+      "local": "PUC RIO",
+      "contato": {
+        "emails": [
+          "asamblea.oducal@puc-rio.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "eventos"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [
+          "ODUCAL"
+        ],
+        "angulo_comercial": "Evento de tecnologia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 496736,
       "titulo": "23º Congresso Rio de Transportes",
       "slug": "23o-congresso-rio-de-transportes",
@@ -3486,6 +2973,48 @@
       },
       "primeiro_visto": "2026-10-12",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496889,
+      "titulo": "Rio Finance Meeting 2026",
+      "slug": "rio-finance-meeting-2026",
+      "data_inicio": "2026-11-27 09:00:00",
+      "data_fim": "2026-11-27 09:00:00",
+      "descricao": "O Rio Finance Meeting reúne pesquisadores, pós-graduandos e profissionais do mercado financeiro para apresentar estudos e discutir finanças. Organizado pela FGV EMAp em parceria com a COPPEAD/UFRJ, o encontro contempla temas como bancos, ativos, empresas, fintechs e finanças sustentáveis, com inscrições gratuitas e foco na colaboração entre academia e mercado.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-finance-meeting-2026/",
+      "site_oficial": "https://emap.fgv.br/eventos/rio-finance-meeting-2026-rfm-2026",
+      "local": "FGV EMAp",
+      "contato": {
+        "emails": [
+          "emap@fgv.br",
+          "eventos.emap@fgv.br"
+        ],
+        "telefones": [
+          "+55 21 3799-5917",
+          "+55-21-3799-5917"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "emap"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de finanças de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3749,6 +3278,107 @@
       "local_coletado": true
     },
     {
+      "id": 496978,
+      "titulo": "Research in Options 2026 — RiO 2026",
+      "slug": "research-in-options-2026-rio-2026",
+      "data_inicio": "2026-12-02 09:00:00",
+      "data_fim": "2026-12-06 09:00:00",
+      "descricao": "A 21ª edição do Research in Options reúne cientistas, matemáticos e profissionais que atuam na interface entre matemática e finanças. Realizado presencialmente na FGV EMAp, o encontro combina apresentações acadêmicas com minicursos destinados a estudantes e profissionais, contando com pesquisadores de diferentes países e instituições para discutir métodos e aplicações.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/research-in-options-2026-rio-2026/",
+      "site_oficial": "https://emap.fgv.br/eventos/research-options-2026",
+      "local": "FGV EMAp",
+      "contato": {
+        "emails": [
+          "emap@fgv.br",
+          "researchinoptions@fgv.br"
+        ],
+        "telefones": [
+          "+55 21 3799-5917",
+          "+55-21-3799-5917"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "emap"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento longo, 5 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 497001,
+      "titulo": "PRO TOUR STU Rio de Janeiro 2026",
+      "slug": "pro-tour-stu-rio-de-janeiro-2026",
+      "data_inicio": "2026-12-03 09:00:00",
+      "data_fim": "2026-12-06 09:00:00",
+      "descricao": "O STU Rio de Janeiro é um evento imperdível para os amantes do skate e da cultura urbana. O Rio de Janeiro se transformará na capital do skate, reunindo os melhores skatistas do Brasil e do mundo para competirem em manobras radicais e impressionantes. O evento contará com competições nas modalidades Street e Park, que são as mesmas que consagraram o skate como esporte olímpico. Além das competições, o STU Rio de Janeiro oferecerá uma programação completa com shows, apresentações culturais, oficinas de skate e muito mais.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/pro-tour-stu-rio-de-janeiro-2026/",
+      "site_oficial": "https://skatetotalurbe.com.br/",
+      "local": "Praça do Ó",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-26",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 497000,
+      "titulo": "I Encontro Brasileiro de Mulheres Florestais 2026",
+      "slug": "i-encontro-brasileiro-de-mulheres-florestais-2026",
+      "data_inicio": "2026-12-04 09:00:00",
+      "data_fim": "2026-12-06 09:00:00",
+      "descricao": "Informamos que os eventos dos dias 04, 05 e 06 de dezembro acontecerão em diferentes locais da cidade do Rio de Janeiro. O local informado no site refere-se exclusivamente à programação do dia 04/12 (sexta-feira). A programação pode sofrer leves alterações.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/i-encontro-brasileiro-de-mulheres-florestais-2026/",
+      "site_oficial": "https://www.sympla.com.br/evento/i-encontro-brasileiro-de-mulheres-florestais/3574505?utm_id=97760_v0_s00_e0_tv3_a1denngz215hqu&referrer=l.instagram.com&referrer=l.instagram.com",
+      "local": "CEDAE",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de tecnologia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 495353,
       "titulo": "Circuito das Estações – Verão 2026",
       "slug": "circuito-das-estacoes-verao-2026",
@@ -3857,7 +3487,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3991,7 +3621,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4016,7 +3646,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4041,7 +3671,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4056,7 +3686,7 @@
       "categoria_fonte": "visitrio",
       "url_visitrio": "https://visitrio.com.br/evento/rio-maravilha-seasons-2026/",
       "site_oficial": "https://esportecorrida.com.br/v3/evento.php?evt=2720",
-      "local": null,
+      "local": "Aterro do Flamengo",
       "contato": {
         "emails": [],
         "telefones": [],
@@ -4066,8 +3696,9 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
-      "no_feed": false
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
     },
     {
       "id": 495710,
@@ -4091,6 +3722,42 @@
       "inteligencia": null,
       "primeiro_visto": "2026-07-08",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496999,
+      "titulo": "Morar Mais Rio 2026/2027",
+      "slug": "morar-mais-rio-2026-2027",
+      "data_inicio": "2027-01-01 09:00:00",
+      "data_fim": "2027-01-17 09:00:00",
+      "descricao": "O Morar Mais é uma das mais tradicionais mostras de arquitetura, decoração, design de interiores e paisagismo do Brasil. Criado no Rio de Janeiro em 2004, o evento apresenta ambientes assinados por arquitetos e designers com foco em custo-benefício, sustentabilidade, inovação, tecnologia aplicada à casa, brasilidade, customização e soluções acessíveis de decoração. Local: a definir, em breve mais atualizações.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/morar-mais-rio-2026-2027/",
+      "site_oficial": "https://morarmais.com.br/mms/eventos/",
+      "local": "Casa Shopping",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "morarmais"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento longo, 17 dias.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4266,7 +3933,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -5465,7 +5132,7 @@
       "categoria": "corporativos",
       "categoria_fonte": "heuristica",
       "url_visitrio": "https://visitrio.com.br/evento/xi-congresso-internacional-de-fisioterapia-esportiva-da-sonafe-2027/",
-      "site_oficial": "https://eventos.sonafe.org.br/Evento/lancamento-do-1o-lote-da-jornada-regional-rj-2026-e-do-xiii-congresso-brasileiro-e-xi-congresso-internacional-de--fisioterapia-esportiva-da-sonafe---rio-27?utm_source=chatgpt.com",
+      "site_oficial": "https://www.congressosonafe.com.br/",
       "local": "Riocentro Convention & Events Center",
       "contato": {
         "emails": [],
@@ -5638,6 +5305,839 @@
       "primeiro_visto": "2026-09-21",
       "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496441,
+      "titulo": "2o Simpósio Brasileiro sobre Espécies Exóticas Invasoras",
+      "slug": "2o-simposio-brasileiro-sobre-especies-exoticas-invasoras",
+      "data_inicio": "2026-10-19 09:00:00",
+      "data_fim": "2026-10-24 09:00:00",
+      "descricao": "O simpósio reunirá pesquisadores, estudantes, gestores públicos, empresas e organizações da sociedade civil para discutir os impactos e o controle de espécies exóticas invasoras no Brasil. A programação inclui palestras, mesas-redondas, sessões científicas, oficinas, minicursos, feira de extensão e atividades de campo, abordando prevenção, monitoramento, legislação, fiscalização, ciência cidadã e técnicas de manejo. O encontro também pretende estruturar uma rede nacional para integrar pesquisas, políticas públicas e ações de conservação. O 2o Simpósio Brasileiro sobre Espécies Exóticas Invasoras, a ser realizado na Universidade do Estado do Rio de Janeiro (Uerj), propõe ser como um espaço de transformação, conexão e construção de futuro. Mais do que um evento científico, o simpósio propõe uma mobilização nacional em defesa da biodiversidade, da inovação e da resiliência dos ecossistemas brasileiros. As espécies exóticas invasoras ultrapassam fronteiras silenciosamente, alterando paisagens, ameaçando espécies nativas, impactando economias e colocando em risco a saúde ambiental e humana. Enfrentar esse desafio exige ciência integrada, cooperação estratégica e uma nova visão de país.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/2o-simposio-brasileiro-sobre-especies-exoticas-invasoras/",
+      "site_oficial": "https://www.even3.com.br/2o-simposio-brasileiro-sobre-especies-exoticas-invasoras-717778/?utm_source=chatgpt.com",
+      "local": "Universidade Estadual do Rio de Janeiro - UERJ",
+      "contato": {
+        "emails": [
+          "florenciayannelli@gmail.com",
+          "ldrake@drakemes.com",
+          "macedo@edu.unirio.br",
+          "sbeei2026@gmail.com",
+          "sziller@institutohorus.org.br",
+          "tebo@utk.edu"
+        ],
+        "telefones": [
+          "(21) 99943-6179"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496713,
+      "titulo": "XXXI Semana IPPUR",
+      "slug": "xxxi-semana-ippur",
+      "data_inicio": "2026-10-19 09:00:00",
+      "data_fim": "2026-10-24 09:00:00",
+      "descricao": "A Semana IPPUR reúne pesquisadores, especialistas e movimentos sociais para discutir ativismos, planejamento urbano e gestão pública no Sul Global. A programação inclui conferências, mesas de debate e sessões temáticas, celebrando os 55 anos do programa de pós-graduação e promovendo reflexões sobre democracia e desenvolvimento das cidades e regiões.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xxxi-semana-ippur/",
+      "site_oficial": "https://ippur.ufrj.br/event/semana-ippur-2026/",
+      "local": "UFRJ - Praia Vermelha",
+      "contato": {
+        "emails": [
+          "admsede@ippur.com.br",
+          "admsede@ippur.ufrj.br",
+          "biblioteca@ippur.com.br",
+          "biblioteca@ippur.ufrj.br",
+          "direcao@ippur.com.br",
+          "direcao@ippur.ufrj.br",
+          "divulgacao@ippur.com.br",
+          "divulgacao@ippur.ufrj.br",
+          "ensino@gpdes.ufrj.br",
+          "financeiro@ippur.com.br",
+          "financeiro@ippur.ufrj.br",
+          "josemar@ippur.ufrj.br",
+          "latosensu@ippur.com.br",
+          "latosensu@ippur.ufrj.br",
+          "patrimonio@ippur.com.br",
+          "patrimonio@ippur.ufrj.br",
+          "pessoal@ippur.com.br",
+          "pessoal@ippur.ufrj.br",
+          "protocolo@ippur.com.br",
+          "requerimento@gpdes.ufrj.br",
+          "secretariacoordenacao@gpdes.ufrj.br",
+          "secretariaensino@ippur.com.br",
+          "secretariaensino@ippur.ufrj.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "ippur"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 6 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "IPPUR"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496712,
+      "titulo": "XII SINTAE — Seminário de Integração dos Técnicos Administrativos em Educação da UFRJ",
+      "slug": "xii-sintae-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj",
+      "data_inicio": "2026-10-19 09:00:00",
+      "data_fim": "2026-10-23 09:00:00",
+      "descricao": "O SINTAE promove o intercâmbio de conhecimentos e experiências entre profissionais técnico-administrativos de instituições públicas de ensino superior. Com palestras e apresentações em grupos de trabalho, o seminário discute práticas profissionais e produção técnico-científica nas universidades, oferecendo participação presencial e remota conforme a modalidade de cada atividade.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xii-sintae-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj/",
+      "site_oficial": "https://eventos.ufrj.br/evento/sintae-2026-xii-seminario-de-integracao-dos-tecnicos-administrativos-em-educacao-da-ufrj/",
+      "local": "Parque Tecnológico da UFRJ",
+      "contato": {
+        "emails": [
+          "sintae@casadaciencia.ufrj.br"
+        ],
+        "telefones": [
+          "+55 (21) 3938-9600"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "eventos"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento longo, 5 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "SINTAE",
+          "UFRJ"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496439,
+      "titulo": "Monja Coen no Rio de Janeiro – Palestra “Coragem Para Ser Quem Você É”",
+      "slug": "monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voce-e",
+      "data_inicio": "2026-10-20 09:00:00",
+      "data_fim": "2026-10-20 09:00:00",
+      "descricao": "Palestra sobre autenticidade, autoconhecimento e coragem para assumir a própria identidade. Com base nos ensinamentos do Zen-Budismo, Monja Coen propõe reflexões sobre comparação, expectativas externas, medo de julgamentos e construção de uma vida mais consciente e coerente com os próprios valores. Dia 20 de outubro no Shopping da gávea.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voce-e/",
+      "site_oficial": "https://www.almatickets.com.br/events/monja-coen-no-rio-de-janeiro-palestra-coragem-para-ser-quem-voc-20102026-riodejaneiro",
+      "local": "Shopping da Gávea Rio de Janeiro",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "almatickets"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 30,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496440,
+      "titulo": "Seminário Nacional de Telecomunicações 2026",
+      "slug": "seminario-nacional-de-telecomunicacoes-2026",
+      "data_inicio": "2026-10-20 09:00:00",
+      "data_fim": "2026-10-22 09:00:00",
+      "descricao": "O XXII Seminário Nacional de Telecomunicações reunirá executivos, especialistas, autoridades, pesquisadores e representantes de empresas para três dias de debates sobre o futuro da conectividade e das infraestruturas críticas no Brasil. A programação abordará 5G e 6G, inteligência artificial, integração com órgãos reguladores, energias renováveis e novas tecnologias, além de apresentações empresariais e premiações promovidas pela APTEL. O público-alvo inclui profissionais de telecomunicações e tecnologia da informação, utilities, empresas de energia, petróleo e gás, defesa, órgãos governamentais, universidades, startups, fabricantes e integradores de tecnologia.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/seminario-nacional-de-telecomunicacoes-2026/",
+      "site_oficial": "https://www.sympla.com.br/evento/snt-xxii-2026-20-10-a-22-10-rio-de-janeiro-rj/3396212",
+      "local": "OUTROS",
+      "contato": {
+        "emails": [
+          "contato@aptel.com.br"
+        ],
+        "telefones": [
+          "(11) 97489-0494"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Energia / Óleo e Gás",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 3 dias.",
+        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496639,
+      "titulo": "ConBraPA 2026 – 4ª Conferência Brasileira de Planejamento Experimental e Análise de Dados",
+      "slug": "conbrapa-2026-4a-conferencia-brasileira-de-planejamento-experimental-e-analise-de-dados",
+      "data_inicio": "2026-10-20 09:00:00",
+      "data_fim": "2026-10-22 09:00:00",
+      "descricao": "ConBraPA 2026 consolida sua trajetória como um fórum científico plural, interdisciplinar e metodologicamente rigoroso, ampliando sua inserção internacional e assumindo como eixo estruturante a integração entre Inteligência Artificial, planejamento experimental e tomada de decisão baseada em evidências. A nossa 4ª Conferência ocorrerá entre os dias 20 e 22 de outubro de 2026. O evento será em formato híbrido, com programação online ao longo dos três dias e atividade presencial no dia 21 de outubro.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/conbrapa-2026-4a-conferencia-brasileira-de-planejamento-experimental-e-analise-de-dados/",
+      "site_oficial": "https://www.even3.com.br/conbrapa-2026?even3_orig=events_eventlist",
+      "local": "COPPE / EE / UFRJ",
+      "contato": {
+        "emails": [
+          "adricortes@cos.ufrj.br",
+          "brenno.castro@marinha.mil.br",
+          "caioalmeida@ima.ufrj.br",
+          "carolina.c.delfino@gmail.com",
+          "carolina.delfino@coppe.ufrj.br",
+          "caroline.oliveirasouza@ima.ufrj.br",
+          "cmicelifarias@cos.ufrj.br",
+          "drfabiola.sma@gmail.com",
+          "erica.ferreira@coppe.ufrj.br",
+          "erick.lorenzato@gmail.com",
+          "fernandamarques1077@gmail.com",
+          "franciscosilva@ic.ufrj.br",
+          "jaciarasantoos8@gmail.com",
+          "jandre@peb.ufrj.br",
+          "kellyraynara1023@gmail.com",
+          "lgcosta@mecanica.coppe.ufrj.br",
+          "lucas.franco.ifrjdc@gmail.com",
+          "luiz.baptista@coppe.ufrj.br",
+          "marcelobdarosa@gmail.com",
+          "marcocolosio@gmail.com",
+          "marcusoliveiraufrj@gmail.com",
+          "n.y.kashiwaqui@ima.ufrj.br",
+          "natmourajr@lps.ufrj.br",
+          "nicollefernandadiasbrum@ima.ufrj.br",
+          "otto.tavares@coppe.ufrj.br",
+          "patricia.lucas@ifnmg.edu.br",
+          "renan@peb.ufrj.br",
+          "sergio.thode@ifrj.edu.br",
+          "viviane.valladao@ima.ufrj.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494321,
+      "titulo": "Jornada Nacional de Imunizações (SBIm) 2026",
+      "slug": "jornada-nacional-de-imunizacoes-sbim-2026",
+      "data_inicio": "2026-10-21 09:00:00",
+      "data_fim": "2026-10-24 09:00:00",
+      "descricao": "A XXVIII Jornada Nacional de Imunizações, promovida pela Sociedade Brasileira de Imunizações (SBIm), um dos mais importantes eventos científicos do país na área de vacinas e imunização, já tem data para acontecer este ano de 2026. Com o tema “Imunização em movimento: inovação, ciência e comunicação”, o encontro será realizado de 21 a 24 de outubro, no Windsor Oceânico Hotel, na Barra da Tijuca, no Rio de Janeiro. O evento reunirá pesquisadores, profissionais de saúde, gestores, comunicadores científicos e especialistas nacionais e internacionais para debater os avanços, desafios e perspectivas da imunização no Brasil e no mundo. Reconhecida pela qualidade científica e pelo diálogo interdisciplinar, a Jornada da SBIm é um espaço privilegiado para atualização, troca de experiências e fortalecimento das ações em imunização. O Ceti-Saúde UFG destaca a relevância do evento para profissionais que atuam direta ou indiretamente na promoção da saúde, na vigilância epidemiológica e na comunicação científica. Anote na agenda: XXVIII Jornada Nacional de Imunizações SBIm 2026 21 a 24 de outubro de 2026 Windsor Oceânico Hotel – Barra da Tijuca, Rio de Janeiro",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/jornada-nacional-de-imunizacoes-sbim-2026/",
+      "site_oficial": "https://jornadasbim.com.br/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "andrea@fernandapresteseventos.com.br"
+        ],
+        "telefones": [
+          "(11) 3255-9659",
+          "(11) 3255.5674",
+          "(11) 5081-7028",
+          "(11) 5084-4246",
+          "+55 (11) 3472.2020",
+          "+55 (11) 93465-0374",
+          "+55 (11) 93777-4445"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "jornadasbim"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Imunização",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496437,
+      "titulo": "33º Congresso Internacional da Indústria do Trigo",
+      "slug": "33o-congresso-internacional-da-industria-do-trigo",
+      "data_inicio": "2026-10-21 09:00:00",
+      "data_fim": "2026-10-23 09:00:00",
+      "descricao": "O 33º Congresso Internacional da Indústria do Trigo reunirá executivos, empresários, especialistas, autoridades e representantes dos principais segmentos da produção, comercialização, moagem e transformação do trigo. Durante três dias, o encontro promoverá debates sobre economia, geopolítica, comportamento do consumidor, gestão empresarial, regulamentação, inovação e perspectivas para os mercados brasileiro e internacional. A programação contará com palestras, painéis, workshops, feira de negócios e atividades de relacionamento, incluindo coquetel, jantar de confraternização e show.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/33o-congresso-internacional-da-industria-do-trigo/",
+      "site_oficial": "https://congressoabitrigo.com.br/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "abitrigo@wenter.com.br",
+          "anaflavia@attualecomunicacao.com.br",
+          "comercial@triplem.com.br",
+          "reservas@triplem.com.br",
+          "sonia@apricot.com.br"
+        ],
+        "telefones": [
+          "+55 21 97126-0904",
+          "+55 21 98604-8523"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "congressoabitrigo"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496438,
+      "titulo": "II Fórum de Acústica do Rio de Janeiro | II FARJ",
+      "slug": "ii-forum-de-acustica-do-rio-de-janeiro-ii-farj",
+      "data_inicio": "2026-10-21 09:00:00",
+      "data_fim": "2026-10-22 09:00:00",
+      "descricao": "O Fórum de Acústica do Rio de Janeiro (FARJ) é uma iniciativa da regional Rio de Janeiro da Sociedade Brasileira de Acústica (Sobrac-RJ) com o objetivo de promover o desenvolvimento da acústica e de suas subáreas, tanto no campo científico quanto nas aplicações práticas, no Estado do Rio de Janeiro. A sua 1ª edição ocorreu em novembro de 2025, na cidade de Búzios-RJ. Anteriormente, houve outro evento precursor, o Simpósio de Acústica do Rio de Janeiro (SFA), realizado em 2017 na UERJ. Em sua 2ª edição, nos dias 21 e 22 de outubro de 2026, o FARJ propõe discutir as relações entre acessibilidade acústica e qualidade do ambiente construído a partir de mesas redondas e sessões técnicas, com a participação de palestrantes nacionais.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/ii-forum-de-acustica-do-rio-de-janeiro-ii-farj/",
+      "site_oficial": "https://www.even3.com.br/ii-forum-de-acustica-do-rio-de-janeiro-712787/",
+      "local": "Universidade Estadual do Rio de Janeiro - UERJ",
+      "contato": {
+        "emails": [
+          "ana.gama@fiocruz.br",
+          "armando.nembri@fiocruz.br",
+          "contatogeraldonogueira@gmail.com",
+          "danielapastore@gmail.com",
+          "dantasbianca@gmail.com",
+          "dubocmarilda@gmail.com",
+          "elikatakimoto@gmail.com",
+          "fcpinto@ufrj.br",
+          "fuks.leonardo@gmail.com",
+          "jeanne@ime.uerj.br",
+          "julio@poli.ufrj.br",
+          "lygianiemeyer@gmail.com",
+          "marcia.soalheiro@fiocruz.br",
+          "marialucia@grillo.com.br",
+          "moyses.acustica@gmail.com",
+          "nayaragevu@gmail.com",
+          "ritagomes@sgaada.ufrj.br",
+          "sobrac.rj@gmail.com",
+          "stephanielivss@gmail.com",
+          "submissao.farj@gmail.com",
+          "walkiria.pontes@fiocruz.br",
+          "zmsoares@inmetro.gov.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "FARJ"
+        ],
+        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 50,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495725,
+      "titulo": "XX Congresso Nacional IAPE 2026",
+      "slug": "xx-congresso-nacional-iape-2026",
+      "data_inicio": "2026-10-22 09:00:00",
+      "data_fim": "2026-10-23 09:00:00",
+      "descricao": "O Congresso Nacional do IAPE é um dos principais encontros brasileiros voltados ao Direito Previdenciário, reunindo advogados, magistrados, procuradores, servidores públicos, professores, especialistas em seguridade social e profissionais da área jurídica para debater as principais mudanças legislativas, decisões dos tribunais superiores, benefícios previdenciários, regimes próprios de previdência, previdência complementar e temas ligados à seguridade social. O evento normalmente conta com palestras, painéis temáticos, oficinas práticas e atividades de networking voltadas para atualização profissional e aperfeiçoamento técnico.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xx-congresso-nacional-iape-2026/",
+      "site_oficial": "https://eventosiape.associatec.com.br/Evento/congresso-nacional",
+      "local": "Prodigy Santos Dumont",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "eventosiape"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Jurídico",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "advogados, magistrados e departamentos jurídicos",
+        "empresas_citadas": [
+          "IAPE"
+        ],
+        "angulo_comercial": "Evento de jurídico de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496112,
+      "titulo": "Festival Futuros Possíveis 2026",
+      "slug": "festival-futuros-possiveis-2026-2",
+      "data_inicio": "2026-10-22 09:00:00",
+      "data_fim": "2026-10-23 09:00:00",
+      "descricao": "Festival de tendências, inovação e estudos de futuros que reúne palestras, painéis, oficinas, experiências, instalações artísticas, música e networking. A edição de 2026 discutirá como a inteligência artificial está transformando negócios, sociedade, trabalho, cultura e vida cotidiana. Dia 22 e 23 de outubro na Casa Firjan.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026-2/",
+      "site_oficial": "https://casafirjan.com.br/",
+      "local": "Casa Firjan",
+      "contato": {
+        "emails": [
+          "dpo@firjan.com.br",
+          "imprensa@firjan.com.br"
+        ],
+        "telefones": [
+          "(21) 97256-3572"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "casafirjan"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496111,
+      "titulo": "Festival Futuros Possíveis 2026",
+      "slug": "festival-futuros-possiveis-2026",
+      "data_inicio": "2026-10-22 09:00:00",
+      "data_fim": "2026-10-23 09:00:00",
+      "descricao": "Festival de tendências, inovação e estudos de futuros que reúne palestras, painéis, oficinas, experiências, instalações artísticas, música e networking. A edição de 2026 discutirá como a inteligência artificial está transformando negócios, sociedade, trabalho, cultura e vida cotidiana. Dia 22 e 23 de outubro na Casa Firjan.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/festival-futuros-possiveis-2026/",
+      "site_oficial": "https://casafirjan.com.br/",
+      "local": "Casa Firjan",
+      "contato": {
+        "emails": [
+          "dpo@firjan.com.br",
+          "imprensa@firjan.com.br"
+        ],
+        "telefones": [
+          "(21) 97256-3572"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "casafirjan"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de tecnologia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-08-03",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496436,
+      "titulo": "II Seminário Latino Americano sobre Cuidados no Brasil",
+      "slug": "ii-seminario-latino-americano-sobre-cuidados-no-brasil",
+      "data_inicio": "2026-10-22 09:00:00",
+      "data_fim": "2026-10-22 09:00:00",
+      "descricao": "O II Seminário Latino-Americano de Cuidados no Brasil será realizado entre os dias 20 e 22 de outubro de 2026, na Universidade do Estado do Rio de Janeiro (UERJ), no Rio de Janeiro. O evento reunirá pesquisadoras(es), profissionais das políticas sociais, movimentos sociais, estudantes, coletivos e organizações comprometidas com o debate sobre o cuidado, as políticas públicas e os desafios contemporâneos da reprodução social na América Latina. O seminário tem como objetivo fortalecer redes de articulação acadêmica, política e social, promovendo reflexões críticas sobre o cuidado como dimensão coletiva, pública e interseccional, articulando debates sobre gênero, raça, deficiência, maternidade, trabalho, território e direitos sociais.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/ii-seminario-latino-americano-sobre-cuidados-no-brasil/",
+      "site_oficial": "https://www.even3.com.br/e/ii-seminario-latino-americano-sobre-cuidados-no-brasil-729796",
+      "local": "Universidade Estadual do Rio de Janeiro - UERJ",
+      "contato": {
+        "emails": [
+          "abebe.ofa@gmail.com",
+          "advogadavivianesilva@gmail.com",
+          "alexandresilva@ufsj.edu.br",
+          "amaessistentesocial@gmail.com",
+          "amanda.lemos@unisuam.edu.br",
+          "apmbsantos@gmail.com",
+          "arianaksantos@gmail.com",
+          "charlestonassis@id.uff.br",
+          "cibsesoufrj@gmail.com",
+          "dannymedeiro@hotmail.com",
+          "ednacm25@gmail.com",
+          "ernanicmendes@gmail.com",
+          "evelincifuentes@outlook.com",
+          "fernandez.laura@correounivalle.edu.co",
+          "flaviapdeazevedo@gmail.com",
+          "gilda.santos1@hotmail.com",
+          "gspeduc@gmail.com",
+          "helenabernardo@uol.com.br",
+          "janicerealina@gmail.com",
+          "julianakelly2308@gmail.com",
+          "julianamartins@criola.org.br",
+          "katia.souza@fiocruz.br",
+          "libiamafra@gmail.com",
+          "luciana_firmino@yahoo.com.br",
+          "marcia.alves.geo@gmail.com",
+          "mariaeduvisb@gmail.com",
+          "mariana.gino@gmail.com",
+          "marinho.silvana@gmail.com",
+          "mcbslima@gmail.com",
+          "mclucinda@gmail.com",
+          "nataliapinna.ufrj@gmail.com",
+          "niarafelipeas@outlook.com",
+          "nucleomaterna@gmail.com",
+          "patyolario@hotmail.com",
+          "profa.thamiresribeiro@gmail.com",
+          "psicopedag.vanessaferreira@gmail.com",
+          "sandyaleluia705@gmail.com",
+          "sheidias1979@gmail.com",
+          "silvanasocipufmt@gmail.com",
+          "silvarn2025@gmail.com",
+          "taynaeuna@gmail.com",
+          "tereza-silva@hotmail.com",
+          "thiago.rodrigues.seso@gmail.com",
+          "venusbarros5@gmail.com",
+          "yuliesky90@gmail.com"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Jurídico",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 1 dias.",
+        "publico_alvo": "advogados, magistrados e departamentos jurídicos",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de jurídico de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496435,
+      "titulo": "Brand Impact 2026",
+      "slug": "brand-impact-2026",
+      "data_inicio": "2026-10-23 09:00:00",
+      "data_fim": "2026-10-23 09:00:00",
+      "descricao": "O Brand Impact 2026 reunirá estudantes, profissionais e empresas para uma tarde de palestras, experiências de marca e networking sobre marketing, comunicação e negócios. Promovida pela ESPM Jr., a edição adota o conceito “Efeito Borboleta”, abordando como pequenas ideias, decisões e campanhas podem provocar transformações relevantes em marcas, pessoas e mercados.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/brand-impact-2026/",
+      "site_oficial": "https://www.sympla.com.br/evento/brand-impact-2026/3482800",
+      "local": "Clube de Engenharia",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Desenvolvimento / Negócios",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "líderes, gestores e times comerciais",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de negócios de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495724,
+      "titulo": "The World Experience – World Cheerleading Championship 2026",
+      "slug": "the-world-experience-world-cheerleading-championship-2026",
+      "data_inicio": "2026-10-24 09:00:00",
+      "data_fim": "2026-10-25 09:00:00",
+      "descricao": "O The World Experience é uma competição internacional de cheerleading e performance esportiva que reúne equipes de diversos países para disputas em diferentes categorias e níveis técnicos. O evento combina competição, intercâmbio cultural e experiências voltadas para atletas, treinadores e delegações internacionais.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/the-world-experience-world-cheerleading-championship-2026/",
+      "site_oficial": "https://www.instagram.com/p/DSBlb67Du1a/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496638,
+      "titulo": "Fagner no Vivo Rio 2026",
+      "slug": "fagner-no-vivo-rio-2026",
+      "data_inicio": "2026-10-24 09:00:00",
+      "data_fim": "2026-10-24 09:00:00",
+      "descricao": "Fagner retorna ao palco do Vivo Rio para uma apresentação dedicada aos grandes sucessos de sua trajetória. Um dos principais nomes da MPB, o cantor e compositor cearense revisita canções que marcaram mais de cinco décadas de carreira, acompanhado por sua banda.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/fagner-no-vivo-rio-2026/",
+      "site_oficial": "https://www.ticket360.com.br/evento/33849/ingressos-para-fagner?_gl=1*1dugtlk*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwoOjVBhArEiwAUwDak23ngjngd9lfQXcyv3JEDOWYbimh3FoAyfWQeFSCewRj4fXt_PZlWhoC-CIQAvD_BwE&gbraid=0AAAAAD1IkYexzQwEwFhpDyEJMw6or1LT-",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495365,
+      "titulo": "Corrida e Caminhada Contos Clássicos – Pequena Sereia",
+      "slug": "corrida-e-caminhada-contos-classicos-pequena-sereia",
+      "data_inicio": "2026-10-25 09:00:00",
+      "data_fim": "2026-10-25 09:00:00",
+      "descricao": "📅 Data: 25/10/2026 (domingo) 📍 Local: Parque Madureira — Rio de Janeiro/RJ ⏰ Largada: 8h00 🎭 Tema: inspirado na versão original de *A Pequena Sereia* (1837) 🤝 Evento esportivo e beneficente para incentivar atividade física e apoiar ações sociais ❤️ Ação beneficente: apoio ao Projeto Coração Que Ajuda e ao Projeto Café na Tenda, com arrecadação para famílias e instituições em situação de vulnerabilidade 🧼👕 Também aceitam doações de: itens de limpeza, higiene pessoal e roupas",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-contos-classicos-pequena-sereia/",
+      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+CONTOS+CL%C3%81SSICOS+-+PEQUENA+SEREIA-86528",
+      "local": "Parque de Madureira",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495132,
+      "titulo": "Mondial De La Bière 2026",
+      "slug": "mondial-de-la-biere-2026",
+      "data_inicio": "2026-10-29 09:00:00",
+      "data_fim": "2026-11-01 09:00:00",
+      "descricao": "🍻 Prepare-se para celebrar a cultura cervejeira no Rio! O Mondial de la Bière reúne cervejas artesanais, música e gastronomia em uma experiência repleta de sabores e descobertas. Explore rótulos nacionais e internacionais, descubra novos estilos e aproveite combinações gastronômicas que tornam cada brinde ainda mais especial. 🎶 Seja para quem já aprecia cervejas artesanais ou para quem deseja conhecer esse universo, o Mondial de la Bière é um convite para reunir os amigos e aproveitar o melhor da cultura cervejeira. 🎟️ Acesse o link abaixo para garantir seu ingresso com o cupom de desconto do Visit Rio.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/mondial-de-la-biere-2026/",
+      "site_oficial": "https://embedstore.ingresse.com/tickets/www.ingresse.com/event/92096?coupon=VISITRIO",
+      "local": "Pier Mauá",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495951,
+      "titulo": "1º Congresso de Dermatologia Do Instituto IMS",
+      "slug": "1o-congresso-de-dermatologia-do-instituto-ims",
+      "data_inicio": "2026-11-07 09:00:00",
+      "data_fim": "2026-11-07 09:00:00",
+      "descricao": "O 1º Congresso de Dermatologia do Instituto IMS marca o posicionamento do Instituto como referência nacional em ensino dermatológico, reunindo médicos dermatologistas e pós-graduandos em Dermatologia de todo o Brasil em um encontro científico de excelência. Este é um congresso de integração das três unidades do Instituto IMS: Rio de Janeiro (Hospital da Gamboa), Volta Redonda e São Luís do Maranhão — unindo corpo docente, alunos e profissionais de todas as sedes em um encontro único.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/1o-congresso-de-dermatologia-do-instituto-ims/",
+      "site_oficial": "https://www.institutoims.com.br/congresso",
+      "local": "Pestana Rio Atlântica",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "institutoims"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Dermatologia",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 1 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "IMS"
+        ],
+        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495035,
+      "titulo": "LIVE!21K XP – RIO DE JANEIRO 2026",
+      "slug": "live21k-xp-rio-de-janeiro-2026",
+      "data_inicio": "2026-11-15 09:00:00",
+      "data_fim": "2026-11-15 09:00:00",
+      "descricao": "A LIVE! 21K XP é uma das principais meias maratonas do Brasil. Acontecerá no Aterro do Flamengo no dia 15/11. Categorias 5KM, 10KM E 21KM, além da corrida Kids.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/live21k-xp-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.appliveexperience.com.br/evento/live21k-rio-de-janeiro-2026",
+      "local": "Aterro do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     },
     {
@@ -6933,42 +7433,6 @@
         "empresas_citadas": [],
         "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
         "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": true,
-      "local_coletado": true
-    },
-    {
-      "id": 495730,
-      "titulo": "Morar Mais Rio 2026",
-      "slug": "morar-mais-rio-2026",
-      "data_inicio": "2026-10-01 09:00:00",
-      "data_fim": "2026-11-15 09:00:00",
-      "descricao": "O Morar Mais é uma das mais tradicionais mostras de arquitetura, decoração, design de interiores e paisagismo do Brasil. Criado no Rio de Janeiro em 2004, o evento apresenta ambientes assinados por arquitetos e designers com foco em custo-benefício, sustentabilidade, inovação, tecnologia aplicada à casa, brasilidade, customização e soluções acessíveis de decoração. Local: a definir, em breve mais atualizações.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/morar-mais-rio-2026/",
-      "site_oficial": "https://morarmais.com.br/mms/eventos/",
-      "local": "Casa Shopping",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "morarmais"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento longo, 46 dias.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 60,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
