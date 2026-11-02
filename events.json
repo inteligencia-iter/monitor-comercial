@@ -1,591 +1,8 @@
 {
-  "gerado_em": "2026-10-26T13:06:45-03:00",
+  "gerado_em": "2026-11-02T16:42:00-03:00",
   "modo": "deterministico (custo zero)",
-  "total": 374,
+  "total": 387,
   "eventos": [
-    {
-      "id": 494320,
-      "titulo": "Congresso Brasileiro de Hematologia, Hemoterapia e Terapia Celular – HEMO 2026",
-      "slug": "congresso-brasileiro-de-hematologia-hemoterapia-e-terapia-celular-hemo-2026",
-      "data_inicio": "2026-10-28 09:00:00",
-      "data_fim": "2026-10-31 09:00:00",
-      "descricao": "Vem aí o HEMO 2026 – Congresso Brasileiro de Hematologia, Hemoterapia e Terapia Celular. O evento contará com: Conteúdo científico de excelência em diversas áreas temáticas Apresentação de trabalhos científicos Feira de exposição com as principais inovações do setor Certificação de participação Aplicativo oficial para acompanhar toda a programação. Fique atento às atualizações no site oficial do evento.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/congresso-brasileiro-de-hematologia-hemoterapia-e-terapia-celular-hemo-2026/",
-      "site_oficial": "https://hemo.org.br/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [
-          "camila.matheus@abhh.org.br",
-          "gabriel.teixeira@abhh.org.br"
-        ],
-        "telefones": [
-          "(11) 2369-7767"
-        ],
-        "whatsapp": [
-          "5511920677875"
-        ],
-        "produtoras_inferidas": [
-          "ABHH"
-        ],
-        "status": "coletado",
-        "fonte": "manual",
-        "travado": true
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Hematologia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "HEMO"
-        ],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 90,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495133,
-      "titulo": "4th World Congress of Global Scar Society",
-      "slug": "4th-world-congress-of-global-scar-society",
-      "data_inicio": "2026-10-28 09:00:00",
-      "data_fim": "2026-10-31 09:00:00",
-      "descricao": "4° Congresso Mundial da Global Scar Society que reunirá especialistas internacionais no tratamento de cicatrizes. Dematologistas e cirurgiões plásticos, pesquisadores e membros da indústria farmacêutica e estética.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/4th-world-congress-of-global-scar-society/",
-      "site_oficial": "https://www.scarscongress.com.br/scarscongress2026",
-      "local": "Square Design Hotel",
-      "contato": {
-        "emails": [
-          "deise@taoassessoria.com.br"
-        ],
-        "telefones": [
-          "(11) 96280-0116"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "Tao Assessoria",
-          "Global Scar Society"
-        ],
-        "status": "coletado",
-        "fonte": "manual",
-        "travado": true
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Especialidades",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 90,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496434,
-      "titulo": "RTA Brasil Sudeste – I Congresso Brasileiro de Fisioterapia Respiratória Funcional Global 2026",
-      "slug": "rta-brasil-sudeste-i-congresso-brasileiro-de-fisioterapia-respiratoria-funcional-global-2026",
-      "data_inicio": "2026-10-28 09:00:00",
-      "data_fim": "2026-10-31 09:00:00",
-      "descricao": "O RTA Brasil Sudeste é o primeiro Congresso Brasileiro de Fisioterapia Respiratória Funcional Global dedicado ao Método Reequilíbrio Toracoabdominal. Durante quatro dias, o evento reunirá fisioterapeutas, médicos, fonoaudiólogos, enfermeiros, terapeutas ocupacionais, estudantes e outros profissionais da saúde para discutir evidências científicas e aplicações clínicas relacionadas ao cuidado respiratório. A programação inclui sete cursos pré-congresso, mais de 30 palestrantes, relatos de casos e mesas-redondas sobre neonatologia, pediatria, terapia intensiva, asma, Parkinson, síndrome de Down, ultrassonografia cinesiológica e integração entre respiração, movimento e funcionalidade.",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/rta-brasil-sudeste-i-congresso-brasileiro-de-fisioterapia-respiratoria-funcional-global-2026/",
-      "site_oficial": "https://www.sympla.com.br/evento/rta-brasil-sudeste-i-congresso-brasileiro-de-fisioterapia-respiratoria-funcional-global/3291716",
-      "local": "OUTROS",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494319,
-      "titulo": "4th World Congress of Trichoscopy",
-      "slug": "4th-world-congress-of-trichoscopy",
-      "data_inicio": "2026-10-29 09:00:00",
-      "data_fim": "2026-11-01 09:00:00",
-      "descricao": "O World Congress of Trichoscopy é um congresso médico-científico internacional dedicado ao estudo da tricologia por dermatoscopia (tricoscopia), focado no diagnóstico e manejo das doenças do couro cabeludo e dos cabelos. O evento reúne dermatologistas, pesquisadores, médicos especialistas e profissionais de saúde, promovendo atualização científica, discussão de casos clínicos e avanços diagnósticos.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/4th-world-congress-of-trichoscopy/",
-      "site_oficial": "https://itsrio2026.com/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "itsrio2026"
-        ],
-        "status": "bloqueado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Dermatologia",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496433,
-      "titulo": "Green Rio Tech 2026",
-      "slug": "green-rio-tech-2026",
-      "data_inicio": "2026-10-29 09:00:00",
-      "data_fim": "2026-10-30 09:00:00",
-      "descricao": "O Green Rio Tech / Blue Economy RIO Summit reúne empresas, startups, instituições de pesquisa, representantes governamentais, organismos internacionais e profissionais ligados à economia verde. O evento combina feira de negócios, conferências, painéis técnicos, apresentação de tecnologias, rodadas de negócios e atividades de relacionamento. A programação de 2026 abordará temas como bioinsumos, biocombustíveis, economia circular, transição energética, economia azul, cidades e clima, turismo sustentável, mobilidade, nutrição, inovação e soluções ambientais.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/green-rio-tech-2026/",
-      "site_oficial": "https://www.greenrio.com.br/index.php/quero-ser-expositor/",
-      "local": "AXIA Marina da Glória",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "greenrio"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de finanças de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496637,
-      "titulo": "Matteo Bocelli — “Falling in Love World Tour”",
-      "slug": "matteo-bocelli-falling-in-love-world-tour",
-      "data_inicio": "2026-10-29 09:00:00",
-      "data_fim": "2026-10-29 09:00:00",
-      "descricao": "O cantor, compositor e pianista italiano Matteo Bocelli apresenta a turnê mundial “Falling in Love”, baseada em seu segundo álbum. O espetáculo combina pop contemporâneo e influências clássicas italianas, com repertório centrado em temas como amor, vulnerabilidade e conexão humana.",
-      "categoria": "outros",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/matteo-bocelli-falling-in-love-world-tour/",
-      "site_oficial": "https://vivorio.com.br/eventos/matteo-bocelli/",
-      "local": "Vivo Rio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496636,
-      "titulo": "2º CONDPEN-RIO — Congresso Nacional de Direito Penal",
-      "slug": "2o-condpen-rio-congresso-nacional-de-direito-penal",
-      "data_inicio": "2026-10-30 09:00:00",
-      "data_fim": "2026-10-31 09:00:00",
-      "descricao": "Congresso voltado ao Direito Penal e ao Processo Penal, reunindo advogados criminalistas, magistrados, promotores, peritos, acadêmicos e estudantes de diferentes regiões do Brasil. A programação inclui palestras, debates, networking profissional, lançamentos de livros e publicação de uma obra coletiva com artigos científicos.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/2o-condpen-rio-congresso-nacional-de-direito-penal/",
-      "site_oficial": "https://www.condpen.com.br/",
-      "local": "Américas Barra Hotel e Eventos",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "condpen"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Jurídico",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 2 dias.",
-        "publico_alvo": "advogados, magistrados e departamentos jurídicos",
-        "empresas_citadas": [
-          "CONDPEN",
-          "RIO"
-        ],
-        "angulo_comercial": "Evento de jurídico de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495272,
-      "titulo": "Carioca Matsuri 2026",
-      "slug": "carioca-matsuri-2026",
-      "data_inicio": "2026-10-31 09:00:00",
-      "data_fim": "2026-11-02 09:00:00",
-      "descricao": "O Carioca Matsuri é um festival cultural inspirado na cultura japonesa, reunindo experiências de: Gatronomia Oriental Cultura Apresentações artísticas Workshops Entre outras atividades culturais Local: Riocentro Dias 31/1 à 02/11.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/carioca-matsuri-2026/",
-      "site_oficial": "https://www.instagram.com/cariocamatsuri/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 3 dias.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495722,
-      "titulo": "Corrida Noturna Runlloween 2ª Edição",
-      "slug": "corrida-noturna-runlloween-2a-edicao",
-      "data_inicio": "2026-10-31 09:00:00",
-      "data_fim": "2026-10-31 09:00:00",
-      "descricao": "Prepare-se para uma noite de adrenalina e diversão na Runlloween, a corrida temática mais aguardada do ano! 🏃‍♀️🎉 📅 Data: 31 de Outubro ⏰ Horário: 19:00 📍 Local: Museu Aeroespacial (MUSAL) Em um cenário mágico e misterioso, você terá a oportunidade de participar em duas modalidades: Corrida de 5km 🏅 Caminhada de 3km 🚶‍♂️ Venha com seu melhor traje de Halloween, com muita criatividade e espírito de aventura! Uma experiência única que vai te fazer correr (ou caminhar) em meio ao clima assustador e encantador dessa data tão especial.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-noturna-runlloween-2a-edicao/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-noturna-runlloween-2o-edicao-86265",
-      "local": "Museu Aeroespacial - MUSAL",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496711,
-      "titulo": "8ª edição Cria Brasil 2026",
-      "slug": "8a-edicao-cria-brasil-2026",
-      "data_inicio": "2026-10-31 09:00:00",
-      "data_fim": "2026-10-31 09:00:00",
-      "descricao": "O CriaBrasil reúne pessoas, projetos, organizações e empresas em um dia de conteúdo, conexão, experiências e reconhecimento de iniciativas que geram impacto positivo. ㅤ Nesta 8ª edição, o evento se organiza em 4 trilhas que conectam diferentes dimensões da transformação: ㅤ > TRILHA VIBRAÇÃO: Economia Criativa – Arte, cultura, audiovisual, design, novas linguagens e produção cultural. ㅤ > TRILHA IMPULSO: Esporte & Performance – O esporte como ferramenta de ascensão, comunidade, disciplina e inclusão. ㅤ > TRILHA REGENERA: Sustentabilidade – ESG na prática, consumo consciente, transição energética e soluções para um futuro mais sustentável. ㅤ > TRILHA CONEXÃO: Social, Inovação & Comunidade – Diversidade, equidade, inovação social, impacto periférico e redes de apoio. ㅤ",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/8a-edicao-cria-brasil-2026/",
-      "site_oficial": "https://criabrasil.art.br/",
-      "local": null,
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "criabrasil"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de finanças de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496798,
-      "titulo": "Corrida Noturna Mitos – Gato Preto 2026",
-      "slug": "corrida-noturna-mitos-gato-preto-2026",
-      "data_inicio": "2026-10-31 09:00:00",
-      "data_fim": "2026-10-31 09:00:00",
-      "descricao": "📅 Data: 31/10/2026 📍 Local: Parque Madureira – RJ ⏰ Largada: 18h00 🏃 Modalidades: Corrida 4 km e Caminhada 4 km ❤️ Evento beneficente em apoio ao Projeto Coração Que Ajuda e ao Projeto Café na Tenda, com arrecadação de alimentos e doações para famílias e instituições necessitadas. 📞 Informações/contato: (21) 99076-6733 – Philípe Pinheiro",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-noturna-mitos-gato-preto-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-noturna-mitos-gato-preto-87522",
-      "local": "Parque de Madureira",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-19",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496799,
-      "titulo": "Jão – Turnê Memórias Póstumas",
-      "slug": "jao-turne-memorias-postumas",
-      "data_inicio": "2026-10-31 09:00:00",
-      "data_fim": "2026-10-31 09:00:00",
-      "descricao": "Jão apresenta no Rio de Janeiro a Turnê Memórias Póstumas, espetáculo baseado no álbum homônimo lançado pelo cantor em 2026. A apresentação marca uma nova fase da carreira do artista e combina repertório do novo trabalho com canções consagradas de sua trajetória. Produzida para grandes arenas, a turnê conta com proposta visual, cenográfica e narrativa inspirada na estética lírica e nostálgica do álbum. A etapa carioca acontece na Farmasi Arena e integra uma circulação por cinco capitais brasileiras: Rio de Janeiro, Belo Horizonte, Recife, Brasília e São Paulo.",
-      "categoria": "outros",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/jao-turne-memorias-postumas/",
-      "site_oficial": "https://www.eventim.com.br/artist/jao/jao-turne-memorias-postumas-4252486/",
-      "local": "Farmasi Arena",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-19",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496895,
-      "titulo": "Breakfast Weekend 4ª Edição – 2026",
-      "slug": "breakfast-weekend-4a-edicao-2026",
-      "data_inicio": "2026-10-31 09:00:00",
-      "data_fim": "2026-11-29 09:00:00",
-      "descricao": "O Breakfast Weekend – Festival de Cafés da Manhã retorna ao Rio de Janeiro para sua 3ª edição e será realizado entre 28 de março e 26 de abril de 2026. O festival reúne hotéis, cafeterias, padarias gourmet e confeitarias da capital fluminense para oferecer ao público experiências exclusivas de café da manhã, com menus criados especialmente para o evento e valores promocionais. A proposta do Breakfast Weekend é valorizar o café da manhã como uma experiência gastronômica e de lazer, ampliando o acesso do público a estabelecimentos reconhecidos pela qualidade, pelo serviço e pela identidade local. No Rio de Janeiro, o festival se conecta diretamente ao estilo de vida da cidade, marcada pela diversidade cultural, pela hospitalidade, pelo turismo e por uma cena gastronômica que une tradição, criatividade e experiências à mesa. Durante o período do evento, os estabelecimentos participantes oferecem menus exclusivos organizados em diferentes faixas de preço, estimulando novos hábitos de consumo e ampliando o fluxo de clientes. O festival se consolida também como uma plataforma de visibilidade, relacionamento e geração de negócios, fortalecendo a economia gastronômica local e o turismo urbano.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/breakfast-weekend-4a-edicao-2026/",
-      "site_oficial": "https://breakfastweekend.com.br/",
-      "local": "Vários locais",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "breakfastweekend"
-        ],
-        "status": "bloqueado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento longo, 30 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-26",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 497004,
-      "titulo": "Gastronomia sem Fronteiras 2026",
-      "slug": "gastronomia-sem-fronteiras-2026",
-      "data_inicio": "2026-10-31 09:00:00",
-      "data_fim": "2026-11-08 09:00:00",
-      "descricao": "O Gastronomia Sem Fronteiras 2026 é um festival gastronômico e cultural de caráter B2C que celebra a diversidade culinária global, unindo sabores de diferentes nacionalidades em um único espaço. O evento funciona como uma grande vitrine da gastronomia internacional, apresentando pratos típicos elaborados por chefs renomados e restaurantes de destaque, sempre com o objetivo de promover o intercâmbio cultural por meio do paladar. Além das experiências degustativas, o festival oferece uma programação rica que inclui aulas-show, palestras educativas sobre técnicas culinárias e segurança alimentar, e atividades de entretenimento para toda a família. O projeto destaca-se não apenas pela curadoria gastronômica de alta qualidade, mas também por sua atmosfera vibrante, que combina música ao vivo e áreas de convivência, tornando-se um ponto de encontro estratégico para amantes da boa mesa e profissionais do setor alimentício. Acontece somente nos dias 31/10, 01/11, 07/11 e 08/11, e não durante todo o intervalo.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/gastronomia-sem-fronteiras-2026/",
-      "site_oficial": "https://www.gastronomiasemfronteiras25.com.br/",
-      "local": "São Conrado Fashion Mall",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "gastronomiasemfronteiras25"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Energia / Óleo e Gás",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 9 dias.",
-        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de energia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-26",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495954,
-      "titulo": "Corrida Das Poderosas 2026 – 3ª Etapa",
-      "slug": "corrida-das-poderosas-2026-3a-etapa-2",
-      "data_inicio": "2026-11-01 09:00:00",
-      "data_fim": "2026-11-01 09:00:00",
-      "descricao": "A 3ª Etapa do Circuito Poderosas 2026, Circuito das Flores, será realizada no dia 01/11/2026 no Aterro do Flamengo, altura do Monumento aos Pracinhas, para as distâncias de 10km e 5Km para Corrida e 3Km para Caminhada. Largadas a partir de 06:30h",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-das-poderosas-2026-3a-etapa-2/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-das-poderosas-2026-3a-etapa-86402",
-      "local": "Aterro do Flamengo",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-27",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496795,
-      "titulo": "Broadway Nights O Musical In Concert 2026",
-      "slug": "broadway-nights-o-musical-in-concert-2026",
-      "data_inicio": "2026-11-01 09:00:00",
-      "data_fim": "2026-11-01 09:00:00",
-      "descricao": "Broadway Nights – O Musical In Concert é um espetáculo musical que apresenta canções consagradas de grandes produções da Broadway e do cinema. A montagem reúne artistas e números inteiramente cantados ao vivo, acompanhados por coreografias, trocas de figurinos, cenografia e projeções que recriam a atmosfera dos tradicionais musicais internacionais. O repertório inclui referências a obras como Grease, O Fantasma da Ópera e New York, New York. A produção tem direção-geral de Bruno Rizzo e direção executiva de Daniela Schiarreta",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/broadway-nights-o-musical-in-concert-2026/",
-      "site_oficial": "https://www.ticket360.com.br/evento/33467/ingressos-para-broadway-2026",
-      "local": "Vivo Rio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-19",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496796,
-      "titulo": "Pink Floyd Experience In Concert",
-      "slug": "pink-floyd-experience-in-concert",
-      "data_inicio": "2026-11-01 09:00:00",
-      "data_fim": "2026-11-01 09:00:00",
-      "descricao": "O Pink Floyd Experience In Concert é um espetáculo musical e visual dedicado à trajetória e ao repertório do Pink Floyd. A produção reúne banda, cantores e orquestra em uma apresentação inteiramente executada ao vivo, acompanhada por projeções, efeitos visuais, iluminação sincronizada, cenografia temática e recursos de projeção mapeada em 3D. O repertório contempla clássicos associados às diferentes fases da banda e às carreiras de David Gilmour e Roger Waters, incluindo músicas como “Mother”, “Wish You Were Here”, “Time” e “Another Brick in the Wall”. O espetáculo busca recriar a atmosfera conceitual e audiovisual que marcou a obra do Pink Floyd, combinando performance musical, tecnologia e elementos sinfônicos.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/pink-floyd-experience-in-concert/",
-      "site_oficial": "https://www.ticket360.com.br/evento/32796/ingressos-para-pink-floyd-experience-in-concert",
-      "local": "Vivo Rio",
-      "contato": {
-        "emails": [
-          "contato@ticket360.com.br"
-        ],
-        "telefones": [
-          "+55-11-2797-0777"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "ticket360"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 30,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-19",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496797,
-      "titulo": "Aventura Congelante – O Legado in Concert 2026",
-      "slug": "aventura-congelante-o-legado-in-concert-2026",
-      "data_inicio": "2026-11-01 09:00:00",
-      "data_fim": "2026-11-01 09:00:00",
-      "descricao": "“Aventura Congelante – O Legado In Concert” é um espetáculo musical infantil inspirado nas aventuras das irmãs Elsa e Anna. Com dois contadores de histórias, elenco de atores, cantores e bailarinos, a montagem apresenta em aproximadamente 70 minutos uma narrativa baseada nas histórias de Frozen e Frozen II. O espetáculo acompanha os personagens desde a infância das irmãs, passando pelo reino de Arendelle e pela Floresta Encantada. As músicas são interpretadas ao vivo pelo elenco.",
-      "categoria": "culturais",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/aventura-congelante-o-legado-in-concert-2026/",
-      "site_oficial": "https://www.ticket360.com.br/evento/33459/ingressos-para-aventura-congelante-2026",
-      "local": "Vivo Rio",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-19",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 495271,
       "titulo": "7th Workshop on Nonlinear Dispersive Equations",
@@ -640,13 +57,15 @@
       "site_oficial": "https://alaci.org/en/3rd-oral-gut-conference/",
       "local": "Fiocruz - Instituto de Comunicação e Informação Científica e Tecnológica em Saúde",
       "contato": {
-        "emails": [],
+        "emails": [
+          "secretariat.alaci@gmail.com"
+        ],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "alaci"
         ],
-        "status": "bloqueado"
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Saúde / Geral",
@@ -738,6 +157,31 @@
       },
       "primeiro_visto": "2026-07-08",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 497051,
+      "titulo": "Brava Arena Jockey 2026",
+      "slug": "brava-arena-jockey-2026",
+      "data_inicio": "2026-11-04 09:00:00",
+      "data_fim": "2026-12-27 09:00:00",
+      "descricao": "A quarta edição da Brava Arena Jockey acontece de 4 de novembro a 31 de dezembro de 2026, no Pião do Prado do Jockey Club Brasileiro, com programação em datas selecionadas. A temporada reúne shows de música brasileira, festas, espetáculos teatrais e atrações infantis, em uma estrutura com tenda climatizada e área gastronômica coberta. Entre as atrações estão Marisa Monte, Pretinho da Serrinha, Capital Inicial, Lenine, Elba Ramalho e Geraldo Azevedo, além do Grupo Triii e do espetáculo Céu da Língua.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/brava-arena-jockey-2026/",
+      "site_oficial": "https://www.ticketmaster.com.br/event/brava-arena-jockey?",
+      "local": "Jockey Club Brasileiro",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1138,7 +582,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-26",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1311,6 +755,31 @@
       "local_coletado": true
     },
     {
+      "id": 497050,
+      "titulo": "Circuito Moove Ilha Carioca – Etapa Praia da Bica 2026",
+      "slug": "circuito-moove-ilha-carioca-etapa-praia-da-bica-2026",
+      "data_inicio": "2026-11-08 09:00:00",
+      "data_fim": "2026-11-08 09:00:00",
+      "descricao": "A etapa Praia da Bica do Circuito Moove Ilha Carioca acontece em 8 de novembro de 2026, na Ilha do Governador, com corrida e caminhada de 5 km e largada às 7h30 na Praça Jerusalém, em Jardim Guanabara. Organizado pela Onze Onze Eventos, o evento integra o circuito de provas da região, com cronometragem eletrônica, medalhas para os concluintes e premiação individual e por equipes. A Etapa Praia da Bica será realizada na Ilha do Governador (Rio de Janeiro / RJ), Data: 08 de Novembro de 2026 Largada: 7:30 horas",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-moove-ilha-carioca-etapa-praia-da-bica-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/circuito-moove-ilha-carioca-etapa-praia-da-bica-88145",
+      "local": "Praia da Bica - Ilha do Governador",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 496526,
       "titulo": "17th Latin American Congress on Organic Geochemistry (ALAGO 2026)",
       "slug": "17th-latin-american-congress-on-organic-geochemistry-alago-2026",
@@ -1418,7 +887,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-26",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -1658,7 +1127,7 @@
     },
     {
       "id": 495267,
-      "titulo": "FISWeek Rio 2026 (FSWK)",
+      "titulo": "fisweek Rio 2026 (#fswk26)",
       "slug": "fisweek-rio-2026",
       "data_inicio": "2026-11-11 09:00:00",
       "data_fim": "2026-11-13 09:00:00",
@@ -1686,9 +1155,7 @@
         "porte_estimado": "grande",
         "porte_justificativa": "Feira/convenção de grande formato.",
         "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [
-          "FSWK"
-        ],
+        "empresas_citadas": [],
         "angulo_comercial": "Evento de tecnologia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
         "relevancia_b2b": 70,
         "_fonte": "heuristica"
@@ -1732,6 +1199,31 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-26",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 497023,
+      "titulo": "SAFE 2026 — Symposium on Analytics for Football Excellence",
+      "slug": "safe-2026-symposium-on-analytics-for-football-excellence",
+      "data_inicio": "2026-11-12 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "Simpósio dedicado à aplicação de ciência de dados, estatística, inteligência artificial e pesquisa operacional no futebol. Reúne pesquisadores, estudantes e profissionais de clubes, federações e empresas, com minicursos, palestras, mesas-redondas e apresentação de trabalhos científicos.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/safe-2026-symposium-on-analytics-for-football-excellence/",
+      "site_oficial": "https://www.even3.com.br/safe2026/",
+      "local": "Escola Superior de Propaganda e Marketing - ESPM",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
       "novo": true,
       "no_feed": false,
       "local_coletado": true
@@ -2028,6 +1520,31 @@
       "local_coletado": true
     },
     {
+      "id": 497048,
+      "titulo": "Corrida e Caminhada Contos Clássicos – Pequena Sereia 2026",
+      "slug": "corrida-e-caminhada-contos-classicos-pequena-sereia-2026",
+      "data_inicio": "2026-11-15 09:00:00",
+      "data_fim": "2026-11-15 09:00:00",
+      "descricao": "📅 Data: 15/11/2026 (domingo) 📍 Local: Parque Madureira — Rio de Janeiro/RJ ⏰ Largada: 8h00 🎭 Tema: inspirado na versão original de *A Pequena Sereia* (1837) 🤝 Evento esportivo e beneficente para incentivar atividade física e apoiar ações sociais ❤️ Ação beneficente: apoio ao Projeto Coração Que Ajuda e ao Projeto Café na Tenda, com arrecadação para famílias e instituições em situação de vulnerabilidade 🧼👕 Também aceitam doações de: itens de limpeza, higiene pessoal e roupas",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-contos-classicos-pequena-sereia-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+CONTOS+CL%C3%81SSICOS+-+PEQUENA+SEREIA-86528",
+      "local": "Parque de Madureira",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 496891,
       "titulo": "31º Congresso Internacional de Transporte Aquaviário, Construção Naval e Offshore — SOBENA",
       "slug": "31o-congresso-internacional-de-transporte-aquaviario-construcao-naval-e-offshore-sobena",
@@ -2068,7 +1585,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-26",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2353,7 +1870,9 @@
           "algsilva@unicamp.br",
           "antoniotostes@gmail.com",
           "brunnacanespsi@gmail.com",
+          "edson.sodre@edu.unirio.br",
           "evelyn.orrico@unirio.br",
+          "geisateless@edu.unirio.br",
           "jotacarvalhojunior@gmail.com",
           "luizdmagalhaes@gmail.com",
           "sidneyyo.ssousa@edu.unirio.br",
@@ -2428,6 +1947,31 @@
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 497047,
+      "titulo": "Circuito Running Music – Etapa Rio de Janeiro 2026",
+      "slug": "circuito-running-music-etapa-rio-de-janeiro-2026",
+      "data_inicio": "2026-11-20 09:00:00",
+      "data_fim": "2026-11-20 09:00:00",
+      "descricao": "Evento que reúne corrida, caminhada, show musical e ativações de parceiros, combinando esporte e entretenimento no Aterro do Flamengo",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-running-music-etapa-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/circuito-running-music-etapa-rio-de-janeiro-88365",
+      "local": "Aterro do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2562,6 +2106,31 @@
       "inteligencia": null,
       "primeiro_visto": "2026-10-19",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 497046,
+      "titulo": "Rio Va’a 2026",
+      "slug": "rio-vaa-2026",
+      "data_inicio": "2026-11-21 09:00:00",
+      "data_fim": "2026-11-22 09:00:00",
+      "descricao": "A Praia do Flamengo recebe, nos dias 21 e 22 de novembro, a 25ª Rio Va’a, competição internacional de canoa polinésia que reúne a 11ª Aito Va’a Brasil e a Copa Sul-Americana de Clubes. Organizado pelo Rio Va’a Clube, o evento terá provas individuais e por equipes na Baía de Guanabara, com percursos de diferentes distâncias e categorias para jovens, adultos, másteres e atletas de parava’a.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-vaa-2026/",
+      "site_oficial": "https://riovaa.com/rio-vaa-2026/",
+      "local": "Praia do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2742,7 +2311,7 @@
         "produtoras_inferidas": [
           "assespro"
         ],
-        "status": "sem_contato"
+        "status": "erro"
       },
       "inteligencia": {
         "segmento": "Energia / Óleo e Gás",
@@ -2856,7 +2425,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-26",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3014,7 +2583,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-26",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3157,6 +2726,31 @@
       "inteligencia": null,
       "primeiro_visto": "2026-07-08",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 497045,
+      "titulo": "Corrida e Caminhada Piratas do Asfalto 2026",
+      "slug": "corrida-e-caminhada-piratas-do-asfalto-2026",
+      "data_inicio": "2026-11-29 09:00:00",
+      "data_fim": "2026-11-29 09:00:00",
+      "descricao": "Corrida e caminhada de 4 km no Parque Madureira, com caráter beneficente e arrecadação de alimentos em apoio aos projetos Coração Que Ajuda e Café na Tenda.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-piratas-do-asfalto-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADAS+PIRATAS+DO+ASFALTO-87552",
+      "local": "Parque de Madureira",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3315,7 +2909,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-26",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3340,7 +2934,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-10-26",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3374,6 +2968,31 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-26",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 497044,
+      "titulo": "Corrida Kids Caça ao Tesouro 2026",
+      "slug": "corrida-kids-caca-ao-tesouro-2026",
+      "data_inicio": "2026-12-05 09:00:00",
+      "data_fim": "2026-12-05 09:00:00",
+      "descricao": "A Corrida Kids Caça ao Tesouro acontece em 5 de dezembro de 2026, em Campo Grande, com atividades de corrida e caminhada infantis, baterias organizadas por faixa etária e uma brincadeira de caça ao tesouro. Organizado pelo Circuito Carioca, o evento tem caráter beneficente e promove a arrecadação de alimentos para apoiar projetos sociais, com medalhas para os participantes que concluírem os percursos.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-kids-caca-ao-tesouro-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-kids-caca-ao-tesouro-88437",
+      "local": "Rua Walter Barbosa - Campo Grande",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
       "novo": true,
       "no_feed": false,
       "local_coletado": true
@@ -3551,6 +3170,31 @@
       "local_coletado": true
     },
     {
+      "id": 497042,
+      "titulo": "Henrique & Juliano — Manifesto Musical — Rio de Janeiro 2026",
+      "slug": "henrique-juliano-manifesto-musical-rio-de-janeiro-2026",
+      "data_inicio": "2026-12-12 09:00:00",
+      "data_fim": "2026-12-12 09:00:00",
+      "descricao": "Show da dupla sertaneja Henrique & Juliano no Estádio do Maracanã, marcando o encerramento da turnê Manifesto Musical de 2026, com repertório dedicado aos sucessos da carreira.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/henrique-juliano-manifesto-musical-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.guicheweb.com.br/manifesto-musical-maracana_55945",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 495711,
       "titulo": "Inclusão a Toda Prova – Rio de Janeiro 2026",
       "slug": "inclusao-a-toda-prova-rio-de-janeiro-2026",
@@ -3560,7 +3204,7 @@
       "categoria": "esportivos",
       "categoria_fonte": "visitrio",
       "url_visitrio": "https://visitrio.com.br/evento/inclusao-a-toda-prova-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.instagram.com/p/DX9_MoCBTr0/?hl=pt",
+      "site_oficial": "https://www.instagram.com/p/Dadwk8DoDBK/?hl=pt",
       "local": "Aterro do Flamengo",
       "contato": {
         "emails": [],
@@ -3572,6 +3216,56 @@
       "inteligencia": null,
       "primeiro_visto": "2026-07-08",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496857,
+      "titulo": "Corrida de Natal 2026 – Musal",
+      "slug": "corrida-de-natal-2026-musal",
+      "data_inicio": "2026-12-13 09:00:00",
+      "data_fim": "2026-12-13 09:00:00",
+      "descricao": "A Corrida de Natal 2026 — MUSAL é uma competição esportiva temática realizada no Museu Aeroespacial, em Campo dos Afonsos. Promovida pela All Running, a programação reúne corrida de 5 km e caminhada de 3 km em um ambiente de confraternização e celebração natalina. O evento encerra o calendário anual de corridas da organizadora e proporciona aos participantes uma experiência diferenciada dentro do complexo aeronáutico. Todos os atletas que completarem a prova recebem medalha, com troféus para os primeiros colocados na classificação geral, por faixa etária e para as cinco maiores equipes inscritas.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-de-natal-2026-musal/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-de-natal-2026-musal-88045?utm_source=corrida360&utm_medium=site",
+      "local": "Museu Aeroespacial - MUSAL",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 497041,
+      "titulo": "Corrida e Caminhada Contos Clássicos – Maui",
+      "slug": "corrida-e-caminhada-contos-classicos-maui",
+      "data_inicio": "2026-12-13 09:00:00",
+      "data_fim": "2026-12-13 09:00:00",
+      "descricao": "A Corrida e Caminhada Contos Clássicos – Maui acontece em 13 de dezembro de 2026, no Parque Madureira, com percursos de 7 km e largada às 7h30. Organizado pelo Circuito Carioca e inspirado no conto polinésio de Maui, o evento combina prática esportiva e solidariedade, com arrecadação de alimentos para apoiar projetos sociais. 📅 Data: 13/12/2026 📍 Local: Parque Madureira 🏃 Modalidades: Corrida 7 km e Caminhada 7 km ⏰ Largada: 7h30",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-contos-classicos-maui/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-e-caminhada-contos-classicos-maui-88297",
+      "local": "Parque de Madureira",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3676,6 +3370,31 @@
       "local_coletado": true
     },
     {
+      "id": 497040,
+      "titulo": "Circuito RJ 2026 – 3ª Etapa",
+      "slug": "circuito-rj-2026-3a-etapa",
+      "data_inicio": "2026-12-20 09:00:00",
+      "data_fim": "2026-12-20 09:00:00",
+      "descricao": "A terceira etapa do Circuito RJ 2026 acontece em 20 de dezembro, no Aterro do Flamengo, com largada na altura do Monumento aos Pracinhas. Organizada pela CPR Eventos e Produções, a competição oferece corridas de 5 km e 10 km, com cronometragem eletrônica, medalhas para os concluintes e premiação por classificação geral e faixa etária.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-rj-2026-3a-etapa/",
+      "site_oficial": "https://www.ticketsports.com.br/e/circuito-rj-2026-3a-etapa-87928",
+      "local": "Aterro do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 496852,
       "titulo": "Rio Maravilha Seasons 2026",
       "slug": "rio-maravilha-seasons-2026",
@@ -3757,7 +3476,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-26",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3846,6 +3565,31 @@
       "inteligencia": null,
       "primeiro_visto": "2026-09-14",
       "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 497022,
+      "titulo": "Ensaios da Anitta 2027 — Rio de Janeiro",
+      "slug": "ensaios-da-anitta-2027-rio-de-janeiro",
+      "data_inicio": "2027-01-24 09:00:00",
+      "data_fim": "2027-01-24 09:00:00",
+      "descricao": "Os Ensaios da Anitta são uma série de grandes shows pré-Carnaval realizados por Anitta em diferentes cidades brasileiras, combinando repertório da cantora, funk, pop, axé e ritmos carnavalescos com participações especiais e produção visual temática. Em 2027, a temporada terá como conceito “Festas do Brasil”, celebrando diferentes manifestações populares e tradições festivas brasileiras. A edição passa por oito cidades durante janeiro, com o Rio recebendo uma apresentação especial no Parque Olímpico",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/ensaios-da-anitta-2027-rio-de-janeiro/",
+      "site_oficial": "https://www.carnavaldaanitta.com.br/?utm_source=chatgpt.com",
+      "local": "Parque Olímpico",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": true,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4232,13 +3976,15 @@
       "site_oficial": "https://www.rocscience.com/events/rocscience-international-conference-2027",
       "local": "Grand Hyatt Rio de Janeiro",
       "contato": {
-        "emails": [],
+        "emails": [
+          "ric2027@rocscience.com"
+        ],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "rocscience"
         ],
-        "status": "sem_contato"
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Ciência / Acadêmico",
@@ -4249,7 +3995,7 @@
           "RIC2027"
         ],
         "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 70,
+        "relevancia_b2b": 80,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-10-05",
@@ -4658,13 +4404,15 @@
       "site_oficial": "https://fidaghoficial.org/cigeh-2027/",
       "local": "AXIA Marina da Glória",
       "contato": {
-        "emails": [],
+        "emails": [
+          "info@fidaghoficial.org"
+        ],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "fidaghoficial"
         ],
-        "status": "bloqueado"
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Ciência / Acadêmico",
@@ -4846,51 +4594,6 @@
       "local_coletado": true
     },
     {
-      "id": 496522,
-      "titulo": "20º Congresso Científico Internacional de Saúde Estética",
-      "slug": "20o-congresso-cientifico-internacional-de-saude-estetica",
-      "data_inicio": "2027-06-26 09:00:00",
-      "data_fim": "2027-06-28 09:00:00",
-      "descricao": "O Congresso Científico Internacional de Saúde Estética reúne profissionais, pesquisadores, professores e estudantes para atualização sobre técnicas, protocolos e tecnologias aplicadas à estética. A programação combina palestras científicas, demonstrações práticas e apresentações de especialistas nacionais e internacionais, abordando temas como cosmetologia, estética facial e corporal, tecnologias eletroterápicas, rejuvenescimento, terapias regenerativas, cuidados com a pele, segurança clínica e gestão profissional. Os congressistas também têm acesso à feira Estética in Rio, que reúne marcas de equipamentos, dermocosméticos, produtos e serviços voltados ao setor de saúde, beleza e bem-estar.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/20o-congresso-cientifico-internacional-de-saude-estetica/",
-      "site_oficial": "https://www.esteticainrio.com.br/congresso-estetica.php",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [
-          "atendimento@esteticainrio.com.br"
-        ],
-        "telefones": [
-          "(11) 99173-8611",
-          "(11) 99426-5709",
-          "(11) 99468-1868",
-          "(11) 99478-3593"
-        ],
-        "whatsapp": [
-          "5521999124897"
-        ],
-        "produtoras_inferidas": [
-          "esteticainrio"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-21",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 496523,
       "titulo": "2º RegenERA Longevity – Fórum de Epigenética e Regeneração Aplicadas à Longevidade",
       "slug": "2o-regenera-longevity-forum-de-epigenetica-e-regeneracao-aplicadas-a-longevidade",
@@ -4928,6 +4631,51 @@
         "empresas_citadas": [],
         "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
         "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-21",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496522,
+      "titulo": "20º Congresso Científico Internacional de Saúde Estética",
+      "slug": "20o-congresso-cientifico-internacional-de-saude-estetica",
+      "data_inicio": "2027-06-26 09:00:00",
+      "data_fim": "2027-06-28 09:00:00",
+      "descricao": "O Congresso Científico Internacional de Saúde Estética reúne profissionais, pesquisadores, professores e estudantes para atualização sobre técnicas, protocolos e tecnologias aplicadas à estética. A programação combina palestras científicas, demonstrações práticas e apresentações de especialistas nacionais e internacionais, abordando temas como cosmetologia, estética facial e corporal, tecnologias eletroterápicas, rejuvenescimento, terapias regenerativas, cuidados com a pele, segurança clínica e gestão profissional. Os congressistas também têm acesso à feira Estética in Rio, que reúne marcas de equipamentos, dermocosméticos, produtos e serviços voltados ao setor de saúde, beleza e bem-estar.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/20o-congresso-cientifico-internacional-de-saude-estetica/",
+      "site_oficial": "https://www.esteticainrio.com.br/congresso-estetica.php",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [
+          "atendimento@esteticainrio.com.br"
+        ],
+        "telefones": [
+          "(11) 99173-8611",
+          "(11) 99426-5709",
+          "(11) 99468-1868",
+          "(11) 99478-3593"
+        ],
+        "whatsapp": [
+          "5521999124897"
+        ],
+        "produtoras_inferidas": [
+          "esteticainrio"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-21",
@@ -5135,13 +4883,19 @@
       "site_oficial": "https://www.congressosonafe.com.br/",
       "local": "Riocentro Convention & Events Center",
       "contato": {
-        "emails": [],
-        "telefones": [],
+        "emails": [
+          "congressosonafe2027@interevent.com.br",
+          "congressosonaferj@sonafe.org.br",
+          "secretaria@sonafe.org.br"
+        ],
+        "telefones": [
+          "+55 21 99746-0892"
+        ],
         "whatsapp": [],
         "produtoras_inferidas": [
-          "eventos"
+          "congressosonafe"
         ],
-        "status": "sem_contato"
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Saúde / Geral",
@@ -5152,7 +4906,7 @@
           "SONAFE"
         ],
         "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
+        "relevancia_b2b": 90,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-14",
@@ -5305,6 +5059,589 @@
       "primeiro_visto": "2026-09-21",
       "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 494320,
+      "titulo": "Congresso Brasileiro de Hematologia, Hemoterapia e Terapia Celular – HEMO 2026",
+      "slug": "congresso-brasileiro-de-hematologia-hemoterapia-e-terapia-celular-hemo-2026",
+      "data_inicio": "2026-10-28 09:00:00",
+      "data_fim": "2026-10-31 09:00:00",
+      "descricao": "Vem aí o HEMO 2026 – Congresso Brasileiro de Hematologia, Hemoterapia e Terapia Celular. O evento contará com: Conteúdo científico de excelência em diversas áreas temáticas Apresentação de trabalhos científicos Feira de exposição com as principais inovações do setor Certificação de participação Aplicativo oficial para acompanhar toda a programação. Fique atento às atualizações no site oficial do evento.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/congresso-brasileiro-de-hematologia-hemoterapia-e-terapia-celular-hemo-2026/",
+      "site_oficial": "https://hemo.org.br/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [
+          "camila.matheus@abhh.org.br",
+          "gabriel.teixeira@abhh.org.br"
+        ],
+        "telefones": [
+          "(11) 2369-7767"
+        ],
+        "whatsapp": [
+          "5511920677875"
+        ],
+        "produtoras_inferidas": [
+          "ABHH"
+        ],
+        "status": "coletado",
+        "fonte": "manual",
+        "travado": true
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Hematologia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "HEMO"
+        ],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 90,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495133,
+      "titulo": "4th World Congress of Global Scar Society",
+      "slug": "4th-world-congress-of-global-scar-society",
+      "data_inicio": "2026-10-28 09:00:00",
+      "data_fim": "2026-10-31 09:00:00",
+      "descricao": "4° Congresso Mundial da Global Scar Society que reunirá especialistas internacionais no tratamento de cicatrizes. Dematologistas e cirurgiões plásticos, pesquisadores e membros da indústria farmacêutica e estética.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/4th-world-congress-of-global-scar-society/",
+      "site_oficial": "https://www.scarscongress.com.br/scarscongress2026",
+      "local": "Square Design Hotel",
+      "contato": {
+        "emails": [
+          "deise@taoassessoria.com.br"
+        ],
+        "telefones": [
+          "(11) 96280-0116"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "Tao Assessoria",
+          "Global Scar Society"
+        ],
+        "status": "coletado",
+        "fonte": "manual",
+        "travado": true
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Especialidades",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 90,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496434,
+      "titulo": "RTA Brasil Sudeste – I Congresso Brasileiro de Fisioterapia Respiratória Funcional Global 2026",
+      "slug": "rta-brasil-sudeste-i-congresso-brasileiro-de-fisioterapia-respiratoria-funcional-global-2026",
+      "data_inicio": "2026-10-28 09:00:00",
+      "data_fim": "2026-10-31 09:00:00",
+      "descricao": "O RTA Brasil Sudeste é o primeiro Congresso Brasileiro de Fisioterapia Respiratória Funcional Global dedicado ao Método Reequilíbrio Toracoabdominal. Durante quatro dias, o evento reunirá fisioterapeutas, médicos, fonoaudiólogos, enfermeiros, terapeutas ocupacionais, estudantes e outros profissionais da saúde para discutir evidências científicas e aplicações clínicas relacionadas ao cuidado respiratório. A programação inclui sete cursos pré-congresso, mais de 30 palestrantes, relatos de casos e mesas-redondas sobre neonatologia, pediatria, terapia intensiva, asma, Parkinson, síndrome de Down, ultrassonografia cinesiológica e integração entre respiração, movimento e funcionalidade.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/rta-brasil-sudeste-i-congresso-brasileiro-de-fisioterapia-respiratoria-funcional-global-2026/",
+      "site_oficial": "https://www.sympla.com.br/evento/rta-brasil-sudeste-i-congresso-brasileiro-de-fisioterapia-respiratoria-funcional-global/3291716",
+      "local": "OUTROS",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494319,
+      "titulo": "4th World Congress of Trichoscopy",
+      "slug": "4th-world-congress-of-trichoscopy",
+      "data_inicio": "2026-10-29 09:00:00",
+      "data_fim": "2026-11-01 09:00:00",
+      "descricao": "O World Congress of Trichoscopy é um congresso médico-científico internacional dedicado ao estudo da tricologia por dermatoscopia (tricoscopia), focado no diagnóstico e manejo das doenças do couro cabeludo e dos cabelos. O evento reúne dermatologistas, pesquisadores, médicos especialistas e profissionais de saúde, promovendo atualização científica, discussão de casos clínicos e avanços diagnósticos.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/4th-world-congress-of-trichoscopy/",
+      "site_oficial": "https://itsrio2026.com/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "itsrio2026"
+        ],
+        "status": "bloqueado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Dermatologia",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496433,
+      "titulo": "Green Rio Tech 2026",
+      "slug": "green-rio-tech-2026",
+      "data_inicio": "2026-10-29 09:00:00",
+      "data_fim": "2026-10-30 09:00:00",
+      "descricao": "O Green Rio Tech / Blue Economy RIO Summit reúne empresas, startups, instituições de pesquisa, representantes governamentais, organismos internacionais e profissionais ligados à economia verde. O evento combina feira de negócios, conferências, painéis técnicos, apresentação de tecnologias, rodadas de negócios e atividades de relacionamento. A programação de 2026 abordará temas como bioinsumos, biocombustíveis, economia circular, transição energética, economia azul, cidades e clima, turismo sustentável, mobilidade, nutrição, inovação e soluções ambientais.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/green-rio-tech-2026/",
+      "site_oficial": "https://www.greenrio.com.br/index.php/quero-ser-expositor/",
+      "local": "AXIA Marina da Glória",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "greenrio"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de finanças de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496637,
+      "titulo": "Matteo Bocelli — “Falling in Love World Tour”",
+      "slug": "matteo-bocelli-falling-in-love-world-tour",
+      "data_inicio": "2026-10-29 09:00:00",
+      "data_fim": "2026-10-29 09:00:00",
+      "descricao": "O cantor, compositor e pianista italiano Matteo Bocelli apresenta a turnê mundial “Falling in Love”, baseada em seu segundo álbum. O espetáculo combina pop contemporâneo e influências clássicas italianas, com repertório centrado em temas como amor, vulnerabilidade e conexão humana.",
+      "categoria": "outros",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/matteo-bocelli-falling-in-love-world-tour/",
+      "site_oficial": "https://vivorio.com.br/eventos/matteo-bocelli/",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496636,
+      "titulo": "2º CONDPEN-RIO — Congresso Nacional de Direito Penal",
+      "slug": "2o-condpen-rio-congresso-nacional-de-direito-penal",
+      "data_inicio": "2026-10-30 09:00:00",
+      "data_fim": "2026-10-31 09:00:00",
+      "descricao": "Congresso voltado ao Direito Penal e ao Processo Penal, reunindo advogados criminalistas, magistrados, promotores, peritos, acadêmicos e estudantes de diferentes regiões do Brasil. A programação inclui palestras, debates, networking profissional, lançamentos de livros e publicação de uma obra coletiva com artigos científicos.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/2o-condpen-rio-congresso-nacional-de-direito-penal/",
+      "site_oficial": "https://www.condpen.com.br/",
+      "local": "Américas Barra Hotel e Eventos",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "condpen"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Jurídico",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "advogados, magistrados e departamentos jurídicos",
+        "empresas_citadas": [
+          "CONDPEN",
+          "RIO"
+        ],
+        "angulo_comercial": "Evento de jurídico de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495272,
+      "titulo": "Carioca Matsuri 2026",
+      "slug": "carioca-matsuri-2026",
+      "data_inicio": "2026-10-31 09:00:00",
+      "data_fim": "2026-11-02 09:00:00",
+      "descricao": "O Carioca Matsuri é um festival cultural inspirado na cultura japonesa, reunindo experiências de: Gatronomia Oriental Cultura Apresentações artísticas Workshops Entre outras atividades culturais Local: Riocentro Dias 31/1 à 02/11.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/carioca-matsuri-2026/",
+      "site_oficial": "https://www.instagram.com/cariocamatsuri/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 3 dias.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495722,
+      "titulo": "Corrida Noturna Runlloween 2ª Edição",
+      "slug": "corrida-noturna-runlloween-2a-edicao",
+      "data_inicio": "2026-10-31 09:00:00",
+      "data_fim": "2026-10-31 09:00:00",
+      "descricao": "Prepare-se para uma noite de adrenalina e diversão na Runlloween, a corrida temática mais aguardada do ano! 🏃‍♀️🎉 📅 Data: 31 de Outubro ⏰ Horário: 19:00 📍 Local: Museu Aeroespacial (MUSAL) Em um cenário mágico e misterioso, você terá a oportunidade de participar em duas modalidades: Corrida de 5km 🏅 Caminhada de 3km 🚶‍♂️ Venha com seu melhor traje de Halloween, com muita criatividade e espírito de aventura! Uma experiência única que vai te fazer correr (ou caminhar) em meio ao clima assustador e encantador dessa data tão especial.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-noturna-runlloween-2a-edicao/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-noturna-runlloween-2o-edicao-86265",
+      "local": "Museu Aeroespacial - MUSAL",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496711,
+      "titulo": "8ª edição Cria Brasil 2026",
+      "slug": "8a-edicao-cria-brasil-2026",
+      "data_inicio": "2026-10-31 09:00:00",
+      "data_fim": "2026-10-31 09:00:00",
+      "descricao": "O CriaBrasil reúne pessoas, projetos, organizações e empresas em um dia de conteúdo, conexão, experiências e reconhecimento de iniciativas que geram impacto positivo. ㅤ Nesta 8ª edição, o evento se organiza em 4 trilhas que conectam diferentes dimensões da transformação: ㅤ > TRILHA VIBRAÇÃO: Economia Criativa – Arte, cultura, audiovisual, design, novas linguagens e produção cultural. ㅤ > TRILHA IMPULSO: Esporte & Performance – O esporte como ferramenta de ascensão, comunidade, disciplina e inclusão. ㅤ > TRILHA REGENERA: Sustentabilidade – ESG na prática, consumo consciente, transição energética e soluções para um futuro mais sustentável. ㅤ > TRILHA CONEXÃO: Social, Inovação & Comunidade – Diversidade, equidade, inovação social, impacto periférico e redes de apoio. ㅤ",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/8a-edicao-cria-brasil-2026/",
+      "site_oficial": "https://criabrasil.art.br/",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "criabrasil"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de finanças de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496798,
+      "titulo": "Corrida Noturna Mitos – Gato Preto 2026",
+      "slug": "corrida-noturna-mitos-gato-preto-2026",
+      "data_inicio": "2026-10-31 09:00:00",
+      "data_fim": "2026-10-31 09:00:00",
+      "descricao": "📅 Data: 31/10/2026 📍 Local: Parque Madureira – RJ ⏰ Largada: 18h00 🏃 Modalidades: Corrida 4 km e Caminhada 4 km ❤️ Evento beneficente em apoio ao Projeto Coração Que Ajuda e ao Projeto Café na Tenda, com arrecadação de alimentos e doações para famílias e instituições necessitadas. 📞 Informações/contato: (21) 99076-6733 – Philípe Pinheiro",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-noturna-mitos-gato-preto-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-noturna-mitos-gato-preto-87522",
+      "local": "Parque de Madureira",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496799,
+      "titulo": "Jão – Turnê Memórias Póstumas",
+      "slug": "jao-turne-memorias-postumas",
+      "data_inicio": "2026-10-31 09:00:00",
+      "data_fim": "2026-10-31 09:00:00",
+      "descricao": "Jão apresenta no Rio de Janeiro a Turnê Memórias Póstumas, espetáculo baseado no álbum homônimo lançado pelo cantor em 2026. A apresentação marca uma nova fase da carreira do artista e combina repertório do novo trabalho com canções consagradas de sua trajetória. Produzida para grandes arenas, a turnê conta com proposta visual, cenográfica e narrativa inspirada na estética lírica e nostálgica do álbum. A etapa carioca acontece na Farmasi Arena e integra uma circulação por cinco capitais brasileiras: Rio de Janeiro, Belo Horizonte, Recife, Brasília e São Paulo.",
+      "categoria": "outros",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/jao-turne-memorias-postumas/",
+      "site_oficial": "https://www.eventim.com.br/artist/jao/jao-turne-memorias-postumas-4252486/",
+      "local": "Farmasi Arena",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496895,
+      "titulo": "Breakfast Weekend 4ª Edição – 2026",
+      "slug": "breakfast-weekend-4a-edicao-2026",
+      "data_inicio": "2026-10-31 09:00:00",
+      "data_fim": "2026-11-29 09:00:00",
+      "descricao": "O Breakfast Weekend – Festival de Cafés da Manhã retorna ao Rio de Janeiro para sua 3ª edição e será realizado entre 28 de março e 26 de abril de 2026. O festival reúne hotéis, cafeterias, padarias gourmet e confeitarias da capital fluminense para oferecer ao público experiências exclusivas de café da manhã, com menus criados especialmente para o evento e valores promocionais. A proposta do Breakfast Weekend é valorizar o café da manhã como uma experiência gastronômica e de lazer, ampliando o acesso do público a estabelecimentos reconhecidos pela qualidade, pelo serviço e pela identidade local. No Rio de Janeiro, o festival se conecta diretamente ao estilo de vida da cidade, marcada pela diversidade cultural, pela hospitalidade, pelo turismo e por uma cena gastronômica que une tradição, criatividade e experiências à mesa. Durante o período do evento, os estabelecimentos participantes oferecem menus exclusivos organizados em diferentes faixas de preço, estimulando novos hábitos de consumo e ampliando o fluxo de clientes. O festival se consolida também como uma plataforma de visibilidade, relacionamento e geração de negócios, fortalecendo a economia gastronômica local e o turismo urbano.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/breakfast-weekend-4a-edicao-2026/",
+      "site_oficial": "https://breakfastweekend.com.br/",
+      "local": "Vários locais",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "breakfastweekend"
+        ],
+        "status": "bloqueado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento longo, 30 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 497004,
+      "titulo": "Gastronomia sem Fronteiras 2026",
+      "slug": "gastronomia-sem-fronteiras-2026",
+      "data_inicio": "2026-10-31 09:00:00",
+      "data_fim": "2026-11-08 09:00:00",
+      "descricao": "O Gastronomia Sem Fronteiras 2026 é um festival gastronômico e cultural de caráter B2C que celebra a diversidade culinária global, unindo sabores de diferentes nacionalidades em um único espaço. O evento funciona como uma grande vitrine da gastronomia internacional, apresentando pratos típicos elaborados por chefs renomados e restaurantes de destaque, sempre com o objetivo de promover o intercâmbio cultural por meio do paladar. Além das experiências degustativas, o festival oferece uma programação rica que inclui aulas-show, palestras educativas sobre técnicas culinárias e segurança alimentar, e atividades de entretenimento para toda a família. O projeto destaca-se não apenas pela curadoria gastronômica de alta qualidade, mas também por sua atmosfera vibrante, que combina música ao vivo e áreas de convivência, tornando-se um ponto de encontro estratégico para amantes da boa mesa e profissionais do setor alimentício. Acontece somente nos dias 31/10, 01/11, 07/11 e 08/11, e não durante todo o intervalo.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/gastronomia-sem-fronteiras-2026/",
+      "site_oficial": "https://www.gastronomiasemfronteiras25.com.br/",
+      "local": "São Conrado Fashion Mall",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "gastronomiasemfronteiras25"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Energia / Óleo e Gás",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 9 dias.",
+        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de energia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495954,
+      "titulo": "Corrida Das Poderosas 2026 – 3ª Etapa",
+      "slug": "corrida-das-poderosas-2026-3a-etapa-2",
+      "data_inicio": "2026-11-01 09:00:00",
+      "data_fim": "2026-11-01 09:00:00",
+      "descricao": "A 3ª Etapa do Circuito Poderosas 2026, Circuito das Flores, será realizada no dia 01/11/2026 no Aterro do Flamengo, altura do Monumento aos Pracinhas, para as distâncias de 10km e 5Km para Corrida e 3Km para Caminhada. Largadas a partir de 06:30h",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-das-poderosas-2026-3a-etapa-2/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-das-poderosas-2026-3a-etapa-86402",
+      "local": "Aterro do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-27",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496795,
+      "titulo": "Broadway Nights O Musical In Concert 2026",
+      "slug": "broadway-nights-o-musical-in-concert-2026",
+      "data_inicio": "2026-11-01 09:00:00",
+      "data_fim": "2026-11-01 09:00:00",
+      "descricao": "Broadway Nights – O Musical In Concert é um espetáculo musical que apresenta canções consagradas de grandes produções da Broadway e do cinema. A montagem reúne artistas e números inteiramente cantados ao vivo, acompanhados por coreografias, trocas de figurinos, cenografia e projeções que recriam a atmosfera dos tradicionais musicais internacionais. O repertório inclui referências a obras como Grease, O Fantasma da Ópera e New York, New York. A produção tem direção-geral de Bruno Rizzo e direção executiva de Daniela Schiarreta",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/broadway-nights-o-musical-in-concert-2026/",
+      "site_oficial": "https://www.ticket360.com.br/evento/33467/ingressos-para-broadway-2026",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496796,
+      "titulo": "Pink Floyd Experience In Concert",
+      "slug": "pink-floyd-experience-in-concert",
+      "data_inicio": "2026-11-01 09:00:00",
+      "data_fim": "2026-11-01 09:00:00",
+      "descricao": "O Pink Floyd Experience In Concert é um espetáculo musical e visual dedicado à trajetória e ao repertório do Pink Floyd. A produção reúne banda, cantores e orquestra em uma apresentação inteiramente executada ao vivo, acompanhada por projeções, efeitos visuais, iluminação sincronizada, cenografia temática e recursos de projeção mapeada em 3D. O repertório contempla clássicos associados às diferentes fases da banda e às carreiras de David Gilmour e Roger Waters, incluindo músicas como “Mother”, “Wish You Were Here”, “Time” e “Another Brick in the Wall”. O espetáculo busca recriar a atmosfera conceitual e audiovisual que marcou a obra do Pink Floyd, combinando performance musical, tecnologia e elementos sinfônicos.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/pink-floyd-experience-in-concert/",
+      "site_oficial": "https://www.ticket360.com.br/evento/32796/ingressos-para-pink-floyd-experience-in-concert",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [
+          "contato@ticket360.com.br"
+        ],
+        "telefones": [
+          "+55-11-2797-0777"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "ticket360"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 30,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-19",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496797,
+      "titulo": "Aventura Congelante – O Legado in Concert 2026",
+      "slug": "aventura-congelante-o-legado-in-concert-2026",
+      "data_inicio": "2026-11-01 09:00:00",
+      "data_fim": "2026-11-01 09:00:00",
+      "descricao": "“Aventura Congelante – O Legado In Concert” é um espetáculo musical infantil inspirado nas aventuras das irmãs Elsa e Anna. Com dois contadores de histórias, elenco de atores, cantores e bailarinos, a montagem apresenta em aproximadamente 70 minutos uma narrativa baseada nas histórias de Frozen e Frozen II. O espetáculo acompanha os personagens desde a infância das irmãs, passando pelo reino de Arendelle e pela Floresta Encantada. As músicas são interpretadas ao vivo pelo elenco.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/aventura-congelante-o-legado-in-concert-2026/",
+      "site_oficial": "https://www.ticket360.com.br/evento/33459/ingressos-para-aventura-congelante-2026",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     },
     {
@@ -5555,6 +5892,7 @@
           "erick.lorenzato@gmail.com",
           "fernandamarques1077@gmail.com",
           "franciscosilva@ic.ufrj.br",
+          "gabrielcasulari@peb.ufrj.br",
           "jaciarasantoos8@gmail.com",
           "jandre@peb.ufrj.br",
           "kellyraynara1023@gmail.com",
@@ -5571,6 +5909,7 @@
           "patricia.lucas@ifnmg.edu.br",
           "renan@peb.ufrj.br",
           "sergio.thode@ifrj.edu.br",
+          "viviane.valladao@gmail.com",
           "viviane.valladao@ima.ufrj.br"
         ],
         "telefones": [],
@@ -5656,12 +5995,15 @@
           "abitrigo@wenter.com.br",
           "anaflavia@attualecomunicacao.com.br",
           "comercial@triplem.com.br",
-          "reservas@triplem.com.br",
+          "reservas@laghettolifestyle.com.br",
+          "reservas@radissonbarra.com.br",
           "sonia@apricot.com.br"
         ],
         "telefones": [
-          "+55 21 97126-0904",
-          "+55 21 98604-8523"
+          "(21) 2195-7800",
+          "(21) 3609 1100",
+          "+55 21 98604-8523",
+          "0800 000 1777"
         ],
         "whatsapp": [],
         "produtoras_inferidas": [
@@ -5701,23 +6043,28 @@
           "ana.gama@fiocruz.br",
           "armando.nembri@fiocruz.br",
           "contatogeraldonogueira@gmail.com",
+          "dan.pazos@gmail.com",
           "danielapastore@gmail.com",
           "dantasbianca@gmail.com",
           "dubocmarilda@gmail.com",
           "elikatakimoto@gmail.com",
           "fcpinto@ufrj.br",
           "fuks.leonardo@gmail.com",
+          "isabellareginap.antunes@gmail.com",
           "jeanne@ime.uerj.br",
           "julio@poli.ufrj.br",
           "lygianiemeyer@gmail.com",
           "marcia.soalheiro@fiocruz.br",
           "marialucia@grillo.com.br",
+          "marta.ribeiro@fiocruz.br",
           "moyses.acustica@gmail.com",
           "nayaragevu@gmail.com",
+          "rdasilva@telesat.com",
           "ritagomes@sgaada.ufrj.br",
           "sobrac.rj@gmail.com",
           "stephanielivss@gmail.com",
           "submissao.farj@gmail.com",
+          "vinicius@tecnicaacustica.com.br",
           "walkiria.pontes@fiocruz.br",
           "zmsoares@inmetro.gov.br"
         ],
@@ -5879,13 +6226,14 @@
         "emails": [
           "abebe.ofa@gmail.com",
           "advogadavivianesilva@gmail.com",
+          "alec56oliveira@gmail.com",
           "alexandresilva@ufsj.edu.br",
           "amaessistentesocial@gmail.com",
           "amanda.lemos@unisuam.edu.br",
           "apmbsantos@gmail.com",
           "arianaksantos@gmail.com",
-          "charlestonassis@id.uff.br",
           "cibsesoufrj@gmail.com",
+          "daniela.costa@ipub.ufrj.br",
           "dannymedeiro@hotmail.com",
           "ednacm25@gmail.com",
           "ernanicmendes@gmail.com",
@@ -5898,15 +6246,19 @@
           "janicerealina@gmail.com",
           "julianakelly2308@gmail.com",
           "julianamartins@criola.org.br",
+          "julianovaes@id.uff.br",
           "katia.souza@fiocruz.br",
           "libiamafra@gmail.com",
           "luciana_firmino@yahoo.com.br",
+          "luize@casafluminense.org.br",
           "marcia.alves.geo@gmail.com",
           "mariaeduvisb@gmail.com",
           "mariana.gino@gmail.com",
           "marinho.silvana@gmail.com",
           "mcbslima@gmail.com",
           "mclucinda@gmail.com",
+          "michelle.ferreti@alziras.org.br",
+          "munahmalekf@gmail.com",
           "nataliapinna.ufrj@gmail.com",
           "niarafelipeas@outlook.com",
           "nucleomaterna@gmail.com",
@@ -6228,16 +6580,13 @@
       "site_oficial": "https://34thannual.org/",
       "local": "Centro de Convenções & Hotéis Windsor",
       "contato": {
-        "emails": [
-          "info@cosmeticsurgery.org",
-          "info@ishrs.org"
-        ],
+        "emails": [],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "34thannual"
         ],
-        "status": "coletado"
+        "status": "sem_contato"
       },
       "inteligencia": {
         "segmento": "Ciência / Acadêmico",
@@ -6248,7 +6597,7 @@
           "ISHRS"
         ],
         "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
+        "relevancia_b2b": 70,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-08",
@@ -6294,13 +6643,15 @@
       "site_oficial": "https://cchla2026.com.br/",
       "local": "Windsor Florida Hotel",
       "contato": {
-        "emails": [],
+        "emails": [
+          "reservas.florida@windsorhoteis.com.br"
+        ],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "cchla2026"
         ],
-        "status": "bloqueado"
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Saúde / Geral",
@@ -6311,7 +6662,7 @@
           "AED"
         ],
         "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
+        "relevancia_b2b": 70,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-07-27",
@@ -7762,7 +8113,7 @@
         "produtoras_inferidas": [
           "assespro"
         ],
-        "status": "sem_contato"
+        "status": "erro"
       },
       "inteligencia": {
         "segmento": "Energia / Óleo e Gás",
@@ -10327,12 +10678,16 @@
       "local": "ExpoRio Cidade Nova",
       "contato": {
         "emails": [],
-        "telefones": [],
-        "whatsapp": [],
+        "telefones": [
+          "(21) 2113-3073"
+        ],
+        "whatsapp": [
+          "552121133073"
+        ],
         "produtoras_inferidas": [
           "navalshore"
         ],
-        "status": "sem_contato"
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Energia / Óleo e Gás",
@@ -10998,13 +11353,21 @@
       "site_oficial": "https://medassina.com.br/ccmed2026/",
       "local": "Barra Shopping - Multiplan",
       "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
+        "emails": [
+          "adm@medassina.com.br",
+          "privacidade@eventogyn.com.br"
+        ],
+        "telefones": [
+          "(62) 98190-1910",
+          "+55 (62) 98190-1910"
+        ],
+        "whatsapp": [
+          "5562981901910"
+        ],
         "produtoras_inferidas": [
           "medassina"
         ],
-        "status": "bloqueado"
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Saúde / Geral",
@@ -11587,15 +11950,13 @@
       "site_oficial": "https://clpv2026.com.br/",
       "local": "Universidade Estadual do Rio de Janeiro - UERJ",
       "contato": {
-        "emails": [
-          "eventos@somosus.com.br"
-        ],
+        "emails": [],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "clpv2026"
         ],
-        "status": "coletado"
+        "status": "erro"
       },
       "inteligencia": {
         "segmento": "Ciência / Acadêmico",
@@ -11895,19 +12256,13 @@
       "site_oficial": "https://cultura.prefeitura.rio/",
       "local": "Vários locais",
       "contato": {
-        "emails": [
-          "gabinete.cultura@prefeitura.rio",
-          "imprensasmcrio.cultura@gmail.com"
-        ],
-        "telefones": [
-          "(21) 2976-1202",
-          "(21) 3460-1746"
-        ],
+        "emails": [],
+        "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "cultura"
         ],
-        "status": "coletado"
+        "status": "sem_contato"
       },
       "inteligencia": {
         "segmento": "Finanças / Geral",
@@ -11916,7 +12271,7 @@
         "publico_alvo": "executivos financeiros, bancos e seguradoras",
         "empresas_citadas": [],
         "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 90,
+        "relevancia_b2b": 80,
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-09-14",
@@ -12119,7 +12474,7 @@
         "produtoras_inferidas": [
           "academiaflowsummit"
         ],
-        "status": "bloqueado"
+        "status": "sem_contato"
       },
       "inteligencia": {
         "segmento": "Tecnologia / Inovação",
