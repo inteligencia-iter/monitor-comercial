@@ -1,885 +1,8 @@
 {
-  "gerado_em": "2026-11-09T16:45:04-03:00",
+  "gerado_em": "2026-11-16T16:30:13-03:00",
   "modo": "deterministico (custo zero)",
-  "total": 396,
+  "total": 398,
   "eventos": [
-    {
-      "id": 496526,
-      "titulo": "17th Latin American Congress on Organic Geochemistry (ALAGO 2026)",
-      "slug": "17th-latin-american-congress-on-organic-geochemistry-alago-2026",
-      "data_inicio": "2026-11-09 09:00:00",
-      "data_fim": "2026-11-11 09:00:00",
-      "descricao": "O XVII Congresso Latino-Americano de Geoquímica Orgânica reunirá pesquisadores, estudantes e profissionais da indústria de petróleo, gás e energia para apresentar pesquisas e discutir avanços científicos e tecnológicos na área. A programação abordará sistemas petrolíferos convencionais e não convencionais, caracterização de rochas geradoras, biomarcadores, geoquímica de gases, isótopos, petrologia orgânica, estudos ambientais, transição energética e novas técnicas analíticas. Realizado no CENPES, um dos maiores complexos mundiais de pesquisa aplicada em energia, o encontro contará com conferências, sessões temáticas, apresentações breves, exposição de pôsteres, mostra de patrocinadores e atividades de relacionamento profissional. O encerramento incluirá a entrega do Prêmio Jorge Trigüis",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/17th-latin-american-congress-on-organic-geochemistry-alago-2026/",
-      "site_oficial": "https://eventos.galoa.com.br/alago-2026/page/6993-home",
-      "local": "CENPES/PETROBRAS",
-      "contato": {
-        "emails": [
-          "alago2026@gmail.com",
-          "alago2026@metaeventos.net",
-          "suporte@galoa.com.br",
-          "support@galoa.com.br"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "eventos"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "ALAGO"
-        ],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-21",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496757,
-      "titulo": "Hayley Williams RJ 2026",
-      "slug": "hayley-williams-rj-2026",
-      "data_inicio": "2026-11-09 09:00:00",
-      "data_fim": "2026-11-09 09:00:00",
-      "descricao": "Hayley Williams, cantora, compositora e vocalista da banda Paramore, apresenta no Qualistage uma edição carioca de The Hayley Williams Show. A apresentação integra a passagem da artista pelo Brasil e marca um show solo de grande porte no Rio de Janeiro. A programação é voltada aos admiradores da carreira solo de Hayley Williams e ao público que acompanha seu trabalho no rock alternativo internacional. A produção também mantém parceria com a organização ambiental REVERB, iniciativa dedicada à redução do impacto ambiental das turnês e ao apoio de ações sociais.",
-      "categoria": "culturais",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/hayley-williams-rj-2026/",
-      "site_oficial": "https://www.eventim.com.br/event/the-hayley-williams-show-qualistage-21660394/",
-      "local": "Qualistage",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-12",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496893,
-      "titulo": "FGV EMAp 15 Years: Multidisciplinarity in Mathematics and Data Science",
-      "slug": "fgv-emap-15-years-multidisciplinarity-in-mathematics-and-data-science",
-      "data_inicio": "2026-11-09 09:00:00",
-      "data_fim": "2026-11-13 09:00:00",
-      "descricao": "O FGV EMAp 15 Years: Multidisciplinarity in Mathematics and Data Science é um simpósio científico internacional promovido pela Escola de Matemática Aplicada da Fundação Getulio Vargas em comemoração aos seus 15 anos. Durante cinco dias, pesquisadores, estudantes, ex-alunos e profissionais brasileiros e estrangeiros discutirão avanços e desafios em Matemática Aplicada, Estatística e Ciência de Dados. A programação inclui palestras plenárias, minissimpósios temáticos, mesas-redondas, sessões de pôsteres e atividades institucionais.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/fgv-emap-15-years-multidisciplinarity-in-mathematics-and-data-science/",
-      "site_oficial": "https://emap.fgv.br/eventos/fgv-emap-15-years-multidisciplinarity-mathematics-and-data-science",
-      "local": "Praia de Botafogo",
-      "contato": {
-        "emails": [
-          "emap15@fgv.br",
-          "emap@fgv.br"
-        ],
-        "telefones": [
-          "+55 21 3799-5917",
-          "+55-21-3799-5917"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "emap"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 5 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "FGV"
-        ],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-26",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495268,
-      "titulo": "Annual ACM International Conference on Multimedia -MM- 2026",
-      "slug": "annual-acm-international-conference-on-multimedia-mm-2026",
-      "data_inicio": "2026-11-10 09:00:00",
-      "data_fim": "2026-11-14 09:00:00",
-      "descricao": "A Asspciation for Computing Machinery organiza a ACM Multimedia, uma das principais conferências internacionais do mundo em Multimídia, IA aplicada a mídia, visão computacional, áudio e vídeo, interação humano-computador, computação gráfica e machine learning multimodal.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/annual-acm-international-conference-on-multimedia-mm-2026/",
-      "site_oficial": "https://2026.acmmm.org/index.html",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "2026"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Tecnologia / Inovação",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 5 dias.",
-        "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [
-          "ACM"
-        ],
-        "angulo_comercial": "Evento de tecnologia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495719,
-      "titulo": "Sebrae Rio Summit 2026",
-      "slug": "sebrae-rio-summit-2026",
-      "data_inicio": "2026-11-10 09:00:00",
-      "data_fim": "2026-11-12 09:00:00",
-      "descricao": "Vem aí o Sebrae Rio Summit 2026, o maior evento de inovação, empreendedorismo e transformação digital do Sebrae RJ! De 21 a 25 de julho, o ExpoRio, será palco de uma verdadeira imersão no futuro dos negócios. Com uma programação de peso, o evento reunirá grandes nomes do mercado nacional e internacional, startups, investidores, pesquisadores e líderes empresariais em três dias de muito conteúdo, networking e oportunidades. Palestras, painéis, mentorias, rodadas de negócio e experiências interativas vão inspirar e impulsionar os participantes a darem o próximo passo em suas jornadas empreendedoras.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/sebrae-rio-summit-2026/",
-      "site_oficial": "https://sebraeriosummit.com.br/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [
-          "nome@dominio.com",
-          "rj-ouvidoria@rj.sebrae.com.br"
-        ],
-        "telefones": [
-          "(21) 96576-7825"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "sebraeriosummit"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496428,
-      "titulo": "IV Congresso Internacional MEVITIH 2026",
-      "slug": "iv-congresso-internacional-mevitih-2026",
-      "data_inicio": "2026-11-10 09:00:00",
-      "data_fim": "2026-11-13 09:00:00",
-      "descricao": "O IV Congresso Internacional MEVITIH reunirá pesquisadores, profissionais da saúde, professores, gestores, estudantes e empreendedores para discutir a integração entre ciência, tecnologia e sustentabilidade aplicada à saúde. A programação será dedicada à pesquisa translacional e clínica, terapia vibratória, tecnologias inovadoras, soluções sustentáveis, equidade, qualidade de vida e iniciativas com impacto social. O encontro também contará com apresentação de trabalhos científicos e promoverá a colaboração entre especialistas brasileiros e estrangeiros na busca por soluções para os desafios da saúde global.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/iv-congresso-internacional-mevitih-2026/",
-      "site_oficial": "https://www.even3.com.br/iv-congresso-internacional-mevitih-2026-753327/",
-      "local": "PPC/UERJ - Policlínica Universitária Piquet Carneiro",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "MEVITIH"
-        ],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496525,
-      "titulo": "XXIII World Congress on Gestational Trophoblastic Disease — ISSTD 2026",
-      "slug": "xxiii-world-congress-on-gestational-trophoblastic-disease-isstd-2026",
-      "data_inicio": "2026-11-10 09:00:00",
-      "data_fim": "2026-11-13 09:00:00",
-      "descricao": "O XXIII World Congress on Gestational Trophoblastic Disease reunirá especialistas de diferentes países para apresentar pesquisas e discutir avanços no diagnóstico, tratamento e acompanhamento das doenças trofoblásticas gestacionais. A programação será voltada a temas como critérios diagnósticos, classificação de risco, quimioterapia, imunoterapia, genética, anatomia patológica, organização de centros de referência e redução das desigualdades no acesso ao tratamento. O encontro contará com conferências, sessões científicas, apresentação de trabalhos, pôsteres eletrônicos e atividades educacionais destinadas a médicos, pesquisadores, profissionais da saúde, estudantes e representantes de pacientes.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xxiii-world-congress-on-gestational-trophoblastic-disease-isstd-2026/",
-      "site_oficial": "https://www.isstd2026congress.com/",
-      "local": "Prodigy Santos Dumont",
-      "contato": {
-        "emails": [
-          "eventos@mezclaeventos.com.br",
-          "exemplo@meusite.com"
-        ],
-        "telefones": [
-          "08007437283"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "isstd2026congress"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "ISSTD"
-        ],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 90,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-21",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496635,
-      "titulo": "Semana da Psicologia – Afya Unigranrio 2026",
-      "slug": "semana-da-psicologia-afya-unigranrio-2026",
-      "data_inicio": "2026-11-10 09:00:00",
-      "data_fim": "2026-11-11 09:00:00",
-      "descricao": "A Semana da Psicologia – UNIGRANRIO/AFYA 2026, com o tema “Psicologia em Movimento: Saberes, Práticas e Transformações”, acontecerá nos dias 10 e 11 de setembro de 2026, no Campus Barra da Tijuca da Afya Universidade Unigranrio. O evento reunirá estudantes, professores, profissionais e convidados em uma programação voltada à troca de conhecimentos, experiências e reflexões sobre a Psicologia e suas diferentes áreas de atuação. Serão realizadas mesas-redondas, conferência, palestra e oficinas, abordando temas como desenvolvimento emocional, envelhecimento e políticas públicas, clínica psicológica, Terapia Comportamental Dialética, Clínica Esquizodramática, Psicologia e política, formação profissional, bioética, inclusão e os 10 anos do curso de Psicologia.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/semana-da-psicologia-afya-unigranrio-2026/",
-      "site_oficial": "https://www.even3.com.br/semana-da-psicologia-afya-unigranrio-780785?even3_orig=events_eventlist",
-      "local": "Unigranrio - Campus Barra",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geriatria",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 2 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 50,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496718,
-      "titulo": "XIII Seminário de Pesquisadores do PPGAS-MN/UFRJ — XIII SeMaNa",
-      "slug": "xiii-seminario-de-pesquisadores-do-ppgas-mn-ufrj-xiii-semana",
-      "data_inicio": "2026-11-10 09:00:00",
-      "data_fim": "2026-11-13 09:00:00",
-      "descricao": "O seminário do Museu Nacional promove o diálogo entre pesquisas em antropologia social, com participação de estudantes de diferentes programas de pós-graduação. A edição discute a circulação de saberes, pessoas e formas de autoridade, reunindo grupos de trabalho e debates para compartilhar investigações e ampliar o intercâmbio acadêmico.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xiii-seminario-de-pesquisadores-do-ppgas-mn-ufrj-xiii-semana/",
-      "site_oficial": "https://ppgas.museunacional.ufrj.br/?utm_source=chatgpt.com",
-      "local": "Museu Nacional - Universidade Federal do Rio de Janeiro UFRJ",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "(21) 25689642"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "ppgas"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Energia / Óleo e Gás",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 4 dias.",
-        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
-        "empresas_citadas": [
-          "PPGAS",
-          "MN",
-          "UFRJ"
-        ],
-        "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-12",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495267,
-      "titulo": "fisweek Rio 2026 (#fswk26)",
-      "slug": "fisweek-rio-2026",
-      "data_inicio": "2026-11-11 09:00:00",
-      "data_fim": "2026-11-13 09:00:00",
-      "descricao": "A FSWK26 é uma experiência que vai além de um simples evento: é um ponto de encontro entre criatividade, inovação e cultura contemporânea. Em sua edição 2026, a FSWK se consolida como um hub estratégico para profissionais, marcas e criadores que buscam antecipar tendências, fortalecer networking qualificado e gerar negócios em um ambiente dinâmico e inspirador. Com uma curadoria focada em conteúdo de alto nível, o evento reúne palestras, painéis e talks com especialistas reconhecidos no mercado, além de ativações imersivas, espaços de exposição e oportunidades reais de conexão entre empresas e público final. A programação integra moda, comportamento, branding, empreendedorismo e inovação, promovendo debates relevantes sobre os caminhos do setor nos próximos anos.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/fisweek-rio-2026/",
-      "site_oficial": "https://fis.org.br/fisweek",
-      "local": "AXIA Marina da Glória",
-      "contato": {
-        "emails": [
-          "comercial@fis.org.br",
-          "contato@fis.org.br",
-          "pr@fis.org.br"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "fis"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Tecnologia / Inovação",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de tecnologia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496892,
-      "titulo": "XXIV Simpósio Internacional de Atividade Física do Rio de Janeiro — SIAFIS-RJ",
-      "slug": "xxiv-simposio-internacional-de-atividade-fisica-do-rio-de-janeiro-siafis-rj",
-      "data_inicio": "2026-11-12 09:00:00",
-      "data_fim": "2026-11-13 09:00:00",
-      "descricao": "O SIAFIS reúne pesquisadores, profissionais de saúde e educação física e militares para discutir desempenho humano e ciência do exercício. A edição aborda treinamento de força, resiliência física e mental e longevidade, com palestras, debates e apresentação de pesquisas, aproximando instituições civis e militares em torno de aplicações científicas.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xxiv-simposio-internacional-de-atividade-fisica-do-rio-de-janeiro-siafis-rj/",
-      "site_oficial": "https://siafis2026.com.br/",
-      "local": "Fortaleza de São João",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "siafis2026"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 2 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "SIAFIS"
-        ],
-        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-26",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 497023,
-      "titulo": "SAFE 2026 — Symposium on Analytics for Football Excellence",
-      "slug": "safe-2026-symposium-on-analytics-for-football-excellence",
-      "data_inicio": "2026-11-12 09:00:00",
-      "data_fim": "2026-11-13 09:00:00",
-      "descricao": "Simpósio dedicado à aplicação de ciência de dados, estatística, inteligência artificial e pesquisa operacional no futebol. Reúne pesquisadores, estudantes e profissionais de clubes, federações e empresas, com minicursos, palestras, mesas-redondas e apresentação de trabalhos científicos.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/safe-2026-symposium-on-analytics-for-football-excellence/",
-      "site_oficial": "https://www.even3.com.br/safe2026/",
-      "local": "Escola Superior de Propaganda e Marketing - ESPM",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-11-02",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494316,
-      "titulo": "Rio Health Congress 2026",
-      "slug": "rio-health-congress-2026",
-      "data_inicio": "2026-11-13 09:00:00",
-      "data_fim": "2026-11-15 09:00:00",
-      "descricao": "O Rio Health Congress 2026 é um congresso científico de grande porte voltado para temas de saúde, bem-estar, medicina, inovação clínica e políticas de saúde, reunindo profissionais, pesquisadores, gestores e instituições do setor.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/rio-health-congress-2026/",
-      "site_oficial": null,
-      "local": "ExpoRio Cidade Nova",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_site"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494317,
-      "titulo": "Rio Health Medicine & Nutrition 2026",
-      "slug": "rio-health-medicine-nutrition-2026",
-      "data_inicio": "2026-11-13 09:00:00",
-      "data_fim": "2026-11-15 09:00:00",
-      "descricao": "O Rio Health Medicine & Nutrition é um evento focado em medicina integrativa, nutrição, saúde preventiva e qualidade de vida, reunindo profissionais da saúde, pesquisadores e empresas do setor de wellness.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/rio-health-medicine-nutrition-2026/",
-      "site_oficial": "https://riohealthnutrition.com.br/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnkn_mZVs6nDb3Ck2AUo2CIpeS8347GBbnn556OATaS5CVRZIUkNuxmub08pw_aem_2goXImp2kGS5VgDBpdv-oA#cadastro",
-      "local": "ExpoRio Cidade Nova",
-      "contato": {
-        "emails": [],
-        "telefones": [
-          "(21) 96627-9757"
-        ],
-        "whatsapp": [
-          "5521966279757"
-        ],
-        "produtoras_inferidas": [
-          "riohealthnutrition"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 3 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496427,
-      "titulo": "Update Digital Congress 2026",
-      "slug": "update-digital-congress-2026",
-      "data_inicio": "2026-11-13 09:00:00",
-      "data_fim": "2026-11-14 09:00:00",
-      "descricao": "Congresso voltado à aplicação de tecnologias digitais na odontologia, com programação dedicada a implantodontia, reabilitação oral, impressão 3D, cirurgia guiada, planejamento digital, inteligência artificial e novos fluxos clínicos. A edição contará com aulas de especialistas, exposição comercial e oportunidades de atualização profissional e relacionamento com empresas do setor.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/update-digital-congress-2026/",
-      "site_oficial": "https://www.sympla.com.br/evento/update-digital-congress-2026/3202280",
-      "local": "Centro de Convenções Mario Henrique Simonsen – Barra da Tijuca",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Especialidades",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496710,
-      "titulo": "XXV Simpósio Nacional e XVI Internacional de Astrologia",
-      "slug": "xxv-simposio-nacional-e-xvi-internacional-de-astrologia",
-      "data_inicio": "2026-11-13 09:00:00",
-      "data_fim": "2026-11-15 09:00:00",
-      "descricao": "O XXV Simpósio Nacional e XVI Internacional de Astrologia celebra o jubileu de prata do encontro promovido pelo SINARJ. Com o tema “Astrologia através do tempo — permanências, transformações e continuidade”, a edição reúne astrólogos, professores, pesquisadores e estudantes em palestras, mesas-redondas e atividades dedicadas à história, às técnicas, à pesquisa e à prática astrológica.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xxv-simposio-nacional-e-xvi-internacional-de-astrologia/",
-      "site_oficial": null,
-      "local": null,
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_site"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 70,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-05",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496756,
-      "titulo": "Gilsons Convida Gilberto Gil 2026",
-      "slug": "gilsons-convida-gilberto-gil-2026",
-      "data_inicio": "2026-11-13 09:00:00",
-      "data_fim": "2026-11-13 09:00:00",
-      "descricao": "O trio Gilsons recebe Gilberto Gil em uma apresentação especial no Vivo Rio, celebrando os 20 anos da casa de espetáculos. O encontro conecta diferentes gerações da família Gil e possui significado histórico: Gilberto Gil participou da inauguração do Vivo Rio, em novembro de 2006, e retorna ao palco duas décadas depois como convidado dos Gilsons. Formado por José Gil, João Gil e Francisco Gil, o trio apresenta a turnê mundial “Eu Vejo Luz”, com músicas do álbum Eu Vejo Luz em Maior Proporção do que Eu Vejo a Escuridão e sucessos de sua trajetória. A participação de Gilberto Gil transforma a apresentação em um encontro especial da música brasileira, reunindo tradição, contemporaneidade e a herança musical da família.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/gilsons-convida-gilberto-gil-2026/",
-      "site_oficial": "https://www.ticket360.com.br/evento/33890/ingressos-para-gilsons-convida-gilberto-gil?_gl=1*rsn3c2*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwifjVBhBKEiwAYx4K9DZm-xaTqSipJKjgZgIl9O5uOVeqq_YARz_znHtJlPVmSdc7MR59MBoCsUoQAvD_BwE&gbraid=0AAAAAD1IkYdj4d6ONLl4lGgqjCzzKWvo",
-      "local": "Vivo Rio",
-      "contato": {
-        "emails": [
-          "contato@ticket360.com.br"
-        ],
-        "telefones": [
-          "+55-11-2797-0777"
-        ],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "ticket360"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 1 dias.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-12",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 497104,
-      "titulo": "VIII SIMEGER — Simpósio Internacional Metropolização do Espaço e Gestão Territorial",
-      "slug": "viii-simeger-simposio-internacional-metropolizacao-do-espaco-e-gestao-territorial",
-      "data_inicio": "2026-11-13 09:00:00",
-      "data_fim": "2026-11-13 09:00:00",
-      "descricao": "O simpósio reúne pesquisadores, estudantes, gestores e representantes da sociedade civil para discutir transformações metropolitanas e gestão territorial. Nesta edição, o debate aborda relações entre crise, poder, espaço e desigualdade, articulando perspectivas sobre questões urbanas, ambientais e sociais com intercâmbio acadêmico e reflexão sobre a cidade.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/viii-simeger-simposio-internacional-metropolizacao-do-espaco-e-gestao-territorial/",
-      "site_oficial": "https://www.simeger.com.br/",
-      "local": "PUC RIO",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "simeger"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Desenvolvimento / Negócios",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Evento internacional, 1 dias.",
-        "publico_alvo": "líderes, gestores e times comerciais",
-        "empresas_citadas": [
-          "SIMEGER"
-        ],
-        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-11-09",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 497105,
-      "titulo": "IV Jornada do Curso de Especialização em Psicologia Hospitalar e da Saúde 2026",
-      "slug": "iv-jornada-do-curso-de-especializacao-em-psicologia-hospitalar-e-da-saude-2026",
-      "data_inicio": "2026-11-13 09:00:00",
-      "data_fim": "2026-11-13 09:00:00",
-      "descricao": "A jornada convida estudantes e profissionais a discutir a atuação da psicologia em hospitais e serviços de saúde. Conferências e mesas abordam diferentes linhas de cuidado, perdas, cuidados paliativos, saúde mental e instrumentos de avaliação, promovendo atualização e diálogo sobre desafios da prática clínica e do trabalho em equipe.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/iv-jornada-do-curso-de-especializacao-em-psicologia-hospitalar-e-da-saude-2026/",
-      "site_oficial": "https://www.psi.puc-rio.br/site/index.php/eventos/item/803-iv-jornada-esp-psi-hosp-saude",
-      "local": "PUC RIO",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "psi"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-11-09",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496426,
-      "titulo": "III Simpósio de Dermatologia da Pele Negra",
-      "slug": "iii-simposio-de-dermatologia-da-pele-negra",
-      "data_inicio": "2026-11-14 09:00:00",
-      "data_fim": "2026-11-14 09:00:00",
-      "descricao": "Após o sucesso da última edição, realizada em 2025, o III Simpósio de Dermatologia da Pele Negra retorna em 2026, consolidando-se como um importante espaço de conhecimento, atualização científica e representatividade na Dermatologia. O evento será realizado no dia 14 de novembro de 2026, no IDOMED Vista Carioca, Rio de Janeiro (RJ). O simpósio é dedicado à Dermatologia da pele negra, com uma programação voltada às particularidades, aos desafios e às possibilidades da prática dermatológica em diferentes áreas da especialidade. A programação, que será divulgada em breve, contará com médicos dermatologistas reconhecidos por sua atuação na Dermatologia da pele negra e em diferentes áreas da especialidade, contemplando temas da Dermatologia clínica, cosmiatria, cirurgia dermatológica, tricologia, entre outras áreas fundamentais para uma abordagem integral da pele negra. Em sua terceira edição, o simpósio reunirá médicos, incluindo dermatologistas, generalistas e residentes de Dermatologia, além de estudantes de Medicina, em um ambiente de aprendizado, atualização científica e troca de experiências, ampliando a discussão sobre uma Dermatologia mais inclusiva, qualificada e representativa.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/iii-simposio-de-dermatologia-da-pele-negra/",
-      "site_oficial": "https://www.even3.com.br/iii-simposio-de-dermatologia-da-pele-negra-770850/",
-      "local": "Idomed - Instituto de Educação Médica",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Dermatologia",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496794,
-      "titulo": "Corrida do Futebol Light – Edição Pelé",
-      "slug": "corrida-do-futebol-light-edicao-pele",
-      "data_inicio": "2026-11-14 09:00:00",
-      "data_fim": "2026-11-14 09:00:00",
-      "descricao": "Em 2026, o Maracanã acende as luzes para a Corrida do Futebol Light – Edição Pelé, uma prova noturna que em sua primeira edição no estádio onde o Rei marcou seu milésimo gol e onde o esporte brasileiro escreveu suas maiores histórias, convida corredores de todas as idades a viver uma experiência única. ⚽👑 Realizada pela Effect Sport, com patrocínio master da Light e desenvolvida em parceria com a Pelé Brand, responsável por cuidar e preservar o legado do Rei Pelé, a prova levará quem corre para dentro de um dos maiores palcos do futebol mundial, em percursos de 8K, 4K, 4K + 4K (revezamento) e Kids. O FUTEBOL SEMPRE CORREU NAS SUAS VEIAS. AGORA É A SUA VEZ DE CORRER NELE. 📍 MARACANÃ — RIO DE JANEIRO 📅 14 DE NOVEMBRO",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-do-futebol-light-edicao-pele/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-do-futebol-light-edicao-pele-88396",
-      "local": "Estádio Maracanã",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-19",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 497103,
-      "titulo": "XVII Jornada do Curso de Especialização em Família e Casal 2026",
-      "slug": "xvii-jornada-do-curso-de-especializacao-em-familia-e-casal-2026",
-      "data_inicio": "2026-11-14 09:00:00",
-      "data_fim": "2026-11-14 09:00:00",
-      "descricao": "A jornada promove o diálogo entre estudantes e profissionais sobre questões clínicas das relações familiares e conjugais. A programação apresenta discussões de casos e reflexões sobre comunicação, pertencimento, separação e transmissão psíquica, oferecendo um espaço de intercâmbio e aprofundamento para quem atua ou se forma nessa área.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xvii-jornada-do-curso-de-especializacao-em-familia-e-casal-2026/",
-      "site_oficial": "https://www.psi.puc-rio.br/site/index.php/eventos/item/809-xvii-jornada-familia-casal",
-      "local": "PUC RIO",
-      "contato": {
-        "emails": [
-          "psieventos@puc-rio.br"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "psi"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-11-09",
-      "novo": true,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496739,
-      "titulo": "Circuito dos Elementos – Etapa Ar 2026",
-      "slug": "circuito-dos-elementos-etapa-ar-2026",
-      "data_inicio": "2026-11-15 09:00:00",
-      "data_fim": "2026-11-15 09:00:00",
-      "descricao": "O Circuito dos Elementos 2026 — Etapa Ar é a quarta e última etapa do circuito de corridas temáticas organizado pela AR2 Eventos. A prova será realizada na Praça Mauá, na região do Porto Maravilha, com corrida competitiva de 5 km e caminhada participativa de 3 km. Inspirada no elemento ar, a etapa encerra o ciclo de 2026 após as provas dedicadas aos demais elementos da natureza. O evento contará com cronometragem eletrônica na corrida, postos de hidratação, aquecimento coletivo, DJ, espaço para fotos, premiação por categorias e medalha para os participantes que concluírem o percurso.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-dos-elementos-etapa-ar-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/circuito-dos-elementos-etapa-ar-88342",
-      "local": "Praça Mauá",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-12",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496740,
-      "titulo": "Corrida da Bandeira – 2026",
-      "slug": "corrida-da-bandeira-2026",
-      "data_inicio": "2026-11-15 09:00:00",
-      "data_fim": "2026-11-15 09:00:00",
-      "descricao": "A Corrida da Bandeira é uma prova cívico-esportiva realizada nas instalações do Museu Aeroespacial, no histórico Campo dos Afonsos. A programação combina corrida de 5 km e caminhada de 3 km com uma celebração alusiva ao Dia da Bandeira. O ambiente é um dos principais diferenciais: os participantes percorrem uma área ligada à história da aviação brasileira, com acesso ao complexo do MUSAL, aeronaves históricas e espaços normalmente utilizados pela Força Aérea Brasileira. A edição oferece estacionamento gratuito, sujeito à capacidade do local. A organização recomenda que os participantes cheguem com aproximadamente 1h30 de antecedência.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-da-bandeira-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+DA+BANDEIRA+-+2026-87797",
-      "local": "Museu Aeroespacial - MUSAL",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-12",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 497048,
-      "titulo": "Corrida e Caminhada Contos Clássicos – Pequena Sereia 2026",
-      "slug": "corrida-e-caminhada-contos-classicos-pequena-sereia-2026",
-      "data_inicio": "2026-11-15 09:00:00",
-      "data_fim": "2026-11-15 09:00:00",
-      "descricao": "📅 Data: 15/11/2026 (domingo) 📍 Local: Parque Madureira — Rio de Janeiro/RJ ⏰ Largada: 8h00 🎭 Tema: inspirado na versão original de *A Pequena Sereia* (1837) 🤝 Evento esportivo e beneficente para incentivar atividade física e apoiar ações sociais ❤️ Ação beneficente: apoio ao Projeto Coração Que Ajuda e ao Projeto Café na Tenda, com arrecadação para famílias e instituições em situação de vulnerabilidade 🧼👕 Também aceitam doações de: itens de limpeza, higiene pessoal e roupas",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-contos-classicos-pequena-sereia-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+CONTOS+CL%C3%81SSICOS+-+PEQUENA+SEREIA-86528",
-      "local": "Parque de Madureira",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-11-02",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 496891,
       "titulo": "31º Congresso Internacional de Transporte Aquaviário, Construção Naval e Offshore — SOBENA",
@@ -2319,7 +1442,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-11-09",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -2999,7 +2122,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-11-09",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3049,7 +2172,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-11-09",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3370,7 +2493,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-11-09",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3851,6 +2974,47 @@
       "local_coletado": true
     },
     {
+      "id": 497165,
+      "titulo": "Wedding Plus Congress 2027",
+      "slug": "wedding-plus-congress-2027",
+      "data_inicio": "2027-06-07 09:00:00",
+      "data_fim": "2027-06-09 09:00:00",
+      "descricao": "Wedding Plus Congress é um evento internacional que reune profissionais renomados do mercado de casamentos de todo o mundo. Realizado no Rio de Janeiro, Brasil, e conta com palestras de nomes consagrados, além de oficinas práticas em diversas áreas do setor, como wedding planners, fotógrafos, decoradores e cake designers. Além dos especialistas do mercado de casamentos, o congresso contará com a presença de autoridades renomadas em assuntos como marketing, vendas, jurídica e administrativa/financeira. Essa diversidade de conhecimentos e experiências proporcionará um ambiente de aprendizado e troca de informações enriquecedoras.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/wedding-plus-congress-2027/",
+      "site_oficial": "https://wp.inesquecivelcasamento.com.br/pre-inscricao/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "%20eventos@ace.com.br"
+        ],
+        "telefones": [
+          "+55 21 3578-6242"
+        ],
+        "whatsapp": [
+          "5521968660411",
+          "5521997035043"
+        ],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-11-16",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 496405,
       "titulo": "Congresso RHRio 2027",
       "slug": "congresso-rhrio-2027",
@@ -4185,6 +3349,44 @@
       "local_coletado": true
     },
     {
+      "id": 497164,
+      "titulo": "Congresso LINFALA 2027 — Congresso Brasileiro de Linguagem e Fala",
+      "slug": "congresso-linfala-2027-congresso-brasileiro-de-linguagem-e-fala",
+      "data_inicio": "2027-07-01 09:00:00",
+      "data_fim": "2027-07-03 09:00:00",
+      "descricao": "O Congresso LINFALA reúne profissionais, pesquisadores e estudantes dedicados à linguagem e à fala. A edição no Rio inaugura o formato de congresso após quatro encontros da série, com três dias de programação científica, convidados brasileiros e estrangeiros e apresentação de pôsteres, promovendo atualização e troca de experiências na área.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/congresso-linfala-2027-congresso-brasileiro-de-linguagem-e-fala/",
+      "site_oficial": "https://linfala.cursosfocus.com/",
+      "local": "Prodigy Santos Dumont",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "linfala"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "LINFALA"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-11-16",
+      "novo": true,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 496575,
       "titulo": "Congresso da Societas Liturgica 2027",
       "slug": "congresso-da-societas-liturgica-2027",
@@ -4392,7 +3594,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-11-09",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4417,7 +3619,7 @@
       },
       "inteligencia": null,
       "primeiro_visto": "2026-11-09",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -4610,6 +3812,883 @@
       "primeiro_visto": "2026-09-21",
       "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496526,
+      "titulo": "17th Latin American Congress on Organic Geochemistry (ALAGO 2026)",
+      "slug": "17th-latin-american-congress-on-organic-geochemistry-alago-2026",
+      "data_inicio": "2026-11-09 09:00:00",
+      "data_fim": "2026-11-11 09:00:00",
+      "descricao": "O XVII Congresso Latino-Americano de Geoquímica Orgânica reunirá pesquisadores, estudantes e profissionais da indústria de petróleo, gás e energia para apresentar pesquisas e discutir avanços científicos e tecnológicos na área. A programação abordará sistemas petrolíferos convencionais e não convencionais, caracterização de rochas geradoras, biomarcadores, geoquímica de gases, isótopos, petrologia orgânica, estudos ambientais, transição energética e novas técnicas analíticas. Realizado no CENPES, um dos maiores complexos mundiais de pesquisa aplicada em energia, o encontro contará com conferências, sessões temáticas, apresentações breves, exposição de pôsteres, mostra de patrocinadores e atividades de relacionamento profissional. O encerramento incluirá a entrega do Prêmio Jorge Trigüis",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/17th-latin-american-congress-on-organic-geochemistry-alago-2026/",
+      "site_oficial": "https://eventos.galoa.com.br/alago-2026/page/6993-home",
+      "local": "CENPES/PETROBRAS",
+      "contato": {
+        "emails": [
+          "alago2026@gmail.com",
+          "alago2026@metaeventos.net",
+          "suporte@galoa.com.br",
+          "support@galoa.com.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "eventos"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "ALAGO"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-21",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496757,
+      "titulo": "Hayley Williams RJ 2026",
+      "slug": "hayley-williams-rj-2026",
+      "data_inicio": "2026-11-09 09:00:00",
+      "data_fim": "2026-11-09 09:00:00",
+      "descricao": "Hayley Williams, cantora, compositora e vocalista da banda Paramore, apresenta no Qualistage uma edição carioca de The Hayley Williams Show. A apresentação integra a passagem da artista pelo Brasil e marca um show solo de grande porte no Rio de Janeiro. A programação é voltada aos admiradores da carreira solo de Hayley Williams e ao público que acompanha seu trabalho no rock alternativo internacional. A produção também mantém parceria com a organização ambiental REVERB, iniciativa dedicada à redução do impacto ambiental das turnês e ao apoio de ações sociais.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/hayley-williams-rj-2026/",
+      "site_oficial": "https://www.eventim.com.br/event/the-hayley-williams-show-qualistage-21660394/",
+      "local": "Qualistage",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-12",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496893,
+      "titulo": "FGV EMAp 15 Years: Multidisciplinarity in Mathematics and Data Science",
+      "slug": "fgv-emap-15-years-multidisciplinarity-in-mathematics-and-data-science",
+      "data_inicio": "2026-11-09 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "O FGV EMAp 15 Years: Multidisciplinarity in Mathematics and Data Science é um simpósio científico internacional promovido pela Escola de Matemática Aplicada da Fundação Getulio Vargas em comemoração aos seus 15 anos. Durante cinco dias, pesquisadores, estudantes, ex-alunos e profissionais brasileiros e estrangeiros discutirão avanços e desafios em Matemática Aplicada, Estatística e Ciência de Dados. A programação inclui palestras plenárias, minissimpósios temáticos, mesas-redondas, sessões de pôsteres e atividades institucionais.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/fgv-emap-15-years-multidisciplinarity-in-mathematics-and-data-science/",
+      "site_oficial": "https://emap.fgv.br/eventos/fgv-emap-15-years-multidisciplinarity-mathematics-and-data-science",
+      "local": "Praia de Botafogo",
+      "contato": {
+        "emails": [
+          "emap15@fgv.br",
+          "emap@fgv.br"
+        ],
+        "telefones": [
+          "+55 21 3799-5917",
+          "+55-21-3799-5917"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "emap"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 5 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "FGV"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495268,
+      "titulo": "Annual ACM International Conference on Multimedia -MM- 2026",
+      "slug": "annual-acm-international-conference-on-multimedia-mm-2026",
+      "data_inicio": "2026-11-10 09:00:00",
+      "data_fim": "2026-11-14 09:00:00",
+      "descricao": "A Asspciation for Computing Machinery organiza a ACM Multimedia, uma das principais conferências internacionais do mundo em Multimídia, IA aplicada a mídia, visão computacional, áudio e vídeo, interação humano-computador, computação gráfica e machine learning multimodal.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/annual-acm-international-conference-on-multimedia-mm-2026/",
+      "site_oficial": "https://2026.acmmm.org/index.html",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "2026"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 5 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [
+          "ACM"
+        ],
+        "angulo_comercial": "Evento de tecnologia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495719,
+      "titulo": "Sebrae Rio Summit 2026",
+      "slug": "sebrae-rio-summit-2026",
+      "data_inicio": "2026-11-10 09:00:00",
+      "data_fim": "2026-11-12 09:00:00",
+      "descricao": "Vem aí o Sebrae Rio Summit 2026, o maior evento de inovação, empreendedorismo e transformação digital do Sebrae RJ! De 21 a 25 de julho, o ExpoRio, será palco de uma verdadeira imersão no futuro dos negócios. Com uma programação de peso, o evento reunirá grandes nomes do mercado nacional e internacional, startups, investidores, pesquisadores e líderes empresariais em três dias de muito conteúdo, networking e oportunidades. Palestras, painéis, mentorias, rodadas de negócio e experiências interativas vão inspirar e impulsionar os participantes a darem o próximo passo em suas jornadas empreendedoras.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/sebrae-rio-summit-2026/",
+      "site_oficial": "https://sebraeriosummit.com.br/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [
+          "nome@dominio.com",
+          "rj-ouvidoria@rj.sebrae.com.br"
+        ],
+        "telefones": [
+          "(21) 96576-7825"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "sebraeriosummit"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496428,
+      "titulo": "IV Congresso Internacional MEVITIH 2026",
+      "slug": "iv-congresso-internacional-mevitih-2026",
+      "data_inicio": "2026-11-10 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "O IV Congresso Internacional MEVITIH reunirá pesquisadores, profissionais da saúde, professores, gestores, estudantes e empreendedores para discutir a integração entre ciência, tecnologia e sustentabilidade aplicada à saúde. A programação será dedicada à pesquisa translacional e clínica, terapia vibratória, tecnologias inovadoras, soluções sustentáveis, equidade, qualidade de vida e iniciativas com impacto social. O encontro também contará com apresentação de trabalhos científicos e promoverá a colaboração entre especialistas brasileiros e estrangeiros na busca por soluções para os desafios da saúde global.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/iv-congresso-internacional-mevitih-2026/",
+      "site_oficial": "https://www.even3.com.br/iv-congresso-internacional-mevitih-2026-753327/",
+      "local": "PPC/UERJ - Policlínica Universitária Piquet Carneiro",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "MEVITIH"
+        ],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496525,
+      "titulo": "XXIII World Congress on Gestational Trophoblastic Disease — ISSTD 2026",
+      "slug": "xxiii-world-congress-on-gestational-trophoblastic-disease-isstd-2026",
+      "data_inicio": "2026-11-10 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "O XXIII World Congress on Gestational Trophoblastic Disease reunirá especialistas de diferentes países para apresentar pesquisas e discutir avanços no diagnóstico, tratamento e acompanhamento das doenças trofoblásticas gestacionais. A programação será voltada a temas como critérios diagnósticos, classificação de risco, quimioterapia, imunoterapia, genética, anatomia patológica, organização de centros de referência e redução das desigualdades no acesso ao tratamento. O encontro contará com conferências, sessões científicas, apresentação de trabalhos, pôsteres eletrônicos e atividades educacionais destinadas a médicos, pesquisadores, profissionais da saúde, estudantes e representantes de pacientes.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xxiii-world-congress-on-gestational-trophoblastic-disease-isstd-2026/",
+      "site_oficial": "https://www.isstd2026congress.com/",
+      "local": "Prodigy Santos Dumont",
+      "contato": {
+        "emails": [
+          "eventos@mezclaeventos.com.br",
+          "exemplo@meusite.com"
+        ],
+        "telefones": [
+          "08007437283"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "isstd2026congress"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "ISSTD"
+        ],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 90,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-21",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496635,
+      "titulo": "Semana da Psicologia – Afya Unigranrio 2026",
+      "slug": "semana-da-psicologia-afya-unigranrio-2026",
+      "data_inicio": "2026-11-10 09:00:00",
+      "data_fim": "2026-11-11 09:00:00",
+      "descricao": "A Semana da Psicologia – UNIGRANRIO/AFYA 2026, com o tema “Psicologia em Movimento: Saberes, Práticas e Transformações”, acontecerá nos dias 10 e 11 de setembro de 2026, no Campus Barra da Tijuca da Afya Universidade Unigranrio. O evento reunirá estudantes, professores, profissionais e convidados em uma programação voltada à troca de conhecimentos, experiências e reflexões sobre a Psicologia e suas diferentes áreas de atuação. Serão realizadas mesas-redondas, conferência, palestra e oficinas, abordando temas como desenvolvimento emocional, envelhecimento e políticas públicas, clínica psicológica, Terapia Comportamental Dialética, Clínica Esquizodramática, Psicologia e política, formação profissional, bioética, inclusão e os 10 anos do curso de Psicologia.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/semana-da-psicologia-afya-unigranrio-2026/",
+      "site_oficial": "https://www.even3.com.br/semana-da-psicologia-afya-unigranrio-780785?even3_orig=events_eventlist",
+      "local": "Unigranrio - Campus Barra",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geriatria",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 50,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496718,
+      "titulo": "XIII Seminário de Pesquisadores do PPGAS-MN/UFRJ — XIII SeMaNa",
+      "slug": "xiii-seminario-de-pesquisadores-do-ppgas-mn-ufrj-xiii-semana",
+      "data_inicio": "2026-11-10 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "O seminário do Museu Nacional promove o diálogo entre pesquisas em antropologia social, com participação de estudantes de diferentes programas de pós-graduação. A edição discute a circulação de saberes, pessoas e formas de autoridade, reunindo grupos de trabalho e debates para compartilhar investigações e ampliar o intercâmbio acadêmico.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xiii-seminario-de-pesquisadores-do-ppgas-mn-ufrj-xiii-semana/",
+      "site_oficial": "https://ppgas.museunacional.ufrj.br/?utm_source=chatgpt.com",
+      "local": "Museu Nacional - Universidade Federal do Rio de Janeiro UFRJ",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "(21) 25689642"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "ppgas"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Energia / Óleo e Gás",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 4 dias.",
+        "publico_alvo": "engenheiros, operadoras e cadeia de óleo e gás",
+        "empresas_citadas": [
+          "PPGAS",
+          "MN",
+          "UFRJ"
+        ],
+        "angulo_comercial": "Evento de energia de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495267,
+      "titulo": "fisweek Rio 2026 (#fswk26)",
+      "slug": "fisweek-rio-2026",
+      "data_inicio": "2026-11-11 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "A FSWK26 é uma experiência que vai além de um simples evento: é um ponto de encontro entre criatividade, inovação e cultura contemporânea. Em sua edição 2026, a FSWK se consolida como um hub estratégico para profissionais, marcas e criadores que buscam antecipar tendências, fortalecer networking qualificado e gerar negócios em um ambiente dinâmico e inspirador. Com uma curadoria focada em conteúdo de alto nível, o evento reúne palestras, painéis e talks com especialistas reconhecidos no mercado, além de ativações imersivas, espaços de exposição e oportunidades reais de conexão entre empresas e público final. A programação integra moda, comportamento, branding, empreendedorismo e inovação, promovendo debates relevantes sobre os caminhos do setor nos próximos anos.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/fisweek-rio-2026/",
+      "site_oficial": "https://fis.org.br/fisweek",
+      "local": "AXIA Marina da Glória",
+      "contato": {
+        "emails": [
+          "comercial@fis.org.br",
+          "contato@fis.org.br",
+          "pr@fis.org.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "fis"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de tecnologia de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496892,
+      "titulo": "XXIV Simpósio Internacional de Atividade Física do Rio de Janeiro — SIAFIS-RJ",
+      "slug": "xxiv-simposio-internacional-de-atividade-fisica-do-rio-de-janeiro-siafis-rj",
+      "data_inicio": "2026-11-12 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "O SIAFIS reúne pesquisadores, profissionais de saúde e educação física e militares para discutir desempenho humano e ciência do exercício. A edição aborda treinamento de força, resiliência física e mental e longevidade, com palestras, debates e apresentação de pesquisas, aproximando instituições civis e militares em torno de aplicações científicas.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xxiv-simposio-internacional-de-atividade-fisica-do-rio-de-janeiro-siafis-rj/",
+      "site_oficial": "https://siafis2026.com.br/",
+      "local": "Fortaleza de São João",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "siafis2026"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 2 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "SIAFIS"
+        ],
+        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 497023,
+      "titulo": "SAFE 2026 — Symposium on Analytics for Football Excellence",
+      "slug": "safe-2026-symposium-on-analytics-for-football-excellence",
+      "data_inicio": "2026-11-12 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "Simpósio dedicado à aplicação de ciência de dados, estatística, inteligência artificial e pesquisa operacional no futebol. Reúne pesquisadores, estudantes e profissionais de clubes, federações e empresas, com minicursos, palestras, mesas-redondas e apresentação de trabalhos científicos.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/safe-2026-symposium-on-analytics-for-football-excellence/",
+      "site_oficial": "https://www.even3.com.br/safe2026/",
+      "local": "Escola Superior de Propaganda e Marketing - ESPM",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494316,
+      "titulo": "Rio Health Congress 2026",
+      "slug": "rio-health-congress-2026",
+      "data_inicio": "2026-11-13 09:00:00",
+      "data_fim": "2026-11-15 09:00:00",
+      "descricao": "O Rio Health Congress 2026 é um congresso científico de grande porte voltado para temas de saúde, bem-estar, medicina, inovação clínica e políticas de saúde, reunindo profissionais, pesquisadores, gestores e instituições do setor.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-health-congress-2026/",
+      "site_oficial": null,
+      "local": "ExpoRio Cidade Nova",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_site"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494317,
+      "titulo": "Rio Health Medicine & Nutrition 2026",
+      "slug": "rio-health-medicine-nutrition-2026",
+      "data_inicio": "2026-11-13 09:00:00",
+      "data_fim": "2026-11-15 09:00:00",
+      "descricao": "O Rio Health Medicine & Nutrition é um evento focado em medicina integrativa, nutrição, saúde preventiva e qualidade de vida, reunindo profissionais da saúde, pesquisadores e empresas do setor de wellness.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-health-medicine-nutrition-2026/",
+      "site_oficial": "https://riohealthnutrition.com.br/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnkn_mZVs6nDb3Ck2AUo2CIpeS8347GBbnn556OATaS5CVRZIUkNuxmub08pw_aem_2goXImp2kGS5VgDBpdv-oA#cadastro",
+      "local": "ExpoRio Cidade Nova",
+      "contato": {
+        "emails": [],
+        "telefones": [
+          "(21) 96627-9757"
+        ],
+        "whatsapp": [
+          "5521966279757"
+        ],
+        "produtoras_inferidas": [
+          "riohealthnutrition"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 3 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496427,
+      "titulo": "Update Digital Congress 2026",
+      "slug": "update-digital-congress-2026",
+      "data_inicio": "2026-11-13 09:00:00",
+      "data_fim": "2026-11-14 09:00:00",
+      "descricao": "Congresso voltado à aplicação de tecnologias digitais na odontologia, com programação dedicada a implantodontia, reabilitação oral, impressão 3D, cirurgia guiada, planejamento digital, inteligência artificial e novos fluxos clínicos. A edição contará com aulas de especialistas, exposição comercial e oportunidades de atualização profissional e relacionamento com empresas do setor.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/update-digital-congress-2026/",
+      "site_oficial": "https://www.sympla.com.br/evento/update-digital-congress-2026/3202280",
+      "local": "Centro de Convenções Mario Henrique Simonsen – Barra da Tijuca",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Especialidades",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496710,
+      "titulo": "XXV Simpósio Nacional e XVI Internacional de Astrologia",
+      "slug": "xxv-simposio-nacional-e-xvi-internacional-de-astrologia",
+      "data_inicio": "2026-11-13 09:00:00",
+      "data_fim": "2026-11-15 09:00:00",
+      "descricao": "O XXV Simpósio Nacional e XVI Internacional de Astrologia celebra o jubileu de prata do encontro promovido pelo SINARJ. Com o tema “Astrologia através do tempo — permanências, transformações e continuidade”, a edição reúne astrólogos, professores, pesquisadores e estudantes em palestras, mesas-redondas e atividades dedicadas à história, às técnicas, à pesquisa e à prática astrológica.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xxv-simposio-nacional-e-xvi-internacional-de-astrologia/",
+      "site_oficial": null,
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_site"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 70,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-05",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496756,
+      "titulo": "Gilsons Convida Gilberto Gil 2026",
+      "slug": "gilsons-convida-gilberto-gil-2026",
+      "data_inicio": "2026-11-13 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "O trio Gilsons recebe Gilberto Gil em uma apresentação especial no Vivo Rio, celebrando os 20 anos da casa de espetáculos. O encontro conecta diferentes gerações da família Gil e possui significado histórico: Gilberto Gil participou da inauguração do Vivo Rio, em novembro de 2006, e retorna ao palco duas décadas depois como convidado dos Gilsons. Formado por José Gil, João Gil e Francisco Gil, o trio apresenta a turnê mundial “Eu Vejo Luz”, com músicas do álbum Eu Vejo Luz em Maior Proporção do que Eu Vejo a Escuridão e sucessos de sua trajetória. A participação de Gilberto Gil transforma a apresentação em um encontro especial da música brasileira, reunindo tradição, contemporaneidade e a herança musical da família.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/gilsons-convida-gilberto-gil-2026/",
+      "site_oficial": "https://www.ticket360.com.br/evento/33890/ingressos-para-gilsons-convida-gilberto-gil?_gl=1*rsn3c2*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwifjVBhBKEiwAYx4K9DZm-xaTqSipJKjgZgIl9O5uOVeqq_YARz_znHtJlPVmSdc7MR59MBoCsUoQAvD_BwE&gbraid=0AAAAAD1IkYdj4d6ONLl4lGgqjCzzKWvo",
+      "local": "Vivo Rio",
+      "contato": {
+        "emails": [
+          "contato@ticket360.com.br"
+        ],
+        "telefones": [
+          "+55-11-2797-0777"
+        ],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "ticket360"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 1 dias.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 497104,
+      "titulo": "VIII SIMEGER — Simpósio Internacional Metropolização do Espaço e Gestão Territorial",
+      "slug": "viii-simeger-simposio-internacional-metropolizacao-do-espaco-e-gestao-territorial",
+      "data_inicio": "2026-11-13 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "O simpósio reúne pesquisadores, estudantes, gestores e representantes da sociedade civil para discutir transformações metropolitanas e gestão territorial. Nesta edição, o debate aborda relações entre crise, poder, espaço e desigualdade, articulando perspectivas sobre questões urbanas, ambientais e sociais com intercâmbio acadêmico e reflexão sobre a cidade.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/viii-simeger-simposio-internacional-metropolizacao-do-espaco-e-gestao-territorial/",
+      "site_oficial": "https://www.simeger.com.br/",
+      "local": "PUC RIO",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "simeger"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Desenvolvimento / Negócios",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Evento internacional, 1 dias.",
+        "publico_alvo": "líderes, gestores e times comerciais",
+        "empresas_citadas": [
+          "SIMEGER"
+        ],
+        "angulo_comercial": "Evento de negócios de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-11-09",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 497105,
+      "titulo": "IV Jornada do Curso de Especialização em Psicologia Hospitalar e da Saúde 2026",
+      "slug": "iv-jornada-do-curso-de-especializacao-em-psicologia-hospitalar-e-da-saude-2026",
+      "data_inicio": "2026-11-13 09:00:00",
+      "data_fim": "2026-11-13 09:00:00",
+      "descricao": "A jornada convida estudantes e profissionais a discutir a atuação da psicologia em hospitais e serviços de saúde. Conferências e mesas abordam diferentes linhas de cuidado, perdas, cuidados paliativos, saúde mental e instrumentos de avaliação, promovendo atualização e diálogo sobre desafios da prática clínica e do trabalho em equipe.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/iv-jornada-do-curso-de-especializacao-em-psicologia-hospitalar-e-da-saude-2026/",
+      "site_oficial": "https://www.psi.puc-rio.br/site/index.php/eventos/item/803-iv-jornada-esp-psi-hosp-saude",
+      "local": "PUC RIO",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "psi"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-11-09",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496426,
+      "titulo": "III Simpósio de Dermatologia da Pele Negra",
+      "slug": "iii-simposio-de-dermatologia-da-pele-negra",
+      "data_inicio": "2026-11-14 09:00:00",
+      "data_fim": "2026-11-14 09:00:00",
+      "descricao": "Após o sucesso da última edição, realizada em 2025, o III Simpósio de Dermatologia da Pele Negra retorna em 2026, consolidando-se como um importante espaço de conhecimento, atualização científica e representatividade na Dermatologia. O evento será realizado no dia 14 de novembro de 2026, no IDOMED Vista Carioca, Rio de Janeiro (RJ). O simpósio é dedicado à Dermatologia da pele negra, com uma programação voltada às particularidades, aos desafios e às possibilidades da prática dermatológica em diferentes áreas da especialidade. A programação, que será divulgada em breve, contará com médicos dermatologistas reconhecidos por sua atuação na Dermatologia da pele negra e em diferentes áreas da especialidade, contemplando temas da Dermatologia clínica, cosmiatria, cirurgia dermatológica, tricologia, entre outras áreas fundamentais para uma abordagem integral da pele negra. Em sua terceira edição, o simpósio reunirá médicos, incluindo dermatologistas, generalistas e residentes de Dermatologia, além de estudantes de Medicina, em um ambiente de aprendizado, atualização científica e troca de experiências, ampliando a discussão sobre uma Dermatologia mais inclusiva, qualificada e representativa.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/iii-simposio-de-dermatologia-da-pele-negra/",
+      "site_oficial": "https://www.even3.com.br/iii-simposio-de-dermatologia-da-pele-negra-770850/",
+      "local": "Idomed - Instituto de Educação Médica",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Dermatologia",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496794,
+      "titulo": "Corrida do Futebol Light – Edição Pelé",
+      "slug": "corrida-do-futebol-light-edicao-pele",
+      "data_inicio": "2026-11-14 09:00:00",
+      "data_fim": "2026-11-14 09:00:00",
+      "descricao": "Em 2026, o Maracanã acende as luzes para a Corrida do Futebol Light – Edição Pelé, uma prova noturna que em sua primeira edição no estádio onde o Rei marcou seu milésimo gol e onde o esporte brasileiro escreveu suas maiores histórias, convida corredores de todas as idades a viver uma experiência única. ⚽👑 Realizada pela Effect Sport, com patrocínio master da Light e desenvolvida em parceria com a Pelé Brand, responsável por cuidar e preservar o legado do Rei Pelé, a prova levará quem corre para dentro de um dos maiores palcos do futebol mundial, em percursos de 8K, 4K, 4K + 4K (revezamento) e Kids. O FUTEBOL SEMPRE CORREU NAS SUAS VEIAS. AGORA É A SUA VEZ DE CORRER NELE. 📍 MARACANÃ — RIO DE JANEIRO 📅 14 DE NOVEMBRO",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-do-futebol-light-edicao-pele/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-do-futebol-light-edicao-pele-88396",
+      "local": "Estádio Maracanã",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 497103,
+      "titulo": "XVII Jornada do Curso de Especialização em Família e Casal 2026",
+      "slug": "xvii-jornada-do-curso-de-especializacao-em-familia-e-casal-2026",
+      "data_inicio": "2026-11-14 09:00:00",
+      "data_fim": "2026-11-14 09:00:00",
+      "descricao": "A jornada promove o diálogo entre estudantes e profissionais sobre questões clínicas das relações familiares e conjugais. A programação apresenta discussões de casos e reflexões sobre comunicação, pertencimento, separação e transmissão psíquica, oferecendo um espaço de intercâmbio e aprofundamento para quem atua ou se forma nessa área.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xvii-jornada-do-curso-de-especializacao-em-familia-e-casal-2026/",
+      "site_oficial": "https://www.psi.puc-rio.br/site/index.php/eventos/item/809-xvii-jornada-familia-casal",
+      "local": "PUC RIO",
+      "contato": {
+        "emails": [
+          "psieventos@puc-rio.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "psi"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-11-09",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496739,
+      "titulo": "Circuito dos Elementos – Etapa Ar 2026",
+      "slug": "circuito-dos-elementos-etapa-ar-2026",
+      "data_inicio": "2026-11-15 09:00:00",
+      "data_fim": "2026-11-15 09:00:00",
+      "descricao": "O Circuito dos Elementos 2026 — Etapa Ar é a quarta e última etapa do circuito de corridas temáticas organizado pela AR2 Eventos. A prova será realizada na Praça Mauá, na região do Porto Maravilha, com corrida competitiva de 5 km e caminhada participativa de 3 km. Inspirada no elemento ar, a etapa encerra o ciclo de 2026 após as provas dedicadas aos demais elementos da natureza. O evento contará com cronometragem eletrônica na corrida, postos de hidratação, aquecimento coletivo, DJ, espaço para fotos, premiação por categorias e medalha para os participantes que concluírem o percurso.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-dos-elementos-etapa-ar-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/circuito-dos-elementos-etapa-ar-88342",
+      "local": "Praça Mauá",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-12",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496740,
+      "titulo": "Corrida da Bandeira – 2026",
+      "slug": "corrida-da-bandeira-2026",
+      "data_inicio": "2026-11-15 09:00:00",
+      "data_fim": "2026-11-15 09:00:00",
+      "descricao": "A Corrida da Bandeira é uma prova cívico-esportiva realizada nas instalações do Museu Aeroespacial, no histórico Campo dos Afonsos. A programação combina corrida de 5 km e caminhada de 3 km com uma celebração alusiva ao Dia da Bandeira. O ambiente é um dos principais diferenciais: os participantes percorrem uma área ligada à história da aviação brasileira, com acesso ao complexo do MUSAL, aeronaves históricas e espaços normalmente utilizados pela Força Aérea Brasileira. A edição oferece estacionamento gratuito, sujeito à capacidade do local. A organização recomenda que os participantes cheguem com aproximadamente 1h30 de antecedência.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-da-bandeira-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+DA+BANDEIRA+-+2026-87797",
+      "local": "Museu Aeroespacial - MUSAL",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-12",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 497048,
+      "titulo": "Corrida e Caminhada Contos Clássicos – Pequena Sereia 2026",
+      "slug": "corrida-e-caminhada-contos-classicos-pequena-sereia-2026",
+      "data_inicio": "2026-11-15 09:00:00",
+      "data_fim": "2026-11-15 09:00:00",
+      "descricao": "📅 Data: 15/11/2026 (domingo) 📍 Local: Parque Madureira — Rio de Janeiro/RJ ⏰ Largada: 8h00 🎭 Tema: inspirado na versão original de *A Pequena Sereia* (1837) 🤝 Evento esportivo e beneficente para incentivar atividade física e apoiar ações sociais ❤️ Ação beneficente: apoio ao Projeto Coração Que Ajuda e ao Projeto Café na Tenda, com arrecadação para famílias e instituições em situação de vulnerabilidade 🧼👕 Também aceitam doações de: itens de limpeza, higiene pessoal e roupas",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-e-caminhada-contos-classicos-pequena-sereia-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA+E+CAMINHADA+CONTOS+CL%C3%81SSICOS+-+PEQUENA+SEREIA-86528",
+      "local": "Parque de Madureira",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     },
     {
