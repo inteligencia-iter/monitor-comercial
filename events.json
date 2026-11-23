@@ -1,682 +1,8 @@
 {
-  "gerado_em": "2026-11-16T16:30:13-03:00",
+  "gerado_em": "2026-11-23T18:10:41-03:00",
   "modo": "deterministico (custo zero)",
   "total": 398,
   "eventos": [
-    {
-      "id": 496891,
-      "titulo": "31º Congresso Internacional de Transporte Aquaviário, Construção Naval e Offshore — SOBENA",
-      "slug": "31o-congresso-internacional-de-transporte-aquaviario-construcao-naval-e-offshore-sobena",
-      "data_inicio": "2026-11-16 09:00:00",
-      "data_fim": "2026-11-18 09:00:00",
-      "descricao": "O congresso da SOBENA reúne academia e indústria para discutir transporte aquaviário, construção naval e operações offshore. Em formato híbrido, oferece sessões técnicas, apresentações de pesquisas e painéis sobre descarbonização, digitalização, logística, segurança e meio ambiente marinho, favorecendo a troca de conhecimentos entre profissionais, pesquisadores, estudantes e empresas do setor.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/31o-congresso-internacional-de-transporte-aquaviario-construcao-naval-e-offshore-sobena/",
-      "site_oficial": "https://www.sobena.org/inscricao/31%C2%BA-congresso-internacional-de-transporte-aquaviario-construcao-naval-e-offshore",
-      "local": "Vila Galé Rio de Janeiro",
-      "contato": {
-        "emails": [
-          "sobena@sobena.org.br"
-        ],
-        "telefones": [
-          "(21) 2263-9079",
-          "(21) 2283-2482"
-        ],
-        "whatsapp": [
-          "552122639079"
-        ],
-        "produtoras_inferidas": [
-          "sobena"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 3 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "SOBENA"
-        ],
-        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-26",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494315,
-      "titulo": "SPE Brazil Subsea Symposium & Exhibition 2026",
-      "slug": "spe-brazil-subsea-symposium-exhibition-2026",
-      "data_inicio": "2026-11-17 09:00:00",
-      "data_fim": "2026-11-18 09:00:00",
-      "descricao": "Fórum técnico B2B focado em tecnologias subsea, integridade de dutos, ROVs, manutenção submarina e inovação para águas profundas.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/spe-brazil-subsea-symposium-exhibition-2026/",
-      "site_oficial": "https://subsea-symposium.spebrasil.org/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "brazil_section@spebrazil.org",
-          "sponsorship@spemacae.org"
-        ],
-        "telefones": [
-          "+55 (21) 99215-5877"
-        ],
-        "whatsapp": [
-          "5521992155877"
-        ],
-        "produtoras_inferidas": [
-          "subsea-symposium"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 2 dias.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [
-          "SPE"
-        ],
-        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 50,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495265,
-      "titulo": "Union World Conference on Lung Health – WCLH 2026",
-      "slug": "union-world-conference-on-lung-health-wclh-2026",
-      "data_inicio": "2026-11-17 09:00:00",
-      "data_fim": "2026-11-20 09:00:00",
-      "descricao": "A World Conference on Lung Health é uma das principais conferências globais de saúde respiratória e combate à tuberculose. O evento reúne pesquisadores, médicos, formuladores de políticas públicas,ONGs,Organismos multilaterais e comunidades de saúde pública. Será realizado de 17/11/2026 à 20/11/2026 no Centro de Convenções e Hóteis Windsor.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/union-world-conference-on-lung-health-wclh-2026/",
-      "site_oficial": "https://worldlunghealth.org/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [
-          "connectcommunityconnect@theunion.orgsponsorship",
-          "membership@theunion.orgmedia",
-          "partners@theunion.orgvolunteervolunteer",
-          "press@theunion.orgotherconferences",
-          "programmescientific@theunion.orgtbsciencetbscience",
-          "registrationregistration@theunion.orgmain"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "worldlunghealth"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [
-          "WCLH"
-        ],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 90,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495730,
-      "titulo": "Morar Mais Rio 2026/2027",
-      "slug": "morar-mais-rio-2026",
-      "data_inicio": "2026-11-17 09:00:00",
-      "data_fim": "2026-12-31 09:00:00",
-      "descricao": "O Morar Mais é uma das mais tradicionais mostras de arquitetura, decoração, design de interiores e paisagismo do Brasil. Criado no Rio de Janeiro em 2004, o evento apresenta ambientes assinados por arquitetos e designers com foco em custo-benefício, sustentabilidade, inovação, tecnologia aplicada à casa, brasilidade, customização e soluções acessíveis de decoração. Local: a definir, em breve mais atualizações.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/morar-mais-rio-2026/",
-      "site_oficial": "https://morarmais.com.br/mms/eventos/",
-      "local": "Casa Shopping",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "morarmais"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Corporativo / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento longo, 45 dias.",
-        "publico_alvo": "público corporativo diversos setores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
-        "relevancia_b2b": 60,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496738,
-      "titulo": "Simpósio MycoClima 2026",
-      "slug": "simposio-mycoclima-2026",
-      "data_inicio": "2026-11-17 09:00:00",
-      "data_fim": "2026-11-17 09:00:00",
-      "descricao": "O Simpósio MycoClima aborda a emergência de doenças fúngicas em um cenário de mudanças climáticas e seus impactos na saúde humana, animal e ambiental. Voltado a pesquisadores, estudantes e profissionais, o encontro discute diagnóstico, tratamento e resistência antifúngica, estimulando colaboração científica sob a perspectiva de Uma Só Saúde.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/simposio-mycoclima-2026/",
-      "site_oficial": "https://www.ioc.fiocruz.br/agenda/simposio-mycoclima-2026",
-      "local": "Instituto Oswaldo Cruz — IOC/Fiocruz",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "ioc"
-        ],
-        "status": "erro"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "pequeno",
-        "porte_justificativa": "Evento de um dia.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
-        "relevancia_b2b": 40,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-10-12",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494802,
-      "titulo": "SSL Gold Cup 2026",
-      "slug": "ssl-gold-cup-2026",
-      "data_inicio": "2026-11-18 09:00:00",
-      "data_fim": "2026-12-13 09:00:00",
-      "descricao": "Rio de Janeiro receberá a Star Sailors League Gold Cup (SSL), conhecida como a “Copa do Mundo de Futebol da Vela”,entre os dias 18 de novembro e 13 de dezembro do próximo ano, com a presença de atletas de mais de 65 países. Como país-sede, o Brasil está automaticamente garantido nesta emocionante disputa.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/ssl-gold-cup-2026/",
-      "site_oficial": "https://www.instagram.com/sslgoldcup/",
-      "local": "AXIA Marina da Glória",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496423,
-      "titulo": "XX Congresso Brasileiro de Controle de Infecção e Epidemiologia Hospitalar",
-      "slug": "xx-congresso-brasileiro-de-controle-de-infeccao-e-epidemiologia-hospitalar",
-      "data_inicio": "2026-11-18 09:00:00",
-      "data_fim": "2026-11-21 09:00:00",
-      "descricao": "O XX Congresso Brasileiro de Controle de Infecção e Epidemiologia Hospitalar é o principal evento da área no país, promovido pela ABCIH. Ele tem como objetivo reunir os principais profissionais, pesquisadores e estudantes do Brasil e da América Latina para debater as inovações, desafios e melhores práticas no controle de infecções e na segurança do paciente em ambientes hospitalares. O congresso abordará temas como epidemiologia clínica, resistência a antimicrobianos, vigilância em saúde e o impacto de novas tecnologias na prevenção de infecções. Dia 18/11 a 21/11 no ExpoRio.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/xx-congresso-brasileiro-de-controle-de-infeccao-e-epidemiologia-hospitalar/",
-      "site_oficial": "https://cih2026.com.br/",
-      "local": "ExpoRio Cidade Nova",
-      "contato": {
-        "emails": [
-          "eventos@mezclaeventos.com.br",
-          "registration@mezclaeventos.com.br",
-          "rosana.numata@mezclaeventos.com.br",
-          "temalivre2@mezclaeventos.com.br"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "cih2026"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Imunização",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 90,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496424,
-      "titulo": "World Rescue Challenge 2026",
-      "slug": "world-rescue-challenge-2026",
-      "data_inicio": "2026-11-18 09:00:00",
-      "data_fim": "2026-11-23 09:00:00",
-      "descricao": "Competição técnico-profissional internacional que reúne equipes de bombeiros, socorristas e especialistas em emergência de diversos países. Durante o evento, os participantes enfrentam simulações de salvamento veicular e atendimento a vítimas de trauma, sendo avaliados pela capacidade técnica, segurança, liderança e rapidez na tomada de decisões. A programação também inclui workshops, treinamentos e intercâmbio de protocolos e boas práticas de resgate. Organizado pela World Rescue Organisation, o evento será realizado de 18 a 23 de novembro de 2026, no Riocentro, com as competições concentradas entre os dias 19 e 22.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/world-rescue-challenge-2026/",
-      "site_oficial": "https://wrescue.org/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [
-          "wrescue"
-        ],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Tecnologia / Inovação",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 6 dias.",
-        "publico_alvo": "profissionais de tecnologia, startups e investidores",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de tecnologia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496425,
-      "titulo": "III Seminário Nacional de Pesquisa em Prisões – III SNPP Memória, Raça e Segregação",
-      "slug": "iii-seminario-nacional-de-pesquisa-em-prisoes-iii-snpp-memoria-raca-e-segregacao",
-      "data_inicio": "2026-11-18 09:00:00",
-      "data_fim": "2026-11-19 09:00:00",
-      "descricao": "O III Seminário Nacional de Pesquisas em Prisões reúne pesquisadores, estudantes, profissionais e representantes ligados ao sistema prisional para debater memória, raça e segregação. O encontro aborda seletividade penal, encarceramento, desigualdades raciais e socioeconômicas, políticas de segurança pública, educação, saúde e processos de reintegração. A programação inclui conferência interna",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/iii-seminario-nacional-de-pesquisa-em-prisoes-iii-snpp-memoria-raca-e-segregacao/",
-      "site_oficial": "https://www.even3.com.br/iii-seminario-nacional-de-pesquisa-em-prisoes-iii-snpp-memoria-raca-e-segregacao-685055/",
-      "local": "Universidade do Rio - UNIRIO / Centro de Ciências Jurídicas e Políticas - CCJP",
-      "contato": {
-        "emails": [
-          "algsilva@unicamp.br",
-          "antoniotostes@gmail.com",
-          "brunnacanespsi@gmail.com",
-          "edson.sodre@edu.unirio.br",
-          "evelyn.orrico@unirio.br",
-          "geisateless@edu.unirio.br",
-          "jotacarvalhojunior@gmail.com",
-          "luizdmagalhaes@gmail.com",
-          "sidneyyo.ssousa@edu.unirio.br",
-          "tacianass@gmail.com"
-        ],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Ciência / Acadêmico",
-        "porte_estimado": "médio",
-        "porte_justificativa": "Duração de 2 dias.",
-        "publico_alvo": "pesquisadores e academia",
-        "empresas_citadas": [
-          "SNPP"
-        ],
-        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
-        "relevancia_b2b": 50,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495418,
-      "titulo": "Corrida Raízes 2026",
-      "slug": "corrida-raizes-2026",
-      "data_inicio": "2026-11-20 09:00:00",
-      "data_fim": "2026-11-20 09:00:00",
-      "descricao": "Uma experiência que vai além da linha de chegada! Onde o esporte encontra a cultura, história e a identidade. 📍 Local: PRAÇA MAUÁ (Rio de Janeiro/RJ) 📅 Data: 20 de novembro de 2026 🏁 Modalidades: Corrida 5 km e Caminhada 3 km",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-raizes-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA%20RA%C3%8DZES-86152",
-      "local": "Praça Mauá",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496793,
-      "titulo": "Ca7riel & Paco Amoroso – Turnê Mundial 2026",
-      "slug": "ca7riel-paco-amoroso-turne-mundial-2026",
-      "data_inicio": "2026-11-20 09:00:00",
-      "data_fim": "2026-11-20 09:00:00",
-      "descricao": "A dupla argentina CA7RIEL & Paco Amoroso apresenta no Rio de Janeiro a Free Spirits World Tour, turnê de divulgação do álbum Free Spirits. O espetáculo mistura trap, hip-hop, rock, pop, jazz, música eletrônica, performance artística e elementos cênicos ligados ao conceito do fictício “Free Spirits Wellness Center”. O projeto sucede a bem-sucedida turnê Papota e apresenta uma nova fase da dupla, combinando humor, teatralidade, crítica à indústria musical e experimentação sonora. O álbum conta com participações de artistas como Sting, Jack Black, Fred Again.. e Anderson .Paak.",
-      "categoria": "culturais",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/ca7riel-paco-amoroso-turne-mundial-2026/",
-      "site_oficial": "https://www.ticketmaster.com.br/event/ca7riel-e-paco-amoroso-rj",
-      "local": null,
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-19",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 497047,
-      "titulo": "Circuito Running Music – Etapa Rio de Janeiro 2026",
-      "slug": "circuito-running-music-etapa-rio-de-janeiro-2026",
-      "data_inicio": "2026-11-20 09:00:00",
-      "data_fim": "2026-11-20 09:00:00",
-      "descricao": "Evento que reúne corrida, caminhada, show musical e ativações de parceiros, combinando esporte e entretenimento no Aterro do Flamengo",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/circuito-running-music-etapa-rio-de-janeiro-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/circuito-running-music-etapa-rio-de-janeiro-88365",
-      "local": "Aterro do Flamengo",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-11-02",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494313,
-      "titulo": "Bioestethic 2026",
-      "slug": "bioestethic-2026",
-      "data_inicio": "2026-11-21 09:00:00",
-      "data_fim": "2026-11-22 09:00:00",
-      "descricao": "A 6ª edição do Biostethic Brasil consolida o maior congresso de estética avançada do Rio de Janeiro como o ponto de encontro dos profissionais que escolhem estar à frente. Depois de edições marcadas por imersões intensas, palestrantes renomados, marcas expositoras influentes e conexões estratégicas, o evento retorna ainda mais exclusivo. Um ambiente pensado para quem busca atualização de alto nível, acesso a produtos seguros e oportunidades reais de networking, com experiência VIP para quem deseja viver tudo em outro patamar. Biostethic Brasil 2026 Mais que um congresso. Um posicionamento.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/bioestethic-2026/",
-      "site_oficial": "https://www.instagram.com/bioestheticbrasil/",
-      "local": "Square Design Hotel",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Finanças / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "executivos financeiros, bancos e seguradoras",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 494731,
-      "titulo": "Hyrox 2026",
-      "slug": "hyrox-2026",
-      "data_inicio": "2026-11-21 09:00:00",
-      "data_fim": "2026-11-21 09:00:00",
-      "descricao": "Pela segunda vez, o HYROX retorna ao Rio de Janeiro, trazendo nossa eletrizante corrida de fitness para uma das cidades mais icônicas do Brasil. Prepare-se para levar seus limites ao máximo nesta competição única que combina força, resistência e comunidade. Será um verdadeiro teste de condicionamento físico que exige garra e estratégia. Seja você um veterano do HYROX em busca de um novo recorde ou um iniciante pronto para o desafio final, este é o seu momento de testar sua determinação, mostrar sua força e, claro, SE DIVERTIR MUITO!",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/hyrox-2026/",
-      "site_oficial": "https://hyrox.com/event/hyrox-rio-de-janeiro/",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495266,
-      "titulo": "Santander Night Run – Rio de Janeiro – Etapa 2 – 2026",
-      "slug": "santander-night-run-rio-de-janeiro-etapa-2-2026",
-      "data_inicio": "2026-11-21 09:00:00",
-      "data_fim": "2026-11-21 09:00:00",
-      "descricao": "Mais do que uma corrida, a Santander Night Run é uma experiência. Quando a noite cai, a cidade se ilumina e vira palco para quem acredita que movimento também é celebração. Música, luz, suor, flow e liberdade — tudo se encontra na pista. Coloque seu tênis, vista sua melhor energia e venha correr com brilho nos olhos. A pista é sua. Dia 14/11.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/santander-night-run-rio-de-janeiro-etapa-2-2026/",
-      "site_oficial": "https://www.runningland.com.br/night-run-rio-de-janeiro-etapa-2-2026",
-      "local": null,
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 495480,
-      "titulo": "Mariah Carey’s Christmas Time 2026",
-      "slug": "mariah-careys-christmas-time-2026",
-      "data_inicio": "2026-11-21 09:00:00",
-      "data_fim": "2026-11-21 09:00:00",
-      "descricao": "Mariah Carey traz seu mágico show de Natal ao Brasil pela primeira vez. 21 de novembro, no Rio de Janeiro, o “Mariah Carey’s Christmas Time” é uma realização da 30e, maior companhia brasileira de entretenimento ao vivo, e é apresentado pelo Itaú Live Quando o calendário vira do dia 31 de outubro para o dia 1º de novembro, a cultura pop entra oficialmente em modo Natal. É o momento exato em que Mariah Carey “descongela” com o seu icônico e estridente “IT’S TIIIIIIIME!”, decretando o início das festas de fim de ano no mundo inteiro. Em 2026, os brasileiros estão liberados para montar árvore, enfeitar a casa e as varandas com pisca-pisca ainda mais cedo, já que diva americana – auto-declarada Queen of Christmas (Rainha do Natal) – acaba de confirmar que, pela primeira vez, trará ao país o espetáculo Mariah Carey’s Christmas Time. As performances estão marcadas para os dias 17 de novembro, no Allianz Parque, em São Paulo; e dia 21 de novembro, na Área Externa da Farmasi Arena, no Rio de Janeiro. Os shows são uma realização da 30e, maior companhia brasileira de entretenimento ao vivo, e apresentados por Itaú Live, plataforma proprietária de música do Itaú Unibanco.",
-      "categoria": "culturais",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/mariah-careys-christmas-time-2026/",
-      "site_oficial": "https://www.eventim.com.br/campaign/mariahcarey/?&utm_source=search&utm_medium=cpc&utm_campaign=30e_search_mariah-carey-rj-2026_conversao&gad_source=1&gad_campaignid=23886341503&gbraid=0AAAABDl59A9e1fSYmFSOvbcbWvFCjNjT8&gclid=Cj0KCQjwz9_QBhD_ARIsADnSCfBcf",
-      "local": "Farmasi Arena",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-07-08",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496821,
-      "titulo": "Uphill Cristo Redentor 2026",
-      "slug": "uphill-cristo-redentor-2026",
-      "data_inicio": "2026-11-21 09:00:00",
-      "data_fim": "2026-11-21 09:00:00",
-      "descricao": "O Uphill Cristo Redentor 2026 é uma corrida noturna de subida realizada nas vias pavimentadas do Parque Nacional da Tijuca. Com percursos de 5 km, 10 km e 21 km, o evento oferece largadas no Mirante Dona Marta, na Ladeira do Ascurra e na Estrada Dona Castorina, com chegada conjunta nas Paineiras. A experiência combina desafio esportivo, paisagens emblemáticas do Rio, iluminação por lanternas de cabeça e descida pelo Trem do Corcovado, consolidando-se como uma das principais provas de turismo esportivo da cidade.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/uphill-cristo-redentor-2026/",
-      "site_oficial": "https://site.ticketsports.com.br/Inscricao/Categoria.aspx?__idEvento=87298&lang=pt-BR",
-      "local": "Santuário Cristo Redentor",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-19",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 497046,
-      "titulo": "Rio Va’a 2026",
-      "slug": "rio-vaa-2026",
-      "data_inicio": "2026-11-21 09:00:00",
-      "data_fim": "2026-11-22 09:00:00",
-      "descricao": "A Praia do Flamengo recebe, nos dias 21 e 22 de novembro, a 25ª Rio Va’a, competição internacional de canoa polinésia que reúne a 11ª Aito Va’a Brasil e a Copa Sul-Americana de Clubes. Organizado pelo Rio Va’a Clube, o evento terá provas individuais e por equipes na Baía de Guanabara, com percursos de diferentes distâncias e categorias para jovens, adultos, másteres e atletas de parava’a.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/rio-vaa-2026/",
-      "site_oficial": "https://riovaa.com/rio-vaa-2026/",
-      "local": "Praia do Flamengo",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-11-02",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496422,
-      "titulo": "18º Simpósio Internacional sobre Esquistossomose",
-      "slug": "18o-simposio-internacional-sobre-esquistossomose",
-      "data_inicio": "2026-11-22 09:00:00",
-      "data_fim": "2026-11-25 09:00:00",
-      "descricao": "O 18º Simpósio Internacional sobre Esquistossomose será uma conferência científica internacional focada nos avanços mais recentes da ciência, educação e atenção primária à saúde por meio da apresentação de pesquisas de ponta e inéditas na esquistossomose. Esta edição ocorre em um momento crucial para a saúde pública mundial, com diversas estruturações e reestruturações organizacionais e operacionais. Este evento se alinha diretamente com a Política Nacional de Ciência, Tecnologia e Inovação em Saúde (PNCTIS) e com o Plano Nacional de Saúde (PNS), que visam à promoção da saúde, ao desenvolvimento social e à inovação tecnológica no setor.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/18o-simposio-internacional-sobre-esquistossomose/",
-      "site_oficial": "https://www.even3.com.br/18-simposio-internacional-sobre-esquistossomose-723498/",
-      "local": "Centro de Convenções & Hotéis Windsor",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "sem_contato"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Evento internacional, 4 dias.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-14",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496737,
-      "titulo": "Corrida da Portela 2026",
-      "slug": "corrida-da-portela-2026",
-      "data_inicio": "2026-11-22 09:00:00",
-      "data_fim": "2026-11-22 09:00:00",
-      "descricao": "A Corrida da Portela 2026 reunirá esporte, samba e cultura popular em uma prova realizada a partir da Quadra da Portela, em Oswaldo Cruz. O evento oferecerá corrida competitiva de 5 km e caminhada participativa de 3 km, promovendo saúde, integração comunitária e valorização da identidade cultural da tradicional escola de samba carioca. A edição de 2026 integra as homenagens a Monarco, compositor, baluarte da Portela e uma das principais referências da história do samba. A corrida fará parte das celebrações relacionadas ao enredo que a escola levará para o Carnaval, transformando a prova em uma experiência esportiva e cultural ligada à memória do artista e à comunidade portelense.",
-      "categoria": "esportivos",
-      "categoria_fonte": "visitrio",
-      "url_visitrio": "https://visitrio.com.br/evento/corrida-da-portela-2026/",
-      "site_oficial": "https://www.ticketsports.com.br/e/corrida-da-portela-2026-87907?utm_source=corrida360&utm_medium=site",
-      "local": "Quadra da Portela",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-12",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
-      "id": 496855,
-      "titulo": "31ª Parada Do Orgulho LGBTI – Rio 2026",
-      "slug": "31a-parada-do-orgulho-lgbti-rio-2026",
-      "data_inicio": "2026-11-22 09:00:00",
-      "data_fim": "2026-11-22 09:00:00",
-      "descricao": "A 31ª Parada do Orgulho LGBTI+ Rio é uma manifestação cultural, social e de cidadania realizada na orla de Copacabana. Organizada pelo Grupo Arco-Íris de Cidadania LGBTI+, a edição de 2026 terá como tema “Reconhecemos justa toda forma de amor e de existência” e reunirá apresentações musicais, DJs, performances, trios elétricos, ações de conscientização, promoção de direitos humanos e serviços voltados à população LGBTI+. Além da parada principal, a programação contará com mais de 30 atividades culturais, sociais e institucionais realizadas ao longo do ano.",
-      "categoria": "esportivos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/31a-parada-do-orgulho-lgbti-rio-2026/",
-      "site_oficial": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/parada-lgbti-do-rj-traz-toda-forma-de-amor-como-tema-em-2026",
-      "local": "Praia de Copacabana",
-      "contato": {
-        "emails": [],
-        "telefones": [],
-        "whatsapp": [],
-        "produtoras_inferidas": [],
-        "status": "nao_coletado"
-      },
-      "inteligencia": null,
-      "primeiro_visto": "2026-10-19",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
     {
       "id": 496524,
       "titulo": "ICEC World Congresses & Council Meetings",
@@ -3010,7 +2336,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-11-16",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3259,51 +2585,6 @@
       "local_coletado": true
     },
     {
-      "id": 496522,
-      "titulo": "20º Congresso Científico Internacional de Saúde Estética",
-      "slug": "20o-congresso-cientifico-internacional-de-saude-estetica",
-      "data_inicio": "2027-06-26 09:00:00",
-      "data_fim": "2027-06-28 09:00:00",
-      "descricao": "O Congresso Científico Internacional de Saúde Estética reúne profissionais, pesquisadores, professores e estudantes para atualização sobre técnicas, protocolos e tecnologias aplicadas à estética. A programação combina palestras científicas, demonstrações práticas e apresentações de especialistas nacionais e internacionais, abordando temas como cosmetologia, estética facial e corporal, tecnologias eletroterápicas, rejuvenescimento, terapias regenerativas, cuidados com a pele, segurança clínica e gestão profissional. Os congressistas também têm acesso à feira Estética in Rio, que reúne marcas de equipamentos, dermocosméticos, produtos e serviços voltados ao setor de saúde, beleza e bem-estar.",
-      "categoria": "corporativos",
-      "categoria_fonte": "heuristica",
-      "url_visitrio": "https://visitrio.com.br/evento/20o-congresso-cientifico-internacional-de-saude-estetica/",
-      "site_oficial": "https://www.esteticainrio.com.br/congresso-estetica.php",
-      "local": "Riocentro Convention & Events Center",
-      "contato": {
-        "emails": [
-          "atendimento@esteticainrio.com.br"
-        ],
-        "telefones": [
-          "(11) 99173-8611",
-          "(11) 99426-5709",
-          "(11) 99468-1868",
-          "(11) 99478-3593"
-        ],
-        "whatsapp": [
-          "5521999124897"
-        ],
-        "produtoras_inferidas": [
-          "esteticainrio"
-        ],
-        "status": "coletado"
-      },
-      "inteligencia": {
-        "segmento": "Saúde / Geral",
-        "porte_estimado": "grande",
-        "porte_justificativa": "Feira/convenção de grande formato.",
-        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
-        "empresas_citadas": [],
-        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
-        "relevancia_b2b": 80,
-        "_fonte": "heuristica"
-      },
-      "primeiro_visto": "2026-09-21",
-      "novo": false,
-      "no_feed": false,
-      "local_coletado": true
-    },
-    {
       "id": 496523,
       "titulo": "2º RegenERA Longevity – Fórum de Epigenética e Regeneração Aplicadas à Longevidade",
       "slug": "2o-regenera-longevity-forum-de-epigenetica-e-regeneracao-aplicadas-a-longevidade",
@@ -3349,6 +2630,51 @@
       "local_coletado": true
     },
     {
+      "id": 496522,
+      "titulo": "20º Congresso Científico Internacional de Saúde Estética",
+      "slug": "20o-congresso-cientifico-internacional-de-saude-estetica",
+      "data_inicio": "2027-06-26 09:00:00",
+      "data_fim": "2027-06-28 09:00:00",
+      "descricao": "O Congresso Científico Internacional de Saúde Estética reúne profissionais, pesquisadores, professores e estudantes para atualização sobre técnicas, protocolos e tecnologias aplicadas à estética. A programação combina palestras científicas, demonstrações práticas e apresentações de especialistas nacionais e internacionais, abordando temas como cosmetologia, estética facial e corporal, tecnologias eletroterápicas, rejuvenescimento, terapias regenerativas, cuidados com a pele, segurança clínica e gestão profissional. Os congressistas também têm acesso à feira Estética in Rio, que reúne marcas de equipamentos, dermocosméticos, produtos e serviços voltados ao setor de saúde, beleza e bem-estar.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/20o-congresso-cientifico-internacional-de-saude-estetica/",
+      "site_oficial": "https://www.esteticainrio.com.br/congresso-estetica.php",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [
+          "atendimento@esteticainrio.com.br"
+        ],
+        "telefones": [
+          "(11) 99173-8611",
+          "(11) 99426-5709",
+          "(11) 99468-1868",
+          "(11) 99478-3593"
+        ],
+        "whatsapp": [
+          "5521999124897"
+        ],
+        "produtoras_inferidas": [
+          "esteticainrio"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-21",
+      "novo": false,
+      "no_feed": false,
+      "local_coletado": true
+    },
+    {
       "id": 497164,
       "titulo": "Congresso LINFALA 2027 — Congresso Brasileiro de Linguagem e Fala",
       "slug": "congresso-linfala-2027-congresso-brasileiro-de-linguagem-e-fala",
@@ -3382,7 +2708,7 @@
         "_fonte": "heuristica"
       },
       "primeiro_visto": "2026-11-16",
-      "novo": true,
+      "novo": false,
       "no_feed": false,
       "local_coletado": true
     },
@@ -3812,6 +3138,680 @@
       "primeiro_visto": "2026-09-21",
       "novo": false,
       "no_feed": false,
+      "local_coletado": true
+    },
+    {
+      "id": 496891,
+      "titulo": "31º Congresso Internacional de Transporte Aquaviário, Construção Naval e Offshore — SOBENA",
+      "slug": "31o-congresso-internacional-de-transporte-aquaviario-construcao-naval-e-offshore-sobena",
+      "data_inicio": "2026-11-16 09:00:00",
+      "data_fim": "2026-11-18 09:00:00",
+      "descricao": "O congresso da SOBENA reúne academia e indústria para discutir transporte aquaviário, construção naval e operações offshore. Em formato híbrido, oferece sessões técnicas, apresentações de pesquisas e painéis sobre descarbonização, digitalização, logística, segurança e meio ambiente marinho, favorecendo a troca de conhecimentos entre profissionais, pesquisadores, estudantes e empresas do setor.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/31o-congresso-internacional-de-transporte-aquaviario-construcao-naval-e-offshore-sobena/",
+      "site_oficial": "https://www.sobena.org/inscricao/31%C2%BA-congresso-internacional-de-transporte-aquaviario-construcao-naval-e-offshore",
+      "local": "Vila Galé Rio de Janeiro",
+      "contato": {
+        "emails": [
+          "sobena@sobena.org.br"
+        ],
+        "telefones": [
+          "(21) 2263-9079",
+          "(21) 2283-2482"
+        ],
+        "whatsapp": [
+          "552122639079"
+        ],
+        "produtoras_inferidas": [
+          "sobena"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 3 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "SOBENA"
+        ],
+        "angulo_comercial": "Evento de ciência de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-26",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494315,
+      "titulo": "SPE Brazil Subsea Symposium & Exhibition 2026",
+      "slug": "spe-brazil-subsea-symposium-exhibition-2026",
+      "data_inicio": "2026-11-17 09:00:00",
+      "data_fim": "2026-11-18 09:00:00",
+      "descricao": "Fórum técnico B2B focado em tecnologias subsea, integridade de dutos, ROVs, manutenção submarina e inovação para águas profundas.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/spe-brazil-subsea-symposium-exhibition-2026/",
+      "site_oficial": "https://subsea-symposium.spebrasil.org/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "brazil_section@spebrazil.org",
+          "sponsorship@spemacae.org"
+        ],
+        "telefones": [
+          "+55 (21) 99215-5877"
+        ],
+        "whatsapp": [
+          "5521992155877"
+        ],
+        "produtoras_inferidas": [
+          "subsea-symposium"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [
+          "SPE"
+        ],
+        "angulo_comercial": "Evento de corporativo de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 50,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495265,
+      "titulo": "Union World Conference on Lung Health – WCLH 2026",
+      "slug": "union-world-conference-on-lung-health-wclh-2026",
+      "data_inicio": "2026-11-17 09:00:00",
+      "data_fim": "2026-11-20 09:00:00",
+      "descricao": "A World Conference on Lung Health é uma das principais conferências globais de saúde respiratória e combate à tuberculose. O evento reúne pesquisadores, médicos, formuladores de políticas públicas,ONGs,Organismos multilaterais e comunidades de saúde pública. Será realizado de 17/11/2026 à 20/11/2026 no Centro de Convenções e Hóteis Windsor.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/union-world-conference-on-lung-health-wclh-2026/",
+      "site_oficial": "https://worldlunghealth.org/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [
+          "connectcommunityconnect@theunion.orgsponsorship",
+          "membership@theunion.orgmedia",
+          "partners@theunion.orgvolunteervolunteer",
+          "press@theunion.orgotherconferences",
+          "programmescientific@theunion.orgtbsciencetbscience",
+          "registrationregistration@theunion.orgmain"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "worldlunghealth"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [
+          "WCLH"
+        ],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 90,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495730,
+      "titulo": "Morar Mais Rio 2026/2027",
+      "slug": "morar-mais-rio-2026",
+      "data_inicio": "2026-11-17 09:00:00",
+      "data_fim": "2026-12-31 09:00:00",
+      "descricao": "O Morar Mais é uma das mais tradicionais mostras de arquitetura, decoração, design de interiores e paisagismo do Brasil. Criado no Rio de Janeiro em 2004, o evento apresenta ambientes assinados por arquitetos e designers com foco em custo-benefício, sustentabilidade, inovação, tecnologia aplicada à casa, brasilidade, customização e soluções acessíveis de decoração. Local: a definir, em breve mais atualizações.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/morar-mais-rio-2026/",
+      "site_oficial": "https://morarmais.com.br/mms/eventos/",
+      "local": "Casa Shopping",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "morarmais"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Corporativo / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento longo, 45 dias.",
+        "publico_alvo": "público corporativo diversos setores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de corporativo de grande porte. Abordar a organizadora com pacotes corporativos de hospedagem e locação de espaços; alto volume de participantes.",
+        "relevancia_b2b": 60,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496738,
+      "titulo": "Simpósio MycoClima 2026",
+      "slug": "simposio-mycoclima-2026",
+      "data_inicio": "2026-11-17 09:00:00",
+      "data_fim": "2026-11-17 09:00:00",
+      "descricao": "O Simpósio MycoClima aborda a emergência de doenças fúngicas em um cenário de mudanças climáticas e seus impactos na saúde humana, animal e ambiental. Voltado a pesquisadores, estudantes e profissionais, o encontro discute diagnóstico, tratamento e resistência antifúngica, estimulando colaboração científica sob a perspectiva de Uma Só Saúde.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/simposio-mycoclima-2026/",
+      "site_oficial": "https://www.ioc.fiocruz.br/agenda/simposio-mycoclima-2026",
+      "local": "Instituto Oswaldo Cruz — IOC/Fiocruz",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "ioc"
+        ],
+        "status": "erro"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "pequeno",
+        "porte_justificativa": "Evento de um dia.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de pequeno porte. Oportunidade pontual de hospedagem e serviços; priorizar se houver contato direto.",
+        "relevancia_b2b": 40,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-10-12",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494802,
+      "titulo": "SSL Gold Cup 2026",
+      "slug": "ssl-gold-cup-2026",
+      "data_inicio": "2026-11-18 09:00:00",
+      "data_fim": "2026-12-13 09:00:00",
+      "descricao": "Rio de Janeiro receberá a Star Sailors League Gold Cup (SSL), conhecida como a “Copa do Mundo de Futebol da Vela”,entre os dias 18 de novembro e 13 de dezembro do próximo ano, com a presença de atletas de mais de 65 países. Como país-sede, o Brasil está automaticamente garantido nesta emocionante disputa.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/ssl-gold-cup-2026/",
+      "site_oficial": "https://www.instagram.com/sslgoldcup/",
+      "local": "AXIA Marina da Glória",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496423,
+      "titulo": "XX Congresso Brasileiro de Controle de Infecção e Epidemiologia Hospitalar",
+      "slug": "xx-congresso-brasileiro-de-controle-de-infeccao-e-epidemiologia-hospitalar",
+      "data_inicio": "2026-11-18 09:00:00",
+      "data_fim": "2026-11-21 09:00:00",
+      "descricao": "O XX Congresso Brasileiro de Controle de Infecção e Epidemiologia Hospitalar é o principal evento da área no país, promovido pela ABCIH. Ele tem como objetivo reunir os principais profissionais, pesquisadores e estudantes do Brasil e da América Latina para debater as inovações, desafios e melhores práticas no controle de infecções e na segurança do paciente em ambientes hospitalares. O congresso abordará temas como epidemiologia clínica, resistência a antimicrobianos, vigilância em saúde e o impacto de novas tecnologias na prevenção de infecções. Dia 18/11 a 21/11 no ExpoRio.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/xx-congresso-brasileiro-de-controle-de-infeccao-e-epidemiologia-hospitalar/",
+      "site_oficial": "https://cih2026.com.br/",
+      "local": "ExpoRio Cidade Nova",
+      "contato": {
+        "emails": [
+          "eventos@mezclaeventos.com.br",
+          "registration@mezclaeventos.com.br",
+          "rosana.numata@mezclaeventos.com.br",
+          "temalivre2@mezclaeventos.com.br"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "cih2026"
+        ],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Imunização",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 90,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496424,
+      "titulo": "World Rescue Challenge 2026",
+      "slug": "world-rescue-challenge-2026",
+      "data_inicio": "2026-11-18 09:00:00",
+      "data_fim": "2026-11-23 09:00:00",
+      "descricao": "Competição técnico-profissional internacional que reúne equipes de bombeiros, socorristas e especialistas em emergência de diversos países. Durante o evento, os participantes enfrentam simulações de salvamento veicular e atendimento a vítimas de trauma, sendo avaliados pela capacidade técnica, segurança, liderança e rapidez na tomada de decisões. A programação também inclui workshops, treinamentos e intercâmbio de protocolos e boas práticas de resgate. Organizado pela World Rescue Organisation, o evento será realizado de 18 a 23 de novembro de 2026, no Riocentro, com as competições concentradas entre os dias 19 e 22.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/world-rescue-challenge-2026/",
+      "site_oficial": "https://wrescue.org/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [
+          "wrescue"
+        ],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Tecnologia / Inovação",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 6 dias.",
+        "publico_alvo": "profissionais de tecnologia, startups e investidores",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de tecnologia de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496425,
+      "titulo": "III Seminário Nacional de Pesquisa em Prisões – III SNPP Memória, Raça e Segregação",
+      "slug": "iii-seminario-nacional-de-pesquisa-em-prisoes-iii-snpp-memoria-raca-e-segregacao",
+      "data_inicio": "2026-11-18 09:00:00",
+      "data_fim": "2026-11-19 09:00:00",
+      "descricao": "O III Seminário Nacional de Pesquisas em Prisões reúne pesquisadores, estudantes, profissionais e representantes ligados ao sistema prisional para debater memória, raça e segregação. O encontro aborda seletividade penal, encarceramento, desigualdades raciais e socioeconômicas, políticas de segurança pública, educação, saúde e processos de reintegração. A programação inclui conferência interna",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/iii-seminario-nacional-de-pesquisa-em-prisoes-iii-snpp-memoria-raca-e-segregacao/",
+      "site_oficial": "https://www.even3.com.br/iii-seminario-nacional-de-pesquisa-em-prisoes-iii-snpp-memoria-raca-e-segregacao-685055/",
+      "local": "Universidade do Rio - UNIRIO / Centro de Ciências Jurídicas e Políticas - CCJP",
+      "contato": {
+        "emails": [
+          "algsilva@unicamp.br",
+          "antoniotostes@gmail.com",
+          "brunnacanespsi@gmail.com",
+          "edson.sodre@edu.unirio.br",
+          "evelyn.orrico@unirio.br",
+          "geisateless@edu.unirio.br",
+          "jotacarvalhojunior@gmail.com",
+          "luizdmagalhaes@gmail.com",
+          "sidneyyo.ssousa@edu.unirio.br",
+          "tacianass@gmail.com"
+        ],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "coletado"
+      },
+      "inteligencia": {
+        "segmento": "Ciência / Acadêmico",
+        "porte_estimado": "médio",
+        "porte_justificativa": "Duração de 2 dias.",
+        "publico_alvo": "pesquisadores e academia",
+        "empresas_citadas": [
+          "SNPP"
+        ],
+        "angulo_comercial": "Evento de ciência de médio porte. Oferecer hospedagem e experiências para participantes de fora do Rio; contato com a produtora pode render parceria recorrente.",
+        "relevancia_b2b": 50,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495418,
+      "titulo": "Corrida Raízes 2026",
+      "slug": "corrida-raizes-2026",
+      "data_inicio": "2026-11-20 09:00:00",
+      "data_fim": "2026-11-20 09:00:00",
+      "descricao": "Uma experiência que vai além da linha de chegada! Onde o esporte encontra a cultura, história e a identidade. 📍 Local: PRAÇA MAUÁ (Rio de Janeiro/RJ) 📅 Data: 20 de novembro de 2026 🏁 Modalidades: Corrida 5 km e Caminhada 3 km",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-raizes-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/CORRIDA%20RA%C3%8DZES-86152",
+      "local": "Praça Mauá",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496793,
+      "titulo": "Ca7riel & Paco Amoroso – Turnê Mundial 2026",
+      "slug": "ca7riel-paco-amoroso-turne-mundial-2026",
+      "data_inicio": "2026-11-20 09:00:00",
+      "data_fim": "2026-11-20 09:00:00",
+      "descricao": "A dupla argentina CA7RIEL & Paco Amoroso apresenta no Rio de Janeiro a Free Spirits World Tour, turnê de divulgação do álbum Free Spirits. O espetáculo mistura trap, hip-hop, rock, pop, jazz, música eletrônica, performance artística e elementos cênicos ligados ao conceito do fictício “Free Spirits Wellness Center”. O projeto sucede a bem-sucedida turnê Papota e apresenta uma nova fase da dupla, combinando humor, teatralidade, crítica à indústria musical e experimentação sonora. O álbum conta com participações de artistas como Sting, Jack Black, Fred Again.. e Anderson .Paak.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/ca7riel-paco-amoroso-turne-mundial-2026/",
+      "site_oficial": "https://www.ticketmaster.com.br/event/ca7riel-e-paco-amoroso-rj",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 497047,
+      "titulo": "Circuito Running Music – Etapa Rio de Janeiro 2026",
+      "slug": "circuito-running-music-etapa-rio-de-janeiro-2026",
+      "data_inicio": "2026-11-20 09:00:00",
+      "data_fim": "2026-11-20 09:00:00",
+      "descricao": "Evento que reúne corrida, caminhada, show musical e ativações de parceiros, combinando esporte e entretenimento no Aterro do Flamengo",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/circuito-running-music-etapa-rio-de-janeiro-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/circuito-running-music-etapa-rio-de-janeiro-88365",
+      "local": "Aterro do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494313,
+      "titulo": "Bioestethic 2026",
+      "slug": "bioestethic-2026",
+      "data_inicio": "2026-11-21 09:00:00",
+      "data_fim": "2026-11-22 09:00:00",
+      "descricao": "A 6ª edição do Biostethic Brasil consolida o maior congresso de estética avançada do Rio de Janeiro como o ponto de encontro dos profissionais que escolhem estar à frente. Depois de edições marcadas por imersões intensas, palestrantes renomados, marcas expositoras influentes e conexões estratégicas, o evento retorna ainda mais exclusivo. Um ambiente pensado para quem busca atualização de alto nível, acesso a produtos seguros e oportunidades reais de networking, com experiência VIP para quem deseja viver tudo em outro patamar. Biostethic Brasil 2026 Mais que um congresso. Um posicionamento.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/bioestethic-2026/",
+      "site_oficial": "https://www.instagram.com/bioestheticbrasil/",
+      "local": "Square Design Hotel",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Finanças / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Feira/convenção de grande formato.",
+        "publico_alvo": "executivos financeiros, bancos e seguradoras",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de finanças de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 494731,
+      "titulo": "Hyrox 2026",
+      "slug": "hyrox-2026",
+      "data_inicio": "2026-11-21 09:00:00",
+      "data_fim": "2026-11-21 09:00:00",
+      "descricao": "Pela segunda vez, o HYROX retorna ao Rio de Janeiro, trazendo nossa eletrizante corrida de fitness para uma das cidades mais icônicas do Brasil. Prepare-se para levar seus limites ao máximo nesta competição única que combina força, resistência e comunidade. Será um verdadeiro teste de condicionamento físico que exige garra e estratégia. Seja você um veterano do HYROX em busca de um novo recorde ou um iniciante pronto para o desafio final, este é o seu momento de testar sua determinação, mostrar sua força e, claro, SE DIVERTIR MUITO!",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/hyrox-2026/",
+      "site_oficial": "https://hyrox.com/event/hyrox-rio-de-janeiro/",
+      "local": "Riocentro Convention & Events Center",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495266,
+      "titulo": "Santander Night Run – Rio de Janeiro – Etapa 2 – 2026",
+      "slug": "santander-night-run-rio-de-janeiro-etapa-2-2026",
+      "data_inicio": "2026-11-21 09:00:00",
+      "data_fim": "2026-11-21 09:00:00",
+      "descricao": "Mais do que uma corrida, a Santander Night Run é uma experiência. Quando a noite cai, a cidade se ilumina e vira palco para quem acredita que movimento também é celebração. Música, luz, suor, flow e liberdade — tudo se encontra na pista. Coloque seu tênis, vista sua melhor energia e venha correr com brilho nos olhos. A pista é sua. Dia 14/11.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/santander-night-run-rio-de-janeiro-etapa-2-2026/",
+      "site_oficial": "https://www.runningland.com.br/night-run-rio-de-janeiro-etapa-2-2026",
+      "local": null,
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 495480,
+      "titulo": "Mariah Carey’s Christmas Time 2026",
+      "slug": "mariah-careys-christmas-time-2026",
+      "data_inicio": "2026-11-21 09:00:00",
+      "data_fim": "2026-11-21 09:00:00",
+      "descricao": "Mariah Carey traz seu mágico show de Natal ao Brasil pela primeira vez. 21 de novembro, no Rio de Janeiro, o “Mariah Carey’s Christmas Time” é uma realização da 30e, maior companhia brasileira de entretenimento ao vivo, e é apresentado pelo Itaú Live Quando o calendário vira do dia 31 de outubro para o dia 1º de novembro, a cultura pop entra oficialmente em modo Natal. É o momento exato em que Mariah Carey “descongela” com o seu icônico e estridente “IT’S TIIIIIIIME!”, decretando o início das festas de fim de ano no mundo inteiro. Em 2026, os brasileiros estão liberados para montar árvore, enfeitar a casa e as varandas com pisca-pisca ainda mais cedo, já que diva americana – auto-declarada Queen of Christmas (Rainha do Natal) – acaba de confirmar que, pela primeira vez, trará ao país o espetáculo Mariah Carey’s Christmas Time. As performances estão marcadas para os dias 17 de novembro, no Allianz Parque, em São Paulo; e dia 21 de novembro, na Área Externa da Farmasi Arena, no Rio de Janeiro. Os shows são uma realização da 30e, maior companhia brasileira de entretenimento ao vivo, e apresentados por Itaú Live, plataforma proprietária de música do Itaú Unibanco.",
+      "categoria": "culturais",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/mariah-careys-christmas-time-2026/",
+      "site_oficial": "https://www.eventim.com.br/campaign/mariahcarey/?&utm_source=search&utm_medium=cpc&utm_campaign=30e_search_mariah-carey-rj-2026_conversao&gad_source=1&gad_campaignid=23886341503&gbraid=0AAAABDl59A9e1fSYmFSOvbcbWvFCjNjT8&gclid=Cj0KCQjwz9_QBhD_ARIsADnSCfBcf",
+      "local": "Farmasi Arena",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-07-08",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496821,
+      "titulo": "Uphill Cristo Redentor 2026",
+      "slug": "uphill-cristo-redentor-2026",
+      "data_inicio": "2026-11-21 09:00:00",
+      "data_fim": "2026-11-21 09:00:00",
+      "descricao": "O Uphill Cristo Redentor 2026 é uma corrida noturna de subida realizada nas vias pavimentadas do Parque Nacional da Tijuca. Com percursos de 5 km, 10 km e 21 km, o evento oferece largadas no Mirante Dona Marta, na Ladeira do Ascurra e na Estrada Dona Castorina, com chegada conjunta nas Paineiras. A experiência combina desafio esportivo, paisagens emblemáticas do Rio, iluminação por lanternas de cabeça e descida pelo Trem do Corcovado, consolidando-se como uma das principais provas de turismo esportivo da cidade.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/uphill-cristo-redentor-2026/",
+      "site_oficial": "https://site.ticketsports.com.br/Inscricao/Categoria.aspx?__idEvento=87298&lang=pt-BR",
+      "local": "Santuário Cristo Redentor",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 497046,
+      "titulo": "Rio Va’a 2026",
+      "slug": "rio-vaa-2026",
+      "data_inicio": "2026-11-21 09:00:00",
+      "data_fim": "2026-11-22 09:00:00",
+      "descricao": "A Praia do Flamengo recebe, nos dias 21 e 22 de novembro, a 25ª Rio Va’a, competição internacional de canoa polinésia que reúne a 11ª Aito Va’a Brasil e a Copa Sul-Americana de Clubes. Organizado pelo Rio Va’a Clube, o evento terá provas individuais e por equipes na Baía de Guanabara, com percursos de diferentes distâncias e categorias para jovens, adultos, másteres e atletas de parava’a.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/rio-vaa-2026/",
+      "site_oficial": "https://riovaa.com/rio-vaa-2026/",
+      "local": "Praia do Flamengo",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-11-02",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496422,
+      "titulo": "18º Simpósio Internacional sobre Esquistossomose",
+      "slug": "18o-simposio-internacional-sobre-esquistossomose",
+      "data_inicio": "2026-11-22 09:00:00",
+      "data_fim": "2026-11-25 09:00:00",
+      "descricao": "O 18º Simpósio Internacional sobre Esquistossomose será uma conferência científica internacional focada nos avanços mais recentes da ciência, educação e atenção primária à saúde por meio da apresentação de pesquisas de ponta e inéditas na esquistossomose. Esta edição ocorre em um momento crucial para a saúde pública mundial, com diversas estruturações e reestruturações organizacionais e operacionais. Este evento se alinha diretamente com a Política Nacional de Ciência, Tecnologia e Inovação em Saúde (PNCTIS) e com o Plano Nacional de Saúde (PNS), que visam à promoção da saúde, ao desenvolvimento social e à inovação tecnológica no setor.",
+      "categoria": "corporativos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/18o-simposio-internacional-sobre-esquistossomose/",
+      "site_oficial": "https://www.even3.com.br/18-simposio-internacional-sobre-esquistossomose-723498/",
+      "local": "Centro de Convenções & Hotéis Windsor",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "sem_contato"
+      },
+      "inteligencia": {
+        "segmento": "Saúde / Geral",
+        "porte_estimado": "grande",
+        "porte_justificativa": "Evento internacional, 4 dias.",
+        "publico_alvo": "profissionais de saúde e indústria farmacêutica",
+        "empresas_citadas": [],
+        "angulo_comercial": "Evento de saúde de grande porte com público internacional. Priorizar: pacotes de hospedagem para delegações, tours e experiências para acompanhantes, e proposta para a organização do evento.",
+        "relevancia_b2b": 80,
+        "_fonte": "heuristica"
+      },
+      "primeiro_visto": "2026-09-14",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496737,
+      "titulo": "Corrida da Portela 2026",
+      "slug": "corrida-da-portela-2026",
+      "data_inicio": "2026-11-22 09:00:00",
+      "data_fim": "2026-11-22 09:00:00",
+      "descricao": "A Corrida da Portela 2026 reunirá esporte, samba e cultura popular em uma prova realizada a partir da Quadra da Portela, em Oswaldo Cruz. O evento oferecerá corrida competitiva de 5 km e caminhada participativa de 3 km, promovendo saúde, integração comunitária e valorização da identidade cultural da tradicional escola de samba carioca. A edição de 2026 integra as homenagens a Monarco, compositor, baluarte da Portela e uma das principais referências da história do samba. A corrida fará parte das celebrações relacionadas ao enredo que a escola levará para o Carnaval, transformando a prova em uma experiência esportiva e cultural ligada à memória do artista e à comunidade portelense.",
+      "categoria": "esportivos",
+      "categoria_fonte": "visitrio",
+      "url_visitrio": "https://visitrio.com.br/evento/corrida-da-portela-2026/",
+      "site_oficial": "https://www.ticketsports.com.br/e/corrida-da-portela-2026-87907?utm_source=corrida360&utm_medium=site",
+      "local": "Quadra da Portela",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-12",
+      "novo": false,
+      "no_feed": true,
+      "local_coletado": true
+    },
+    {
+      "id": 496855,
+      "titulo": "31ª Parada Do Orgulho LGBTI – Rio 2026",
+      "slug": "31a-parada-do-orgulho-lgbti-rio-2026",
+      "data_inicio": "2026-11-22 09:00:00",
+      "data_fim": "2026-11-22 09:00:00",
+      "descricao": "A 31ª Parada do Orgulho LGBTI+ Rio é uma manifestação cultural, social e de cidadania realizada na orla de Copacabana. Organizada pelo Grupo Arco-Íris de Cidadania LGBTI+, a edição de 2026 terá como tema “Reconhecemos justa toda forma de amor e de existência” e reunirá apresentações musicais, DJs, performances, trios elétricos, ações de conscientização, promoção de direitos humanos e serviços voltados à população LGBTI+. Além da parada principal, a programação contará com mais de 30 atividades culturais, sociais e institucionais realizadas ao longo do ano.",
+      "categoria": "esportivos",
+      "categoria_fonte": "heuristica",
+      "url_visitrio": "https://visitrio.com.br/evento/31a-parada-do-orgulho-lgbti-rio-2026/",
+      "site_oficial": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/parada-lgbti-do-rj-traz-toda-forma-de-amor-como-tema-em-2026",
+      "local": "Praia de Copacabana",
+      "contato": {
+        "emails": [],
+        "telefones": [],
+        "whatsapp": [],
+        "produtoras_inferidas": [],
+        "status": "nao_coletado"
+      },
+      "inteligencia": null,
+      "primeiro_visto": "2026-10-19",
+      "novo": false,
+      "no_feed": true,
       "local_coletado": true
     },
     {
@@ -12356,13 +12356,15 @@
       "site_oficial": "https://clpv2026.com.br/",
       "local": "Universidade Estadual do Rio de Janeiro - UERJ",
       "contato": {
-        "emails": [],
+        "emails": [
+          "eventos@somosus.com.br"
+        ],
         "telefones": [],
         "whatsapp": [],
         "produtoras_inferidas": [
           "clpv2026"
         ],
-        "status": "erro"
+        "status": "coletado"
       },
       "inteligencia": {
         "segmento": "Ciência / Acadêmico",
